@@ -189,13 +189,13 @@
 <p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
       <tags>
+        <tag>產品專案管理</tag>
+        <tag>產品管理</tag>
+        <tag>專案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>產品專案管理</tag>
-        <tag>產品管理</tag>
-        <tag>專案管理</tag>
         <tag>Axure RP 10</tag>
         <tag>axure</tag>
       </tags>
@@ -438,6 +438,36 @@
       </tags>
   </entry>
   <entry>
+    <title>產品經理（Product Manager, PM）面試學習筆記 - [1] 總覽</title>
+    <url>/2024/05/25/product-manager-interview-notes/</url>
+    <content><![CDATA[<h1 id="PM-面試設計"><a href="#PM-面試設計" class="headerlink" title="PM 面試設計"></a>PM 面試設計</h1><p>隨著工作經驗的累積，漸漸會有機會參與面試成為面試官，如何設計 PM 面試流程也是資深產品經理必須學習的重要課題。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li>
+<li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li>
+<li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li>
+<li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li>
+<li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li>
+<li><a href="https://hahow.in/contents/articles/60a72a1f328ad057e2d9a5c0">老闆：「下班前給我競品分析！」實戰產品經理要會的生存技：快速做出競品分析</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>Project Manager</tag>
+        <tag>Program Manager</tag>
+        <tag>專案經理</tag>
+        <tag>PM</tag>
+        <tag>interview</tag>
+        <tag>PM Interview</tag>
+        <tag>PM 面試</tag>
+        <tag>面試</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>產品經理（Product Manager, PM）課程學習參考清單</title>
     <url>/2024/06/03/product-manager-course-list/</url>
     <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
@@ -450,13 +480,14 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
+        <tag>PM</tag>
         <tag>產品專案管理專案全書</tag>
         <tag>書籍</tag>
         <tag>清單</tag>
@@ -464,7 +495,6 @@
         <tag>course</tag>
         <tag>Online Course</tag>
         <tag>線上課程</tag>
-        <tag>PM</tag>
       </tags>
   </entry>
   <entry>
@@ -552,40 +582,10 @@
         <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
-        <tag>PM</tag>
         <tag>Project Manager</tag>
         <tag>Program Manager</tag>
         <tag>專案經理</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>產品經理（Product Manager, PM）面試學習筆記 - [1] 總覽</title>
-    <url>/2024/05/25/product-manager-interview-notes/</url>
-    <content><![CDATA[<h1 id="PM-面試設計"><a href="#PM-面試設計" class="headerlink" title="PM 面試設計"></a>PM 面試設計</h1><p>隨著工作經驗的累積，漸漸會有機會參與面試成為面試官，如何設計 PM 面試流程也是資深產品經理必須學習的重要課題。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li>
-<li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li>
-<li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li>
-<li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li>
-<li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li>
-<li><a href="https://hahow.in/contents/articles/60a72a1f328ad057e2d9a5c0">老闆：「下班前給我競品分析！」實戰產品經理要會的生存技：快速做出競品分析</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
         <tag>PM</tag>
-        <tag>Project Manager</tag>
-        <tag>Program Manager</tag>
-        <tag>專案經理</tag>
-        <tag>interview</tag>
-        <tag>PM Interview</tag>
-        <tag>PM 面試</tag>
-        <tag>面試</tag>
       </tags>
   </entry>
   <entry>
@@ -639,18 +639,18 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
+        <tag>Project Manager</tag>
+        <tag>PM</tag>
         <tag>產品專案管理專案全書</tag>
         <tag>書籍</tag>
         <tag>清單</tag>
-        <tag>PM</tag>
-        <tag>Project Manager</tag>
         <tag>書單</tag>
         <tag>推薦書單</tag>
         <tag>Project Management</tag>
@@ -671,17 +671,17 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
+        <tag>PM</tag>
         <tag>產品專案管理專案全書</tag>
         <tag>書籍</tag>
         <tag>清單</tag>
-        <tag>PM</tag>
         <tag>書單</tag>
         <tag>證照</tag>
         <tag>scrum</tag>
@@ -690,61 +690,6 @@
         <tag>Google Project Manager</tag>
         <tag>CSM</tag>
         <tag>CSPO</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《原子習慣：細微改變帶來巨大成就的實證法則》| 閱讀心得學習筆記</title>
-    <url>/2019/06/01/reading-notes-atomic-habits/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-atomic-habits-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子習慣：細微改變帶來巨大成就的實證法則》</span><br><span class="line">作者： 詹姆斯‧克利爾  </span><br><span class="line">原文作者： James Clear</span><br><span class="line">譯者： 蔡世偉</span><br><span class="line">出版社：方智</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「真正的改變來自於微小但持續的習慣累積，就像複利效應一般，日積月累後帶來巨大成果。」  </p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們總以為改變人生需要驚天動地的決定，實則不然。本書《原子習慣》告訴我們，真正的改變來自於<code>微小但持續的習慣累積</code>，就像<code>複利效應</code>一般，<code>日積月累後帶來巨大成果</code>。作者詹姆斯·克利爾透過科學研究與實證案例，提供了一套實用的方法論，讓我們能夠掌握習慣的力量，擺脫壞習慣，培養能帶來成功的好習慣。  </p>
-<p><img src="/img/posts/reading-notes-atomic-habits-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>習慣的影響力</strong></p>
-<ul>
-<li><code>習慣不是一次性的選擇</code>，<code>而是日常行為的累積</code>，影響最終結果。  </li>
-<li><code>人生的成果是無數習慣的總和</code>，而非單一決策的結果。</li>
-</ul>
-</li>
-<li><p><strong>四大習慣法則</strong>  </p>
-<ul>
-<li><strong>提示</strong>：讓好習慣變得<code>顯而易見</code>，例如：將運動服擺在床邊提醒自己運動。  </li>
-<li><strong>渴望</strong>：讓好習慣變得<code>有吸引力</code>，例如：將習慣與喜愛的活動結合。  </li>
-<li><strong>回應</strong>：讓好習慣變得<code>簡單易行</code>，例如：減少執行步驟，讓運動變得更輕鬆開始。  </li>
-<li><strong>獎賞</strong>：讓好習慣變得<code>令人滿足</code>，例如：記錄進步並給予小獎勵。</li>
-</ul>
-</li>
-<li><p><strong>微小改變的複利效應</strong></p>
-<ul>
-<li><code>1% 的日常進步</code>，<code>長期累積</code>後帶來<code>巨大變化</code>。  </li>
-<li>即使短期內看不到成果，習慣的影響會隨時間擴大。</li>
-</ul>
-</li>
-<li><p><strong>環境對習慣的影響</strong></p>
-<ul>
-<li><code>環境</code>塑造習慣，比意志力更重要。  </li>
-<li>透過<code>改變環境來強化好習慣</code>，例如：將健康零食擺在顯眼處，減少垃圾食物的誘惑。</li>
-</ul>
-</li>
-<li><p><strong>如何擺脫壞習慣</strong></p>
-<ul>
-<li>讓壞習慣變得<code>不明顯</code>、<code>不吸引人</code>、<code>難以執行</code>、<code>不具獎勵效果</code>，例如：移除讓人分心的手機應用程式。</li>
-</ul>
-</li>
-</ol>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>《原子習慣》提供了一個簡單但有效的<code>習慣養成方法</code>，不依賴意志力，而是透過<code>環境設計</code>與<code>行為調整</code>，讓改變變得自然而然。如果我們能夠掌握這些原則，每天進步 1%，長期下來，人生將會迎來翻天覆地的變化。改變，不是來自一時的決心，而是來自每天不經意的小行動。</p>
-]]></content>
-      <tags>
-        <tag>原子習慣</tag>
-        <tag>細微改變帶來巨大成就的實證法則</tag>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
       </tags>
   </entry>
   <entry>
@@ -801,6 +746,61 @@
         <tag>自卑感</tag>
         <tag>自卑與超越</tag>
         <tag>阿德勒心理學</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《原子習慣：細微改變帶來巨大成就的實證法則》| 閱讀心得學習筆記</title>
+    <url>/2019/06/01/reading-notes-atomic-habits/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-atomic-habits-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子習慣：細微改變帶來巨大成就的實證法則》</span><br><span class="line">作者： 詹姆斯‧克利爾  </span><br><span class="line">原文作者： James Clear</span><br><span class="line">譯者： 蔡世偉</span><br><span class="line">出版社：方智</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「真正的改變來自於微小但持續的習慣累積，就像複利效應一般，日積月累後帶來巨大成果。」  </p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們總以為改變人生需要驚天動地的決定，實則不然。本書《原子習慣》告訴我們，真正的改變來自於<code>微小但持續的習慣累積</code>，就像<code>複利效應</code>一般，<code>日積月累後帶來巨大成果</code>。作者詹姆斯·克利爾透過科學研究與實證案例，提供了一套實用的方法論，讓我們能夠掌握習慣的力量，擺脫壞習慣，培養能帶來成功的好習慣。  </p>
+<p><img src="/img/posts/reading-notes-atomic-habits-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>習慣的影響力</strong></p>
+<ul>
+<li><code>習慣不是一次性的選擇</code>，<code>而是日常行為的累積</code>，影響最終結果。  </li>
+<li><code>人生的成果是無數習慣的總和</code>，而非單一決策的結果。</li>
+</ul>
+</li>
+<li><p><strong>四大習慣法則</strong>  </p>
+<ul>
+<li><strong>提示</strong>：讓好習慣變得<code>顯而易見</code>，例如：將運動服擺在床邊提醒自己運動。  </li>
+<li><strong>渴望</strong>：讓好習慣變得<code>有吸引力</code>，例如：將習慣與喜愛的活動結合。  </li>
+<li><strong>回應</strong>：讓好習慣變得<code>簡單易行</code>，例如：減少執行步驟，讓運動變得更輕鬆開始。  </li>
+<li><strong>獎賞</strong>：讓好習慣變得<code>令人滿足</code>，例如：記錄進步並給予小獎勵。</li>
+</ul>
+</li>
+<li><p><strong>微小改變的複利效應</strong></p>
+<ul>
+<li><code>1% 的日常進步</code>，<code>長期累積</code>後帶來<code>巨大變化</code>。  </li>
+<li>即使短期內看不到成果，習慣的影響會隨時間擴大。</li>
+</ul>
+</li>
+<li><p><strong>環境對習慣的影響</strong></p>
+<ul>
+<li><code>環境</code>塑造習慣，比意志力更重要。  </li>
+<li>透過<code>改變環境來強化好習慣</code>，例如：將健康零食擺在顯眼處，減少垃圾食物的誘惑。</li>
+</ul>
+</li>
+<li><p><strong>如何擺脫壞習慣</strong></p>
+<ul>
+<li>讓壞習慣變得<code>不明顯</code>、<code>不吸引人</code>、<code>難以執行</code>、<code>不具獎勵效果</code>，例如：移除讓人分心的手機應用程式。</li>
+</ul>
+</li>
+</ol>
+<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>《原子習慣》提供了一個簡單但有效的<code>習慣養成方法</code>，不依賴意志力，而是透過<code>環境設計</code>與<code>行為調整</code>，讓改變變得自然而然。如果我們能夠掌握這些原則，每天進步 1%，長期下來，人生將會迎來翻天覆地的變化。改變，不是來自一時的決心，而是來自每天不經意的小行動。</p>
+]]></content>
+      <tags>
+        <tag>原子習慣</tag>
+        <tag>細微改變帶來巨大成就的實證法則</tag>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
       </tags>
   </entry>
   <entry>
@@ -912,6 +912,66 @@
       </tags>
   </entry>
   <entry>
+    <title>《矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課》 | 閱讀心得學習筆記</title>
+    <url>/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-empowered-ordinary-people-extraordinary-product-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課》</span><br><span class="line">EMPOWERED: Ordinary People, Extraordinary Products</span><br><span class="line">作者： 馬提．凱根, 克里斯．瓊斯  </span><br><span class="line">原文作者： MARTY CAGAN, CHRIS JONES</span><br><span class="line">譯者： 陳文和</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「成功的秘訣在於賦能團隊，而非個別人才。」<br>「成就他人的同時，也就成就自己。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>矽谷最夯‧產品專案領導力全書這本書強調「<code>授權與賦能</code>」的重要性，並指出數位轉型的核心不在於工具，而是組織與人的轉型。透過案例分析與理論探討，書中闡述了如何有效領導團隊，打造高效能組織，並強調建立企業文化與員工幸福感對於競爭力的影響。  </p>
+<p><img src="/img/posts/reading-notes-empowered-ordinary-people-extraordinary-product-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><ol>
+<li><p><strong>數位轉型的真諦</strong>  </p>
+<ul>
+<li>轉型的關鍵在於「<code>人</code>」，<code>科技只是輔助工具</code>。  </li>
+<li>成功轉型需仰賴<code>授權與賦能</code>，提升員工的<code>自主能力與決策權</code>。</li>
+</ul>
+</li>
+<li><p><strong>授權與賦能的核心概念</strong>  </p>
+<ul>
+<li><strong>授權</strong>：將職責下放，讓員工獲得執行權限。  </li>
+<li><strong>賦能</strong>：不僅給權力，還要提供技能與資源，使員工能獨立完成任務。</li>
+</ul>
+</li>
+<li><p><strong>組織文化的建立</strong>  </p>
+<ul>
+<li>透過「<code>安全感</code>、<code>歸屬感</code>、<code>成就感</code>」形塑企業文化，提高員工幸福感與凝聚力。  </li>
+<li>領導者應扮演<code>教練</code>角色，鼓勵團隊<code>自主決策</code>，並引導團隊<code>持續學習與成長</code>。</li>
+</ul>
+</li>
+<li><p><strong>從產品開發到組織管理的進階挑戰</strong>  </p>
+<ul>
+<li>初期專注於<code>市場與產品驗證</code>，中期建立<code>可複製的方法</code>，最終進入<code>賦權</code>階段。  </li>
+<li>高效團隊的建立依賴<code>跨領域專業合作</code>，透過<code>授權</code>與<code>迭代</code>創造創新產品。</li>
+</ul>
+</li>
+<li><p><strong>領導者的核心能力</strong>  </p>
+<ul>
+<li>接受「<code>不知道正確答案</code>」的事實，鼓勵試驗與持續優化。  </li>
+<li>在風險可控範圍內，給予<code>團隊信任</code>與<code>充分授權</code>。  </li>
+<li>透過<code>開放溝通</code>與<code>激烈討論</code>，激發創新與最佳解決方案。</li>
+</ul>
+</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書不僅適用於產品專案管理者，更是所有企業領導人應該深入研究的課題。數位轉型的成功關鍵在於建立「授權與賦能」的文化，使組織成員能夠自主決策與創新，最終提升企業競爭力。透過培養 <code>Sense of Ownership</code>（責任感），企業與員工才能實現共榮共存。</p>
+]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>產案管理</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>矽谷最夯‧產品專案領導力全書</tag>
+        <tag>領導力</tag>
+        <tag>leadership</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀心得學習筆記</title>
     <url>/2024/08/06/reading-notes-forest-wisdom/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-forest-wisdom-1.jpg"></p>
@@ -979,66 +1039,6 @@
         <tag>不幸的人做情緒的奴隸</tag>
         <tag>理情行為治療</tag>
         <tag>亞伯‧艾里斯</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課》 | 閱讀心得學習筆記</title>
-    <url>/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-empowered-ordinary-people-extraordinary-product-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課》</span><br><span class="line">EMPOWERED: Ordinary People, Extraordinary Products</span><br><span class="line">作者： 馬提．凱根, 克里斯．瓊斯  </span><br><span class="line">原文作者： MARTY CAGAN, CHRIS JONES</span><br><span class="line">譯者： 陳文和</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「成功的秘訣在於賦能團隊，而非個別人才。」<br>「成就他人的同時，也就成就自己。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>矽谷最夯‧產品專案領導力全書這本書強調「<code>授權與賦能</code>」的重要性，並指出數位轉型的核心不在於工具，而是組織與人的轉型。透過案例分析與理論探討，書中闡述了如何有效領導團隊，打造高效能組織，並強調建立企業文化與員工幸福感對於競爭力的影響。  </p>
-<p><img src="/img/posts/reading-notes-empowered-ordinary-people-extraordinary-product-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><ol>
-<li><p><strong>數位轉型的真諦</strong>  </p>
-<ul>
-<li>轉型的關鍵在於「<code>人</code>」，<code>科技只是輔助工具</code>。  </li>
-<li>成功轉型需仰賴<code>授權與賦能</code>，提升員工的<code>自主能力與決策權</code>。</li>
-</ul>
-</li>
-<li><p><strong>授權與賦能的核心概念</strong>  </p>
-<ul>
-<li><strong>授權</strong>：將職責下放，讓員工獲得執行權限。  </li>
-<li><strong>賦能</strong>：不僅給權力，還要提供技能與資源，使員工能獨立完成任務。</li>
-</ul>
-</li>
-<li><p><strong>組織文化的建立</strong>  </p>
-<ul>
-<li>透過「<code>安全感</code>、<code>歸屬感</code>、<code>成就感</code>」形塑企業文化，提高員工幸福感與凝聚力。  </li>
-<li>領導者應扮演<code>教練</code>角色，鼓勵團隊<code>自主決策</code>，並引導團隊<code>持續學習與成長</code>。</li>
-</ul>
-</li>
-<li><p><strong>從產品開發到組織管理的進階挑戰</strong>  </p>
-<ul>
-<li>初期專注於<code>市場與產品驗證</code>，中期建立<code>可複製的方法</code>，最終進入<code>賦權</code>階段。  </li>
-<li>高效團隊的建立依賴<code>跨領域專業合作</code>，透過<code>授權</code>與<code>迭代</code>創造創新產品。</li>
-</ul>
-</li>
-<li><p><strong>領導者的核心能力</strong>  </p>
-<ul>
-<li>接受「<code>不知道正確答案</code>」的事實，鼓勵試驗與持續優化。  </li>
-<li>在風險可控範圍內，給予<code>團隊信任</code>與<code>充分授權</code>。  </li>
-<li>透過<code>開放溝通</code>與<code>激烈討論</code>，激發創新與最佳解決方案。</li>
-</ul>
-</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書不僅適用於產品專案管理者，更是所有企業領導人應該深入研究的課題。數位轉型的成功關鍵在於建立「授權與賦能」的文化，使組織成員能夠自主決策與創新，最終提升企業競爭力。透過培養 <code>Sense of Ownership</code>（責任感），企業與員工才能實現共榮共存。</p>
-]]></content>
-      <tags>
-        <tag>產案管理</tag>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>矽谷最夯‧產品專案領導力全書</tag>
-        <tag>領導力</tag>
-        <tag>leadership</tag>
       </tags>
   </entry>
   <entry>
@@ -1111,11 +1111,11 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>閱讀心得學習筆記</tag>
@@ -1319,13 +1319,13 @@
 <h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>本書不僅適合敏捷教練，也適合任何希望提升團隊績效的領導者。透過理解並實踐不同教練風格，能讓團隊自主成長、持續改善，最終打造出真正具有影響力的敏捷文化。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
-        <tag>產品專案管理專案全書</tag>
         <tag>Project Manager</tag>
         <tag>專案經理</tag>
+        <tag>產品專案管理專案全書</tag>
         <tag>PjM</tag>
         <tag>project</tag>
         <tag>專案</tag>
@@ -1419,11 +1419,11 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>閱讀心得學習筆記</tag>
@@ -1566,67 +1566,6 @@
       </tags>
   </entry>
   <entry>
-    <title>給工程師的 Sketch Prototyping 簡易入門教學</title>
-    <url>/2016/06/04/sketch-prototyping-for-engineer/</url>
-    <content><![CDATA[<p><img src="/img/posts/sketchapp.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><a href="http://www.sketchapp.com/">Sketch</a> 是近來非常火紅的輕量級 UI 設計工具，簡易好上手的設計讓許多設計師紛紛從 PS 和以拉等其他工具跳槽過來，整個 Sketch 生態系也蓬勃發展。雖然筆者本業是工程師，但前陣子趁著買 Flinto （可以很輕易將 Sketch 的靜態頁面轉成 Prototype）送 Sketch 的行銷活動時同時入手了這兩套設計工具（雖然我把它當成買 Sketch 送 Flinto 啦：P），因此藉著機會分享一下給工程師的 Sketch Prototyping 簡易入門教學。當然有些讀者會疑惑：工程師學 Sketch 是要設計師搶飯碗嗎？（事實上很難啦）</p>
-<p>一般來說，在整個產品開發的過程當中，工程師和設計師的愛恨情仇已經可以編成好幾檔連續劇了，然而溝通不良的原因除了設計流程的問題外，有很大一部分是因為對於彼此的世界不了解（一個住火星，一個住土星？）。因此工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本，從此相親相愛了呢！而天賦異秉的人甚至有機會成為新創團隊人見人愛的超全端工程師（super full-stack<br>engineer）獨角獸，集設計、前後端、行動端、行銷業務技能於一身（咦）？好啦，言歸正傳，接下來就讓我們好好了解 Sketch 這個好用工具吧！</p>
-<p><img src="/img/posts/sketch-ui-kit.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="Sketch-基本介紹"><a href="#Sketch-基本介紹" class="headerlink" title="Sketch 基本介紹"></a>Sketch 基本介紹</h2><p>Sketch 是一個 Mac 上的輕量級介面設計工具。2010 年由荷蘭公司 Bohemian Coding 所創建，目前提供 30 天試用版，正式版 99 鎂（教育價5折優惠），不過目前只有提供 Mac 版本，所以只能先跟使用其他作業系統的朋友說聲 Sorry 啦！</p>
-<p>究竟 Sketch 有哪些優點，讓許多設計師因此琵琶別抱呢？</p>
-<h3 id="Sketch-優點"><a href="#Sketch-優點" class="headerlink" title="Sketch 優點"></a>Sketch 優點</h3><ol>
-<li>活躍的第三方套件生態系！</li>
-<li>專為 UI 設計而生（Artboard 設計可以方便 UI 設計） </li>
-<li>輕量級，簡單好上手（工程師 OS：就像 Sublime 之於 Eclipse）</li>
-<li>內建和可擴充的豐富 UI 模版（iOS、Material Design 等）</li>
-<li>搭配 <a href="https://www.flinto.com/">Flinto</a>、<a href="https://zeplin.io/">Zeplin</a> 可讓工程師更開心，設計師提早下班</li>
-<li>可以取代大部分 PS、以拉、Fireworks 等功能</li>
-<li>知名網路、科技公司都在用</li>
-</ol>
-<p>看完了 Sketch 優點，相信讀者們一定摩拳擦掌準備牛刀小試啦！</p>
-<h2 id="使用-Sketch-設計-Mobile-App-UI"><a href="#使用-Sketch-設計-Mobile-App-UI" class="headerlink" title="使用 Sketch 設計 Mobile App UI"></a>使用 Sketch 設計 Mobile App UI</h2><p>一般設計流程我們通常會有以下三種階段：</p>
-<ol>
-<li>Wireframe（線框圖）<br>保真度低（low fidelity ）、修改成本低。適合初期討論產品架構和基本功能。通常使用紙筆手繪，但建議於完成後電子化</li>
-<li>Mockup（視覺稿）<br>保真度中（middle fidelity ）、修改成本中。於 Mockup 階段著重於整體視覺、排版的靜態討論和確認，而 Sketch 主要會是在 Mockup 階段進行設計</li>
-<li>Prototype（原型）<br>保真度高（high fidelity ），接近最終產品、修改成本高。確認互動設計的流程並確認架構和視覺規劃是否有需要調整之處</li>
-</ol>
-<p>先介紹一下 Sketch 工作空間，左邊是圖層區，右邊是屬性、中間是工作區、上面是工具欄：</p>
-<p><img src="/img/posts/sketch-0.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p>工具欄可以點擊右鍵自定義：</p>
-<p><img src="/img/posts/sketch-0-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p>由於 UI 設計是 Sketch 主要的強項（尤其是行動端），在 Sketch 中 Artboard 是基礎的設計單元（成果展示區域），我們可以在一個 Page 中定義多個 Artboard。根據 Sketch 的設計，我們可以一次瀏覽多個 Artboard（也可說是多個介面），這樣可以更清楚整個設計 flow ，這是 Sketch 蠻大的一個優點（一覽眾山小？）。</p>
-<p>現在，我們終於開始設計我們的新 App UI 啦！首先，我們透過左上方的新增按鈕新增了一個 Artboard ，並選擇了 iPhone6 當做設計基底（有 iPhone、Android、RWD等可以選）。接下來我們要打開在 Sketch 中內建的元件模版，iOS 和 Material Design、icon設計等（網路上也有很多網友提供自己的設計可以下載），這邊因為是使用 iPhone6 的 Artboard，因此我們打開 iOS 元件模版。</p>
-<p><img src="/img/posts/sketch-7.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/sketch-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/sketch-2.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p>接下來進行複製貼上大法！將元件複製到 Artboard 上就可以了！現在小工程師也可以設計簡單的 UI 啦！可以透過右上角工具預覽或是分享的方式看到成果！</p>
-<p><img src="/img/posts/sketch-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="從-Mockup-到-Prototype"><a href="#從-Mockup-到-Prototype" class="headerlink" title="從 Mockup 到 Prototype"></a>從 Mockup 到 Prototype</h2><p><img src="/img/posts/sketch-flinto.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"><br>透過 Sketch 設計完成靜態檔案，若我們想將靜態檔案轉成 Prototype 進行使用者測試，我們可以使用 Flinto 好工具！透過簡單的連結就可以讓你的 Sketch 動起來啦（目前支援了簡單的手勢和動畫）！</p>
-<p><img src="/img/posts/flinto-3.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/flinto-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/flinto-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>以上就是給工程師的 Sketch Prototyping 簡易入門教學。事實上透過整合 <a href="https://zeplin.io/">Zeplin</a>（可以方便註解和查詢設計相對位置和色碼）、<a href="https://www.invisionapp.com/">Invision</a>（支援變更記錄，可以當做版本控管使用）等工具進行協作，還可以更加加快整個產品設計流程。透過前期的完善溝通討論，不但可以降低後續的溝通成本更可以讓完成的產品更接近最初的設計，更重要的是讓工程師和設計師的感情更好了！若你對於 Sketch 有興趣可以<a href="http://slides.com/kd-chang/sketch-prototyping-for-engineer">參考這份投影片</a>有更完整的教學介紹。另外也可以參考<a href="http://www.sketchapp.com/learn/">官方教學影片</a>。最後再次強調工程師學 Sketch 並非要去搶設計師搶飯碗。而是工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本。同理也建議設計師們可以去試著學一些簡單的程式語言基礎概念。筆者才疏學淺，若讀者有任何學習心得也歡迎分享交流：）</p>
-<p><img src="/img/posts/sketch-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="常用外掛"><a href="#常用外掛" class="headerlink" title="常用外掛"></a>常用外掛</h2><ol start="0">
-<li><a href="http://sketchtoolbox.com/">外掛管理工具 Sketch Toolbox</a></li>
-<li>Notebook 註解好幫手</li>
-<li>Sketch Flinto 從 Mockup 到 Prototype</li>
-<li>Content Generator Sketch Plugin 生成假資料</li>
-<li>Sketch Measure 測量位置、大小</li>
-<li>Icon Stamper 簡單生成不同大小 icon</li>
-</ol>
-<h2 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h2><ol>
-<li><a href="http://www.sketchcn.com/">Sketch 簡體中文教學</a></li>
-<li><a href="http://www.sketchchina.com/">Sketch 問答</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>SketchPrototyping</tag>
-        <tag>Wireframe</tag>
-        <tag>Mockup</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》| 閱讀心得學習筆記</title>
     <url>/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-you-do-not-have-to-be-anyone-1.jpg"></p>
@@ -1688,6 +1627,67 @@
         <tag>榮格</tag>
         <tag>阿德勒</tag>
         <tag>你不必成為任何人</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>給工程師的 Sketch Prototyping 簡易入門教學</title>
+    <url>/2016/06/04/sketch-prototyping-for-engineer/</url>
+    <content><![CDATA[<p><img src="/img/posts/sketchapp.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><a href="http://www.sketchapp.com/">Sketch</a> 是近來非常火紅的輕量級 UI 設計工具，簡易好上手的設計讓許多設計師紛紛從 PS 和以拉等其他工具跳槽過來，整個 Sketch 生態系也蓬勃發展。雖然筆者本業是工程師，但前陣子趁著買 Flinto （可以很輕易將 Sketch 的靜態頁面轉成 Prototype）送 Sketch 的行銷活動時同時入手了這兩套設計工具（雖然我把它當成買 Sketch 送 Flinto 啦：P），因此藉著機會分享一下給工程師的 Sketch Prototyping 簡易入門教學。當然有些讀者會疑惑：工程師學 Sketch 是要設計師搶飯碗嗎？（事實上很難啦）</p>
+<p>一般來說，在整個產品開發的過程當中，工程師和設計師的愛恨情仇已經可以編成好幾檔連續劇了，然而溝通不良的原因除了設計流程的問題外，有很大一部分是因為對於彼此的世界不了解（一個住火星，一個住土星？）。因此工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本，從此相親相愛了呢！而天賦異秉的人甚至有機會成為新創團隊人見人愛的超全端工程師（super full-stack<br>engineer）獨角獸，集設計、前後端、行動端、行銷業務技能於一身（咦）？好啦，言歸正傳，接下來就讓我們好好了解 Sketch 這個好用工具吧！</p>
+<p><img src="/img/posts/sketch-ui-kit.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="Sketch-基本介紹"><a href="#Sketch-基本介紹" class="headerlink" title="Sketch 基本介紹"></a>Sketch 基本介紹</h2><p>Sketch 是一個 Mac 上的輕量級介面設計工具。2010 年由荷蘭公司 Bohemian Coding 所創建，目前提供 30 天試用版，正式版 99 鎂（教育價5折優惠），不過目前只有提供 Mac 版本，所以只能先跟使用其他作業系統的朋友說聲 Sorry 啦！</p>
+<p>究竟 Sketch 有哪些優點，讓許多設計師因此琵琶別抱呢？</p>
+<h3 id="Sketch-優點"><a href="#Sketch-優點" class="headerlink" title="Sketch 優點"></a>Sketch 優點</h3><ol>
+<li>活躍的第三方套件生態系！</li>
+<li>專為 UI 設計而生（Artboard 設計可以方便 UI 設計） </li>
+<li>輕量級，簡單好上手（工程師 OS：就像 Sublime 之於 Eclipse）</li>
+<li>內建和可擴充的豐富 UI 模版（iOS、Material Design 等）</li>
+<li>搭配 <a href="https://www.flinto.com/">Flinto</a>、<a href="https://zeplin.io/">Zeplin</a> 可讓工程師更開心，設計師提早下班</li>
+<li>可以取代大部分 PS、以拉、Fireworks 等功能</li>
+<li>知名網路、科技公司都在用</li>
+</ol>
+<p>看完了 Sketch 優點，相信讀者們一定摩拳擦掌準備牛刀小試啦！</p>
+<h2 id="使用-Sketch-設計-Mobile-App-UI"><a href="#使用-Sketch-設計-Mobile-App-UI" class="headerlink" title="使用 Sketch 設計 Mobile App UI"></a>使用 Sketch 設計 Mobile App UI</h2><p>一般設計流程我們通常會有以下三種階段：</p>
+<ol>
+<li>Wireframe（線框圖）<br>保真度低（low fidelity ）、修改成本低。適合初期討論產品架構和基本功能。通常使用紙筆手繪，但建議於完成後電子化</li>
+<li>Mockup（視覺稿）<br>保真度中（middle fidelity ）、修改成本中。於 Mockup 階段著重於整體視覺、排版的靜態討論和確認，而 Sketch 主要會是在 Mockup 階段進行設計</li>
+<li>Prototype（原型）<br>保真度高（high fidelity ），接近最終產品、修改成本高。確認互動設計的流程並確認架構和視覺規劃是否有需要調整之處</li>
+</ol>
+<p>先介紹一下 Sketch 工作空間，左邊是圖層區，右邊是屬性、中間是工作區、上面是工具欄：</p>
+<p><img src="/img/posts/sketch-0.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p>工具欄可以點擊右鍵自定義：</p>
+<p><img src="/img/posts/sketch-0-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p>由於 UI 設計是 Sketch 主要的強項（尤其是行動端），在 Sketch 中 Artboard 是基礎的設計單元（成果展示區域），我們可以在一個 Page 中定義多個 Artboard。根據 Sketch 的設計，我們可以一次瀏覽多個 Artboard（也可說是多個介面），這樣可以更清楚整個設計 flow ，這是 Sketch 蠻大的一個優點（一覽眾山小？）。</p>
+<p>現在，我們終於開始設計我們的新 App UI 啦！首先，我們透過左上方的新增按鈕新增了一個 Artboard ，並選擇了 iPhone6 當做設計基底（有 iPhone、Android、RWD等可以選）。接下來我們要打開在 Sketch 中內建的元件模版，iOS 和 Material Design、icon設計等（網路上也有很多網友提供自己的設計可以下載），這邊因為是使用 iPhone6 的 Artboard，因此我們打開 iOS 元件模版。</p>
+<p><img src="/img/posts/sketch-7.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/sketch-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/sketch-2.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p>接下來進行複製貼上大法！將元件複製到 Artboard 上就可以了！現在小工程師也可以設計簡單的 UI 啦！可以透過右上角工具預覽或是分享的方式看到成果！</p>
+<p><img src="/img/posts/sketch-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="從-Mockup-到-Prototype"><a href="#從-Mockup-到-Prototype" class="headerlink" title="從 Mockup 到 Prototype"></a>從 Mockup 到 Prototype</h2><p><img src="/img/posts/sketch-flinto.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"><br>透過 Sketch 設計完成靜態檔案，若我們想將靜態檔案轉成 Prototype 進行使用者測試，我們可以使用 Flinto 好工具！透過簡單的連結就可以讓你的 Sketch 動起來啦（目前支援了簡單的手勢和動畫）！</p>
+<p><img src="/img/posts/flinto-3.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/flinto-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/flinto-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>以上就是給工程師的 Sketch Prototyping 簡易入門教學。事實上透過整合 <a href="https://zeplin.io/">Zeplin</a>（可以方便註解和查詢設計相對位置和色碼）、<a href="https://www.invisionapp.com/">Invision</a>（支援變更記錄，可以當做版本控管使用）等工具進行協作，還可以更加加快整個產品設計流程。透過前期的完善溝通討論，不但可以降低後續的溝通成本更可以讓完成的產品更接近最初的設計，更重要的是讓工程師和設計師的感情更好了！若你對於 Sketch 有興趣可以<a href="http://slides.com/kd-chang/sketch-prototyping-for-engineer">參考這份投影片</a>有更完整的教學介紹。另外也可以參考<a href="http://www.sketchapp.com/learn/">官方教學影片</a>。最後再次強調工程師學 Sketch 並非要去搶設計師搶飯碗。而是工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本。同理也建議設計師們可以去試著學一些簡單的程式語言基礎概念。筆者才疏學淺，若讀者有任何學習心得也歡迎分享交流：）</p>
+<p><img src="/img/posts/sketch-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="常用外掛"><a href="#常用外掛" class="headerlink" title="常用外掛"></a>常用外掛</h2><ol start="0">
+<li><a href="http://sketchtoolbox.com/">外掛管理工具 Sketch Toolbox</a></li>
+<li>Notebook 註解好幫手</li>
+<li>Sketch Flinto 從 Mockup 到 Prototype</li>
+<li>Content Generator Sketch Plugin 生成假資料</li>
+<li>Sketch Measure 測量位置、大小</li>
+<li>Icon Stamper 簡單生成不同大小 icon</li>
+</ol>
+<h2 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h2><ol>
+<li><a href="http://www.sketchcn.com/">Sketch 簡體中文教學</a></li>
+<li><a href="http://www.sketchchina.com/">Sketch 問答</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>SketchPrototyping</tag>
+        <tag>Wireframe</tag>
+        <tag>Mockup</tag>
       </tags>
   </entry>
   <entry>
