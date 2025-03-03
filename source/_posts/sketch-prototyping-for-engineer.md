@@ -76,7 +76,7 @@ Sketch 是一個 Mac 上的輕量級介面設計工具。2010 年由荷蘭公司
 
 ![給工程師的 Sketch Prototyping 簡易入門教學](/img/posts/flinto-5.png)
 
-## 結論
+## 總結
 以上就是給工程師的 Sketch Prototyping 簡易入門教學。事實上透過整合 [Zeplin](https://zeplin.io/)（可以方便註解和查詢設計相對位置和色碼）、[Invision](https://www.invisionapp.com/)（支援變更記錄，可以當做版本控管使用）等工具進行協作，還可以更加加快整個產品設計流程。透過前期的完善溝通討論，不但可以降低後續的溝通成本更可以讓完成的產品更接近最初的設計，更重要的是讓工程師和設計師的感情更好了！若你對於 Sketch 有興趣可以[參考這份投影片](http://slides.com/kd-chang/sketch-prototyping-for-engineer)有更完整的教學介紹。另外也可以參考[官方教學影片](http://www.sketchapp.com/learn/)。最後再次強調工程師學 Sketch 並非要去搶設計師搶飯碗。而是工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本。同理也建議設計師們可以去試著學一些簡單的程式語言基礎概念。筆者才疏學淺，若讀者有任何學習心得也歡迎分享交流：）
 
 ![給工程師的 Sketch Prototyping 簡易入門教學](/img/posts/sketch-5.png)
