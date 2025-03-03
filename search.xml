@@ -256,93 +256,6 @@
       </tags>
   </entry>
   <entry>
-    <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
-    <url>/2024/05/23/llm-langchain-notes/</url>
-    <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
-<h4 id="1-LangChain-介紹"><a href="#1-LangChain-介紹" class="headerlink" title="1. LangChain 介紹"></a>1. LangChain 介紹</h4><p>LangChain 是一個專為 LLM 設計的開源框架，提供了一系列工具和介面，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用。LangChain 支持多種 LLM，如 OpenAI 的 GPT 系列模型，並提供了豐富的功能來優化模型的性能和用戶體驗。</p>
-<h4 id="2-安裝-LangChain"><a href="#2-安裝-LangChain" class="headerlink" title="2. 安裝 LangChain"></a>2. 安裝 LangChain</h4><p>在開始使用 LangChain 之前，首先需要安裝它。您可以使用以下命令通過 pip 來安裝：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip install langchain</span><br></pre></td></tr></table></figure>
-
-<h4 id="3-基本使用"><a href="#3-基本使用" class="headerlink" title="3. 基本使用"></a>3. 基本使用</h4><p>LangChain 提供了一個簡單且一致的介面來使用各種 LLM。下面是如何使用 LangChain 進行基本文本生成的範例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> LanguageModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化模型</span></span><br><span class="line">model = LanguageModel(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 文字生成</span></span><br><span class="line">prompt = <span class="string">&quot;Write a poem about the sea.&quot;</span></span><br><span class="line">response = model.generate(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們首先導入了 LangChain 的 <code>LanguageModel</code> 類，並使用 <code>model_name</code> 指定我們要使用的模型。接著，我們提供一個提示語 <code>prompt</code>，並使用 <code>generate</code> 方法來生成文本。</p>
-<h4 id="4-高級功能"><a href="#4-高級功能" class="headerlink" title="4. 高級功能"></a>4. 高級功能</h4><p>LangChain 不僅支持基本的文本生成，還提供了許多高級功能，包括檢索增強生成（RAG）、上下文管理和自定義管道等。</p>
-<h5 id="檢索增強生成（RAG）"><a href="#檢索增強生成（RAG）" class="headerlink" title="檢索增強生成（RAG）"></a>檢索增強生成（RAG）</h5><p>RAG 是 LangChain 的一個強大功能，它結合了檢索和生成技術，提供更豐富和上下文相關的回應。以下是一個簡單的 RAG 示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> RAG</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化 RAG 模型</span></span><br><span class="line">rag_model = RAG(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>, retriever=<span class="string">&quot;dense&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 提供查詢</span></span><br><span class="line">query = <span class="string">&quot;What are the latest advancements in AI?&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 檢索並生成回應</span></span><br><span class="line">response = rag_model.generate(query)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們使用 RAG 類初始化了一個 RAG 模型，並指定了檢索器類型。然後，我們提供了一個查詢 <code>query</code>，並使用 <code>generate</code> 方法來檢索相關信息並生成回應。</p>
-<h5 id="上下文管理"><a href="#上下文管理" class="headerlink" title="上下文管理"></a>上下文管理</h5><p>LangChain 支持上下文管理，使模型能夠在會話中保持上下文。這對於構建聊天機器人和問答系統非常有用。</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Conversation</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化會話</span></span><br><span class="line">conversation = Conversation(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Hello, who won the World Series in 2020?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加更多上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Who was the MVP?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們使用 <code>Conversation</code> 類初始化了一個會話，並逐步添加用戶輸入。模型能夠根據上下文生成更相關的回應。</p>
-<h4 id="5-自定義管道"><a href="#5-自定義管道" class="headerlink" title="5. 自定義管道"></a>5. 自定義管道</h4><p>LangChain 允許您創建自定義管道，以滿足特定應用需求。以下是一個自定義管道的簡單示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Pipeline</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定義自定義步驟</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">preprocess</span>(<span class="params">text</span>):</span><br><span class="line">    <span class="keyword">return</span> text.lower()</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">postprocess</span>(<span class="params">response</span>):</span><br><span class="line">    <span class="keyword">return</span> response.capitalize()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 創建管道</span></span><br><span class="line">pipeline = Pipeline(steps=[preprocess, <span class="string">&quot;gpt-3.5-turbo&quot;</span>, postprocess])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 使用管道生成文本</span></span><br><span class="line">prompt = <span class="string">&quot;Explain the significance of the moon landing.&quot;</span></span><br><span class="line">response = pipeline.run(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們定義了兩個自定義步驟 <code>preprocess</code> 和 <code>postprocess</code>，並將它們與模型集成到一個管道中。這允許我們在文本生成之前和之後對文本進行處理。</p>
-<h4 id="6-總結"><a href="#6-總結" class="headerlink" title="6. 總結"></a>6. 總結</h4><p>LangChain 是一個強大且靈活的開源框架，專門為 LLM 的使用和管理設計。無論是簡單的文本生成還是複雜的檢索增強生成，LangChain 都提供了豐富的功能來滿足您的需求。希望這篇入門教學能幫助您快速上手 LangChain，開發出強大的應用。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://ithelp.ithome.com.tw/articles/10318758">【Day10】Langchain 教學的簡單中文化</a></li>
-<li><a href="https://engineering.linecorp.com/zh-hant/blog/langchain-llm-linebot">line 透過 LangChain 打造一個股價查詢 LINEBot - 股價小幫手</a></li>
-<li><a href="https://github.com/FlowiseAI/Flowise?tab=readme-ov-file">Flowise - Build LLM Apps Easily</a></li>
-<li><a href="https://github.com/langchain-ai/langchain">LangChain github</a></li>
-<li><a href="https://www.langchain.com/langchain">LangChain’s flexible abstractions and AI-first toolkit make it the #1 choice for developers when building with GenAI.</a></li>
-<li><a href="https://www.langchain.asia/">langchain 教學</a></li>
-<li><a href="https://tw.alphacamp.co/blog/langchain-intro">LangChain是什麼？AI開發者必須了解的LLM開源框架</a></li>
-<li><a href="https://edge.aif.tw/application-langchain-rag/">利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題</a></li>
-<li><a href="https://edge.aif.tw/express-langchain-chatpdf/">利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點</a></li>
-<li><a href="https://aws.amazon.com/tw/what-is/langchain/">何謂 LangChain？</a></li>
-<li><a href="https://ithelp.ithome.com.tw/users/20120030/ironman/7039">全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) 系列</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LangChain</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學</title>
     <url>/2024/05/23/llm-rag-app-notes/</url>
     <content><![CDATA[<p>擷取擴增產生&#x2F;檢索增強生成（Retrieval-Augmented Generation, RAG）是一種結合檢索和生成技術的混合模型，用於改善文本生成任務的性能。這種方法能夠在生成文本時引入外部知識，從而生成更準確和上下文相關的內容。以下是對 RAG 的詳細介紹：</p>
@@ -435,6 +348,93 @@
         <tag>Retrieval-Augmented Generation</tag>
         <tag>擷取擴增產生</tag>
         <tag>檢索增強生成</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
+    <url>/2024/05/23/llm-langchain-notes/</url>
+    <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
+<h4 id="1-LangChain-介紹"><a href="#1-LangChain-介紹" class="headerlink" title="1. LangChain 介紹"></a>1. LangChain 介紹</h4><p>LangChain 是一個專為 LLM 設計的開源框架，提供了一系列工具和介面，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用。LangChain 支持多種 LLM，如 OpenAI 的 GPT 系列模型，並提供了豐富的功能來優化模型的性能和用戶體驗。</p>
+<h4 id="2-安裝-LangChain"><a href="#2-安裝-LangChain" class="headerlink" title="2. 安裝 LangChain"></a>2. 安裝 LangChain</h4><p>在開始使用 LangChain 之前，首先需要安裝它。您可以使用以下命令通過 pip 來安裝：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip install langchain</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-基本使用"><a href="#3-基本使用" class="headerlink" title="3. 基本使用"></a>3. 基本使用</h4><p>LangChain 提供了一個簡單且一致的介面來使用各種 LLM。下面是如何使用 LangChain 進行基本文本生成的範例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> LanguageModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化模型</span></span><br><span class="line">model = LanguageModel(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 文字生成</span></span><br><span class="line">prompt = <span class="string">&quot;Write a poem about the sea.&quot;</span></span><br><span class="line">response = model.generate(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們首先導入了 LangChain 的 <code>LanguageModel</code> 類，並使用 <code>model_name</code> 指定我們要使用的模型。接著，我們提供一個提示語 <code>prompt</code>，並使用 <code>generate</code> 方法來生成文本。</p>
+<h4 id="4-高級功能"><a href="#4-高級功能" class="headerlink" title="4. 高級功能"></a>4. 高級功能</h4><p>LangChain 不僅支持基本的文本生成，還提供了許多高級功能，包括檢索增強生成（RAG）、上下文管理和自定義管道等。</p>
+<h5 id="檢索增強生成（RAG）"><a href="#檢索增強生成（RAG）" class="headerlink" title="檢索增強生成（RAG）"></a>檢索增強生成（RAG）</h5><p>RAG 是 LangChain 的一個強大功能，它結合了檢索和生成技術，提供更豐富和上下文相關的回應。以下是一個簡單的 RAG 示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> RAG</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化 RAG 模型</span></span><br><span class="line">rag_model = RAG(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>, retriever=<span class="string">&quot;dense&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 提供查詢</span></span><br><span class="line">query = <span class="string">&quot;What are the latest advancements in AI?&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 檢索並生成回應</span></span><br><span class="line">response = rag_model.generate(query)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 RAG 類初始化了一個 RAG 模型，並指定了檢索器類型。然後，我們提供了一個查詢 <code>query</code>，並使用 <code>generate</code> 方法來檢索相關信息並生成回應。</p>
+<h5 id="上下文管理"><a href="#上下文管理" class="headerlink" title="上下文管理"></a>上下文管理</h5><p>LangChain 支持上下文管理，使模型能夠在會話中保持上下文。這對於構建聊天機器人和問答系統非常有用。</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Conversation</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化會話</span></span><br><span class="line">conversation = Conversation(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Hello, who won the World Series in 2020?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加更多上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Who was the MVP?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 <code>Conversation</code> 類初始化了一個會話，並逐步添加用戶輸入。模型能夠根據上下文生成更相關的回應。</p>
+<h4 id="5-自定義管道"><a href="#5-自定義管道" class="headerlink" title="5. 自定義管道"></a>5. 自定義管道</h4><p>LangChain 允許您創建自定義管道，以滿足特定應用需求。以下是一個自定義管道的簡單示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Pipeline</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定義自定義步驟</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">preprocess</span>(<span class="params">text</span>):</span><br><span class="line">    <span class="keyword">return</span> text.lower()</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">postprocess</span>(<span class="params">response</span>):</span><br><span class="line">    <span class="keyword">return</span> response.capitalize()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 創建管道</span></span><br><span class="line">pipeline = Pipeline(steps=[preprocess, <span class="string">&quot;gpt-3.5-turbo&quot;</span>, postprocess])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 使用管道生成文本</span></span><br><span class="line">prompt = <span class="string">&quot;Explain the significance of the moon landing.&quot;</span></span><br><span class="line">response = pipeline.run(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們定義了兩個自定義步驟 <code>preprocess</code> 和 <code>postprocess</code>，並將它們與模型集成到一個管道中。這允許我們在文本生成之前和之後對文本進行處理。</p>
+<h4 id="6-總結"><a href="#6-總結" class="headerlink" title="6. 總結"></a>6. 總結</h4><p>LangChain 是一個強大且靈活的開源框架，專門為 LLM 的使用和管理設計。無論是簡單的文本生成還是複雜的檢索增強生成，LangChain 都提供了豐富的功能來滿足您的需求。希望這篇入門教學能幫助您快速上手 LangChain，開發出強大的應用。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://ithelp.ithome.com.tw/articles/10318758">【Day10】Langchain 教學的簡單中文化</a></li>
+<li><a href="https://engineering.linecorp.com/zh-hant/blog/langchain-llm-linebot">line 透過 LangChain 打造一個股價查詢 LINEBot - 股價小幫手</a></li>
+<li><a href="https://github.com/FlowiseAI/Flowise?tab=readme-ov-file">Flowise - Build LLM Apps Easily</a></li>
+<li><a href="https://github.com/langchain-ai/langchain">LangChain github</a></li>
+<li><a href="https://www.langchain.com/langchain">LangChain’s flexible abstractions and AI-first toolkit make it the #1 choice for developers when building with GenAI.</a></li>
+<li><a href="https://www.langchain.asia/">langchain 教學</a></li>
+<li><a href="https://tw.alphacamp.co/blog/langchain-intro">LangChain是什麼？AI開發者必須了解的LLM開源框架</a></li>
+<li><a href="https://edge.aif.tw/application-langchain-rag/">利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題</a></li>
+<li><a href="https://edge.aif.tw/express-langchain-chatpdf/">利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點</a></li>
+<li><a href="https://aws.amazon.com/tw/what-is/langchain/">何謂 LangChain？</a></li>
+<li><a href="https://ithelp.ithome.com.tw/users/20120030/ironman/7039">全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) 系列</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LangChain</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -730,7 +730,7 @@
 </ul>
 </li>
 </ol>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>職場如同一場遊戲，唯有跳脫單一視角，理解職場運行法則，才能真正掌握破局升級的關鍵。本書提供的策略與思維模式，將幫助讀者在競爭激烈的環境中立於不敗之地。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>職場如同一場遊戲，唯有跳脫單一視角，理解職場運行法則，才能真正掌握破局升級的關鍵。本書提供的策略與思維模式，將幫助讀者在競爭激烈的環境中立於不敗之地。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
@@ -792,7 +792,7 @@
 </ul>
 </li>
 </ol>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>《原子習慣》提供了一個簡單但有效的<code>習慣養成方法</code>，不依賴意志力，而是透過<code>環境設計</code>與<code>行為調整</code>，讓改變變得自然而然。如果我們能夠掌握這些原則，每天進步 1%，長期下來，人生將會迎來翻天覆地的變化。改變，不是來自一時的決心，而是來自每天不經意的小行動。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《原子習慣》提供了一個簡單但有效的<code>習慣養成方法</code>，不依賴意志力，而是透過<code>環境設計</code>與<code>行為調整</code>，讓改變變得自然而然。如果我們能夠掌握這些原則，每天進步 1%，長期下來，人生將會迎來翻天覆地的變化。改變，不是來自一時的決心，而是來自每天不經意的小行動。</p>
 ]]></content>
       <tags>
         <tag>原子習慣</tag>
@@ -801,6 +801,35 @@
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《在關係變成傷害之前：為什麼愈相愛愈受傷？停止悔恨、執迷與焦慮的關係修復心理學，療癒內在失控感，重建愛人與被愛的力量》| 閱讀心得學習筆記</title>
+    <url>/2025/02/05/reading-notes-before-relationships-become-harmful/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-before-relationships-become-harmful-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《在關係變成傷害之前：為什麼愈相愛愈受傷？停止悔恨、執迷與焦慮的關係修復心理學，療癒內在失控感，重建愛人與被愛的力量》</span><br><span class="line">作者： 張家齊  </span><br><span class="line">出版社：天下雜誌  </span><br><span class="line">出版日期：2025/02/05</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「我們需要一面鏡子，來看見自己內心的盲區。真正折磨你的，並非他人的不愛，而是你沒看透的錯誤期待；修復心碎、逃離情感的耗損，關鍵在於解開親密關係的索求與操控。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《在關係變成傷害之前》深入探討了親密關係中的情感失控與自我覺察的重要性。書中以心理師的視角，透過一個又一個真實的諮詢案例，探討了愛情中自我盲區的存在，以及如何透過情緒覺察，避免關係中的傷害。這本書的核心目的是幫助讀者理解情緒失控背後的心理機制，並提供具體方法提升情緒自控與關係和諧，從而實現更健康的親密關係。</p>
+<p><img src="/img/posts/reading-notes-before-relationships-become-harmful-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>心理失控感的概念</strong>：當情感關係中出現失控的情緒時，我們往往忽略了<code>內在的心理狀態</code>，這會導致無法挽回的傷害。  </li>
+<li><strong>自我覺察的重要性</strong>：學會<code>察覺自己內心的情緒變化</code>，有助於<code>避免無意識的情感傷害</code>。  </li>
+<li><strong>愛情的失控模式</strong>：書中詳細分析了六種典型的「<code>親密失控模式」</code>，幫助讀者識別自己在關係中可能陷入的困境。  </li>
+<li><strong>情緒管理的技巧</strong>：提供具體方法來提升<code>情緒管理能力</code>，<code>幫助維持穩定的關係</code>。  </li>
+<li><strong>心理治療的作用</strong>：<code>諮詢過程就像一面鏡子</code>，<code>幫助個案看見自己情緒中的盲區</code>，<code>從而進行有效的情緒調整</code>。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書透過豐富的心理學知識和實務經驗，揭示了親密關係中的情緒失控與自我盲區，並提供具體的覺察和應對策略。讀者不僅能理解自己的情緒來源，還能學會如何避免關係中的傷害，最終重建健康的愛情模式。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>這一生，你要體會的30件事</tag>
+        <tag>精神科醫師最犀利的人生告白</tag>
       </tags>
   </entry>
   <entry>
@@ -846,7 +875,7 @@
 </ul>
 </li>
 </ol>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>蛤蟆先生去看心理師 以輕鬆的方式傳遞深刻的心理學知識，讓讀者理解諮商如何幫助個人突破心理困境。無論是對心理學感興趣，或是想尋找內心平衡的人，都能在書中找到共鳴，並學習如何更好地理解自己與他人。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>蛤蟆先生去看心理師 以輕鬆的方式傳遞深刻的心理學知識，讓讀者理解諮商如何幫助個人突破心理困境。無論是對心理學感興趣，或是想尋找內心平衡的人，都能在書中找到共鳴，並學習如何更好地理解自己與他人。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
@@ -899,7 +928,7 @@
 <li><code>不必事事爭辯是非</code>，學會<code>退一步海闊天空</code>  </li>
 <li><code>對自己的選擇負責</code>，勇敢接受每一步帶來的結果</li>
 </ul>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
@@ -1027,7 +1056,7 @@
 <li><strong>無條件自我接納</strong>：個人的價值不取決於表現或他人評價，<code>學會接納自己</code>，才能真正放下焦慮。  </li>
 <li><strong>心理練習與實踐</strong>：本書提供如「重新架構法」、「克服羞愧感練習」、「角色扮演法」等方法，幫助我們改變負面思維模式。</li>
 </ol>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>焦慮並非無法改變的宿命，而是一種可以管理的情緒狀態。透過 REBT 的方法，本書教我們如何辨識並駁斥非理性信念，學會用更理性的方式面對生活挑戰。當我們放下對完美的執著，接受自身的限制，就能從焦慮中解放，邁向更自在的人生。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>焦慮並非無法改變的宿命，而是一種可以管理的情緒狀態。透過 REBT 的方法，本書教我們如何辨識並駁斥非理性信念，學會用更理性的方式面對生活挑戰。當我們放下對完美的執著，接受自身的限制，就能從焦慮中解放，邁向更自在的人生。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
@@ -1064,7 +1093,7 @@
 <li><p><strong>行為改變的力量：</strong> 強調通過積極的行動來挑戰和克服情緒困擾，並幫助讀者建立更健康的自我信念。</p>
 </li>
 </ol>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>本書提出的 REBT 方法不僅對心理治療領域產生了深遠的影響，也提供了每個人自助的寶貴智慧。透過改變不理性的思維模式，我們能夠有效地減少焦慮、憤怒及不安，過上更快樂、無憂的生活。艾里斯的智慧鼓勵我們接納自己與他人，並學會在面對困難時以理性與勇氣應對。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提出的 REBT 方法不僅對心理治療領域產生了深遠的影響，也提供了每個人自助的寶貴智慧。透過改變不理性的思維模式，我們能夠有效地減少焦慮、憤怒及不安，過上更快樂、無憂的生活。艾里斯的智慧鼓勵我們接納自己與他人，並學會在面對困難時以理性與勇氣應對。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
@@ -1179,7 +1208,7 @@
 <li><strong>組織與人生的共通法則</strong>：「<code>創新</code>」是結果而非起點，唯有紮實的文化與價值觀，才能真正影響世界。</li>
 <li><strong>學習「不計較」</strong>：在人際關係中，計較只會製造摩擦，<code>學會放下</code>，反而能得到更多。</li>
 </ul>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
@@ -1316,7 +1345,7 @@
 <li>復原策略：<code>建立信任</code>、<code>適時退場</code>、<code>強化反思與回顧</code>。</li>
 <li>成功關鍵：持續<code>學習與適應</code>，<code>不斷進化自身的教練技巧</code>。</li>
 </ul>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>本書不僅適合敏捷教練，也適合任何希望提升團隊績效的領導者。透過理解並實踐不同教練風格，能讓團隊自主成長、持續改善，最終打造出真正具有影響力的敏捷文化。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅適合敏捷教練，也適合任何希望提升團隊績效的領導者。透過理解並實踐不同教練風格，能讓團隊自主成長、持續改善，最終打造出真正具有影響力的敏捷文化。</p>
 ]]></content>
       <tags>
         <tag>產案管理</tag>
@@ -1334,6 +1363,43 @@
         <tag>敏捷開發</tag>
         <tag>agile</tag>
         <tag>agile coach</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《失控的焦慮世代：手機餵養的世代，如何面對心理疾病的瘟疫》| 閱讀心得學習筆記</title>
+    <url>/2024/11/29/reading-notes-the-anxious-generation/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-anxious-generation-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《失控的焦慮世代：手機餵養的世代，如何面對心理疾病的瘟疫》</span><br><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「科技塑造童年，焦慮隨之而來。以手機為主的童年，需要增加在現實世界的體驗，提高五感經驗。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在智慧型手機與社群媒體普及的時代，青少年的心理健康問題日益嚴重。《失控的焦慮世代》由社會心理學家海德特撰寫，探討Z世代如何因為手機與社群媒體的影響，經歷焦慮、憂鬱與社交障礙。本書不僅揭露問題根源，更提供政府、學校、企業與父母的可行對策，期望為下一代創造更健康的成長環境。  </p>
+<p><img src="/img/posts/reading-notes-the-anxious-generation-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-童年的變遷與失落"><a href="#1-童年的變遷與失落" class="headerlink" title="1. 童年的變遷與失落"></a><strong>1. 童年的變遷與失落</strong></h4><ul>
+<li>過去以「玩耍」為核心的童年被「手機主導」的生活取代。  </li>
+<li>缺乏自由探索與實體互動，使青少年社交發展受阻。</li>
+</ul>
+<h4 id="2-智慧型手機與社群媒體的影響"><a href="#2-智慧型手機與社群媒體的影響" class="headerlink" title="2. 智慧型手機與社群媒體的影響"></a><strong>2. 智慧型手機與社群媒體的影響</strong></h4><ul>
+<li><strong>心理健康衰退</strong>：憂鬱、自殘、自殺率上升，尤其影響女孩更深。  </li>
+<li><strong>注意力破碎化</strong>：短影音與社群推播讓專注力下降，學習與社交受影響。  </li>
+<li><strong>上癮機制</strong>：社群媒體透過演算法強化即時獎勵，讓青少年難以脫離。</li>
+</ul>
+<h4 id="3-如何改善現況"><a href="#3-如何改善現況" class="headerlink" title="3. 如何改善現況"></a><strong>3. 如何改善現況</strong></h4><ul>
+<li><strong>政府與科技企業</strong>：立法限制兒童接觸社群媒體，要求更健康的設計。  </li>
+<li><strong>學校與教育機構</strong>：減少校內螢幕使用，推動戶外活動與人際互動。  </li>
+<li><strong>家長與社會</strong>：延後手機使用年齡，建立更健康的數位習慣。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《失控的焦慮世代》是一本警鐘長鳴的書，揭示了科技對青少年的深遠影響。我們不能忽視Z世代的困境，唯有採取行動，才能讓孩子擁有更健康的成長環境，重新找回失落的童年。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>失控的焦慮世代</tag>
+        <tag>手機餵養的世代</tag>
+        <tag>如何面對心理疾病的瘟疫</tag>
       </tags>
   </entry>
   <entry>
@@ -1369,7 +1435,7 @@
 <li><strong>「前進的路不只一條」——大道在目前</strong>：停止執著於單一選擇，放眼更多可能。  </li>
 <li><strong>「好事壞事終有盡頭」——諸行無常</strong>：學會接受變化，人生才能自在。</li>
 </ul>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
@@ -1379,6 +1445,52 @@
         <tag>別對每件事都有反應</tag>
         <tag>別對每件事都有反應2</tag>
         <tag>不執著的練習</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》| 閱讀心得學習筆記</title>
+    <url>/2025/01/09/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「無論情況多麼絕望，人永遠不會沒有選擇。人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。」  </p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。本書由精神科醫師戈登．李文斯頓博士以自身經歷與診療室故事，萃取出30則人生智慧，幫助讀者正視恐懼、調適情緒、經營關係，並掌握人生主導權。這不只是一本療癒書，更是一場勇敢面對人生挑戰的啟發之旅。</p>
+<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-做自己：勇敢迎接未知"><a href="#1-做自己：勇敢迎接未知" class="headerlink" title="1. 做自己：勇敢迎接未知"></a><strong>1. 做自己：勇敢迎接未知</strong></h4><ul>
+<li><code>人生是一場賭局</code>，我們無法選擇手中的牌，<code>但能決定如何打好這副牌</code>。</li>
+<li><code>冒險</code>是成長的必要條件，害怕改變往往是最大的枷鎖。</li>
+</ul>
+<h4 id="2-勇氣篇：打破內心的牢籠"><a href="#2-勇氣篇：打破內心的牢籠" class="headerlink" title="2. 勇氣篇：打破內心的牢籠"></a><strong>2. 勇氣篇：打破內心的牢籠</strong></h4><ul>
+<li>最堅固的牢房是我們親手打造的，<code>恐懼與焦慮</code>常阻礙我們追尋快樂。</li>
+<li>勇敢不是沒有害怕，而是<code>即使害怕仍然前進</code>。</li>
+</ul>
+<h4 id="3-情緒篇：選擇希望而非絕望"><a href="#3-情緒篇：選擇希望而非絕望" class="headerlink" title="3. 情緒篇：選擇希望而非絕望"></a><strong>3. 情緒篇：選擇希望而非絕望</strong></h4><ul>
+<li><code>人生即使困難，仍有選擇的空間</code>，只要我們願意尋找新的可能。</li>
+<li><code>轉念</code>是關鍵，問題的核心往往不在事件本身，而在我們<code>如何看待它</code>。</li>
+</ul>
+<h4 id="4-關係篇：給孩子最好的禮物"><a href="#4-關係篇：給孩子最好的禮物" class="headerlink" title="4. 關係篇：給孩子最好的禮物"></a><strong>4. 關係篇：給孩子最好的禮物</strong></h4><ul>
+<li>教養的本質是讓孩子相信，<code>在這個世界上仍然能夠快樂生活</code>。</li>
+<li><code>陪伴與支持</code>，<code>比任何說教更能帶來安全感</code>。</li>
+</ul>
+<h4 id="5-愛情篇：如何愛與被愛"><a href="#5-愛情篇：如何愛與被愛" class="headerlink" title="5. 愛情篇：如何愛與被愛"></a><strong>5. 愛情篇：如何愛與被愛</strong></h4><ul>
+<li>婚姻需要<code>雙方共同經營</code>，但<code>只要一方選擇退出，就足以結束一段關係</code>。</li>
+<li>真正的愛不是<code>掌控</code>與<code>依賴</code>，而是<code>尊重</code>與<code>包容</code>。</li>
+</ul>
+<h4 id="6-老去篇：死亡無法抹去愛"><a href="#6-老去篇：死亡無法抹去愛" class="headerlink" title="6. 老去篇：死亡無法抹去愛"></a><strong>6. 老去篇：死亡無法抹去愛</strong></h4><ul>
+<li>失去所愛之人，並不意味著愛的消失，而是提醒我們<code>珍惜擁有的當下</code>。</li>
+<li>生命的意義，不在於逃避死亡，而在於<code>勇敢地活著</code>。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>戈登．李文斯頓博士以親身經歷和臨床觀察，為我們提供了一面人生的鏡子，提醒我們選擇勇敢、擁抱改變、珍惜愛與當下。這本書不只是關於療癒，更是關於活出更有力量的自己。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>這一生，你要體會的30件事</tag>
+        <tag>精神科醫師最犀利的人生告白</tag>
       </tags>
   </entry>
   <entry>
@@ -1454,7 +1566,7 @@
 <li><p><strong>「真正重要的是什麼？」</strong><br>這個問題幫助我們<code>回歸生命的核心</code>，<code>找出真正值得追求的目標</code>。</p>
 </li>
 </ol>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>《你的人生，真正重要的是什麼？》提醒我們，提出好問題能夠塑造出一個更加充實和有意義的人生。萊恩的五個關鍵問題，不僅能夠解答人生的迷茫，還能幫助我們在職業生涯和人際關係中走得更遠。這本書是一本指引我們反思並實踐智慧的寶典，值得每一位渴望成長的讀者閱讀。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《你的人生，真正重要的是什麼？》提醒我們，提出好問題能夠塑造出一個更加充實和有意義的人生。萊恩的五個關鍵問題，不僅能夠解答人生的迷茫，還能幫助我們在職業生涯和人際關係中走得更遠。這本書是一本指引我們反思並實踐智慧的寶典，值得每一位渴望成長的讀者閱讀。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
@@ -1503,7 +1615,7 @@
 </ul>
 </li>
 </ol>
-<h1 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h1><p>《台南最多老店的本町大街》不僅是一部台南老街的歷史紀錄，更是一本充滿溫度的文化之書。透過這些店鋪與職人的故事，我們得以見證台南數百年來的繁華變遷，也體會到傳統技藝的價值與珍貴。這本書適合所有喜愛台南、文化歷史與手繪藝術的讀者。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《台南最多老店的本町大街》不僅是一部台南老街的歷史紀錄，更是一本充滿溫度的文化之書。透過這些店鋪與職人的故事，我們得以見證台南數百年來的繁華變遷，也體會到傳統技藝的價值與珍貴。這本書適合所有喜愛台南、文化歷史與手繪藝術的讀者。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
@@ -1669,7 +1781,7 @@
 <p><img src="/img/posts/flinto-3.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
 <p><img src="/img/posts/flinto-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
 <p><img src="/img/posts/flinto-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="結論"><a href="#結論" class="headerlink" title="結論"></a>結論</h2><p>以上就是給工程師的 Sketch Prototyping 簡易入門教學。事實上透過整合 <a href="https://zeplin.io/">Zeplin</a>（可以方便註解和查詢設計相對位置和色碼）、<a href="https://www.invisionapp.com/">Invision</a>（支援變更記錄，可以當做版本控管使用）等工具進行協作，還可以更加加快整個產品設計流程。透過前期的完善溝通討論，不但可以降低後續的溝通成本更可以讓完成的產品更接近最初的設計，更重要的是讓工程師和設計師的感情更好了！若你對於 Sketch 有興趣可以<a href="http://slides.com/kd-chang/sketch-prototyping-for-engineer">參考這份投影片</a>有更完整的教學介紹。另外也可以參考<a href="http://www.sketchapp.com/learn/">官方教學影片</a>。最後再次強調工程師學 Sketch 並非要去搶設計師搶飯碗。而是工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本。同理也建議設計師們可以去試著學一些簡單的程式語言基礎概念。筆者才疏學淺，若讀者有任何學習心得也歡迎分享交流：）</p>
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>以上就是給工程師的 Sketch Prototyping 簡易入門教學。事實上透過整合 <a href="https://zeplin.io/">Zeplin</a>（可以方便註解和查詢設計相對位置和色碼）、<a href="https://www.invisionapp.com/">Invision</a>（支援變更記錄，可以當做版本控管使用）等工具進行協作，還可以更加加快整個產品設計流程。透過前期的完善溝通討論，不但可以降低後續的溝通成本更可以讓完成的產品更接近最初的設計，更重要的是讓工程師和設計師的感情更好了！若你對於 Sketch 有興趣可以<a href="http://slides.com/kd-chang/sketch-prototyping-for-engineer">參考這份投影片</a>有更完整的教學介紹。另外也可以參考<a href="http://www.sketchapp.com/learn/">官方教學影片</a>。最後再次強調工程師學 Sketch 並非要去搶設計師搶飯碗。而是工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本。同理也建議設計師們可以去試著學一些簡單的程式語言基礎概念。筆者才疏學淺，若讀者有任何學習心得也歡迎分享交流：）</p>
 <p><img src="/img/posts/sketch-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
 <h2 id="常用外掛"><a href="#常用外掛" class="headerlink" title="常用外掛"></a>常用外掛</h2><ol start="0">
 <li><a href="http://sketchtoolbox.com/">外掛管理工具 Sketch Toolbox</a></li>
