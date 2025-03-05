@@ -201,6 +201,55 @@
       </tags>
   </entry>
   <entry>
+    <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
+    <url>/2024/05/23/llm-langchain-notes/</url>
+    <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
+<h4 id="1-LangChain-介紹"><a href="#1-LangChain-介紹" class="headerlink" title="1. LangChain 介紹"></a>1. LangChain 介紹</h4><p>LangChain 是一個專為 LLM 設計的開源框架，提供了一系列工具和介面，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用。LangChain 支持多種 LLM，如 OpenAI 的 GPT 系列模型，並提供了豐富的功能來優化模型的性能和用戶體驗。</p>
+<h4 id="2-安裝-LangChain"><a href="#2-安裝-LangChain" class="headerlink" title="2. 安裝 LangChain"></a>2. 安裝 LangChain</h4><p>在開始使用 LangChain 之前，首先需要安裝它。您可以使用以下命令通過 pip 來安裝：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip install langchain</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-基本使用"><a href="#3-基本使用" class="headerlink" title="3. 基本使用"></a>3. 基本使用</h4><p>LangChain 提供了一個簡單且一致的介面來使用各種 LLM。下面是如何使用 LangChain 進行基本文本生成的範例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> LanguageModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化模型</span></span><br><span class="line">model = LanguageModel(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 文字生成</span></span><br><span class="line">prompt = <span class="string">&quot;Write a poem about the sea.&quot;</span></span><br><span class="line">response = model.generate(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們首先導入了 LangChain 的 <code>LanguageModel</code> 類，並使用 <code>model_name</code> 指定我們要使用的模型。接著，我們提供一個提示語 <code>prompt</code>，並使用 <code>generate</code> 方法來生成文本。</p>
+<h4 id="4-高級功能"><a href="#4-高級功能" class="headerlink" title="4. 高級功能"></a>4. 高級功能</h4><p>LangChain 不僅支持基本的文本生成，還提供了許多高級功能，包括檢索增強生成（RAG）、上下文管理和自定義管道等。</p>
+<h5 id="檢索增強生成（RAG）"><a href="#檢索增強生成（RAG）" class="headerlink" title="檢索增強生成（RAG）"></a>檢索增強生成（RAG）</h5><p>RAG 是 LangChain 的一個強大功能，它結合了檢索和生成技術，提供更豐富和上下文相關的回應。以下是一個簡單的 RAG 示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> RAG</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化 RAG 模型</span></span><br><span class="line">rag_model = RAG(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>, retriever=<span class="string">&quot;dense&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 提供查詢</span></span><br><span class="line">query = <span class="string">&quot;What are the latest advancements in AI?&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 檢索並生成回應</span></span><br><span class="line">response = rag_model.generate(query)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 RAG 類初始化了一個 RAG 模型，並指定了檢索器類型。然後，我們提供了一個查詢 <code>query</code>，並使用 <code>generate</code> 方法來檢索相關信息並生成回應。</p>
+<h5 id="上下文管理"><a href="#上下文管理" class="headerlink" title="上下文管理"></a>上下文管理</h5><p>LangChain 支持上下文管理，使模型能夠在會話中保持上下文。這對於構建聊天機器人和問答系統非常有用。</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Conversation</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化會話</span></span><br><span class="line">conversation = Conversation(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Hello, who won the World Series in 2020?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加更多上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Who was the MVP?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 <code>Conversation</code> 類初始化了一個會話，並逐步添加用戶輸入。模型能夠根據上下文生成更相關的回應。</p>
+<h4 id="5-自定義管道"><a href="#5-自定義管道" class="headerlink" title="5. 自定義管道"></a>5. 自定義管道</h4><p>LangChain 允許您創建自定義管道，以滿足特定應用需求。以下是一個自定義管道的簡單示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Pipeline</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定義自定義步驟</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">preprocess</span>(<span class="params">text</span>):</span><br><span class="line">    <span class="keyword">return</span> text.lower()</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">postprocess</span>(<span class="params">response</span>):</span><br><span class="line">    <span class="keyword">return</span> response.capitalize()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 創建管道</span></span><br><span class="line">pipeline = Pipeline(steps=[preprocess, <span class="string">&quot;gpt-3.5-turbo&quot;</span>, postprocess])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 使用管道生成文本</span></span><br><span class="line">prompt = <span class="string">&quot;Explain the significance of the moon landing.&quot;</span></span><br><span class="line">response = pipeline.run(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們定義了兩個自定義步驟 <code>preprocess</code> 和 <code>postprocess</code>，並將它們與模型集成到一個管道中。這允許我們在文本生成之前和之後對文本進行處理。</p>
+<h4 id="6-總結"><a href="#6-總結" class="headerlink" title="6. 總結"></a>6. 總結</h4><p>LangChain 是一個強大且靈活的開源框架，專門為 LLM 的使用和管理設計。無論是簡單的文本生成還是複雜的檢索增強生成，LangChain 都提供了豐富的功能來滿足您的需求。希望這篇入門教學能幫助您快速上手 LangChain，開發出強大的應用。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://ithelp.ithome.com.tw/articles/10318758">【Day10】Langchain 教學的簡單中文化</a></li>
+<li><a href="https://engineering.linecorp.com/zh-hant/blog/langchain-llm-linebot">line 透過 LangChain 打造一個股價查詢 LINEBot - 股價小幫手</a></li>
+<li><a href="https://github.com/FlowiseAI/Flowise?tab=readme-ov-file">Flowise - Build LLM Apps Easily</a></li>
+<li><a href="https://github.com/langchain-ai/langchain">LangChain github</a></li>
+<li><a href="https://www.langchain.com/langchain">LangChain’s flexible abstractions and AI-first toolkit make it the #1 choice for developers when building with GenAI.</a></li>
+<li><a href="https://www.langchain.asia/">langchain 教學</a></li>
+<li><a href="https://tw.alphacamp.co/blog/langchain-intro">LangChain是什麼？AI開發者必須了解的LLM開源框架</a></li>
+<li><a href="https://edge.aif.tw/application-langchain-rag/">利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題</a></li>
+<li><a href="https://edge.aif.tw/express-langchain-chatpdf/">利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點</a></li>
+<li><a href="https://aws.amazon.com/tw/what-is/langchain/">何謂 LangChain？</a></li>
+<li><a href="https://ithelp.ithome.com.tw/users/20120030/ironman/7039">全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) 系列</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LangChain</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</title>
     <url>/2024/05/22/llm-app-in-martech/</url>
     <content><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p>
@@ -253,55 +302,6 @@
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
-    <url>/2024/05/23/llm-langchain-notes/</url>
-    <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
-<h4 id="1-LangChain-介紹"><a href="#1-LangChain-介紹" class="headerlink" title="1. LangChain 介紹"></a>1. LangChain 介紹</h4><p>LangChain 是一個專為 LLM 設計的開源框架，提供了一系列工具和介面，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用。LangChain 支持多種 LLM，如 OpenAI 的 GPT 系列模型，並提供了豐富的功能來優化模型的性能和用戶體驗。</p>
-<h4 id="2-安裝-LangChain"><a href="#2-安裝-LangChain" class="headerlink" title="2. 安裝 LangChain"></a>2. 安裝 LangChain</h4><p>在開始使用 LangChain 之前，首先需要安裝它。您可以使用以下命令通過 pip 來安裝：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip install langchain</span><br></pre></td></tr></table></figure>
-
-<h4 id="3-基本使用"><a href="#3-基本使用" class="headerlink" title="3. 基本使用"></a>3. 基本使用</h4><p>LangChain 提供了一個簡單且一致的介面來使用各種 LLM。下面是如何使用 LangChain 進行基本文本生成的範例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> LanguageModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化模型</span></span><br><span class="line">model = LanguageModel(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 文字生成</span></span><br><span class="line">prompt = <span class="string">&quot;Write a poem about the sea.&quot;</span></span><br><span class="line">response = model.generate(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們首先導入了 LangChain 的 <code>LanguageModel</code> 類，並使用 <code>model_name</code> 指定我們要使用的模型。接著，我們提供一個提示語 <code>prompt</code>，並使用 <code>generate</code> 方法來生成文本。</p>
-<h4 id="4-高級功能"><a href="#4-高級功能" class="headerlink" title="4. 高級功能"></a>4. 高級功能</h4><p>LangChain 不僅支持基本的文本生成，還提供了許多高級功能，包括檢索增強生成（RAG）、上下文管理和自定義管道等。</p>
-<h5 id="檢索增強生成（RAG）"><a href="#檢索增強生成（RAG）" class="headerlink" title="檢索增強生成（RAG）"></a>檢索增強生成（RAG）</h5><p>RAG 是 LangChain 的一個強大功能，它結合了檢索和生成技術，提供更豐富和上下文相關的回應。以下是一個簡單的 RAG 示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> RAG</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化 RAG 模型</span></span><br><span class="line">rag_model = RAG(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>, retriever=<span class="string">&quot;dense&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 提供查詢</span></span><br><span class="line">query = <span class="string">&quot;What are the latest advancements in AI?&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 檢索並生成回應</span></span><br><span class="line">response = rag_model.generate(query)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們使用 RAG 類初始化了一個 RAG 模型，並指定了檢索器類型。然後，我們提供了一個查詢 <code>query</code>，並使用 <code>generate</code> 方法來檢索相關信息並生成回應。</p>
-<h5 id="上下文管理"><a href="#上下文管理" class="headerlink" title="上下文管理"></a>上下文管理</h5><p>LangChain 支持上下文管理，使模型能夠在會話中保持上下文。這對於構建聊天機器人和問答系統非常有用。</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Conversation</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化會話</span></span><br><span class="line">conversation = Conversation(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Hello, who won the World Series in 2020?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加更多上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Who was the MVP?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們使用 <code>Conversation</code> 類初始化了一個會話，並逐步添加用戶輸入。模型能夠根據上下文生成更相關的回應。</p>
-<h4 id="5-自定義管道"><a href="#5-自定義管道" class="headerlink" title="5. 自定義管道"></a>5. 自定義管道</h4><p>LangChain 允許您創建自定義管道，以滿足特定應用需求。以下是一個自定義管道的簡單示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Pipeline</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定義自定義步驟</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">preprocess</span>(<span class="params">text</span>):</span><br><span class="line">    <span class="keyword">return</span> text.lower()</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">postprocess</span>(<span class="params">response</span>):</span><br><span class="line">    <span class="keyword">return</span> response.capitalize()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 創建管道</span></span><br><span class="line">pipeline = Pipeline(steps=[preprocess, <span class="string">&quot;gpt-3.5-turbo&quot;</span>, postprocess])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 使用管道生成文本</span></span><br><span class="line">prompt = <span class="string">&quot;Explain the significance of the moon landing.&quot;</span></span><br><span class="line">response = pipeline.run(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們定義了兩個自定義步驟 <code>preprocess</code> 和 <code>postprocess</code>，並將它們與模型集成到一個管道中。這允許我們在文本生成之前和之後對文本進行處理。</p>
-<h4 id="6-總結"><a href="#6-總結" class="headerlink" title="6. 總結"></a>6. 總結</h4><p>LangChain 是一個強大且靈活的開源框架，專門為 LLM 的使用和管理設計。無論是簡單的文本生成還是複雜的檢索增強生成，LangChain 都提供了豐富的功能來滿足您的需求。希望這篇入門教學能幫助您快速上手 LangChain，開發出強大的應用。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://ithelp.ithome.com.tw/articles/10318758">【Day10】Langchain 教學的簡單中文化</a></li>
-<li><a href="https://engineering.linecorp.com/zh-hant/blog/langchain-llm-linebot">line 透過 LangChain 打造一個股價查詢 LINEBot - 股價小幫手</a></li>
-<li><a href="https://github.com/FlowiseAI/Flowise?tab=readme-ov-file">Flowise - Build LLM Apps Easily</a></li>
-<li><a href="https://github.com/langchain-ai/langchain">LangChain github</a></li>
-<li><a href="https://www.langchain.com/langchain">LangChain’s flexible abstractions and AI-first toolkit make it the #1 choice for developers when building with GenAI.</a></li>
-<li><a href="https://www.langchain.asia/">langchain 教學</a></li>
-<li><a href="https://tw.alphacamp.co/blog/langchain-intro">LangChain是什麼？AI開發者必須了解的LLM開源框架</a></li>
-<li><a href="https://edge.aif.tw/application-langchain-rag/">利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題</a></li>
-<li><a href="https://edge.aif.tw/express-langchain-chatpdf/">利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點</a></li>
-<li><a href="https://aws.amazon.com/tw/what-is/langchain/">何謂 LangChain？</a></li>
-<li><a href="https://ithelp.ithome.com.tw/users/20120030/ironman/7039">全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) 系列</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LangChain</tag>
       </tags>
   </entry>
   <entry>
@@ -833,59 +833,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《蛤蟆先生去看心理師》| 閱讀心得學習筆記</title>
-    <url>/2022/01/26/reading-notes-counselling-for-roads-a-psychological-adventure/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《蛤蟆先生去看心理師》</span><br><span class="line">作者： 羅伯．狄保德  </span><br><span class="line">原文作者： Robert de Board</span><br><span class="line">譯者： 張美惠</span><br><span class="line">繪者： Dinner Illustration</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「每個人生下來都是王子，卻被父母變成青蛙。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會，心理健康已逐漸被重視，但許多人仍對心理諮商存有疑慮。蛤蟆先生去看心理師透過<code>童話故事</code>的方式，<code>生動展現心理諮商的過程</code>，幫助讀者理解<code>心理治療</code>如何促進<code>個人成長</code>。本書不僅是一部<code>心理學入門書</code>，更是一場關於<code>自我覺察</code>與<code>情緒療癒</code>的旅程。</p>
-<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>心理諮商的過程</strong>  </p>
-<ul>
-<li>透過蛤蟆先生與心理師蒼鷺的 10 次諮商，呈現<code>心理治療的典型模式</code>。  </li>
-<li>解析個人如何透過<code>自我探索</code>，<code>理解過往經驗對自身行為的影響</code>。</li>
-</ul>
-</li>
-<li><p><strong>溝通分析（TA）理論應用</strong>  </p>
-<ul>
-<li>書中介紹 Eric Berne 的溝通分析理論，包括「<code>內在小孩</code>」、「<code>父母</code>」、「<code>成人</code>」三種自我狀態。  </li>
-<li>透過分析自己的內在對話，提升情緒智商。</li>
-</ul>
-</li>
-<li><p><strong>童年經歷與人格形成</strong>  </p>
-<ul>
-<li><code>童年的創傷</code>、<code>家庭環境對自我認同</code>的影響深遠。  </li>
-<li>透過諮商，蛤蟆先生重新審視自己的過去，<code>學習自我接納</code>與<code>成長</code>。</li>
-</ul>
-</li>
-<li><p><strong>心理遊戲與情緒模式</strong>  </p>
-<ul>
-<li>書中探討「<code>心理遊戲</code>」，如<code>受害者</code>、<code>迫害者</code>與<code>拯救者</code>的角色互動。  </li>
-<li>讀者可藉由案例，反思自己在人際關係中的模式。</li>
-</ul>
-</li>
-<li><p><strong>改變的可能與挑戰</strong>  </p>
-<ul>
-<li>真正的改變來自內在動機，外在壓力難以促成持久的改變。  </li>
-<li>成長是循序漸進的，必須經歷自我懷疑、掙扎與突破的過程。</li>
-</ul>
-</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>蛤蟆先生去看心理師 以輕鬆的方式傳遞深刻的心理學知識，讓讀者理解諮商如何幫助個人突破心理困境。無論是對心理學感興趣，或是想尋找內心平衡的人，都能在書中找到共鳴，並學習如何更好地理解自己與他人。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>蛤蟆先生去看心理師</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》| 閱讀心得學習筆記</title>
     <url>/2024/12/18/reading-notes-do-not-react-to-everything/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-react-to-everything-1.jpg"></p>
@@ -938,6 +885,59 @@
         <tag>別對每件事都有反應</tag>
         <tag>淡泊一點也無妨</tag>
         <tag>活出快意人生的99個禪練習</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《蛤蟆先生去看心理師》| 閱讀心得學習筆記</title>
+    <url>/2022/01/26/reading-notes-counselling-for-roads-a-psychological-adventure/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《蛤蟆先生去看心理師》</span><br><span class="line">作者： 羅伯．狄保德  </span><br><span class="line">原文作者： Robert de Board</span><br><span class="line">譯者： 張美惠</span><br><span class="line">繪者： Dinner Illustration</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「每個人生下來都是王子，卻被父母變成青蛙。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會，心理健康已逐漸被重視，但許多人仍對心理諮商存有疑慮。蛤蟆先生去看心理師透過<code>童話故事</code>的方式，<code>生動展現心理諮商的過程</code>，幫助讀者理解<code>心理治療</code>如何促進<code>個人成長</code>。本書不僅是一部<code>心理學入門書</code>，更是一場關於<code>自我覺察</code>與<code>情緒療癒</code>的旅程。</p>
+<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>心理諮商的過程</strong>  </p>
+<ul>
+<li>透過蛤蟆先生與心理師蒼鷺的 10 次諮商，呈現<code>心理治療的典型模式</code>。  </li>
+<li>解析個人如何透過<code>自我探索</code>，<code>理解過往經驗對自身行為的影響</code>。</li>
+</ul>
+</li>
+<li><p><strong>溝通分析（TA）理論應用</strong>  </p>
+<ul>
+<li>書中介紹 Eric Berne 的溝通分析理論，包括「<code>內在小孩</code>」、「<code>父母</code>」、「<code>成人</code>」三種自我狀態。  </li>
+<li>透過分析自己的內在對話，提升情緒智商。</li>
+</ul>
+</li>
+<li><p><strong>童年經歷與人格形成</strong>  </p>
+<ul>
+<li><code>童年的創傷</code>、<code>家庭環境對自我認同</code>的影響深遠。  </li>
+<li>透過諮商，蛤蟆先生重新審視自己的過去，<code>學習自我接納</code>與<code>成長</code>。</li>
+</ul>
+</li>
+<li><p><strong>心理遊戲與情緒模式</strong>  </p>
+<ul>
+<li>書中探討「<code>心理遊戲</code>」，如<code>受害者</code>、<code>迫害者</code>與<code>拯救者</code>的角色互動。  </li>
+<li>讀者可藉由案例，反思自己在人際關係中的模式。</li>
+</ul>
+</li>
+<li><p><strong>改變的可能與挑戰</strong>  </p>
+<ul>
+<li>真正的改變來自內在動機，外在壓力難以促成持久的改變。  </li>
+<li>成長是循序漸進的，必須經歷自我懷疑、掙扎與突破的過程。</li>
+</ul>
+</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>蛤蟆先生去看心理師 以輕鬆的方式傳遞深刻的心理學知識，讓讀者理解諮商如何幫助個人突破心理困境。無論是對心理學感興趣，或是想尋找內心平衡的人，都能在書中找到共鳴，並學習如何更好地理解自己與他人。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>蛤蟆先生去看心理師</tag>
       </tags>
   </entry>
   <entry>
@@ -1448,52 +1448,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》| 閱讀心得學習筆記</title>
-    <url>/2025/01/09/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「無論情況多麼絕望，人永遠不會沒有選擇。人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。」  </p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。本書由精神科醫師戈登．李文斯頓博士以自身經歷與診療室故事，萃取出30則人生智慧，幫助讀者正視恐懼、調適情緒、經營關係，並掌握人生主導權。這不只是一本療癒書，更是一場勇敢面對人生挑戰的啟發之旅。</p>
-<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-做自己：勇敢迎接未知"><a href="#1-做自己：勇敢迎接未知" class="headerlink" title="1. 做自己：勇敢迎接未知"></a><strong>1. 做自己：勇敢迎接未知</strong></h4><ul>
-<li><code>人生是一場賭局</code>，我們無法選擇手中的牌，<code>但能決定如何打好這副牌</code>。</li>
-<li><code>冒險</code>是成長的必要條件，害怕改變往往是最大的枷鎖。</li>
-</ul>
-<h4 id="2-勇氣篇：打破內心的牢籠"><a href="#2-勇氣篇：打破內心的牢籠" class="headerlink" title="2. 勇氣篇：打破內心的牢籠"></a><strong>2. 勇氣篇：打破內心的牢籠</strong></h4><ul>
-<li>最堅固的牢房是我們親手打造的，<code>恐懼與焦慮</code>常阻礙我們追尋快樂。</li>
-<li>勇敢不是沒有害怕，而是<code>即使害怕仍然前進</code>。</li>
-</ul>
-<h4 id="3-情緒篇：選擇希望而非絕望"><a href="#3-情緒篇：選擇希望而非絕望" class="headerlink" title="3. 情緒篇：選擇希望而非絕望"></a><strong>3. 情緒篇：選擇希望而非絕望</strong></h4><ul>
-<li><code>人生即使困難，仍有選擇的空間</code>，只要我們願意尋找新的可能。</li>
-<li><code>轉念</code>是關鍵，問題的核心往往不在事件本身，而在我們<code>如何看待它</code>。</li>
-</ul>
-<h4 id="4-關係篇：給孩子最好的禮物"><a href="#4-關係篇：給孩子最好的禮物" class="headerlink" title="4. 關係篇：給孩子最好的禮物"></a><strong>4. 關係篇：給孩子最好的禮物</strong></h4><ul>
-<li>教養的本質是讓孩子相信，<code>在這個世界上仍然能夠快樂生活</code>。</li>
-<li><code>陪伴與支持</code>，<code>比任何說教更能帶來安全感</code>。</li>
-</ul>
-<h4 id="5-愛情篇：如何愛與被愛"><a href="#5-愛情篇：如何愛與被愛" class="headerlink" title="5. 愛情篇：如何愛與被愛"></a><strong>5. 愛情篇：如何愛與被愛</strong></h4><ul>
-<li>婚姻需要<code>雙方共同經營</code>，但<code>只要一方選擇退出，就足以結束一段關係</code>。</li>
-<li>真正的愛不是<code>掌控</code>與<code>依賴</code>，而是<code>尊重</code>與<code>包容</code>。</li>
-</ul>
-<h4 id="6-老去篇：死亡無法抹去愛"><a href="#6-老去篇：死亡無法抹去愛" class="headerlink" title="6. 老去篇：死亡無法抹去愛"></a><strong>6. 老去篇：死亡無法抹去愛</strong></h4><ul>
-<li>失去所愛之人，並不意味著愛的消失，而是提醒我們<code>珍惜擁有的當下</code>。</li>
-<li>生命的意義，不在於逃避死亡，而在於<code>勇敢地活著</code>。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>戈登．李文斯頓博士以親身經歷和臨床觀察，為我們提供了一面人生的鏡子，提醒我們選擇勇敢、擁抱改變、珍惜愛與當下。這本書不只是關於療癒，更是關於活出更有力量的自己。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>這一生，你要體會的30件事</tag>
-        <tag>精神科醫師最犀利的人生告白</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》 | 閱讀心得學習筆記</title>
     <url>/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-1.jpg"></p>
@@ -1541,6 +1495,53 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>產品專案管理專案全書</tag>
         <tag>產品營運模式轉型全書</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》| 閱讀心得學習筆記</title>
+    <url>/2025/01/09/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》</span><br><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+
+<blockquote>
+<p>「無論情況多麼絕望，人永遠不會沒有選擇。人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。」  </p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。本書由精神科醫師戈登．李文斯頓博士以自身經歷與診療室故事，萃取出30則人生智慧，幫助讀者正視恐懼、調適情緒、經營關係，並掌握人生主導權。這不只是一本療癒書，更是一場勇敢面對人生挑戰的啟發之旅。</p>
+<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-做自己：勇敢迎接未知"><a href="#1-做自己：勇敢迎接未知" class="headerlink" title="1. 做自己：勇敢迎接未知"></a><strong>1. 做自己：勇敢迎接未知</strong></h4><ul>
+<li><code>人生是一場賭局</code>，我們無法選擇手中的牌，<code>但能決定如何打好這副牌</code>。</li>
+<li><code>冒險</code>是成長的必要條件，害怕改變往往是最大的枷鎖。</li>
+</ul>
+<h4 id="2-勇氣篇：打破內心的牢籠"><a href="#2-勇氣篇：打破內心的牢籠" class="headerlink" title="2. 勇氣篇：打破內心的牢籠"></a><strong>2. 勇氣篇：打破內心的牢籠</strong></h4><ul>
+<li>最堅固的牢房是我們親手打造的，<code>恐懼與焦慮</code>常阻礙我們追尋快樂。</li>
+<li>勇敢不是沒有害怕，而是<code>即使害怕仍然前進</code>。</li>
+</ul>
+<h4 id="3-情緒篇：選擇希望而非絕望"><a href="#3-情緒篇：選擇希望而非絕望" class="headerlink" title="3. 情緒篇：選擇希望而非絕望"></a><strong>3. 情緒篇：選擇希望而非絕望</strong></h4><ul>
+<li><code>人生即使困難，仍有選擇的空間</code>，只要我們願意尋找新的可能。</li>
+<li><code>轉念</code>是關鍵，問題的核心往往不在事件本身，而在我們<code>如何看待它</code>。</li>
+</ul>
+<h4 id="4-關係篇：給孩子最好的禮物"><a href="#4-關係篇：給孩子最好的禮物" class="headerlink" title="4. 關係篇：給孩子最好的禮物"></a><strong>4. 關係篇：給孩子最好的禮物</strong></h4><ul>
+<li>教養的本質是讓孩子相信，<code>在這個世界上仍然能夠快樂生活</code>。</li>
+<li><code>陪伴與支持</code>，<code>比任何說教更能帶來安全感</code>。</li>
+</ul>
+<h4 id="5-愛情篇：如何愛與被愛"><a href="#5-愛情篇：如何愛與被愛" class="headerlink" title="5. 愛情篇：如何愛與被愛"></a><strong>5. 愛情篇：如何愛與被愛</strong></h4><ul>
+<li>婚姻需要<code>雙方共同經營</code>，但<code>只要一方選擇退出，就足以結束一段關係</code>。</li>
+<li>真正的愛不是<code>掌控</code>與<code>依賴</code>，而是<code>尊重</code>與<code>包容</code>。</li>
+</ul>
+<h4 id="6-老去篇：死亡無法抹去愛"><a href="#6-老去篇：死亡無法抹去愛" class="headerlink" title="6. 老去篇：死亡無法抹去愛"></a><strong>6. 老去篇：死亡無法抹去愛</strong></h4><ul>
+<li>失去所愛之人，並不意味著愛的消失，而是提醒我們<code>珍惜擁有的當下</code>。</li>
+<li>生命的意義，不在於逃避死亡，而在於<code>勇敢地活著</code>。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>戈登．李文斯頓博士以親身經歷和臨床觀察，為我們提供了一面人生的鏡子，提醒我們選擇勇敢、擁抱改變、珍惜愛與當下。這本書不只是關於療癒，更是關於活出更有力量的自己。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>這一生，你要體會的30件事</tag>
+        <tag>精神科醫師最犀利的人生告白</tag>
       </tags>
   </entry>
   <entry>
