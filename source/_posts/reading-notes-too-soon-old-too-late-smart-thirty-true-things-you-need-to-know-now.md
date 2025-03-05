@@ -16,12 +16,15 @@ tags:
 
 ![](img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-1.jpg)
 
+
 ```
+《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》
 作者： 戈登．李文斯頓  
 原文作者： Gordon Livingston
 譯者： 吳宜蓁
 出版社：商業周刊
 ```
+
 
 >「無論情況多麼絕望，人永遠不會沒有選擇。人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。」  
 
