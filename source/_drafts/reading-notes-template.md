@@ -40,5 +40,7 @@ tags:
 👇 網頁好讀版
 https://www.kdchang.net
 👋 追蹤最新職場人生閱讀筆記 KD 職場人生閱讀筆記
+https://www.facebook.com/kdchang.net
+https://www.instagram.com/kdchang_net/
 
 #書 #重點書摘 #閱讀書單 #推薦書單 #閱讀 #閱讀筆記 #閱讀心得 #書摘 #reading #books #book #learning #學習
