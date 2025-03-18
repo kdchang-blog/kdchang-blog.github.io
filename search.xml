@@ -256,6 +256,44 @@
       </tags>
   </entry>
   <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
     <url>/2024/05/23/llm-langchain-notes/</url>
     <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
@@ -302,44 +340,6 @@
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
         <tag>LangChain</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -833,6 +833,38 @@
       </tags>
   </entry>
   <entry>
+    <title>《每一天練習照顧自己:當我們為自己負起責任, 就能真正放手, 做自己》| 閱讀心得學習筆記</title>
+    <url>/2014/07/01/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《每一天練習照顧自己: 當我們為自己負起責任, 就能真正放手, 做自己》</span><br><span class="line">作者：梅樂蒂．碧緹</span><br><span class="line">譯者：林卓君</span><br><span class="line">出版社：遠流出版事業股份有限公司</span><br><span class="line">出版日期：2014/07/01</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「我們的幸福與快樂並非源自於他人，而是出自於自己。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《每一天練習照顧自己》是梅樂蒂·碧緹的代表作，這本書深入探討了如何放下過去，勇敢面對自己，並在繁忙的生活中找到內心的自由與平靜。作者結合自身經歷，提供了實用的建議與練習，幫助讀者放下執著、建立自我關愛，並最終實現與自己和解、活出自我。本書的價值在於提醒每一位讀者，真正的幸福來自於自己，而非依賴他人來給予。</p>
+<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>放下執著</strong>：放手不再執著於過去的痛苦與他人對自己的看法，學會接納並關照自己，活出自由與獨立。</li>
+<li><strong>照顧自己</strong>：不再讓自己成為他人情感的附庸，先學會愛自己，才能夠為他人提供真誠的愛。</li>
+<li><strong>走出受害者心態</strong>：不再將自己定位為<code>受害者</code>，<code>勇敢負責</code>，<code>學會從困境中找到成長的契機</code>。</li>
+<li><strong>情緒管理</strong>：<code>學會處理憤怒</code>與<code>負面情緒</code>，尋找積極的方式<code>釋放情感</code>，並讓自己<code>保持內心的平衡</code>。</li>
+<li><strong>設定個人目標</strong>：清楚地為自己<code>設定人生目標</code>，並以此作為動力去實現自我價值。</li>
+<li><strong>自我愛戀</strong>：與自己建立良好的關係，<code>從內心開始愛自己</code>，讓自己過得<code>快樂</code>、<code>自在</code>。</li>
+<li><strong>練習放手</strong>：書中提供了具體的練習活動，幫助讀者每天都在<code>放下執著中找到力量</code>，<code>逐漸釋放不必要的壓力</code>。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《每一天練習照顧自己》不僅是一部心理勵志書籍，它是一份深入人心的生命指南，讓人重新理解如何擁抱自己，放下過去的包袱，活出真正的自我。作者梅樂蒂·碧緹透過自身的生命經歷，告訴我們，真正的自由來自於自我關愛與放手。當我們<code>學會照顧自己</code>，<code>接受不完美的自己</code>，並勇敢地走出過去的陰霾時，生活自然會變得更加豐富與美好。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>運氣好的人</tag>
+        <tag>運氣</tag>
+        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《蛤蟆先生去看心理師》| 閱讀心得學習筆記</title>
     <url>/2022/01/26/reading-notes-counselling-for-roads-a-psychological-adventure/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-1.jpg"></p>
@@ -883,38 +915,6 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>蛤蟆先生去看心理師</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《每一天練習照顧自己:當我們為自己負起責任, 就能真正放手, 做自己》| 閱讀心得學習筆記</title>
-    <url>/2014/07/01/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《每一天練習照顧自己: 當我們為自己負起責任, 就能真正放手, 做自己》</span><br><span class="line">作者：梅樂蒂．碧緹</span><br><span class="line">譯者：林卓君</span><br><span class="line">出版社：遠流出版事業股份有限公司</span><br><span class="line">出版日期：2014/07/01</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「我們的幸福與快樂並非源自於他人，而是出自於自己。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《每一天練習照顧自己》是梅樂蒂·碧緹的代表作，這本書深入探討了如何放下過去，勇敢面對自己，並在繁忙的生活中找到內心的自由與平靜。作者結合自身經歷，提供了實用的建議與練習，幫助讀者放下執著、建立自我關愛，並最終實現與自己和解、活出自我。本書的價值在於提醒每一位讀者，真正的幸福來自於自己，而非依賴他人來給予。</p>
-<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>放下執著</strong>：放手不再執著於過去的痛苦與他人對自己的看法，學會接納並關照自己，活出自由與獨立。</li>
-<li><strong>照顧自己</strong>：不再讓自己成為他人情感的附庸，先學會愛自己，才能夠為他人提供真誠的愛。</li>
-<li><strong>走出受害者心態</strong>：不再將自己定位為<code>受害者</code>，<code>勇敢負責</code>，<code>學會從困境中找到成長的契機</code>。</li>
-<li><strong>情緒管理</strong>：<code>學會處理憤怒</code>與<code>負面情緒</code>，尋找積極的方式<code>釋放情感</code>，並讓自己<code>保持內心的平衡</code>。</li>
-<li><strong>設定個人目標</strong>：清楚地為自己<code>設定人生目標</code>，並以此作為動力去實現自我價值。</li>
-<li><strong>自我愛戀</strong>：與自己建立良好的關係，<code>從內心開始愛自己</code>，讓自己過得<code>快樂</code>、<code>自在</code>。</li>
-<li><strong>練習放手</strong>：書中提供了具體的練習活動，幫助讀者每天都在<code>放下執著中找到力量</code>，<code>逐漸釋放不必要的壓力</code>。</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《每一天練習照顧自己》不僅是一部心理勵志書籍，它是一份深入人心的生命指南，讓人重新理解如何擁抱自己，放下過去的包袱，活出真正的自我。作者梅樂蒂·碧緹透過自身的生命經歷，告訴我們，真正的自由來自於自我關愛與放手。當我們<code>學會照顧自己</code>，<code>接受不完美的自己</code>，並勇敢地走出過去的陰霾時，生活自然會變得更加豐富與美好。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>運氣好的人</tag>
-        <tag>運氣</tag>
-        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
       </tags>
   </entry>
   <entry>
@@ -1298,6 +1298,36 @@
       </tags>
   </entry>
   <entry>
+    <title>《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》| 閱讀心得學習筆記</title>
+    <url>/2024/08/19/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》</span><br><span class="line">作者： 中野信子</span><br><span class="line">譯者： 陳亦苓</span><br><span class="line">出版社：悅知文化</span><br><span class="line">出版日期：2024/08/19</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「運氣並非與生俱來，而是會隨著「思維」及「行為模式」而改變的。運氣，100% 事在人為。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>運氣是許多人認為無法控制的因素，但在中野信子的著作中，他揭示了<code>運氣其實是可以透過思維</code>與<code>行為的模式來改變</code>的。書中指出，幸運並非天賦，而是可以透過<code>對大腦的訓練</code>與調整，從而讓自己成為「<code>運氣好的人</code>」。本書從腦科學的角度出發，為讀者提供了實踐「幸運腦」的具體方法，讓每個人都能夠掌控自己的人生，並提升自己的運氣。</p>
+<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>運氣的改變</strong>：運氣不是天生的，透過<code>改變思維</code>和<code>行為模式</code>，<code>運氣是可以被控制的</code>。</li>
+<li><strong>幸福標準</strong>：運氣好的人擁有自己的<code>幸福標準</code>，並依此來決定目標與夢想。</li>
+<li><strong>正向思維</strong>：<code>保持正面的自我形象</code>，並大聲說出「<code>我好幸運</code>」，能激發大腦的積極反應，促使好運降臨。</li>
+<li><strong>行為模式</strong>：<code>採取利他行為</code>，讓大腦的「<code>內側前額葉皮質</code>」活躍，帶來更多愉悅感。</li>
+<li><strong>祈禱與幻想</strong>：<code>積極的祈禱</code>和<code>積極幻想</code>能激活大腦中的快樂神經，促進運氣的提升。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅從腦科學的角度解析運氣的科學，還為讀者提供了 36 個能讓大腦轉變成「幸運腦」的具體方法。無論在職場、人際關係，還是戀愛中，運氣都可以被創造出來。透過這些方法，每個人都可以掌控自己的命運，迎接更多的好運與機會。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>運氣好的人</tag>
+        <tag>運氣</tag>
+        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《矽谷最夯．產品專案行銷全書：破解世界級爆款產品，重新定義產品行銷力》 | 閱讀心得學習筆記</title>
     <url>/2025/02/13/reading-notes-loved-how-to-rethink-marketing-for-tech-products/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-loved-how-to-rethink-marketing-for-tech-products-1.jpg"></p>
@@ -1353,36 +1383,6 @@
         <tag>marketing</tag>
         <tag>產案行銷</tag>
         <tag>Product Marketing Manager</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》| 閱讀心得學習筆記</title>
-    <url>/2024/08/19/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》</span><br><span class="line">作者： 中野信子</span><br><span class="line">譯者： 陳亦苓</span><br><span class="line">出版社：悅知文化</span><br><span class="line">出版日期：2024/08/19</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「運氣並非與生俱來，而是會隨著「思維」及「行為模式」而改變的。運氣，100% 事在人為。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>運氣是許多人認為無法控制的因素，但在中野信子的著作中，他揭示了<code>運氣其實是可以透過思維</code>與<code>行為的模式來改變</code>的。書中指出，幸運並非天賦，而是可以透過<code>對大腦的訓練</code>與調整，從而讓自己成為「<code>運氣好的人</code>」。本書從腦科學的角度出發，為讀者提供了實踐「幸運腦」的具體方法，讓每個人都能夠掌控自己的人生，並提升自己的運氣。</p>
-<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>運氣的改變</strong>：運氣不是天生的，透過<code>改變思維</code>和<code>行為模式</code>，<code>運氣是可以被控制的</code>。</li>
-<li><strong>幸福標準</strong>：運氣好的人擁有自己的<code>幸福標準</code>，並依此來決定目標與夢想。</li>
-<li><strong>正向思維</strong>：<code>保持正面的自我形象</code>，並大聲說出「<code>我好幸運</code>」，能激發大腦的積極反應，促使好運降臨。</li>
-<li><strong>行為模式</strong>：<code>採取利他行為</code>，讓大腦的「<code>內側前額葉皮質</code>」活躍，帶來更多愉悅感。</li>
-<li><strong>祈禱與幻想</strong>：<code>積極的祈禱</code>和<code>積極幻想</code>能激活大腦中的快樂神經，促進運氣的提升。</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅從腦科學的角度解析運氣的科學，還為讀者提供了 36 個能讓大腦轉變成「幸運腦」的具體方法。無論在職場、人際關係，還是戀愛中，運氣都可以被創造出來。透過這些方法，每個人都可以掌控自己的命運，迎接更多的好運與機會。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>運氣好的人</tag>
-        <tag>運氣</tag>
-        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
       </tags>
   </entry>
   <entry>
@@ -1682,7 +1682,7 @@
 </ul>
 </li>
 </ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《出走的65天》是一部關於人生轉折與成長的真摯旅程。作者以旅行為媒介，探討中年迷惘、人生選擇與心靈成長。他們的經歷提醒我們，真正的改變來自於行動，而旅行則是讓生活慢慢變好的開始。無論年齡如何，我們都可以選擇出發，找到屬於自己的旅程與人生答案。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《那些旅行教我的事》是一部關於人生轉折與成長的真摯旅程。作者以旅行為媒介，探討中年迷惘、人生選擇與心靈成長。他們的經歷提醒我們，真正的改變來自於行動，而旅行則是讓生活慢慢變好的開始。無論年齡如何，我們都可以選擇出發，找到屬於自己的旅程與人生答案。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
