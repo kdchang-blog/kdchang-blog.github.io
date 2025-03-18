@@ -256,44 +256,6 @@
       </tags>
   </entry>
   <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
     <url>/2024/05/23/llm-langchain-notes/</url>
     <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
@@ -340,6 +302,44 @@
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
         <tag>LangChain</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -1328,64 +1328,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《矽谷最夯．產品專案行銷全書：破解世界級爆款產品，重新定義產品行銷力》 | 閱讀心得學習筆記</title>
-    <url>/2025/02/13/reading-notes-loved-how-to-rethink-marketing-for-tech-products/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-loved-how-to-rethink-marketing-for-tech-products-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《矽谷最夯．產品專案行銷全書：破解世界級爆款產品，重新定義產品行銷力》</span><br><span class="line">Loved: How to Rethink Marketing for Tech Products</span><br><span class="line">作者： 瑪蒂娜．羅琛科  </span><br><span class="line">原文作者： Martina Lauchengco</span><br><span class="line">譯者： 陳文和</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「將功能轉為價值，才是產品真正的語言。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>矽谷最夯產品行銷全書是矽谷行銷專家瑪蒂娜．羅琛科結合自身於微軟、網景及多家新創公司的實戰經驗，所撰寫的一部產品行銷權威指南。書中強調產品行銷不僅是宣傳產品，更是串聯產品、行銷、市場三方洞察，塑造產品價值，使產品與市場完美適配。本書適合行銷新手與專業人士，有助於了解如何推動產品採用曲線，實現業績成長。</p>
-<p><img src="/img/posts/reading-notes-loved-how-to-rethink-marketing-for-tech-products-2.jpg"></p>
-<h1 id="重點摘要："><a href="#重點摘要：" class="headerlink" title="重點摘要："></a>重點摘要：</h1><ol>
-<li><p>產品價值導向：</p>
-<ul>
-<li>強調「<code>價值感知</code>」，非僅描述功能；溝通產品如何解決客戶痛點。</li>
-<li>案例：Expensify 以「簡化報帳」訊息勝出。</li>
-</ul>
-</li>
-<li><p>產品採用生命週期：</p>
-<ul>
-<li>針對早期採用者、大眾市場<code>分階段調整行銷策略</code>。</li>
-<li>案例：iPhone 分期推出功能滿足不同群體。</li>
-</ul>
-</li>
-<li><p>進入市場策略：</p>
-<ul>
-<li>結合產品、行銷、銷售團隊洞察，打造一致的 Go-to-Market 策略。</li>
-<li>案例：Bandwidth 化解跨部門目標不一難題。</li>
-</ul>
-</li>
-<li><p>說故事能力：</p>
-<ul>
-<li>以<code>故事</code>打動人心，讓產品價值深入人心。</li>
-<li>案例：Netflix 用「隨選隨看」革新娛樂消費方式。</li>
-</ul>
-</li>
-<li><p>動態調整：</p>
-<ul>
-<li>根據<code>市場回饋</code>，即時調整行銷策略，保持產品市場適配。</li>
-</ul>
-</li>
-</ol>
-<h1 id="總結："><a href="#總結：" class="headerlink" title="總結："></a>總結：</h1><p>產品行銷是連結產品與市場的關鍵橋樑，不僅強化產品價值，更驅動公司成長。理解顧客需求、善用採用曲線、整合跨部門資源，是產品行銷成功的三大關鍵。</p>
-]]></content>
-      <tags>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>矽谷最夯‧產品專案領導力全書</tag>
-        <tag>產品專案行銷全書</tag>
-        <tag>重新定義產品行銷力</tag>
-        <tag>marketing</tag>
-        <tag>產案行銷</tag>
-        <tag>Product Marketing Manager</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《非暴力溝通：愛的語言》| 閱讀心得學習筆記</title>
     <url>/2019/08/01/reading-notes-nonviolent-communication-a-language-of-life/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-nonviolent-communication-a-language-of-life-1.jpg"></p>
@@ -1637,6 +1579,64 @@
         <tag>別對每件事都有反應</tag>
         <tag>別對每件事都有反應2</tag>
         <tag>不執著的練習</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《矽谷最夯．產品專案行銷全書：破解世界級爆款產品，重新定義產品行銷力》 | 閱讀心得學習筆記</title>
+    <url>/2025/02/13/reading-notes-loved-how-to-rethink-marketing-for-tech-products/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-loved-how-to-rethink-marketing-for-tech-products-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《矽谷最夯．產品專案行銷全書：破解世界級爆款產品，重新定義產品行銷力》</span><br><span class="line">Loved: How to Rethink Marketing for Tech Products</span><br><span class="line">作者： 瑪蒂娜．羅琛科  </span><br><span class="line">原文作者： Martina Lauchengco</span><br><span class="line">譯者： 陳文和</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「將功能轉為價值，才是產品真正的語言。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>矽谷最夯產品行銷全書是矽谷行銷專家瑪蒂娜．羅琛科結合自身於微軟、網景及多家新創公司的實戰經驗，所撰寫的一部產品行銷權威指南。書中強調產品行銷不僅是宣傳產品，更是串聯產品、行銷、市場三方洞察，塑造產品價值，使產品與市場完美適配。本書適合行銷新手與專業人士，有助於了解如何推動產品採用曲線，實現業績成長。</p>
+<p><img src="/img/posts/reading-notes-loved-how-to-rethink-marketing-for-tech-products-2.jpg"></p>
+<h1 id="重點摘要："><a href="#重點摘要：" class="headerlink" title="重點摘要："></a>重點摘要：</h1><ol>
+<li><p>產品價值導向：</p>
+<ul>
+<li>強調「<code>價值感知</code>」，非僅描述功能；溝通產品如何解決客戶痛點。</li>
+<li>案例：Expensify 以「簡化報帳」訊息勝出。</li>
+</ul>
+</li>
+<li><p>產品採用生命週期：</p>
+<ul>
+<li>針對早期採用者、大眾市場<code>分階段調整行銷策略</code>。</li>
+<li>案例：iPhone 分期推出功能滿足不同群體。</li>
+</ul>
+</li>
+<li><p>進入市場策略：</p>
+<ul>
+<li>結合產品、行銷、銷售團隊洞察，打造一致的 Go-to-Market 策略。</li>
+<li>案例：Bandwidth 化解跨部門目標不一難題。</li>
+</ul>
+</li>
+<li><p>說故事能力：</p>
+<ul>
+<li>以<code>故事</code>打動人心，讓產品價值深入人心。</li>
+<li>案例：Netflix 用「隨選隨看」革新娛樂消費方式。</li>
+</ul>
+</li>
+<li><p>動態調整：</p>
+<ul>
+<li>根據<code>市場回饋</code>，即時調整行銷策略，保持產品市場適配。</li>
+</ul>
+</li>
+</ol>
+<h1 id="總結："><a href="#總結：" class="headerlink" title="總結："></a>總結：</h1><p>產品行銷是連結產品與市場的關鍵橋樑，不僅強化產品價值，更驅動公司成長。理解顧客需求、善用採用曲線、整合跨部門資源，是產品行銷成功的三大關鍵。</p>
+]]></content>
+      <tags>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>矽谷最夯‧產品專案領導力全書</tag>
+        <tag>產品專案行銷全書</tag>
+        <tag>重新定義產品行銷力</tag>
+        <tag>marketing</tag>
+        <tag>產案行銷</tag>
+        <tag>Product Marketing Manager</tag>
       </tags>
   </entry>
   <entry>
