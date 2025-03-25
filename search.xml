@@ -305,6 +305,44 @@
       </tags>
   </entry>
   <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學</title>
     <url>/2024/05/23/llm-rag-app-notes/</url>
     <content><![CDATA[<p>擷取擴增產生&#x2F;檢索增強生成（Retrieval-Augmented Generation, RAG）是一種結合檢索和生成技術的混合模型，用於改善文本生成任務的性能。這種方法能夠在生成文本時引入外部知識，從而生成更準確和上下文相關的內容。以下是對 RAG 的詳細介紹：</p>
@@ -400,44 +438,6 @@
       </tags>
   </entry>
   <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽</title>
     <url>/2024/05/27/product-manager-career-development-notes-01-overview/</url>
     <content><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><p>Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 <code>outcome</code> 而非 <code>output</code> 並管理整個產品生命週期（<code>發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現</code>）。在目前許多數位科技公司（網路軟體公司）：設計師、工程師和產品經理三人合稱產品三劍客。</p>
@@ -529,36 +529,6 @@
       </tags>
   </entry>
   <entry>
-    <title>產品經理（Product Manager, PM）課程學習參考清單</title>
-    <url>/2024/06/03/product-manager-course-list/</url>
-    <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
-<li><a href="https://www.pressplay.cc/project/D7BB1024574FB1E143B45A933009E02C/about">產品經理學習營第六屆</a></li>
-<li><a href="https://hahow.in/courses/5d3583687f99a20021f7ebaf">產品思維：Spotify 產品經理帶你快速入門</a></li>
-<li><a href="https://hahow.in/courses/5e689828e612310028027876">產品數據分析 - 打造網路產品的決策引擎</a></li>
-<li><a href="https://hahow.in/courses/5c8e0a0a8d1cc80020951f1a">產品經理職場學：PM 必修的職涯指南！</a></li>
-<li><a href="https://www.pressplay.cc/project/E4C9F63270ADB7ECA54C1D6B1BB84905/about">產品思維－像產品經理一樣思考</a></li>
-<li><a href="https://sat.cool/course/89">產品思維養成術｜從觀念到實踐，矽谷產品經理帶你掌握產品全貌觀</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>產案管理</tag>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>PM</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>書籍</tag>
-        <tag>清單</tag>
-        <tag>課程</tag>
-        <tag>course</tag>
-        <tag>Online Course</tag>
-        <tag>線上課程</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>產品經理（Product Manager, PM）面試學習筆記 - [1] 總覽</title>
     <url>/2024/05/25/product-manager-interview-notes/</url>
     <content><![CDATA[<h1 id="PM-面試設計"><a href="#PM-面試設計" class="headerlink" title="PM 面試設計"></a>PM 面試設計</h1><p>隨著工作經驗的累積，漸漸會有機會參與面試成為面試官，如何設計 PM 面試流程也是資深產品經理必須學習的重要課題。</p>
@@ -586,6 +556,36 @@
         <tag>PM Interview</tag>
         <tag>PM 面試</tag>
         <tag>面試</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>產品經理（Product Manager, PM）課程學習參考清單</title>
+    <url>/2024/06/03/product-manager-course-list/</url>
+    <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
+<li><a href="https://www.pressplay.cc/project/D7BB1024574FB1E143B45A933009E02C/about">產品經理學習營第六屆</a></li>
+<li><a href="https://hahow.in/courses/5d3583687f99a20021f7ebaf">產品思維：Spotify 產品經理帶你快速入門</a></li>
+<li><a href="https://hahow.in/courses/5e689828e612310028027876">產品數據分析 - 打造網路產品的決策引擎</a></li>
+<li><a href="https://hahow.in/courses/5c8e0a0a8d1cc80020951f1a">產品經理職場學：PM 必修的職涯指南！</a></li>
+<li><a href="https://www.pressplay.cc/project/E4C9F63270ADB7ECA54C1D6B1BB84905/about">產品思維－像產品經理一樣思考</a></li>
+<li><a href="https://sat.cool/course/89">產品思維養成術｜從觀念到實踐，矽谷產品經理帶你掌握產品全貌觀</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>產案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>PM</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>書籍</tag>
+        <tag>清單</tag>
+        <tag>課程</tag>
+        <tag>course</tag>
+        <tag>Online Course</tag>
+        <tag>線上課程</tag>
       </tags>
   </entry>
   <entry>
@@ -1298,36 +1298,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》| 閱讀心得學習筆記</title>
-    <url>/2024/08/19/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》</span><br><span class="line">作者： 中野信子</span><br><span class="line">譯者： 陳亦苓</span><br><span class="line">出版社：悅知文化</span><br><span class="line">出版日期：2024/08/19</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「運氣並非與生俱來，而是會隨著「思維」及「行為模式」而改變的。運氣，100% 事在人為。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>運氣是許多人認為無法控制的因素，但在中野信子的著作中，他揭示了<code>運氣其實是可以透過思維</code>與<code>行為的模式來改變</code>的。書中指出，幸運並非天賦，而是可以透過<code>對大腦的訓練</code>與調整，從而讓自己成為「<code>運氣好的人</code>」。本書從腦科學的角度出發，為讀者提供了實踐「幸運腦」的具體方法，讓每個人都能夠掌控自己的人生，並提升自己的運氣。</p>
-<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>運氣的改變</strong>：運氣不是天生的，透過<code>改變思維</code>和<code>行為模式</code>，<code>運氣是可以被控制的</code>。</li>
-<li><strong>幸福標準</strong>：運氣好的人擁有自己的<code>幸福標準</code>，並依此來決定目標與夢想。</li>
-<li><strong>正向思維</strong>：<code>保持正面的自我形象</code>，並大聲說出「<code>我好幸運</code>」，能激發大腦的積極反應，促使好運降臨。</li>
-<li><strong>行為模式</strong>：<code>採取利他行為</code>，讓大腦的「<code>內側前額葉皮質</code>」活躍，帶來更多愉悅感。</li>
-<li><strong>祈禱與幻想</strong>：<code>積極的祈禱</code>和<code>積極幻想</code>能激活大腦中的快樂神經，促進運氣的提升。</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅從腦科學的角度解析運氣的科學，還為讀者提供了 36 個能讓大腦轉變成「幸運腦」的具體方法。無論在職場、人際關係，還是戀愛中，運氣都可以被創造出來。透過這些方法，每個人都可以掌控自己的命運，迎接更多的好運與機會。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>運氣好的人</tag>
-        <tag>運氣</tag>
-        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《矽谷最夯．產品專案行銷全書：破解世界級爆款產品，重新定義產品行銷力》 | 閱讀心得學習筆記</title>
     <url>/2025/02/13/reading-notes-loved-how-to-rethink-marketing-for-tech-products/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-loved-how-to-rethink-marketing-for-tech-products-1.jpg"></p>
@@ -1383,6 +1353,36 @@
         <tag>marketing</tag>
         <tag>產案行銷</tag>
         <tag>Product Marketing Manager</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》| 閱讀心得學習筆記</title>
+    <url>/2024/08/19/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》</span><br><span class="line">作者： 中野信子</span><br><span class="line">譯者： 陳亦苓</span><br><span class="line">出版社：悅知文化</span><br><span class="line">出版日期：2024/08/19</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「運氣並非與生俱來，而是會隨著「思維」及「行為模式」而改變的。運氣，100% 事在人為。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>運氣是許多人認為無法控制的因素，但在中野信子的著作中，他揭示了<code>運氣其實是可以透過思維</code>與<code>行為的模式來改變</code>的。書中指出，幸運並非天賦，而是可以透過<code>對大腦的訓練</code>與調整，從而讓自己成為「<code>運氣好的人</code>」。本書從腦科學的角度出發，為讀者提供了實踐「幸運腦」的具體方法，讓每個人都能夠掌控自己的人生，並提升自己的運氣。</p>
+<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>運氣的改變</strong>：運氣不是天生的，透過<code>改變思維</code>和<code>行為模式</code>，<code>運氣是可以被控制的</code>。</li>
+<li><strong>幸福標準</strong>：運氣好的人擁有自己的<code>幸福標準</code>，並依此來決定目標與夢想。</li>
+<li><strong>正向思維</strong>：<code>保持正面的自我形象</code>，並大聲說出「<code>我好幸運</code>」，能激發大腦的積極反應，促使好運降臨。</li>
+<li><strong>行為模式</strong>：<code>採取利他行為</code>，讓大腦的「<code>內側前額葉皮質</code>」活躍，帶來更多愉悅感。</li>
+<li><strong>祈禱與幻想</strong>：<code>積極的祈禱</code>和<code>積極幻想</code>能激活大腦中的快樂神經，促進運氣的提升。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅從腦科學的角度解析運氣的科學，還為讀者提供了 36 個能讓大腦轉變成「幸運腦」的具體方法。無論在職場、人際關係，還是戀愛中，運氣都可以被創造出來。透過這些方法，每個人都可以掌控自己的命運，迎接更多的好運與機會。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>運氣好的人</tag>
+        <tag>運氣</tag>
+        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
       </tags>
   </entry>
   <entry>
@@ -1457,6 +1457,16 @@
 <li>人類開始承認自己的無知，透過科學方法探索未知領域。</li>
 <li>科學與資本主義、帝國的結合，加速了科技與經濟的飛躍發展。</li>
 </ul>
+</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ol>
+<li><p>人類的語言與想像力是否真的優於其他物種，還是我們只是另一種「生存優勢」的產物？</p>
+</li>
+<li><p>農業革命雖促進文明發展，但也讓人類陷入勞動與剝削，這真的是「進步」嗎？</p>
+</li>
+<li><p>當前人工智慧與基因科技的發展是否會讓人類迎來新的「認知革命」？</p>
+</li>
+<li><p>如果歷史是一個不斷循環的過程，我們能否真正學到教訓，避免過去的錯誤？</p>
 </li>
 </ol>
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《人類大歷史》是一部顛覆傳統歷史敘述的著作，從宏觀視角審視人類文明的起源與演進。赫拉利提醒我們，科技發展正讓人類擁有「扮演上帝」的能力，但我們是否真的變得更快樂？透過理解歷史，我們或許能更明智地選擇未來的方向。</p>
@@ -2073,6 +2083,67 @@
       </tags>
   </entry>
   <entry>
+    <title>給工程師的 Sketch Prototyping 簡易入門教學</title>
+    <url>/2016/06/04/sketch-prototyping-for-engineer/</url>
+    <content><![CDATA[<p><img src="/img/posts/sketchapp.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><a href="http://www.sketchapp.com/">Sketch</a> 是近來非常火紅的輕量級 UI 設計工具，簡易好上手的設計讓許多設計師紛紛從 PS 和以拉等其他工具跳槽過來，整個 Sketch 生態系也蓬勃發展。雖然筆者本業是工程師，但前陣子趁著買 Flinto （可以很輕易將 Sketch 的靜態頁面轉成 Prototype）送 Sketch 的行銷活動時同時入手了這兩套設計工具（雖然我把它當成買 Sketch 送 Flinto 啦：P），因此藉著機會分享一下給工程師的 Sketch Prototyping 簡易入門教學。當然有些讀者會疑惑：工程師學 Sketch 是要設計師搶飯碗嗎？（事實上很難啦）</p>
+<p>一般來說，在整個產品開發的過程當中，工程師和設計師的愛恨情仇已經可以編成好幾檔連續劇了，然而溝通不良的原因除了設計流程的問題外，有很大一部分是因為對於彼此的世界不了解（一個住火星，一個住土星？）。因此工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本，從此相親相愛了呢！而天賦異秉的人甚至有機會成為新創團隊人見人愛的超全端工程師（super full-stack<br>engineer）獨角獸，集設計、前後端、行動端、行銷業務技能於一身（咦）？好啦，言歸正傳，接下來就讓我們好好了解 Sketch 這個好用工具吧！</p>
+<p><img src="/img/posts/sketch-ui-kit.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="Sketch-基本介紹"><a href="#Sketch-基本介紹" class="headerlink" title="Sketch 基本介紹"></a>Sketch 基本介紹</h2><p>Sketch 是一個 Mac 上的輕量級介面設計工具。2010 年由荷蘭公司 Bohemian Coding 所創建，目前提供 30 天試用版，正式版 99 鎂（教育價5折優惠），不過目前只有提供 Mac 版本，所以只能先跟使用其他作業系統的朋友說聲 Sorry 啦！</p>
+<p>究竟 Sketch 有哪些優點，讓許多設計師因此琵琶別抱呢？</p>
+<h3 id="Sketch-優點"><a href="#Sketch-優點" class="headerlink" title="Sketch 優點"></a>Sketch 優點</h3><ol>
+<li>活躍的第三方套件生態系！</li>
+<li>專為 UI 設計而生（Artboard 設計可以方便 UI 設計） </li>
+<li>輕量級，簡單好上手（工程師 OS：就像 Sublime 之於 Eclipse）</li>
+<li>內建和可擴充的豐富 UI 模版（iOS、Material Design 等）</li>
+<li>搭配 <a href="https://www.flinto.com/">Flinto</a>、<a href="https://zeplin.io/">Zeplin</a> 可讓工程師更開心，設計師提早下班</li>
+<li>可以取代大部分 PS、以拉、Fireworks 等功能</li>
+<li>知名網路、科技公司都在用</li>
+</ol>
+<p>看完了 Sketch 優點，相信讀者們一定摩拳擦掌準備牛刀小試啦！</p>
+<h2 id="使用-Sketch-設計-Mobile-App-UI"><a href="#使用-Sketch-設計-Mobile-App-UI" class="headerlink" title="使用 Sketch 設計 Mobile App UI"></a>使用 Sketch 設計 Mobile App UI</h2><p>一般設計流程我們通常會有以下三種階段：</p>
+<ol>
+<li>Wireframe（線框圖）<br>保真度低（low fidelity ）、修改成本低。適合初期討論產品架構和基本功能。通常使用紙筆手繪，但建議於完成後電子化</li>
+<li>Mockup（視覺稿）<br>保真度中（middle fidelity ）、修改成本中。於 Mockup 階段著重於整體視覺、排版的靜態討論和確認，而 Sketch 主要會是在 Mockup 階段進行設計</li>
+<li>Prototype（原型）<br>保真度高（high fidelity ），接近最終產品、修改成本高。確認互動設計的流程並確認架構和視覺規劃是否有需要調整之處</li>
+</ol>
+<p>先介紹一下 Sketch 工作空間，左邊是圖層區，右邊是屬性、中間是工作區、上面是工具欄：</p>
+<p><img src="/img/posts/sketch-0.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p>工具欄可以點擊右鍵自定義：</p>
+<p><img src="/img/posts/sketch-0-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p>由於 UI 設計是 Sketch 主要的強項（尤其是行動端），在 Sketch 中 Artboard 是基礎的設計單元（成果展示區域），我們可以在一個 Page 中定義多個 Artboard。根據 Sketch 的設計，我們可以一次瀏覽多個 Artboard（也可說是多個介面），這樣可以更清楚整個設計 flow ，這是 Sketch 蠻大的一個優點（一覽眾山小？）。</p>
+<p>現在，我們終於開始設計我們的新 App UI 啦！首先，我們透過左上方的新增按鈕新增了一個 Artboard ，並選擇了 iPhone6 當做設計基底（有 iPhone、Android、RWD等可以選）。接下來我們要打開在 Sketch 中內建的元件模版，iOS 和 Material Design、icon設計等（網路上也有很多網友提供自己的設計可以下載），這邊因為是使用 iPhone6 的 Artboard，因此我們打開 iOS 元件模版。</p>
+<p><img src="/img/posts/sketch-7.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/sketch-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/sketch-2.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p>接下來進行複製貼上大法！將元件複製到 Artboard 上就可以了！現在小工程師也可以設計簡單的 UI 啦！可以透過右上角工具預覽或是分享的方式看到成果！</p>
+<p><img src="/img/posts/sketch-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="從-Mockup-到-Prototype"><a href="#從-Mockup-到-Prototype" class="headerlink" title="從 Mockup 到 Prototype"></a>從 Mockup 到 Prototype</h2><p><img src="/img/posts/sketch-flinto.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"><br>透過 Sketch 設計完成靜態檔案，若我們想將靜態檔案轉成 Prototype 進行使用者測試，我們可以使用 Flinto 好工具！透過簡單的連結就可以讓你的 Sketch 動起來啦（目前支援了簡單的手勢和動畫）！</p>
+<p><img src="/img/posts/flinto-3.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/flinto-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<p><img src="/img/posts/flinto-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>以上就是給工程師的 Sketch Prototyping 簡易入門教學。事實上透過整合 <a href="https://zeplin.io/">Zeplin</a>（可以方便註解和查詢設計相對位置和色碼）、<a href="https://www.invisionapp.com/">Invision</a>（支援變更記錄，可以當做版本控管使用）等工具進行協作，還可以更加加快整個產品設計流程。透過前期的完善溝通討論，不但可以降低後續的溝通成本更可以讓完成的產品更接近最初的設計，更重要的是讓工程師和設計師的感情更好了！若你對於 Sketch 有興趣可以<a href="http://slides.com/kd-chang/sketch-prototyping-for-engineer">參考這份投影片</a>有更完整的教學介紹。另外也可以參考<a href="http://www.sketchapp.com/learn/">官方教學影片</a>。最後再次強調工程師學 Sketch 並非要去搶設計師搶飯碗。而是工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本。同理也建議設計師們可以去試著學一些簡單的程式語言基礎概念。筆者才疏學淺，若讀者有任何學習心得也歡迎分享交流：）</p>
+<p><img src="/img/posts/sketch-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
+<h2 id="常用外掛"><a href="#常用外掛" class="headerlink" title="常用外掛"></a>常用外掛</h2><ol start="0">
+<li><a href="http://sketchtoolbox.com/">外掛管理工具 Sketch Toolbox</a></li>
+<li>Notebook 註解好幫手</li>
+<li>Sketch Flinto 從 Mockup 到 Prototype</li>
+<li>Content Generator Sketch Plugin 生成假資料</li>
+<li>Sketch Measure 測量位置、大小</li>
+<li>Icon Stamper 簡單生成不同大小 icon</li>
+</ol>
+<h2 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h2><ol>
+<li><a href="http://www.sketchcn.com/">Sketch 簡體中文教學</a></li>
+<li><a href="http://www.sketchchina.com/">Sketch 問答</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>SketchPrototyping</tag>
+        <tag>Wireframe</tag>
+        <tag>Mockup</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》| 閱讀心得學習筆記</title>
     <url>/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-you-do-not-have-to-be-anyone-1.jpg"></p>
@@ -2134,67 +2205,6 @@
         <tag>榮格</tag>
         <tag>阿德勒</tag>
         <tag>你不必成為任何人</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>給工程師的 Sketch Prototyping 簡易入門教學</title>
-    <url>/2016/06/04/sketch-prototyping-for-engineer/</url>
-    <content><![CDATA[<p><img src="/img/posts/sketchapp.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p><a href="http://www.sketchapp.com/">Sketch</a> 是近來非常火紅的輕量級 UI 設計工具，簡易好上手的設計讓許多設計師紛紛從 PS 和以拉等其他工具跳槽過來，整個 Sketch 生態系也蓬勃發展。雖然筆者本業是工程師，但前陣子趁著買 Flinto （可以很輕易將 Sketch 的靜態頁面轉成 Prototype）送 Sketch 的行銷活動時同時入手了這兩套設計工具（雖然我把它當成買 Sketch 送 Flinto 啦：P），因此藉著機會分享一下給工程師的 Sketch Prototyping 簡易入門教學。當然有些讀者會疑惑：工程師學 Sketch 是要設計師搶飯碗嗎？（事實上很難啦）</p>
-<p>一般來說，在整個產品開發的過程當中，工程師和設計師的愛恨情仇已經可以編成好幾檔連續劇了，然而溝通不良的原因除了設計流程的問題外，有很大一部分是因為對於彼此的世界不了解（一個住火星，一個住土星？）。因此工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本，從此相親相愛了呢！而天賦異秉的人甚至有機會成為新創團隊人見人愛的超全端工程師（super full-stack<br>engineer）獨角獸，集設計、前後端、行動端、行銷業務技能於一身（咦）？好啦，言歸正傳，接下來就讓我們好好了解 Sketch 這個好用工具吧！</p>
-<p><img src="/img/posts/sketch-ui-kit.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="Sketch-基本介紹"><a href="#Sketch-基本介紹" class="headerlink" title="Sketch 基本介紹"></a>Sketch 基本介紹</h2><p>Sketch 是一個 Mac 上的輕量級介面設計工具。2010 年由荷蘭公司 Bohemian Coding 所創建，目前提供 30 天試用版，正式版 99 鎂（教育價5折優惠），不過目前只有提供 Mac 版本，所以只能先跟使用其他作業系統的朋友說聲 Sorry 啦！</p>
-<p>究竟 Sketch 有哪些優點，讓許多設計師因此琵琶別抱呢？</p>
-<h3 id="Sketch-優點"><a href="#Sketch-優點" class="headerlink" title="Sketch 優點"></a>Sketch 優點</h3><ol>
-<li>活躍的第三方套件生態系！</li>
-<li>專為 UI 設計而生（Artboard 設計可以方便 UI 設計） </li>
-<li>輕量級，簡單好上手（工程師 OS：就像 Sublime 之於 Eclipse）</li>
-<li>內建和可擴充的豐富 UI 模版（iOS、Material Design 等）</li>
-<li>搭配 <a href="https://www.flinto.com/">Flinto</a>、<a href="https://zeplin.io/">Zeplin</a> 可讓工程師更開心，設計師提早下班</li>
-<li>可以取代大部分 PS、以拉、Fireworks 等功能</li>
-<li>知名網路、科技公司都在用</li>
-</ol>
-<p>看完了 Sketch 優點，相信讀者們一定摩拳擦掌準備牛刀小試啦！</p>
-<h2 id="使用-Sketch-設計-Mobile-App-UI"><a href="#使用-Sketch-設計-Mobile-App-UI" class="headerlink" title="使用 Sketch 設計 Mobile App UI"></a>使用 Sketch 設計 Mobile App UI</h2><p>一般設計流程我們通常會有以下三種階段：</p>
-<ol>
-<li>Wireframe（線框圖）<br>保真度低（low fidelity ）、修改成本低。適合初期討論產品架構和基本功能。通常使用紙筆手繪，但建議於完成後電子化</li>
-<li>Mockup（視覺稿）<br>保真度中（middle fidelity ）、修改成本中。於 Mockup 階段著重於整體視覺、排版的靜態討論和確認，而 Sketch 主要會是在 Mockup 階段進行設計</li>
-<li>Prototype（原型）<br>保真度高（high fidelity ），接近最終產品、修改成本高。確認互動設計的流程並確認架構和視覺規劃是否有需要調整之處</li>
-</ol>
-<p>先介紹一下 Sketch 工作空間，左邊是圖層區，右邊是屬性、中間是工作區、上面是工具欄：</p>
-<p><img src="/img/posts/sketch-0.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p>工具欄可以點擊右鍵自定義：</p>
-<p><img src="/img/posts/sketch-0-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p>由於 UI 設計是 Sketch 主要的強項（尤其是行動端），在 Sketch 中 Artboard 是基礎的設計單元（成果展示區域），我們可以在一個 Page 中定義多個 Artboard。根據 Sketch 的設計，我們可以一次瀏覽多個 Artboard（也可說是多個介面），這樣可以更清楚整個設計 flow ，這是 Sketch 蠻大的一個優點（一覽眾山小？）。</p>
-<p>現在，我們終於開始設計我們的新 App UI 啦！首先，我們透過左上方的新增按鈕新增了一個 Artboard ，並選擇了 iPhone6 當做設計基底（有 iPhone、Android、RWD等可以選）。接下來我們要打開在 Sketch 中內建的元件模版，iOS 和 Material Design、icon設計等（網路上也有很多網友提供自己的設計可以下載），這邊因為是使用 iPhone6 的 Artboard，因此我們打開 iOS 元件模版。</p>
-<p><img src="/img/posts/sketch-7.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/sketch-1.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/sketch-2.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p>接下來進行複製貼上大法！將元件複製到 Artboard 上就可以了！現在小工程師也可以設計簡單的 UI 啦！可以透過右上角工具預覽或是分享的方式看到成果！</p>
-<p><img src="/img/posts/sketch-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="從-Mockup-到-Prototype"><a href="#從-Mockup-到-Prototype" class="headerlink" title="從 Mockup 到 Prototype"></a>從 Mockup 到 Prototype</h2><p><img src="/img/posts/sketch-flinto.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"><br>透過 Sketch 設計完成靜態檔案，若我們想將靜態檔案轉成 Prototype 進行使用者測試，我們可以使用 Flinto 好工具！透過簡單的連結就可以讓你的 Sketch 動起來啦（目前支援了簡單的手勢和動畫）！</p>
-<p><img src="/img/posts/flinto-3.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/flinto-4.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<p><img src="/img/posts/flinto-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h2><p>以上就是給工程師的 Sketch Prototyping 簡易入門教學。事實上透過整合 <a href="https://zeplin.io/">Zeplin</a>（可以方便註解和查詢設計相對位置和色碼）、<a href="https://www.invisionapp.com/">Invision</a>（支援變更記錄，可以當做版本控管使用）等工具進行協作，還可以更加加快整個產品設計流程。透過前期的完善溝通討論，不但可以降低後續的溝通成本更可以讓完成的產品更接近最初的設計，更重要的是讓工程師和設計師的感情更好了！若你對於 Sketch 有興趣可以<a href="http://slides.com/kd-chang/sketch-prototyping-for-engineer">參考這份投影片</a>有更完整的教學介紹。另外也可以參考<a href="http://www.sketchapp.com/learn/">官方教學影片</a>。最後再次強調工程師學 Sketch 並非要去搶設計師搶飯碗。而是工程師和設計師若是試著了解對方的語言，或許就可以降低彼此的溝通成本。同理也建議設計師們可以去試著學一些簡單的程式語言基礎概念。筆者才疏學淺，若讀者有任何學習心得也歡迎分享交流：）</p>
-<p><img src="/img/posts/sketch-5.png" alt="給工程師的 Sketch Prototyping 簡易入門教學"></p>
-<h2 id="常用外掛"><a href="#常用外掛" class="headerlink" title="常用外掛"></a>常用外掛</h2><ol start="0">
-<li><a href="http://sketchtoolbox.com/">外掛管理工具 Sketch Toolbox</a></li>
-<li>Notebook 註解好幫手</li>
-<li>Sketch Flinto 從 Mockup 到 Prototype</li>
-<li>Content Generator Sketch Plugin 生成假資料</li>
-<li>Sketch Measure 測量位置、大小</li>
-<li>Icon Stamper 簡單生成不同大小 icon</li>
-</ol>
-<h2 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h2><ol>
-<li><a href="http://www.sketchcn.com/">Sketch 簡體中文教學</a></li>
-<li><a href="http://www.sketchchina.com/">Sketch 問答</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>SketchPrototyping</tag>
-        <tag>Wireframe</tag>
-        <tag>Mockup</tag>
       </tags>
   </entry>
   <entry>
