@@ -1,33 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-app-10-keywords/</url>
-    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
-<ol>
-<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
-<li><strong>聊天機器人</strong>（Chatbots）</li>
-<li><strong>文字摘要</strong>（Text Summarization）</li>
-<li><strong>內容生成</strong>（Content Generation）</li>
-<li><strong>情感分析</strong>（Sentiment Analysis）</li>
-<li><strong>語音助手</strong>（Voice Assistants）</li>
-<li><strong>自動翻譯</strong>（Automatic Translation）</li>
-<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
-<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
-<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
-</ol>
-<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
     <url>/2024/05/22/about-llm-tech-10-keywords/</url>
     <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
@@ -47,6 +20,33 @@
 <h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
 <li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
 </ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-app-10-keywords/</url>
+    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
+<ol>
+<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
+<li><strong>聊天機器人</strong>（Chatbots）</li>
+<li><strong>文字摘要</strong>（Text Summarization）</li>
+<li><strong>內容生成</strong>（Content Generation）</li>
+<li><strong>情感分析</strong>（Sentiment Analysis）</li>
+<li><strong>語音助手</strong>（Voice Assistants）</li>
+<li><strong>自動翻譯</strong>（Automatic Translation）</li>
+<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
+<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
+<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
+</ol>
+<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
 ]]></content>
       <tags>
         <tag>生成式 AI</tag>
@@ -201,6 +201,55 @@
       </tags>
   </entry>
   <entry>
+    <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
+    <url>/2024/05/23/llm-langchain-notes/</url>
+    <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
+<h4 id="1-LangChain-介紹"><a href="#1-LangChain-介紹" class="headerlink" title="1. LangChain 介紹"></a>1. LangChain 介紹</h4><p>LangChain 是一個專為 LLM 設計的開源框架，提供了一系列工具和介面，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用。LangChain 支持多種 LLM，如 OpenAI 的 GPT 系列模型，並提供了豐富的功能來優化模型的性能和用戶體驗。</p>
+<h4 id="2-安裝-LangChain"><a href="#2-安裝-LangChain" class="headerlink" title="2. 安裝 LangChain"></a>2. 安裝 LangChain</h4><p>在開始使用 LangChain 之前，首先需要安裝它。您可以使用以下命令通過 pip 來安裝：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip install langchain</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-基本使用"><a href="#3-基本使用" class="headerlink" title="3. 基本使用"></a>3. 基本使用</h4><p>LangChain 提供了一個簡單且一致的介面來使用各種 LLM。下面是如何使用 LangChain 進行基本文本生成的範例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> LanguageModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化模型</span></span><br><span class="line">model = LanguageModel(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 文字生成</span></span><br><span class="line">prompt = <span class="string">&quot;Write a poem about the sea.&quot;</span></span><br><span class="line">response = model.generate(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們首先導入了 LangChain 的 <code>LanguageModel</code> 類，並使用 <code>model_name</code> 指定我們要使用的模型。接著，我們提供一個提示語 <code>prompt</code>，並使用 <code>generate</code> 方法來生成文本。</p>
+<h4 id="4-高級功能"><a href="#4-高級功能" class="headerlink" title="4. 高級功能"></a>4. 高級功能</h4><p>LangChain 不僅支持基本的文本生成，還提供了許多高級功能，包括檢索增強生成（RAG）、上下文管理和自定義管道等。</p>
+<h5 id="檢索增強生成（RAG）"><a href="#檢索增強生成（RAG）" class="headerlink" title="檢索增強生成（RAG）"></a>檢索增強生成（RAG）</h5><p>RAG 是 LangChain 的一個強大功能，它結合了檢索和生成技術，提供更豐富和上下文相關的回應。以下是一個簡單的 RAG 示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> RAG</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化 RAG 模型</span></span><br><span class="line">rag_model = RAG(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>, retriever=<span class="string">&quot;dense&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 提供查詢</span></span><br><span class="line">query = <span class="string">&quot;What are the latest advancements in AI?&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 檢索並生成回應</span></span><br><span class="line">response = rag_model.generate(query)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 RAG 類初始化了一個 RAG 模型，並指定了檢索器類型。然後，我們提供了一個查詢 <code>query</code>，並使用 <code>generate</code> 方法來檢索相關信息並生成回應。</p>
+<h5 id="上下文管理"><a href="#上下文管理" class="headerlink" title="上下文管理"></a>上下文管理</h5><p>LangChain 支持上下文管理，使模型能夠在會話中保持上下文。這對於構建聊天機器人和問答系統非常有用。</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Conversation</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化會話</span></span><br><span class="line">conversation = Conversation(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Hello, who won the World Series in 2020?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加更多上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Who was the MVP?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 <code>Conversation</code> 類初始化了一個會話，並逐步添加用戶輸入。模型能夠根據上下文生成更相關的回應。</p>
+<h4 id="5-自定義管道"><a href="#5-自定義管道" class="headerlink" title="5. 自定義管道"></a>5. 自定義管道</h4><p>LangChain 允許您創建自定義管道，以滿足特定應用需求。以下是一個自定義管道的簡單示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Pipeline</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定義自定義步驟</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">preprocess</span>(<span class="params">text</span>):</span><br><span class="line">    <span class="keyword">return</span> text.lower()</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">postprocess</span>(<span class="params">response</span>):</span><br><span class="line">    <span class="keyword">return</span> response.capitalize()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 創建管道</span></span><br><span class="line">pipeline = Pipeline(steps=[preprocess, <span class="string">&quot;gpt-3.5-turbo&quot;</span>, postprocess])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 使用管道生成文本</span></span><br><span class="line">prompt = <span class="string">&quot;Explain the significance of the moon landing.&quot;</span></span><br><span class="line">response = pipeline.run(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們定義了兩個自定義步驟 <code>preprocess</code> 和 <code>postprocess</code>，並將它們與模型集成到一個管道中。這允許我們在文本生成之前和之後對文本進行處理。</p>
+<h4 id="6-總結"><a href="#6-總結" class="headerlink" title="6. 總結"></a>6. 總結</h4><p>LangChain 是一個強大且靈活的開源框架，專門為 LLM 的使用和管理設計。無論是簡單的文本生成還是複雜的檢索增強生成，LangChain 都提供了豐富的功能來滿足您的需求。希望這篇入門教學能幫助您快速上手 LangChain，開發出強大的應用。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://ithelp.ithome.com.tw/articles/10318758">【Day10】Langchain 教學的簡單中文化</a></li>
+<li><a href="https://engineering.linecorp.com/zh-hant/blog/langchain-llm-linebot">line 透過 LangChain 打造一個股價查詢 LINEBot - 股價小幫手</a></li>
+<li><a href="https://github.com/FlowiseAI/Flowise?tab=readme-ov-file">Flowise - Build LLM Apps Easily</a></li>
+<li><a href="https://github.com/langchain-ai/langchain">LangChain github</a></li>
+<li><a href="https://www.langchain.com/langchain">LangChain’s flexible abstractions and AI-first toolkit make it the #1 choice for developers when building with GenAI.</a></li>
+<li><a href="https://www.langchain.asia/">langchain 教學</a></li>
+<li><a href="https://tw.alphacamp.co/blog/langchain-intro">LangChain是什麼？AI開發者必須了解的LLM開源框架</a></li>
+<li><a href="https://edge.aif.tw/application-langchain-rag/">利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題</a></li>
+<li><a href="https://edge.aif.tw/express-langchain-chatpdf/">利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點</a></li>
+<li><a href="https://aws.amazon.com/tw/what-is/langchain/">何謂 LangChain？</a></li>
+<li><a href="https://ithelp.ithome.com.tw/users/20120030/ironman/7039">全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) 系列</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LangChain</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</title>
     <url>/2024/05/22/llm-app-in-martech/</url>
     <content><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p>
@@ -253,55 +302,6 @@
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
-    <url>/2024/05/23/llm-langchain-notes/</url>
-    <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
-<h4 id="1-LangChain-介紹"><a href="#1-LangChain-介紹" class="headerlink" title="1. LangChain 介紹"></a>1. LangChain 介紹</h4><p>LangChain 是一個專為 LLM 設計的開源框架，提供了一系列工具和介面，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用。LangChain 支持多種 LLM，如 OpenAI 的 GPT 系列模型，並提供了豐富的功能來優化模型的性能和用戶體驗。</p>
-<h4 id="2-安裝-LangChain"><a href="#2-安裝-LangChain" class="headerlink" title="2. 安裝 LangChain"></a>2. 安裝 LangChain</h4><p>在開始使用 LangChain 之前，首先需要安裝它。您可以使用以下命令通過 pip 來安裝：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip install langchain</span><br></pre></td></tr></table></figure>
-
-<h4 id="3-基本使用"><a href="#3-基本使用" class="headerlink" title="3. 基本使用"></a>3. 基本使用</h4><p>LangChain 提供了一個簡單且一致的介面來使用各種 LLM。下面是如何使用 LangChain 進行基本文本生成的範例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> LanguageModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化模型</span></span><br><span class="line">model = LanguageModel(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 文字生成</span></span><br><span class="line">prompt = <span class="string">&quot;Write a poem about the sea.&quot;</span></span><br><span class="line">response = model.generate(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們首先導入了 LangChain 的 <code>LanguageModel</code> 類，並使用 <code>model_name</code> 指定我們要使用的模型。接著，我們提供一個提示語 <code>prompt</code>，並使用 <code>generate</code> 方法來生成文本。</p>
-<h4 id="4-高級功能"><a href="#4-高級功能" class="headerlink" title="4. 高級功能"></a>4. 高級功能</h4><p>LangChain 不僅支持基本的文本生成，還提供了許多高級功能，包括檢索增強生成（RAG）、上下文管理和自定義管道等。</p>
-<h5 id="檢索增強生成（RAG）"><a href="#檢索增強生成（RAG）" class="headerlink" title="檢索增強生成（RAG）"></a>檢索增強生成（RAG）</h5><p>RAG 是 LangChain 的一個強大功能，它結合了檢索和生成技術，提供更豐富和上下文相關的回應。以下是一個簡單的 RAG 示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> RAG</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化 RAG 模型</span></span><br><span class="line">rag_model = RAG(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>, retriever=<span class="string">&quot;dense&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 提供查詢</span></span><br><span class="line">query = <span class="string">&quot;What are the latest advancements in AI?&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 檢索並生成回應</span></span><br><span class="line">response = rag_model.generate(query)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們使用 RAG 類初始化了一個 RAG 模型，並指定了檢索器類型。然後，我們提供了一個查詢 <code>query</code>，並使用 <code>generate</code> 方法來檢索相關信息並生成回應。</p>
-<h5 id="上下文管理"><a href="#上下文管理" class="headerlink" title="上下文管理"></a>上下文管理</h5><p>LangChain 支持上下文管理，使模型能夠在會話中保持上下文。這對於構建聊天機器人和問答系統非常有用。</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Conversation</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化會話</span></span><br><span class="line">conversation = Conversation(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Hello, who won the World Series in 2020?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加更多上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Who was the MVP?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們使用 <code>Conversation</code> 類初始化了一個會話，並逐步添加用戶輸入。模型能夠根據上下文生成更相關的回應。</p>
-<h4 id="5-自定義管道"><a href="#5-自定義管道" class="headerlink" title="5. 自定義管道"></a>5. 自定義管道</h4><p>LangChain 允許您創建自定義管道，以滿足特定應用需求。以下是一個自定義管道的簡單示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Pipeline</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定義自定義步驟</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">preprocess</span>(<span class="params">text</span>):</span><br><span class="line">    <span class="keyword">return</span> text.lower()</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">postprocess</span>(<span class="params">response</span>):</span><br><span class="line">    <span class="keyword">return</span> response.capitalize()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 創建管道</span></span><br><span class="line">pipeline = Pipeline(steps=[preprocess, <span class="string">&quot;gpt-3.5-turbo&quot;</span>, postprocess])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 使用管道生成文本</span></span><br><span class="line">prompt = <span class="string">&quot;Explain the significance of the moon landing.&quot;</span></span><br><span class="line">response = pipeline.run(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們定義了兩個自定義步驟 <code>preprocess</code> 和 <code>postprocess</code>，並將它們與模型集成到一個管道中。這允許我們在文本生成之前和之後對文本進行處理。</p>
-<h4 id="6-總結"><a href="#6-總結" class="headerlink" title="6. 總結"></a>6. 總結</h4><p>LangChain 是一個強大且靈活的開源框架，專門為 LLM 的使用和管理設計。無論是簡單的文本生成還是複雜的檢索增強生成，LangChain 都提供了豐富的功能來滿足您的需求。希望這篇入門教學能幫助您快速上手 LangChain，開發出強大的應用。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://ithelp.ithome.com.tw/articles/10318758">【Day10】Langchain 教學的簡單中文化</a></li>
-<li><a href="https://engineering.linecorp.com/zh-hant/blog/langchain-llm-linebot">line 透過 LangChain 打造一個股價查詢 LINEBot - 股價小幫手</a></li>
-<li><a href="https://github.com/FlowiseAI/Flowise?tab=readme-ov-file">Flowise - Build LLM Apps Easily</a></li>
-<li><a href="https://github.com/langchain-ai/langchain">LangChain github</a></li>
-<li><a href="https://www.langchain.com/langchain">LangChain’s flexible abstractions and AI-first toolkit make it the #1 choice for developers when building with GenAI.</a></li>
-<li><a href="https://www.langchain.asia/">langchain 教學</a></li>
-<li><a href="https://tw.alphacamp.co/blog/langchain-intro">LangChain是什麼？AI開發者必須了解的LLM開源框架</a></li>
-<li><a href="https://edge.aif.tw/application-langchain-rag/">利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題</a></li>
-<li><a href="https://edge.aif.tw/express-langchain-chatpdf/">利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點</a></li>
-<li><a href="https://aws.amazon.com/tw/what-is/langchain/">何謂 LangChain？</a></li>
-<li><a href="https://ithelp.ithome.com.tw/users/20120030/ironman/7039">全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) 系列</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LangChain</tag>
       </tags>
   </entry>
   <entry>
@@ -749,40 +749,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》 | 閱讀心得學習筆記</title>
-    <url>/2025/03/05/reading-notes-awaken-your-genius/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-awaken-your-genius-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》</span><br><span class="line">作者： 歐贊‧瓦羅  </span><br><span class="line">原文作者： Ozan Varol</span><br><span class="line">譯者： 韓絜光</span><br><span class="line">出版社：天下雜誌  </span><br><span class="line">出版日期：2025/03/05</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「天才，是最像自己的人。捨棄過度學習的束縛，拒絕複製別人的捷徑，與自己真實的天賦連結，人生真的不必將就。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們都曾在某個時刻疑問：「這真的是我想要的人生嗎？」《終於成為自己》是一本關於覺醒與重生的書。作者歐贊‧瓦羅以自己從火箭科學家轉型為法學教授與暢銷作家的經歷，鼓勵讀者勇敢跳脫外在框架，找回與自己天賦與渴望的連結。這不是一本教你成功的書，而是一本教你「回家」的書——回到內在最真實的自己。</p>
-<p><img src="/img/posts/reading-notes-awaken-your-genius-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>刻意捨去</strong>：意識到生活中許多信念與選擇並非出自我們本意，而是來自社會、家庭的預設劇本。學會<code>斷捨離這些外加的身份</code>。</li>
-<li><strong>找出你的第一原理</strong>：透過「<code>第一原理思維</code>」重建人生架構，不再從眾，而是回到個人價值的起點。</li>
-<li><strong>解放內在原力</strong>：<code>放下自我審查與恐懼</code>，發揮創造力與遊戲精神，學會與內在智慧合作而非抗拒。</li>
-<li><strong>去除外在雜音</strong>：辨識社會灌輸的錯誤信念，不再依賴人生導師或外部認可，<code>培養獨立判斷</code>。</li>
-<li><strong>迎向蛻變與未知</strong>：<code>擁抱不確定性與改變</code>，把「放棄」視為進化的一部分，活出與天賦對齊的人生。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們日常的選擇有多少是出自真實的渴望？  </li>
-<li>是什麼讓我們對改變感到恐懼？社會標準還是自我懷疑？  </li>
-<li>如果拋開一切期待與身份，你想過怎樣的生活？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《終於成為自己》是一本讓人重新審視人生選擇與思維慣性的書。它邀請我們放下追隨、擁抱未知，從模仿他人走向創造自己。不是成為更好的誰，而是成為更完整的自己。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望</tag>
-        <tag>終於成為自己</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《原子習慣：細微改變帶來巨大成就的實證法則》| 閱讀心得學習筆記</title>
     <url>/2019/06/01/reading-notes-atomic-habits/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-atomic-habits-1.jpg"></p>
@@ -864,6 +830,40 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>這一生，你要體會的30件事</tag>
         <tag>精神科醫師最犀利的人生告白</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》 | 閱讀心得學習筆記</title>
+    <url>/2025/03/05/reading-notes-awaken-your-genius/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-awaken-your-genius-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》</span><br><span class="line">作者： 歐贊‧瓦羅  </span><br><span class="line">原文作者： Ozan Varol</span><br><span class="line">譯者： 韓絜光</span><br><span class="line">出版社：天下雜誌  </span><br><span class="line">出版日期：2025/03/05</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「天才，是最像自己的人。捨棄過度學習的束縛，拒絕複製別人的捷徑，與自己真實的天賦連結，人生真的不必將就。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們都曾在某個時刻疑問：「這真的是我想要的人生嗎？」《終於成為自己》是一本關於覺醒與重生的書。作者歐贊‧瓦羅以自己從火箭科學家轉型為法學教授與暢銷作家的經歷，鼓勵讀者勇敢跳脫外在框架，找回與自己天賦與渴望的連結。這不是一本教你成功的書，而是一本教你「回家」的書——回到內在最真實的自己。</p>
+<p><img src="/img/posts/reading-notes-awaken-your-genius-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>刻意捨去</strong>：意識到生活中許多信念與選擇並非出自我們本意，而是來自社會、家庭的預設劇本。學會<code>斷捨離這些外加的身份</code>。</li>
+<li><strong>找出你的第一原理</strong>：透過「<code>第一原理思維</code>」重建人生架構，不再從眾，而是回到個人價值的起點。</li>
+<li><strong>解放內在原力</strong>：<code>放下自我審查與恐懼</code>，發揮創造力與遊戲精神，學會與內在智慧合作而非抗拒。</li>
+<li><strong>去除外在雜音</strong>：辨識社會灌輸的錯誤信念，不再依賴人生導師或外部認可，<code>培養獨立判斷</code>。</li>
+<li><strong>迎向蛻變與未知</strong>：<code>擁抱不確定性與改變</code>，把「放棄」視為進化的一部分，活出與天賦對齊的人生。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們日常的選擇有多少是出自真實的渴望？  </li>
+<li>是什麼讓我們對改變感到恐懼？社會標準還是自我懷疑？  </li>
+<li>如果拋開一切期待與身份，你想過怎樣的生活？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《終於成為自己》是一本讓人重新審視人生選擇與思維慣性的書。它邀請我們放下追隨、擁抱未知，從模仿他人走向創造自己。不是成為更好的誰，而是成為更完整的自己。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望</tag>
+        <tag>終於成為自己</tag>
       </tags>
   </entry>
   <entry>
@@ -1101,37 +1101,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀心得學習筆記</title>
-    <url>/2024/08/06/reading-notes-forest-wisdom/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-forest-wisdom-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我可能錯了：森林智者的最後一堂人生課》</span><br><span class="line">作者： 比約恩．納提科．林德布勞, 卡洛琳．班克勒, 納維德．莫迪里</span><br><span class="line">原文作者： Björn Natthiko Lindeblad, Caroline Bankler, Navid Modiri</span><br><span class="line">出版社：先覺</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「我可能錯了」的智慧：過度執著於應該如何 會讓人受困，試著鬆開執念，才能真正放下。</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>比約恩．納提科．林德布勞的《我可能錯了》是一場深刻的心靈對話，他以坦誠、幽默而智慧的筆觸，分享自己從金融界菁英轉身成為到泰國擔任森林僧人，再回歸俗世與漸凍症共存的生命歷程。本書沒有說教，而是透過自身經驗，帶領讀者學會放下執著，接受無常，以更自由的心態面對人生的種種挑戰。對於陷入焦慮、迷惘或生命低潮的人來說，這是一本能帶來安慰與啟發的書。</p>
-<p><img src="/img/posts/reading-notes-forest-wisdom-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>「我可能錯了」的智慧</strong>：這句話不只是謙遜的表達，而是一種<code>認識自我執著</code>、<code>學會開放心態</code>的重要工具。  </li>
-<li><strong>放下對思想的盲目信任</strong>：比約恩認為，我們的念頭並非絕對真實，<code>學會質疑</code>與<code>釋放念頭</code>，能帶來內在自由。  </li>
-<li><strong>焦慮是最嚴格的精神導師</strong>：與其抗拒焦慮，不如視之為學習機會，透過觀察與接納，找到內在平靜。  </li>
-<li><strong>不要強求正面思考</strong>：比約恩不鼓勵刻意正向思考，而是提倡<code>以平靜與開放的態度面對現實</code>。  </li>
-<li><strong>學會喜歡別人本來的樣子</strong>：<code>接受他人</code>，而非試圖改變對方，才是建立和諧關係的關鍵。  </li>
-<li><strong>「應該」帶來痛苦</strong>：過度執著於<code>應該如何</code> 會讓人受困，試著鬆開執念，才能真正放下。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《我可能錯了》這本書不僅僅是一本心理勵志書，更是一本實用的生活指南。作者透過自己的親身經歷，為我們提供了一套面對生活挑戰的方法。這本書的價值在於，它讓我們看到，即使在面對生命的困境時，我們依然可以找到內心的平靜與力量。人生充滿不確定性，而我們唯一能掌控的，是如何選擇看待世界的方式。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>我可能錯了</tag>
-        <tag>森林智者</tag>
-        <tag>森林智者的最後一堂人生課</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《讓自己不再焦慮：【幸運的人做情緒的主人，不幸的人做情緒的奴隸】理情行為治療之父亞伯．艾里斯經典之作，影響力超越佛洛伊德的心理學家》| 閱讀心得學習筆記</title>
     <url>/2023/06/07/reading-notes-how-to-control-your-anxiety-before-it-controls-you/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-how-to-control-your-anxiety-before-it-controls-you-1.jpg"></p>
@@ -1168,6 +1137,37 @@
         <tag>不幸的人做情緒的奴隸</tag>
         <tag>理情行為治療</tag>
         <tag>亞伯‧艾里斯</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀心得學習筆記</title>
+    <url>/2024/08/06/reading-notes-forest-wisdom/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-forest-wisdom-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我可能錯了：森林智者的最後一堂人生課》</span><br><span class="line">作者： 比約恩．納提科．林德布勞, 卡洛琳．班克勒, 納維德．莫迪里</span><br><span class="line">原文作者： Björn Natthiko Lindeblad, Caroline Bankler, Navid Modiri</span><br><span class="line">出版社：先覺</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「我可能錯了」的智慧：過度執著於應該如何 會讓人受困，試著鬆開執念，才能真正放下。</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>比約恩．納提科．林德布勞的《我可能錯了》是一場深刻的心靈對話，他以坦誠、幽默而智慧的筆觸，分享自己從金融界菁英轉身成為到泰國擔任森林僧人，再回歸俗世與漸凍症共存的生命歷程。本書沒有說教，而是透過自身經驗，帶領讀者學會放下執著，接受無常，以更自由的心態面對人生的種種挑戰。對於陷入焦慮、迷惘或生命低潮的人來說，這是一本能帶來安慰與啟發的書。</p>
+<p><img src="/img/posts/reading-notes-forest-wisdom-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>「我可能錯了」的智慧</strong>：這句話不只是謙遜的表達，而是一種<code>認識自我執著</code>、<code>學會開放心態</code>的重要工具。  </li>
+<li><strong>放下對思想的盲目信任</strong>：比約恩認為，我們的念頭並非絕對真實，<code>學會質疑</code>與<code>釋放念頭</code>，能帶來內在自由。  </li>
+<li><strong>焦慮是最嚴格的精神導師</strong>：與其抗拒焦慮，不如視之為學習機會，透過觀察與接納，找到內在平靜。  </li>
+<li><strong>不要強求正面思考</strong>：比約恩不鼓勵刻意正向思考，而是提倡<code>以平靜與開放的態度面對現實</code>。  </li>
+<li><strong>學會喜歡別人本來的樣子</strong>：<code>接受他人</code>，而非試圖改變對方，才是建立和諧關係的關鍵。  </li>
+<li><strong>「應該」帶來痛苦</strong>：過度執著於<code>應該如何</code> 會讓人受困，試著鬆開執念，才能真正放下。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《我可能錯了》這本書不僅僅是一本心理勵志書，更是一本實用的生活指南。作者透過自己的親身經歷，為我們提供了一套面對生活挑戰的方法。這本書的價值在於，它讓我們看到，即使在面對生命的困境時，我們依然可以找到內心的平靜與力量。人生充滿不確定性，而我們唯一能掌控的，是如何選擇看待世界的方式。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>我可能錯了</tag>
+        <tag>森林智者</tag>
+        <tag>森林智者的最後一堂人生課</tag>
       </tags>
   </entry>
   <entry>
@@ -1491,6 +1491,39 @@
       </tags>
   </entry>
   <entry>
+    <title>《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》| 閱讀心得學習筆記</title>
+    <url>/2024/08/08/reading-notes-one-day-one-country-world-map/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》</span><br><span class="line">作者： 井田仁康  </span><br><span class="line">譯者： 王豫</span><br><span class="line">出版社：美藝學苑社  </span><br><span class="line">出版日期：2024/08/08</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「每天一分鐘，打開世界之窗，拓展無限可能。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在全球化的時代，國際觀不再是少數人的專利，而是每個人都該具備的基本素養。《一日一國家，世界地圖全解讀》用簡單易懂的方式，幫助讀者快速理解各國歷史、政治、經濟與文化，讓世界不再遙遠，而是與我們的生活息息相關。</p>
+<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>每日一國，輕鬆累積國際知識</strong>：透過每天60秒的閱讀，快速掌握212個國家與區域的核心資訊。</li>
+<li><strong>視覺化資訊，提升理解效率</strong>：運用地圖、圖表與簡明敘述，讓複雜的國際情勢變得一目了然。</li>
+<li><strong>適合不同年齡層</strong>：無論是學生、社會人士或投資者，都能從本書獲得有助於學業、職場與投資的知識。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們如何在忙碌的生活中建立對國際局勢的敏感度？</li>
+<li>地緣政治的變化如何影響我們的經濟、科技發展與日常生活？</li>
+<li>在資訊爆炸的時代，如何培養批判性思維來判斷國際新聞的真偽？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《一日一國家，世界地圖全解讀》不僅是一本國際知識的百科全書，更是開啟全球視野的最佳入門書。透過每日學習，我們能更全面地理解世界，並在變動的時代中做出更明智的選擇。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>我可能錯了</tag>
+        <tag>森林智者</tag>
+        <tag>森林智者的最後一堂人生課</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《人類大歷史（增訂版）：從野獸到扮演上帝》 | 閱讀心得學習筆記</title>
     <url>/2022/10/27/reading-notes-sapiens-a-brief-history-of-humankind/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-sapiens-a-brief-history-of-humankind-1.jpg"></p>
@@ -1538,39 +1571,6 @@
 </li>
 </ol>
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《人類大歷史》是一部顛覆傳統歷史敘述的著作，從宏觀視角審視人類文明的起源與演進。赫拉利提醒我們，科技發展正讓人類擁有「扮演上帝」的能力，但我們是否真的變得更快樂？透過理解歷史，我們或許能更明智地選擇未來的方向。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>我可能錯了</tag>
-        <tag>森林智者</tag>
-        <tag>森林智者的最後一堂人生課</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》| 閱讀心得學習筆記</title>
-    <url>/2024/08/08/reading-notes-one-day-one-country-world-map/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》</span><br><span class="line">作者： 井田仁康  </span><br><span class="line">譯者： 王豫</span><br><span class="line">出版社：美藝學苑社  </span><br><span class="line">出版日期：2024/08/08</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「每天一分鐘，打開世界之窗，拓展無限可能。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在全球化的時代，國際觀不再是少數人的專利，而是每個人都該具備的基本素養。《一日一國家，世界地圖全解讀》用簡單易懂的方式，幫助讀者快速理解各國歷史、政治、經濟與文化，讓世界不再遙遠，而是與我們的生活息息相關。</p>
-<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>每日一國，輕鬆累積國際知識</strong>：透過每天60秒的閱讀，快速掌握212個國家與區域的核心資訊。</li>
-<li><strong>視覺化資訊，提升理解效率</strong>：運用地圖、圖表與簡明敘述，讓複雜的國際情勢變得一目了然。</li>
-<li><strong>適合不同年齡層</strong>：無論是學生、社會人士或投資者，都能從本書獲得有助於學業、職場與投資的知識。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們如何在忙碌的生活中建立對國際局勢的敏感度？</li>
-<li>地緣政治的變化如何影響我們的經濟、科技發展與日常生活？</li>
-<li>在資訊爆炸的時代，如何培養批判性思維來判斷國際新聞的真偽？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《一日一國家，世界地圖全解讀》不僅是一本國際知識的百科全書，更是開啟全球視野的最佳入門書。透過每日學習，我們能更全面地理解世界，並在變動的時代中做出更明智的選擇。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
@@ -1755,48 +1755,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《致富心態：關於財富、貪婪與幸福的20堂理財課》| 閱讀心得學習筆記</title>
-    <url>/2023/01/13/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《致富心態：關於財富、貪婪與幸福的20堂理財課》</span><br><span class="line">作者： 摩根‧豪瑟  </span><br><span class="line">原文作者： Morgan Housel</span><br><span class="line">譯者： 周玉文</span><br><span class="line">出版社：天下文化 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「財富的真正價值，不在於數字，而在於選擇與自由。財務管理更多取決於行為模式、心理因素和習慣。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸的時代，許多人認為投資成功的關鍵是專業知識和市場資訊。然而，《致富心態》一書顛覆了這種傳統觀念，強調財務管理更多取決於行為模式、心理因素和習慣。摩根‧豪瑟透過真實故事與案例，揭示了致富與守財的核心原則，幫助讀者培養正確的金錢觀，邁向財務自由。</p>
-<p><img src="/img/posts/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="1-致富與守財的關鍵區別"><a href="#1-致富與守財的關鍵區別" class="headerlink" title="1. 致富與守財的關鍵區別"></a><strong>1. 致富與守財的關鍵區別</strong></h3><ul>
-<li><strong>致富：</strong> 依靠機會、運氣、風險承擔與長期堅持。  </li>
-<li><strong>守財：</strong> 需要謹慎、節制、良好的財務習慣來維持財富。</li>
-</ul>
-<h3 id="2-心態比知識更重要"><a href="#2-心態比知識更重要" class="headerlink" title="2. 心態比知識更重要"></a><strong>2. 心態比知識更重要</strong></h3><ul>
-<li>投資成功不只是計算數字，而是管理情緒、耐心與風險承受能力。  </li>
-<li>即使擁有相同的投資知識，不同的行為模式將導致截然不同的財務結果。</li>
-</ul>
-<h3 id="3-理財不是追求最高報酬，而是合理性"><a href="#3-理財不是追求最高報酬，而是合理性" class="headerlink" title="3. 理財不是追求最高報酬，而是合理性"></a><strong>3. 理財不是追求最高報酬，而是合理性</strong></h3><ul>
-<li>理性投資者會計算所有可能情境，而<strong>合理投資者則更注重可持續性</strong>。  </li>
-<li>預留「安全邊際」以應對市場變動，不被短期波動影響決策。</li>
-</ul>
-<h3 id="4-時間與複利的力量"><a href="#4-時間與複利的力量" class="headerlink" title="4. 時間與複利的力量"></a><strong>4. 時間與複利的力量</strong></h3><ul>
-<li>巴菲特成功的關鍵不只是選股能力，而是「<strong>早期開始且長期堅持</strong>」。  </li>
-<li>理財的最大優勢是時間，長期穩健投資比短期投機更具威力。</li>
-</ul>
-<h3 id="5-金錢的真正價值：選擇與自由"><a href="#5-金錢的真正價值：選擇與自由" class="headerlink" title="5. 金錢的真正價值：選擇與自由"></a><strong>5. 金錢的真正價值：選擇與自由</strong></h3><ul>
-<li><strong>財務自由的關鍵不是賺最多，而是擁有選擇權。</strong>  </li>
-<li>控制時間是金錢帶來的最大紅利，讓人有能力選擇生活方式。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《致富心態》不只是一本投資指南，而是一本探討金錢哲學與行為心理的書籍。它提醒我們，投資與理財不僅關乎數字，更關乎決策與習慣。真正的財富來自於明智的選擇，而非短暫的市場勝利。透過理解風險、長期思維與行為管理，每個人都能建立穩健的財務基礎，邁向真正的財務自由。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>致富心態</tag>
-        <tag>關於財富、貪婪與幸福的20堂理財課</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《別對每件事都有反應2：不執著的練習！》| 閱讀心得學習筆記</title>
     <url>/2025/01/20/reading-notes-the-practice-of-non-attachment/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-practice-of-non-attachment-1.jpg"></p>
@@ -1839,6 +1797,102 @@
         <tag>別對每件事都有反應</tag>
         <tag>別對每件事都有反應2</tag>
         <tag>不執著的練習</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《致富心態：關於財富、貪婪與幸福的20堂理財課》| 閱讀心得學習筆記</title>
+    <url>/2023/01/13/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《致富心態：關於財富、貪婪與幸福的20堂理財課》</span><br><span class="line">作者： 摩根‧豪瑟  </span><br><span class="line">原文作者： Morgan Housel</span><br><span class="line">譯者： 周玉文</span><br><span class="line">出版社：天下文化 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「財富的真正價值，不在於數字，而在於選擇與自由。財務管理更多取決於行為模式、心理因素和習慣。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸的時代，許多人認為投資成功的關鍵是專業知識和市場資訊。然而，《致富心態》一書顛覆了這種傳統觀念，強調財務管理更多取決於行為模式、心理因素和習慣。摩根‧豪瑟透過真實故事與案例，揭示了致富與守財的核心原則，幫助讀者培養正確的金錢觀，邁向財務自由。</p>
+<p><img src="/img/posts/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="1-致富與守財的關鍵區別"><a href="#1-致富與守財的關鍵區別" class="headerlink" title="1. 致富與守財的關鍵區別"></a><strong>1. 致富與守財的關鍵區別</strong></h3><ul>
+<li><strong>致富：</strong> 依靠機會、運氣、風險承擔與長期堅持。  </li>
+<li><strong>守財：</strong> 需要謹慎、節制、良好的財務習慣來維持財富。</li>
+</ul>
+<h3 id="2-心態比知識更重要"><a href="#2-心態比知識更重要" class="headerlink" title="2. 心態比知識更重要"></a><strong>2. 心態比知識更重要</strong></h3><ul>
+<li>投資成功不只是計算數字，而是管理情緒、耐心與風險承受能力。  </li>
+<li>即使擁有相同的投資知識，不同的行為模式將導致截然不同的財務結果。</li>
+</ul>
+<h3 id="3-理財不是追求最高報酬，而是合理性"><a href="#3-理財不是追求最高報酬，而是合理性" class="headerlink" title="3. 理財不是追求最高報酬，而是合理性"></a><strong>3. 理財不是追求最高報酬，而是合理性</strong></h3><ul>
+<li>理性投資者會計算所有可能情境，而<strong>合理投資者則更注重可持續性</strong>。  </li>
+<li>預留「安全邊際」以應對市場變動，不被短期波動影響決策。</li>
+</ul>
+<h3 id="4-時間與複利的力量"><a href="#4-時間與複利的力量" class="headerlink" title="4. 時間與複利的力量"></a><strong>4. 時間與複利的力量</strong></h3><ul>
+<li>巴菲特成功的關鍵不只是選股能力，而是「<strong>早期開始且長期堅持</strong>」。  </li>
+<li>理財的最大優勢是時間，長期穩健投資比短期投機更具威力。</li>
+</ul>
+<h3 id="5-金錢的真正價值：選擇與自由"><a href="#5-金錢的真正價值：選擇與自由" class="headerlink" title="5. 金錢的真正價值：選擇與自由"></a><strong>5. 金錢的真正價值：選擇與自由</strong></h3><ul>
+<li><strong>財務自由的關鍵不是賺最多，而是擁有選擇權。</strong>  </li>
+<li>控制時間是金錢帶來的最大紅利，讓人有能力選擇生活方式。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《致富心態》不只是一本投資指南，而是一本探討金錢哲學與行為心理的書籍。它提醒我們，投資與理財不僅關乎數字，更關乎決策與習慣。真正的財富來自於明智的選擇，而非短暫的市場勝利。透過理解風險、長期思維與行為管理，每個人都能建立穩健的財務基礎，邁向真正的財務自由。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>致富心態</tag>
+        <tag>關於財富、貪婪與幸福的20堂理財課</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《那些旅行教我的事：用一趟旅行重啟生活的初心，我們終將在路上，和理想的自己相遇》| 閱讀心得學習筆記</title>
+    <url>/2023/06/01/reading-notes-those-travels-taught-me-use-a-trip-to-restart-the-original-intention-of-life/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-those-travels-taught-me-use-a-trip-to-restart-the-original-intention-of-life-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《那些旅行教我的事：用一趟旅行重啟生活的初心，我們終將在路上，和理想的自己相遇》</span><br><span class="line">作者： 陳蘊芳, 郭憲誌  </span><br><span class="line">出版社：采實文化</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「人生的方向不一定由社會框架決定，而是可以透過「出走」重新尋找。旅行不只是觀光，而是一場與自己對話的過程。」  </p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>當人生走到一個階段，我們或許擁有了財富、成就、家庭，但心中仍有未竟之事，未曾解答的困惑。本書記錄了一對夫妻在人生下半場，決定透過65天的南歐旅行，探索人生的意義。他們的故事不僅是一場自助旅行的紀錄，更是一場身心靈的成長之旅，提醒我們：旅行不只是觀光，而是一場與自己對話的過程。</p>
+<p><img src="/img/posts/reading-notes-those-travels-taught-me-use-a-trip-to-restart-the-original-intention-of-life-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><p><strong>旅行不只是觀光，而是對人生的提問與思考</strong>  </p>
+<ul>
+<li>不同的年齡階段都有迷惘，中年也不例外。  </li>
+<li>人生的方向不一定由社會框架決定，而是可以透過「出走」重新尋找。</li>
+</ul>
+</li>
+<li><p><strong>放下身分與框架，才能真正體驗生活</strong>  </p>
+<ul>
+<li>長途旅行讓人放下職場與社會賦予的角色，回歸自我。  </li>
+<li>歐洲的步調讓他們學會欣賞當下，而非執著於目的地。</li>
+</ul>
+</li>
+<li><p><strong>朝聖之路與人生的隱喻</strong>  </p>
+<ul>
+<li>在朝聖之路上，沒有標準答案，只有自己的步伐與選擇。  </li>
+<li>人生也如旅行，不必害怕迷路，因為錯誤的路徑可能帶來意外的美景。</li>
+</ul>
+</li>
+<li><p><strong>接受變老，但不讓心態老化</strong>  </p>
+<ul>
+<li>年齡不是阻礙，真正的活力來自於心態與行動。  </li>
+<li>旅途中，他們學會與時間和解，享受當下，而非緊抓過去。</li>
+</ul>
+</li>
+<li><p><strong>旅行的真正價值：遇見不一樣的自己</strong>  </p>
+<ul>
+<li>旅行不只是短暫的逃避，而是回到生活後，能夠有所改變。  </li>
+<li>旅程結束後，他們更珍惜簡單的幸福，也重新思考未來的方向。</li>
+</ul>
+</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《那些旅行教我的事》是一部關於人生轉折與成長的真摯旅程。作者以旅行為媒介，探討中年迷惘、人生選擇與心靈成長。他們的經歷提醒我們，真正的改變來自於行動，而旅行則是讓生活慢慢變好的開始。無論年齡如何，我們都可以選擇出發，找到屬於自己的旅程與人生答案。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>那些旅行教我的事</tag>
+        <tag>用一趟旅行重啟生活的初心</tag>
       </tags>
   </entry>
   <entry>
@@ -1897,60 +1951,6 @@
         <tag>把生活過成賞心悅目的好日子</tag>
         <tag>身心整理×極簡日常×居家風格</tag>
         <tag>打造閃閃發光的自在質感生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《那些旅行教我的事：用一趟旅行重啟生活的初心，我們終將在路上，和理想的自己相遇》| 閱讀心得學習筆記</title>
-    <url>/2023/06/01/reading-notes-those-travels-taught-me-use-a-trip-to-restart-the-original-intention-of-life/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-those-travels-taught-me-use-a-trip-to-restart-the-original-intention-of-life-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《那些旅行教我的事：用一趟旅行重啟生活的初心，我們終將在路上，和理想的自己相遇》</span><br><span class="line">作者： 陳蘊芳, 郭憲誌  </span><br><span class="line">出版社：采實文化</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「人生的方向不一定由社會框架決定，而是可以透過「出走」重新尋找。旅行不只是觀光，而是一場與自己對話的過程。」  </p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>當人生走到一個階段，我們或許擁有了財富、成就、家庭，但心中仍有未竟之事，未曾解答的困惑。本書記錄了一對夫妻在人生下半場，決定透過65天的南歐旅行，探索人生的意義。他們的故事不僅是一場自助旅行的紀錄，更是一場身心靈的成長之旅，提醒我們：旅行不只是觀光，而是一場與自己對話的過程。</p>
-<p><img src="/img/posts/reading-notes-those-travels-taught-me-use-a-trip-to-restart-the-original-intention-of-life-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><p><strong>旅行不只是觀光，而是對人生的提問與思考</strong>  </p>
-<ul>
-<li>不同的年齡階段都有迷惘，中年也不例外。  </li>
-<li>人生的方向不一定由社會框架決定，而是可以透過「出走」重新尋找。</li>
-</ul>
-</li>
-<li><p><strong>放下身分與框架，才能真正體驗生活</strong>  </p>
-<ul>
-<li>長途旅行讓人放下職場與社會賦予的角色，回歸自我。  </li>
-<li>歐洲的步調讓他們學會欣賞當下，而非執著於目的地。</li>
-</ul>
-</li>
-<li><p><strong>朝聖之路與人生的隱喻</strong>  </p>
-<ul>
-<li>在朝聖之路上，沒有標準答案，只有自己的步伐與選擇。  </li>
-<li>人生也如旅行，不必害怕迷路，因為錯誤的路徑可能帶來意外的美景。</li>
-</ul>
-</li>
-<li><p><strong>接受變老，但不讓心態老化</strong>  </p>
-<ul>
-<li>年齡不是阻礙，真正的活力來自於心態與行動。  </li>
-<li>旅途中，他們學會與時間和解，享受當下，而非緊抓過去。</li>
-</ul>
-</li>
-<li><p><strong>旅行的真正價值：遇見不一樣的自己</strong>  </p>
-<ul>
-<li>旅行不只是短暫的逃避，而是回到生活後，能夠有所改變。  </li>
-<li>旅程結束後，他們更珍惜簡單的幸福，也重新思考未來的方向。</li>
-</ul>
-</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《那些旅行教我的事》是一部關於人生轉折與成長的真摯旅程。作者以旅行為媒介，探討中年迷惘、人生選擇與心靈成長。他們的經歷提醒我們，真正的改變來自於行動，而旅行則是讓生活慢慢變好的開始。無論年齡如何，我們都可以選擇出發，找到屬於自己的旅程與人生答案。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>那些旅行教我的事</tag>
-        <tag>用一趟旅行重啟生活的初心</tag>
       </tags>
   </entry>
   <entry>
@@ -2131,6 +2131,40 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>回味本町摩登老時光</tag>
         <tag>台南老店散步</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》 | 閱讀心得學習筆記</title>
+    <url>/2023/04/28/reading-notes-walking-on-wall-street/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-on-wall-street-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》</span><br><span class="line">作者： 墨基爾  </span><br><span class="line">原文作者： Burton G. Malkiel</span><br><span class="line">譯者： 楊美齡, 林麗冠, 蘇鵬元, 陳儀, 林俊宏</span><br><span class="line">出版社：天下文化  </span><br><span class="line">出版日期：2023/04/28</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「愈簡單的策略，愈容易成功。話題愈熱烈愈有可能是投機泡沫。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《漫步華爾街》是一本跨越半世紀仍屹立不搖的經典投資指南。作者墨基爾身兼經濟學者與實務投資人，以平易近人的筆觸傳遞長期投資、分散風險的重要理念，提醒讀者別被市場流行術語與短期熱潮所迷惑。此50週年增訂版則進一步納入ESG、加密貨幣等新興議題，讓本書在新時代仍具實用價值。</p>
+<p><img src="/img/posts/reading-notes-walking-on-wall-street-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>指數型基金為王道：長期投資、廣泛分散，是最穩健的致富之路。</li>
+<li>市場難以預測：技術分析與基本面分析皆有盲點，普通人難以持續打敗市場。</li>
+<li>風險與報酬並存：報酬來自承擔風險，但非所有風險皆值得承擔。</li>
+<li>行為財務學警示：人性常導致投資錯誤，須設計簡單且能堅持的策略。</li>
+<li>新興投資需謹慎：NFT、加密貨幣與ESG投資背後潛藏高風險與資訊不對稱。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你是否曾因熱門話題而進場投資，卻忽略了風險與長期性？</li>
+<li>當市場震盪時，你能否堅守紀律、不輕易調整資產配置？</li>
+<li>面對投資新趨勢，如何保持開放但不盲從的態度？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《漫步華爾街》提醒我們：與其追逐短期獲利，不如選擇一條可持之以恆的簡單道路。對每一位想改善財務狀況的投資人而言，這是一本值得反覆閱讀的實用經典。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>漫步華爾街</tag>
+        <tag>超越股市漲跌的成功投資策略</tag>
       </tags>
   </entry>
   <entry>
