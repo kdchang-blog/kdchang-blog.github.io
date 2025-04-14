@@ -45,4 +45,4 @@ https://www.kdchang.net
 FB：https://www.facebook.com/kdchang.net
 IG：https://www.instagram.com/kdchang_net/
 
-#書 #重點書摘 #閱讀書單 #推薦書單 #閱讀 #閱讀筆記 #閱讀心得 #書摘 #reading #books #book #learning #學習
+#閱讀 #閱讀筆記 #重點書摘 #閱讀書單 #推薦書單 #閱讀心得 #書摘 #reading #books #book #learning #學習

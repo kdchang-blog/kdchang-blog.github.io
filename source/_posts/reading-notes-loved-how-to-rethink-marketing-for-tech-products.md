@@ -37,7 +37,7 @@ Loved: How to Rethink Marketing for Tech Products
 
 ![](img/posts/reading-notes-loved-how-to-rethink-marketing-for-tech-products-2.jpg)
 
-# 重點摘要：
+# 重點摘要
 1. 產品價值導向：
    - 強調「`價值感知`」，非僅描述功能；溝通產品如何解決客戶痛點。
    - 案例：Expensify 以「簡化報帳」訊息勝出。
@@ -57,5 +57,5 @@ Loved: How to Rethink Marketing for Tech Products
 5. 動態調整：
    - 根據`市場回饋`，即時調整行銷策略，保持產品市場適配。
 
-# 總結：
+# 總結
 產品行銷是連結產品與市場的關鍵橋樑，不僅強化產品價值，更驅動公司成長。理解顧客需求、善用採用曲線、整合跨部門資源，是產品行銷成功的三大關鍵。
