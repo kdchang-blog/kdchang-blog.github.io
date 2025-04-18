@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-app-10-keywords/</url>
+    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
+<ol>
+<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
+<li><strong>聊天機器人</strong>（Chatbots）</li>
+<li><strong>文字摘要</strong>（Text Summarization）</li>
+<li><strong>內容生成</strong>（Content Generation）</li>
+<li><strong>情感分析</strong>（Sentiment Analysis）</li>
+<li><strong>語音助手</strong>（Voice Assistants）</li>
+<li><strong>自動翻譯</strong>（Automatic Translation）</li>
+<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
+<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
+<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
+</ol>
+<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
     <url>/2024/05/22/about-llm-tech-10-keywords/</url>
     <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
@@ -20,33 +47,6 @@
 <h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
 <li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
 </ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-app-10-keywords/</url>
-    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
-<ol>
-<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
-<li><strong>聊天機器人</strong>（Chatbots）</li>
-<li><strong>文字摘要</strong>（Text Summarization）</li>
-<li><strong>內容生成</strong>（Content Generation）</li>
-<li><strong>情感分析</strong>（Sentiment Analysis）</li>
-<li><strong>語音助手</strong>（Voice Assistants）</li>
-<li><strong>自動翻譯</strong>（Automatic Translation）</li>
-<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
-<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
-<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
-</ol>
-<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
 ]]></content>
       <tags>
         <tag>生成式 AI</tag>
@@ -589,6 +589,40 @@
       </tags>
   </entry>
   <entry>
+    <title>常見專案經理（Project Manager）、產品經理（Product Manager, PM）和敏捷開發（Agile）相關證照</title>
+    <url>/2024/07/26/project-manager-product-manager-scrum-certifications/</url>
+    <content><![CDATA[<ol>
+<li><input disabled="" type="checkbox"> PMP</li>
+<li><input disabled="" type="checkbox"> NPDP</li>
+<li><input disabled="" type="checkbox"> Google Project Manager</li>
+<li><input disabled="" type="checkbox"> CSM</li>
+<li><input disabled="" type="checkbox"> CSPO</li>
+<li><input disabled="" type="checkbox"> PMI - ACP &#x2F; PMI - PBA</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>產案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>PM</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>書籍</tag>
+        <tag>清單</tag>
+        <tag>書單</tag>
+        <tag>證照</tag>
+        <tag>scrum</tag>
+        <tag>PMP</tag>
+        <tag>NPDP</tag>
+        <tag>Google Project Manager</tag>
+        <tag>CSM</tag>
+        <tag>CSPO</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>產品經理（Product Manager, PM）推薦學習參考書單</title>
     <url>/2024/06/06/product-manager-reading-list/</url>
     <content><![CDATA[<p>產品經理（Product Manager, PdM）和專案經理（Project Manager, PjM）在工作上需要跟許多跨部門和跨單位的團隊合作，必須具備溝通和解決問題的能力，是一個跨職能和跨領域的綜合性職務。因此，透過大量閱讀不同領域的書籍，將讓自己可以掌握更多產品經理所需具備的軟實力和硬實力。以下透過整理不同構面的產品經理&#x2F;專案經理（PM）推薦書單，讓我們可以透過閱讀學習點滿我們的技能樹。</p>
@@ -656,40 +690,6 @@
         <tag>Project Management</tag>
         <tag>PjM</tag>
         <tag>PdM</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>常見專案經理（Project Manager）、產品經理（Product Manager, PM）和敏捷開發（Agile）相關證照</title>
-    <url>/2024/07/26/project-manager-product-manager-scrum-certifications/</url>
-    <content><![CDATA[<ol>
-<li><input disabled="" type="checkbox"> PMP</li>
-<li><input disabled="" type="checkbox"> NPDP</li>
-<li><input disabled="" type="checkbox"> Google Project Manager</li>
-<li><input disabled="" type="checkbox"> CSM</li>
-<li><input disabled="" type="checkbox"> CSPO</li>
-<li><input disabled="" type="checkbox"> PMI - ACP &#x2F; PMI - PBA</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>產案管理</tag>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>PM</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>書籍</tag>
-        <tag>清單</tag>
-        <tag>書單</tag>
-        <tag>證照</tag>
-        <tag>scrum</tag>
-        <tag>PMP</tag>
-        <tag>NPDP</tag>
-        <tag>Google Project Manager</tag>
-        <tag>CSM</tag>
-        <tag>CSPO</tag>
       </tags>
   </entry>
   <entry>
@@ -838,35 +838,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《在關係變成傷害之前：為什麼愈相愛愈受傷？停止悔恨、執迷與焦慮的關係修復心理學，療癒內在失控感，重建愛人與被愛的力量》| 閱讀心得學習筆記</title>
-    <url>/2025/02/05/reading-notes-before-relationships-become-harmful/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-before-relationships-become-harmful-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《在關係變成傷害之前：為什麼愈相愛愈受傷？停止悔恨、執迷與焦慮的關係修復心理學，療癒內在失控感，重建愛人與被愛的力量》</span><br><span class="line">作者： 張家齊  </span><br><span class="line">出版社：天下雜誌  </span><br><span class="line">出版日期：2025/02/05</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「我們需要一面鏡子，來看見自己內心的盲區。真正折磨你的，並非他人的不愛，而是你沒看透的錯誤期待；修復心碎、逃離情感的耗損，關鍵在於解開親密關係的索求與操控。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《在關係變成傷害之前》深入探討了親密關係中的情感失控與自我覺察的重要性。書中以心理師的視角，透過一個又一個真實的諮詢案例，探討了愛情中自我盲區的存在，以及如何透過情緒覺察，避免關係中的傷害。這本書的核心目的是幫助讀者理解情緒失控背後的心理機制，並提供具體方法提升情緒自控與關係和諧，從而實現更健康的親密關係。</p>
-<p><img src="/img/posts/reading-notes-before-relationships-become-harmful-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>心理失控感的概念</strong>：當情感關係中出現失控的情緒時，我們往往忽略了<code>內在的心理狀態</code>，這會導致無法挽回的傷害。  </li>
-<li><strong>自我覺察的重要性</strong>：學會<code>察覺自己內心的情緒變化</code>，有助於<code>避免無意識的情感傷害</code>。  </li>
-<li><strong>愛情的失控模式</strong>：書中詳細分析了六種典型的「<code>親密失控模式」</code>，幫助讀者識別自己在關係中可能陷入的困境。  </li>
-<li><strong>情緒管理的技巧</strong>：提供具體方法來提升<code>情緒管理能力</code>，<code>幫助維持穩定的關係</code>。  </li>
-<li><strong>心理治療的作用</strong>：<code>諮詢過程就像一面鏡子</code>，<code>幫助個案看見自己情緒中的盲區</code>，<code>從而進行有效的情緒調整</code>。</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書透過豐富的心理學知識和實務經驗，揭示了親密關係中的情緒失控與自我盲區，並提供具體的覺察和應對策略。讀者不僅能理解自己的情緒來源，還能學會如何避免關係中的傷害，最終重建健康的愛情模式。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>這一生，你要體會的30件事</tag>
-        <tag>精神科醫師最犀利的人生告白</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》 | 閱讀心得學習筆記</title>
     <url>/2025/03/05/reading-notes-awaken-your-genius/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-awaken-your-genius-1.jpg"></p>
@@ -898,6 +869,35 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望</tag>
         <tag>終於成為自己</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《在關係變成傷害之前：為什麼愈相愛愈受傷？停止悔恨、執迷與焦慮的關係修復心理學，療癒內在失控感，重建愛人與被愛的力量》| 閱讀心得學習筆記</title>
+    <url>/2025/02/05/reading-notes-before-relationships-become-harmful/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-before-relationships-become-harmful-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《在關係變成傷害之前：為什麼愈相愛愈受傷？停止悔恨、執迷與焦慮的關係修復心理學，療癒內在失控感，重建愛人與被愛的力量》</span><br><span class="line">作者： 張家齊  </span><br><span class="line">出版社：天下雜誌  </span><br><span class="line">出版日期：2025/02/05</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「我們需要一面鏡子，來看見自己內心的盲區。真正折磨你的，並非他人的不愛，而是你沒看透的錯誤期待；修復心碎、逃離情感的耗損，關鍵在於解開親密關係的索求與操控。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《在關係變成傷害之前》深入探討了親密關係中的情感失控與自我覺察的重要性。書中以心理師的視角，透過一個又一個真實的諮詢案例，探討了愛情中自我盲區的存在，以及如何透過情緒覺察，避免關係中的傷害。這本書的核心目的是幫助讀者理解情緒失控背後的心理機制，並提供具體方法提升情緒自控與關係和諧，從而實現更健康的親密關係。</p>
+<p><img src="/img/posts/reading-notes-before-relationships-become-harmful-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>心理失控感的概念</strong>：當情感關係中出現失控的情緒時，我們往往忽略了<code>內在的心理狀態</code>，這會導致無法挽回的傷害。  </li>
+<li><strong>自我覺察的重要性</strong>：學會<code>察覺自己內心的情緒變化</code>，有助於<code>避免無意識的情感傷害</code>。  </li>
+<li><strong>愛情的失控模式</strong>：書中詳細分析了六種典型的「<code>親密失控模式」</code>，幫助讀者識別自己在關係中可能陷入的困境。  </li>
+<li><strong>情緒管理的技巧</strong>：提供具體方法來提升<code>情緒管理能力</code>，<code>幫助維持穩定的關係</code>。  </li>
+<li><strong>心理治療的作用</strong>：<code>諮詢過程就像一面鏡子</code>，<code>幫助個案看見自己情緒中的盲區</code>，<code>從而進行有效的情緒調整</code>。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書透過豐富的心理學知識和實務經驗，揭示了親密關係中的情緒失控與自我盲區，並提供具體的覺察和應對策略。讀者不僅能理解自己的情緒來源，還能學會如何避免關係中的傷害，最終重建健康的愛情模式。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>這一生，你要體會的30件事</tag>
+        <tag>精神科醫師最犀利的人生告白</tag>
       </tags>
   </entry>
   <entry>
@@ -2476,6 +2476,35 @@
       </tags>
   </entry>
   <entry>
+    <title>《為什麼魚不存在：關於失去、愛與生命的本質，踏上追尋人生意義的解答之旅》| 閱讀心得學習筆記</title>
+    <url>/2024/03/07/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼魚不存在：關於失去、愛與生命的本質，踏上追尋人生意義的解答之旅》</span><br><span class="line">Why Fish Don’t Exist: A Story of Loss, Love, and the Hidden Order of Life</span><br><span class="line">作者： 露露．米勒  </span><br><span class="line">原文作者： Lulu Miller</span><br><span class="line">譯者： 閻蕙群</span><br><span class="line">出版社：采實文化  </span><br><span class="line">出版日期：2024/03/07</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「世上沒有戰勝混亂的方法，但我們仍能尋找意義。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《為什麼魚不存在》不僅是一本關於分類學家的傳記，也是一場探尋人生秩序與混亂的旅程。科學記者露露・米勒透過研究大衛・喬丹的生平，試圖理解人在失敗與變動中如何堅持信念，最終卻發現一個顛覆自身價值觀的真相。本書揉合科學、歷史與個人成長，帶領讀者重新思考世界的本質。</p>
+<p><img src="/img/posts/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>混亂與秩序的衝突</strong>：喬丹一生致力於分類魚類，試圖為自然帶來秩序，卻屢次遭遇挫折，如舊金山地震摧毀他的標本館。</li>
+<li><strong>堅持與執念的界線</strong>：喬丹面對失敗選擇重建，但他的科學信仰是否合理？米勒藉由探究其人生，質疑這種過度執著的代價。</li>
+<li><strong>個人經歷的投射</strong>：米勒自身的失敗與迷惘，使她對喬丹的故事產生共鳴，並最終意識到世上沒有絕對的秩序。</li>
+<li><strong>科學與人生的反思</strong>：真正的科學不該為自然畫地自限，而是擁抱不確定性，理解生命的多樣與複雜。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>當我們試圖掌控生活時，是否反而陷入執念，忽略了世界本就充滿變數？</li>
+<li>科學的追求是尋找秩序，還是接受未知？我們應如何面對不可控的現實？</li>
+<li>個人成就與道德邊界如何權衡？喬丹的學術成就是否掩蓋了他道德上的爭議？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《為什麼魚不存在》提醒我們，世界並非井然有序，而是充滿未知與變化。當秩序崩解時，重要的不是執著於過去，而是學會接受混亂，並在其中找到自己的價值與方向。</p>
+]]></content>
+      <tags>
+        <tag>為什麼魚不存在</tag>
+        <tag>踏上追尋人生意義的解答之旅</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《深夜加油站遇見蘇格拉底》| 閱讀心得學習筆記</title>
     <url>/2022/04/08/reading-notes-way-of-the-peaceful-warrior-a-book-that-changes-lives/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-way-of-the-peaceful-warrior-a-book-that-changes-lives-1.jpg"></p>
@@ -2533,32 +2562,45 @@
       </tags>
   </entry>
   <entry>
-    <title>《為什麼魚不存在：關於失去、愛與生命的本質，踏上追尋人生意義的解答之旅》| 閱讀心得學習筆記</title>
-    <url>/2024/03/07/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼魚不存在：關於失去、愛與生命的本質，踏上追尋人生意義的解答之旅》</span><br><span class="line">Why Fish Don’t Exist: A Story of Loss, Love, and the Hidden Order of Life</span><br><span class="line">作者： 露露．米勒  </span><br><span class="line">原文作者： Lulu Miller</span><br><span class="line">譯者： 閻蕙群</span><br><span class="line">出版社：采實文化  </span><br><span class="line">出版日期：2024/03/07</span><br></pre></td></tr></table></figure>
+    <title>《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》 | 閱讀心得學習筆記</title>
+    <url>/2023/05/26/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》</span><br><span class="line">作者： 沃克</span><br><span class="line">原文作者： Matthew Walker</span><br><span class="line">譯者： 姚若潔</span><br><span class="line">出版社：天下文化</span><br><span class="line">出版日期：2023/05/26</span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<p>「世上沒有戰勝混亂的方法，但我們仍能尋找意義。」</p>
+<p>「睡眠是大腦的維修站，沒有它，一切都會崩潰。夢提供虛擬實境，讓過去與現在的知識融合，激發創意。夢還能撫慰痛苦的記憶，幫助我們走出創傷。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《為什麼魚不存在》不僅是一本關於分類學家的傳記，也是一場探尋人生秩序與混亂的旅程。科學記者露露・米勒透過研究大衛・喬丹的生平，試圖理解人在失敗與變動中如何堅持信念，最終卻發現一個顛覆自身價值觀的真相。本書揉合科學、歷史與個人成長，帶領讀者重新思考世界的本質。</p>
-<p><img src="/img/posts/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>混亂與秩序的衝突</strong>：喬丹一生致力於分類魚類，試圖為自然帶來秩序，卻屢次遭遇挫折，如舊金山地震摧毀他的標本館。</li>
-<li><strong>堅持與執念的界線</strong>：喬丹面對失敗選擇重建，但他的科學信仰是否合理？米勒藉由探究其人生，質疑這種過度執著的代價。</li>
-<li><strong>個人經歷的投射</strong>：米勒自身的失敗與迷惘，使她對喬丹的故事產生共鳴，並最終意識到世上沒有絕對的秩序。</li>
-<li><strong>科學與人生的反思</strong>：真正的科學不該為自然畫地自限，而是擁抱不確定性，理解生命的多樣與複雜。</li>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>睡眠不只是生理需求，更是影響記憶、健康、創意與壽命的關鍵要素。然而，在快節奏的現代社會，缺乏睡眠已成為全球性流行病。《為什麼要睡覺？》由神經科學家馬修·沃克撰寫，透過科學實證揭示睡眠的必要性，提醒我們重視這項被忽略的生命基礎。</p>
+<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="1-睡眠的神奇功效"><a href="#1-睡眠的神奇功效" class="headerlink" title="1. 睡眠的神奇功效"></a>1. <strong>睡眠的神奇功效</strong></h3><ul>
+<li>幫助記憶形成與學習能力提升。</li>
+<li>夢境能促進創意，並幫助情緒修復。</li>
+<li>深度睡眠可強化免疫力，降低罹癌風險。</li>
+</ul>
+<h3 id="2-睡眠不足的嚴重後果"><a href="#2-睡眠不足的嚴重後果" class="headerlink" title="2. 睡眠不足的嚴重後果"></a>2. <strong>睡眠不足的嚴重後果</strong></h3><ul>
+<li>免疫系統衰弱，癌症風險增加。</li>
+<li>腦部無法清除有害蛋白質，提高失智風險。</li>
+<li>專注力下降，長時間清醒的駕駛狀態等同酒駕。</li>
+</ul>
+<h3 id="3-睡眠對職場與運動的影響"><a href="#3-睡眠對職場與運動的影響" class="headerlink" title="3. 睡眠對職場與運動的影響"></a>3. <strong>睡眠對職場與運動的影響</strong></h3><ul>
+<li>運動員睡得越多，表現越佳。</li>
+<li>短暫午睡能顯著提高專注力與生產力。</li>
+<li>睡眠不足的主管，會影響整個團隊的績效。</li>
 </ul>
 <h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>當我們試圖掌控生活時，是否反而陷入執念，忽略了世界本就充滿變數？</li>
-<li>科學的追求是尋找秩序，還是接受未知？我們應如何面對不可控的現實？</li>
-<li>個人成就與道德邊界如何權衡？喬丹的學術成就是否掩蓋了他道德上的爭議？</li>
+<li>我們該如何改變現代人的睡眠習慣？</li>
+<li>長期忽視睡眠，會對社會帶來哪些隱患？</li>
+<li>企業是否應將睡眠納入員工健康管理計畫？</li>
 </ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《為什麼魚不存在》提醒我們，世界並非井然有序，而是充滿未知與變化。當秩序崩解時，重要的不是執著於過去，而是學會接受混亂，並在其中找到自己的價值與方向。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《為什麼要睡覺？》以科學數據與案例解析，提醒我們：睡眠是健康與成功的關鍵，而不是時間的浪費。現代社會應正視睡眠危機，重新調整對工作的迷思，才能真正提升生活品質。</p>
 ]]></content>
       <tags>
-        <tag>為什麼魚不存在</tag>
-        <tag>踏上追尋人生意義的解答之旅</tag>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>森林智者</tag>
+        <tag>為什麼要睡覺</tag>
       </tags>
   </entry>
   <entry>
@@ -2610,48 +2652,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>思維的良率</tag>
         <tag>台積電教我的高效工作法，像經營者一樣思考、解題</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》 | 閱讀心得學習筆記</title>
-    <url>/2023/05/26/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》</span><br><span class="line">作者： 沃克</span><br><span class="line">原文作者： Matthew Walker</span><br><span class="line">譯者： 姚若潔</span><br><span class="line">出版社：天下文化</span><br><span class="line">出版日期：2023/05/26</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「睡眠是大腦的維修站，沒有它，一切都會崩潰。夢提供虛擬實境，讓過去與現在的知識融合，激發創意。夢還能撫慰痛苦的記憶，幫助我們走出創傷。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>睡眠不只是生理需求，更是影響記憶、健康、創意與壽命的關鍵要素。然而，在快節奏的現代社會，缺乏睡眠已成為全球性流行病。《為什麼要睡覺？》由神經科學家馬修·沃克撰寫，透過科學實證揭示睡眠的必要性，提醒我們重視這項被忽略的生命基礎。</p>
-<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="1-睡眠的神奇功效"><a href="#1-睡眠的神奇功效" class="headerlink" title="1. 睡眠的神奇功效"></a>1. <strong>睡眠的神奇功效</strong></h3><ul>
-<li>幫助記憶形成與學習能力提升。</li>
-<li>夢境能促進創意，並幫助情緒修復。</li>
-<li>深度睡眠可強化免疫力，降低罹癌風險。</li>
-</ul>
-<h3 id="2-睡眠不足的嚴重後果"><a href="#2-睡眠不足的嚴重後果" class="headerlink" title="2. 睡眠不足的嚴重後果"></a>2. <strong>睡眠不足的嚴重後果</strong></h3><ul>
-<li>免疫系統衰弱，癌症風險增加。</li>
-<li>腦部無法清除有害蛋白質，提高失智風險。</li>
-<li>專注力下降，長時間清醒的駕駛狀態等同酒駕。</li>
-</ul>
-<h3 id="3-睡眠對職場與運動的影響"><a href="#3-睡眠對職場與運動的影響" class="headerlink" title="3. 睡眠對職場與運動的影響"></a>3. <strong>睡眠對職場與運動的影響</strong></h3><ul>
-<li>運動員睡得越多，表現越佳。</li>
-<li>短暫午睡能顯著提高專注力與生產力。</li>
-<li>睡眠不足的主管，會影響整個團隊的績效。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們該如何改變現代人的睡眠習慣？</li>
-<li>長期忽視睡眠，會對社會帶來哪些隱患？</li>
-<li>企業是否應將睡眠納入員工健康管理計畫？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《為什麼要睡覺？》以科學數據與案例解析，提醒我們：睡眠是健康與成功的關鍵，而不是時間的浪費。現代社會應正視睡眠危機，重新調整對工作的迷思，才能真正提升生活品質。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>森林智者</tag>
-        <tag>為什麼要睡覺</tag>
       </tags>
   </entry>
   <entry>
