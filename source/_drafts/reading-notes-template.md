@@ -43,9 +43,10 @@ tags:
 # 總結
 
 
-👇 網頁好讀版
+👇 網頁好讀版：每天進步一點點，成為更好的自己 💪
 https://www.kdchang.net
-👋 追蹤最新職場人生閱讀筆記 KD 職場人生閱讀筆記
+👋 追蹤、按讚、訂閱和分享，獲得更多職場人生閱讀反思和個人成長學習資訊！
+KD 職場人生閱讀 🔖 | 聽出職場軟實力 🎧
 FB：https://www.facebook.com/kdchang.net
 IG：https://www.instagram.com/kdchang_net/
 
