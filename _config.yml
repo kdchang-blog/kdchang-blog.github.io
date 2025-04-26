@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: KD 職場人生閱讀 🔖
+title: KD 閱讀職場人生 🔖
 subtitle: Hi, 我是 KD Chang 張凱迪，我在這書寫我的職場人生閱讀筆記 | KD's Life Reading Notes
 author: 張凱迪（KD Chang）
 language: zh-TW
@@ -21,10 +21,10 @@ pretty_urls:
 #Custom Setting Start
 
 # Site settings
-SEOTitle: KD 職場人生閱讀 🔖 | 聽出職場軟實力 🎧 | KD Chang 張凱迪
+SEOTitle: KD 閱讀職場人生 🔖 | 聽出職場軟實力 🎧 | KD Chang 張凱迪
 header-img: img/cover.jpg
 email: kdchang.cc@gmail.com
-description: "KD 職場人生閱讀 🔖 | 聽出職場軟實力 🎧。Hi, 我是 KD Chang 張凱迪，我在這書寫我的職場人生閱讀筆記。這裡記錄一個軟體工程師也是一位產品專案經理和教育工作者對於個人成長、商業管理、投資理財、心理勵志、歷史人文、自然科普與生活旅行的閱讀思考與觀察。歡迎一起交流分享，讓這個世界更加開放美好！"
+description: "KD 閱讀職場人生 🔖 | 聽出職場軟實力 🎧。Hi, 我是 KD Chang 張凱迪，我在這書寫我的職場人生閱讀筆記。這裡記錄一個軟體工程師也是一位產品專案經理和教育工作者對於個人成長、商業管理、投資理財、心理勵志、歷史人文、自然科普與生活旅行的閱讀思考與觀察。歡迎一起交流分享，讓這個世界更加開放美好！"
 keyword: "個人成長, 自我提升, 跨領域閱讀/自主學習, 商業管理, 投資理財, 心理學, 心理勵志, 媒體出版, 社會創新, ESG/SDGs 永續發展, 創新創業, 數位科技, 經營管理, 歷史人文, 政治經濟, 公共政策與職場人生的思考與觀察"
 
 
