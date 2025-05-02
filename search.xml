@@ -28,6 +28,36 @@
       </tags>
   </entry>
   <entry>
+    <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-tech-10-keywords/</url>
+    <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
+<ol>
+<li><strong>自然語言處理（NLP）</strong>（Natural Language Processing, NLP）</li>
+<li><strong>機器學習</strong>（Machine Learning）</li>
+<li><strong>深度學習</strong>（Deep Learning）</li>
+<li><strong>文本生成</strong>（Text Generation）</li>
+<li><strong>上下文理解</strong>（Contextual Understanding）</li>
+<li><strong>語義分析</strong>（Semantic Analysis）</li>
+<li><strong>模型訓練</strong>（Model Training）</li>
+<li><strong>語言建模</strong>（Language Modeling）</li>
+<li><strong>人工智慧</strong>（Artificial Intelligence, AI）</li>
+<li><strong>轉移學習</strong>（Transfer Learning）</li>
+</ol>
+<p>這些關鍵字涵蓋了大型語言模型的核心概念、技術和應用領域，有助於幫助我們深入理解 LLMs 的工作原理和用途。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>財報分析入門筆記</title>
     <url>/2017/06/30/financial-statements-analysis-introduction/</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>財務報表是一家公司的體質檢查表，透過財務報表可以了解這家公司的財務狀況和營運狀況，也就是說可以透過財務報表去一窺公司的身體健康是否硬朗或是漸漸亮起紅燈。許多人以為財務報表晦澀難懂，只有經營者、會計師或是財務分析師才需要了解。事實上，財務報表的觀念並不難懂，不管是投資大眾甚至是公司員工應該都要對自己投資和工作的公司要有所掌握，一般投資人若能了解財報就有機會從中挖掘被低估的優質股票進而獲取相對報酬（賺錢），而一般員工若能掌握財報資訊，更能全面性了解公司營運狀況和未來發展方向，為自己的職涯加分。</p>
@@ -124,36 +154,6 @@
         <tag>Cash flow statement</tag>
         <tag>finance</tag>
         <tag>財務</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-tech-10-keywords/</url>
-    <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
-<ol>
-<li><strong>自然語言處理（NLP）</strong>（Natural Language Processing, NLP）</li>
-<li><strong>機器學習</strong>（Machine Learning）</li>
-<li><strong>深度學習</strong>（Deep Learning）</li>
-<li><strong>文本生成</strong>（Text Generation）</li>
-<li><strong>上下文理解</strong>（Contextual Understanding）</li>
-<li><strong>語義分析</strong>（Semantic Analysis）</li>
-<li><strong>模型訓練</strong>（Model Training）</li>
-<li><strong>語言建模</strong>（Language Modeling）</li>
-<li><strong>人工智慧</strong>（Artificial Intelligence, AI）</li>
-<li><strong>轉移學習</strong>（Transfer Learning）</li>
-</ol>
-<p>這些關鍵字涵蓋了大型語言模型的核心概念、技術和應用領域，有助於幫助我們深入理解 LLMs 的工作原理和用途。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
       </tags>
   </entry>
   <entry>
@@ -726,40 +726,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》| 閱讀心得學習筆記</title>
-    <url>/2024/11/29/reading-notes-adulting-learning-doing-things-being-a-person/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》</span><br><span class="line">作者： 張國洋, 姚詩豪  </span><br><span class="line">出版社：三采  </span><br><span class="line">出版日期：2024/11/29</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「在職場上，很多時候關鍵不在於你有多優秀，而在於不失分。互惠，才是職場人際的底層邏輯。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書由「大人學」共同創辦人張國洋與姚詩豪撰寫，融合多年職場經驗與 Podcast 討論精華，試圖解答一個常見卻困擾無數上班族的問題——「做人重要，還是做事重要？」兩位作者指出，這不應是二選一的問題，而是雙軌並進的職場策略。  </p>
-<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>做事 vs. 做人非零和選擇</strong>：大多數成功者都在這兩者之間取得良好平衡。  </li>
-<li><strong>做事的本質是選擇對的事情做對</strong>：不是一味努力或加班，而是聚焦於有價值的任務。  </li>
-<li><strong>做人不是拍馬屁，而是減少失分</strong>：基本的禮貌與人際界線能讓你不被討厭，就是「做人八十分」的關鍵。  </li>
-<li><strong>極端例子不具代表性</strong>：技術大神或交際高手的成功難以複製，一般人應從實務出發，建立可持續的策略。  </li>
-<li><strong>不失分比得高分更重要</strong>：在團隊協作中，避免讓他人受害比成為明星更實用。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否過度追求被看見，而忽略了「別被討厭」的基本？</li>
-<li>在現實職場中，「能力」和「人際」究竟如何轉換為具體的報酬與發展？</li>
-<li>是否曾誤解「做人」就是迎合？而忽略了「尊重」與「分寸」的真正價值？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅提供職場生存的實用策略，也提醒我們：職涯不只是加薪升職，更是一場長期的人生成長與體驗。與其單打獨鬥，不如練好「做事做人」這門功課，讓你在穩健中突圍，在職場上活得成熟而自在。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>大人學做事做人</tag>
-        <tag>做事，才是職場做人的根本</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《大人學破局思考:從關鍵小事看出職場大局【大人的Small Talk 1】》| 閱讀心得學習筆記</title>
     <url>/2023/06/30/reading-notes-adultology-breakthrough-thinking/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-adultology-breakthrough-thinking-1.jpg"></p>
@@ -813,6 +779,40 @@
         <tag>自卑感</tag>
         <tag>自卑與超越</tag>
         <tag>阿德勒心理學</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》| 閱讀心得學習筆記</title>
+    <url>/2024/11/29/reading-notes-adulting-learning-doing-things-being-a-person/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》</span><br><span class="line">作者： 張國洋, 姚詩豪  </span><br><span class="line">出版社：三采  </span><br><span class="line">出版日期：2024/11/29</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「在職場上，很多時候關鍵不在於你有多優秀，而在於不失分。互惠，才是職場人際的底層邏輯。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書由「大人學」共同創辦人張國洋與姚詩豪撰寫，融合多年職場經驗與 Podcast 討論精華，試圖解答一個常見卻困擾無數上班族的問題——「做人重要，還是做事重要？」兩位作者指出，這不應是二選一的問題，而是雙軌並進的職場策略。  </p>
+<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>做事 vs. 做人非零和選擇</strong>：大多數成功者都在這兩者之間取得良好平衡。  </li>
+<li><strong>做事的本質是選擇對的事情做對</strong>：不是一味努力或加班，而是聚焦於有價值的任務。  </li>
+<li><strong>做人不是拍馬屁，而是減少失分</strong>：基本的禮貌與人際界線能讓你不被討厭，就是「做人八十分」的關鍵。  </li>
+<li><strong>極端例子不具代表性</strong>：技術大神或交際高手的成功難以複製，一般人應從實務出發，建立可持續的策略。  </li>
+<li><strong>不失分比得高分更重要</strong>：在團隊協作中，避免讓他人受害比成為明星更實用。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否過度追求被看見，而忽略了「別被討厭」的基本？</li>
+<li>在現實職場中，「能力」和「人際」究竟如何轉換為具體的報酬與發展？</li>
+<li>是否曾誤解「做人」就是迎合？而忽略了「尊重」與「分寸」的真正價值？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅提供職場生存的實用策略，也提醒我們：職涯不只是加薪升職，更是一場長期的人生成長與體驗。與其單打獨鬥，不如練好「做事做人」這門功課，讓你在穩健中突圍，在職場上活得成熟而自在。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>大人學做事做人</tag>
+        <tag>做事，才是職場做人的根本</tag>
       </tags>
   </entry>
   <entry>
@@ -979,6 +979,38 @@
       </tags>
   </entry>
   <entry>
+    <title>《每一天練習照顧自己:當我們為自己負起責任, 就能真正放手, 做自己》| 閱讀心得學習筆記</title>
+    <url>/2014/07/01/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《每一天練習照顧自己: 當我們為自己負起責任, 就能真正放手, 做自己》</span><br><span class="line">作者：梅樂蒂．碧緹</span><br><span class="line">譯者：林卓君</span><br><span class="line">出版社：遠流出版事業股份有限公司</span><br><span class="line">出版日期：2014/07/01</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「我們的幸福與快樂並非源自於他人，而是出自於自己。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《每一天練習照顧自己》是梅樂蒂·碧緹的代表作，這本書深入探討了如何放下過去，勇敢面對自己，並在繁忙的生活中找到內心的自由與平靜。作者結合自身經歷，提供了實用的建議與練習，幫助讀者放下執著、建立自我關愛，並最終實現與自己和解、活出自我。本書的價值在於提醒每一位讀者，真正的幸福來自於自己，而非依賴他人來給予。</p>
+<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>放下執著</strong>：放手不再執著於過去的痛苦與他人對自己的看法，學會接納並關照自己，活出自由與獨立。</li>
+<li><strong>照顧自己</strong>：不再讓自己成為他人情感的附庸，先學會愛自己，才能夠為他人提供真誠的愛。</li>
+<li><strong>走出受害者心態</strong>：不再將自己定位為<code>受害者</code>，<code>勇敢負責</code>，<code>學會從困境中找到成長的契機</code>。</li>
+<li><strong>情緒管理</strong>：<code>學會處理憤怒</code>與<code>負面情緒</code>，尋找積極的方式<code>釋放情感</code>，並讓自己<code>保持內心的平衡</code>。</li>
+<li><strong>設定個人目標</strong>：清楚地為自己<code>設定人生目標</code>，並以此作為動力去實現自我價值。</li>
+<li><strong>自我愛戀</strong>：與自己建立良好的關係，<code>從內心開始愛自己</code>，讓自己過得<code>快樂</code>、<code>自在</code>。</li>
+<li><strong>練習放手</strong>：書中提供了具體的練習活動，幫助讀者每天都在<code>放下執著中找到力量</code>，<code>逐漸釋放不必要的壓力</code>。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《每一天練習照顧自己》不僅是一部心理勵志書籍，它是一份深入人心的生命指南，讓人重新理解如何擁抱自己，放下過去的包袱，活出真正的自我。作者梅樂蒂·碧緹透過自身的生命經歷，告訴我們，真正的自由來自於自我關愛與放手。當我們<code>學會照顧自己</code>，<code>接受不完美的自己</code>，並勇敢地走出過去的陰霾時，生活自然會變得更加豐富與美好。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>運氣好的人</tag>
+        <tag>運氣</tag>
+        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《蛤蟆先生去看心理師》| 閱讀心得學習筆記</title>
     <url>/2022/01/26/reading-notes-counselling-for-roads-a-psychological-adventure/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-1.jpg"></p>
@@ -1029,38 +1061,6 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>蛤蟆先生去看心理師</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《每一天練習照顧自己:當我們為自己負起責任, 就能真正放手, 做自己》| 閱讀心得學習筆記</title>
-    <url>/2014/07/01/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《每一天練習照顧自己: 當我們為自己負起責任, 就能真正放手, 做自己》</span><br><span class="line">作者：梅樂蒂．碧緹</span><br><span class="line">譯者：林卓君</span><br><span class="line">出版社：遠流出版事業股份有限公司</span><br><span class="line">出版日期：2014/07/01</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「我們的幸福與快樂並非源自於他人，而是出自於自己。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《每一天練習照顧自己》是梅樂蒂·碧緹的代表作，這本書深入探討了如何放下過去，勇敢面對自己，並在繁忙的生活中找到內心的自由與平靜。作者結合自身經歷，提供了實用的建議與練習，幫助讀者放下執著、建立自我關愛，並最終實現與自己和解、活出自我。本書的價值在於提醒每一位讀者，真正的幸福來自於自己，而非依賴他人來給予。</p>
-<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>放下執著</strong>：放手不再執著於過去的痛苦與他人對自己的看法，學會接納並關照自己，活出自由與獨立。</li>
-<li><strong>照顧自己</strong>：不再讓自己成為他人情感的附庸，先學會愛自己，才能夠為他人提供真誠的愛。</li>
-<li><strong>走出受害者心態</strong>：不再將自己定位為<code>受害者</code>，<code>勇敢負責</code>，<code>學會從困境中找到成長的契機</code>。</li>
-<li><strong>情緒管理</strong>：<code>學會處理憤怒</code>與<code>負面情緒</code>，尋找積極的方式<code>釋放情感</code>，並讓自己<code>保持內心的平衡</code>。</li>
-<li><strong>設定個人目標</strong>：清楚地為自己<code>設定人生目標</code>，並以此作為動力去實現自我價值。</li>
-<li><strong>自我愛戀</strong>：與自己建立良好的關係，<code>從內心開始愛自己</code>，讓自己過得<code>快樂</code>、<code>自在</code>。</li>
-<li><strong>練習放手</strong>：書中提供了具體的練習活動，幫助讀者每天都在<code>放下執著中找到力量</code>，<code>逐漸釋放不必要的壓力</code>。</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《每一天練習照顧自己》不僅是一部心理勵志書籍，它是一份深入人心的生命指南，讓人重新理解如何擁抱自己，放下過去的包袱，活出真正的自我。作者梅樂蒂·碧緹透過自身的生命經歷，告訴我們，真正的自由來自於自我關愛與放手。當我們<code>學會照顧自己</code>，<code>接受不完美的自己</code>，並勇敢地走出過去的陰霾時，生活自然會變得更加豐富與美好。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>運氣好的人</tag>
-        <tag>運氣</tag>
-        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
       </tags>
   </entry>
   <entry>
@@ -1133,61 +1133,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》| 閱讀心得學習筆記</title>
-    <url>/2024/12/18/reading-notes-do-not-react-to-everything/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-react-to-everything-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》</span><br><span class="line">作者： 枡野俊明</span><br><span class="line">譯者： 黃薇嬪</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「放下，不是逃避，而是給自己自由的機會。不執著於無法控制的事物，專注於當下所能改變的，便能活得更加輕鬆自在。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會中，我們面臨著來自工作、人際關係與生活壓力的各種挑戰。本書由日本知名禪師枡野俊明撰寫，透過99個生活準則，教導我們如何運用禪學的智慧，學會「<code>放下</code>」，<code>讓心靈重獲自由</code>。本書不僅適合對<code>禪學</code>有興趣的讀者，也特別適合正在<code>面臨人生困境</code>、<code>希望減少內心煩惱</code>的人。  </p>
-<p><img src="/img/posts/reading-notes-do-not-react-to-everything-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>人際關係：學會適度距離</strong></li>
-</ol>
-<ul>
-<li><code>不必強求改變他人</code>，學會「<code>懂一半，剛剛好</code>」  </li>
-<li>面對無法理解的人與事，<code>選擇放下而非執著</code>  </li>
-<li>適時<code>淡泊職場關係</code>，<code>避免情緒牽動工作表現</code></li>
-</ul>
-<ol start="2">
-<li><strong>情緒管理：別讓煩惱吞噬自己</strong></li>
-</ol>
-<ul>
-<li><code>停止無謂的焦慮</code>，<code>不懂的事就不要過度思考</code>  </li>
-<li><code>不與過去較勁</code>，<code>將後悔轉化為成長的養分</code>  </li>
-<li><code>遠離過多的社群媒體資訊</code>，減<code>少不必要的心理消耗 </code></li>
-</ul>
-<ol start="3">
-<li><strong>減少內心消耗：不對每件事都有反應</strong></li>
-</ol>
-<ul>
-<li>面對<code>負面評論</code>，<code>保持冷靜</code>，不需急於回應  </li>
-<li>學會「<code>不使用的物品，就應該放手</code>」，清理內外負擔  </li>
-<li><code>培養專注力</code>，<code>減少分心</code>，<code>專注當下</code>的每個時刻</li>
-</ul>
-<ol start="4">
-<li><strong>活得自在：不要強求絕對對錯</strong></li>
-</ol>
-<ul>
-<li><code>人生沒有絕對的幸與不幸</code>，端看<code>個人心態</code></li>
-<li><code>不必事事爭辯是非</code>，學會<code>退一步海闊天空</code>  </li>
-<li><code>對自己的選擇負責</code>，勇敢接受每一步帶來的結果</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>別對每件事都有反應</tag>
-        <tag>淡泊一點也無妨</tag>
-        <tag>活出快意人生的99個禪練習</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課》 | 閱讀心得學習筆記</title>
     <url>/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-empowered-ordinary-people-extraordinary-product-1.jpg"></p>
@@ -1248,34 +1193,58 @@
       </tags>
   </entry>
   <entry>
-    <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀心得學習筆記</title>
-    <url>/2024/08/06/reading-notes-forest-wisdom/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-forest-wisdom-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我可能錯了：森林智者的最後一堂人生課》</span><br><span class="line">作者： 比約恩．納提科．林德布勞, 卡洛琳．班克勒, 納維德．莫迪里</span><br><span class="line">原文作者： Björn Natthiko Lindeblad, Caroline Bankler, Navid Modiri</span><br><span class="line">出版社：先覺</span><br></pre></td></tr></table></figure>
+    <title>《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》| 閱讀心得學習筆記</title>
+    <url>/2024/12/18/reading-notes-do-not-react-to-everything/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-react-to-everything-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》</span><br><span class="line">作者： 枡野俊明</span><br><span class="line">譯者： 黃薇嬪</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<p>「我可能錯了」的智慧：過度執著於應該如何 會讓人受困，試著鬆開執念，才能真正放下。</p>
+<p>「放下，不是逃避，而是給自己自由的機會。不執著於無法控制的事物，專注於當下所能改變的，便能活得更加輕鬆自在。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>比約恩．納提科．林德布勞的《我可能錯了》是一場深刻的心靈對話，他以坦誠、幽默而智慧的筆觸，分享自己從金融界菁英轉身成為到泰國擔任森林僧人，再回歸俗世與漸凍症共存的生命歷程。本書沒有說教，而是透過自身經驗，帶領讀者學會放下執著，接受無常，以更自由的心態面對人生的種種挑戰。對於陷入焦慮、迷惘或生命低潮的人來說，這是一本能帶來安慰與啟發的書。</p>
-<p><img src="/img/posts/reading-notes-forest-wisdom-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>「我可能錯了」的智慧</strong>：這句話不只是謙遜的表達，而是一種<code>認識自我執著</code>、<code>學會開放心態</code>的重要工具。  </li>
-<li><strong>放下對思想的盲目信任</strong>：比約恩認為，我們的念頭並非絕對真實，<code>學會質疑</code>與<code>釋放念頭</code>，能帶來內在自由。  </li>
-<li><strong>焦慮是最嚴格的精神導師</strong>：與其抗拒焦慮，不如視之為學習機會，透過觀察與接納，找到內在平靜。  </li>
-<li><strong>不要強求正面思考</strong>：比約恩不鼓勵刻意正向思考，而是提倡<code>以平靜與開放的態度面對現實</code>。  </li>
-<li><strong>學會喜歡別人本來的樣子</strong>：<code>接受他人</code>，而非試圖改變對方，才是建立和諧關係的關鍵。  </li>
-<li><strong>「應該」帶來痛苦</strong>：過度執著於<code>應該如何</code> 會讓人受困，試著鬆開執念，才能真正放下。</li>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會中，我們面臨著來自工作、人際關係與生活壓力的各種挑戰。本書由日本知名禪師枡野俊明撰寫，透過99個生活準則，教導我們如何運用禪學的智慧，學會「<code>放下</code>」，<code>讓心靈重獲自由</code>。本書不僅適合對<code>禪學</code>有興趣的讀者，也特別適合正在<code>面臨人生困境</code>、<code>希望減少內心煩惱</code>的人。  </p>
+<p><img src="/img/posts/reading-notes-do-not-react-to-everything-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>人際關係：學會適度距離</strong></li>
+</ol>
+<ul>
+<li><code>不必強求改變他人</code>，學會「<code>懂一半，剛剛好</code>」  </li>
+<li>面對無法理解的人與事，<code>選擇放下而非執著</code>  </li>
+<li>適時<code>淡泊職場關係</code>，<code>避免情緒牽動工作表現</code></li>
 </ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《我可能錯了》這本書不僅僅是一本心理勵志書，更是一本實用的生活指南。作者透過自己的親身經歷，為我們提供了一套面對生活挑戰的方法。這本書的價值在於，它讓我們看到，即使在面對生命的困境時，我們依然可以找到內心的平靜與力量。人生充滿不確定性，而我們唯一能掌控的，是如何選擇看待世界的方式。</p>
+<ol start="2">
+<li><strong>情緒管理：別讓煩惱吞噬自己</strong></li>
+</ol>
+<ul>
+<li><code>停止無謂的焦慮</code>，<code>不懂的事就不要過度思考</code>  </li>
+<li><code>不與過去較勁</code>，<code>將後悔轉化為成長的養分</code>  </li>
+<li><code>遠離過多的社群媒體資訊</code>，減<code>少不必要的心理消耗 </code></li>
+</ul>
+<ol start="3">
+<li><strong>減少內心消耗：不對每件事都有反應</strong></li>
+</ol>
+<ul>
+<li>面對<code>負面評論</code>，<code>保持冷靜</code>，不需急於回應  </li>
+<li>學會「<code>不使用的物品，就應該放手</code>」，清理內外負擔  </li>
+<li><code>培養專注力</code>，<code>減少分心</code>，<code>專注當下</code>的每個時刻</li>
+</ul>
+<ol start="4">
+<li><strong>活得自在：不要強求絕對對錯</strong></li>
+</ol>
+<ul>
+<li><code>人生沒有絕對的幸與不幸</code>，端看<code>個人心態</code></li>
+<li><code>不必事事爭辯是非</code>，學會<code>退一步海闊天空</code>  </li>
+<li><code>對自己的選擇負責</code>，勇敢接受每一步帶來的結果</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
-        <tag>我可能錯了</tag>
-        <tag>森林智者</tag>
-        <tag>森林智者的最後一堂人生課</tag>
+        <tag>別對每件事都有反應</tag>
+        <tag>淡泊一點也無妨</tag>
+        <tag>活出快意人生的99個禪練習</tag>
       </tags>
   </entry>
   <entry>
@@ -1310,6 +1279,37 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>思維的良率</tag>
         <tag>台積電教我的高效工作法，像經營者一樣思考、解題</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀心得學習筆記</title>
+    <url>/2024/08/06/reading-notes-forest-wisdom/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-forest-wisdom-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我可能錯了：森林智者的最後一堂人生課》</span><br><span class="line">作者： 比約恩．納提科．林德布勞, 卡洛琳．班克勒, 納維德．莫迪里</span><br><span class="line">原文作者： Björn Natthiko Lindeblad, Caroline Bankler, Navid Modiri</span><br><span class="line">出版社：先覺</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「我可能錯了」的智慧：過度執著於應該如何 會讓人受困，試著鬆開執念，才能真正放下。</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>比約恩．納提科．林德布勞的《我可能錯了》是一場深刻的心靈對話，他以坦誠、幽默而智慧的筆觸，分享自己從金融界菁英轉身成為到泰國擔任森林僧人，再回歸俗世與漸凍症共存的生命歷程。本書沒有說教，而是透過自身經驗，帶領讀者學會放下執著，接受無常，以更自由的心態面對人生的種種挑戰。對於陷入焦慮、迷惘或生命低潮的人來說，這是一本能帶來安慰與啟發的書。</p>
+<p><img src="/img/posts/reading-notes-forest-wisdom-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>「我可能錯了」的智慧</strong>：這句話不只是謙遜的表達，而是一種<code>認識自我執著</code>、<code>學會開放心態</code>的重要工具。  </li>
+<li><strong>放下對思想的盲目信任</strong>：比約恩認為，我們的念頭並非絕對真實，<code>學會質疑</code>與<code>釋放念頭</code>，能帶來內在自由。  </li>
+<li><strong>焦慮是最嚴格的精神導師</strong>：與其抗拒焦慮，不如視之為學習機會，透過觀察與接納，找到內在平靜。  </li>
+<li><strong>不要強求正面思考</strong>：比約恩不鼓勵刻意正向思考，而是提倡<code>以平靜與開放的態度面對現實</code>。  </li>
+<li><strong>學會喜歡別人本來的樣子</strong>：<code>接受他人</code>，而非試圖改變對方，才是建立和諧關係的關鍵。  </li>
+<li><strong>「應該」帶來痛苦</strong>：過度執著於<code>應該如何</code> 會讓人受困，試著鬆開執念，才能真正放下。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《我可能錯了》這本書不僅僅是一本心理勵志書，更是一本實用的生活指南。作者透過自己的親身經歷，為我們提供了一套面對生活挑戰的方法。這本書的價值在於，它讓我們看到，即使在面對生命的困境時，我們依然可以找到內心的平靜與力量。人生充滿不確定性，而我們唯一能掌控的，是如何選擇看待世界的方式。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>我可能錯了</tag>
+        <tag>森林智者</tag>
+        <tag>森林智者的最後一堂人生課</tag>
       </tags>
   </entry>
   <entry>
@@ -1689,6 +1689,42 @@
       </tags>
   </entry>
   <entry>
+    <title>《活學：終生受用的人生高效能解密》| 閱讀心得學習筆記</title>
+    <url>/2020/06/08/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《活學：終生受用的人生高效能解密》</span><br><span class="line">作者： 金惟純</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「管好你的念頭，就是管好你的人生。面對真實的自己，接受自己的處境。對世界、他人、自己少一些批判，才能換來內在的平靜與快樂。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活學：終生受用的人生高效能解密》由商業周刊創辦人金惟純撰寫，彙集他從人生巔峰退隱後的深刻體悟。從事業成功者到生命探尋者，他捨棄過去的成就與習慣，重新學習如何活得更自在、圓滿。本書以「活學」為核心，強調透過自省、修心與行動，逐步提升生命的品質，並幫助讀者找到真正的快樂與價值。</p>
+<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-人生最重要的事"><a href="#1-人生最重要的事" class="headerlink" title="1. 人生最重要的事"></a><strong>1. 人生最重要的事</strong></h4><ul>
+<li><strong>念頭決定人生</strong>：人一生最常重複的不是呼吸，而是<code>念頭</code>，管理好念頭才能真正改變人生。</li>
+<li><strong>面對真實的自己</strong>：「看不見」自己是人生困境的根源，<code>接受全部的自己</code>，才能真正活得輕鬆。</li>
+<li><strong>「不得不」的半吊子人生</strong>：如果無法<code>接受自己的處境</code>，又無法處理或放下，人生就會充滿掙扎與痛苦。</li>
+</ul>
+<h4 id="2-最高效能的人生"><a href="#2-最高效能的人生" class="headerlink" title="2. 最高效能的人生"></a><strong>2. 最高效能的人生</strong></h4><ul>
+<li><strong>學習「願意」</strong>：提升自我效能的關鍵，是從「不願意」轉變為「<code>願意</code>」，並從小事開始改變。</li>
+<li><strong>順境與逆境皆是修煉</strong>：人生的每個處境都是「<code>事上練心</code>」，重要的是如何面對而非逃避。</li>
+<li><strong>「放下評判心」</strong>：對世界、他人、自己<code>少一些批判</code>，才能換來內在的平靜與快樂。</li>
+</ul>
+<h4 id="3-與人相處的智慧"><a href="#3-與人相處的智慧" class="headerlink" title="3. 與人相處的智慧"></a><strong>3. 與人相處的智慧</strong></h4><ul>
+<li><strong>領導的真諦</strong>：真正的領導者要懂得「<code>事上練心</code>」，不斷在實踐中成長，而非僅靠權力驅動他人。</li>
+<li><strong>組織與人生的共通法則</strong>：「<code>創新</code>」是結果而非起點，唯有紮實的文化與價值觀，才能真正影響世界。</li>
+<li><strong>學習「不計較」</strong>：在人際關係中，計較只會製造摩擦，<code>學會放下</code>，反而能得到更多。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>活學：終生受用的人生高效能解密</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《萎靡與心盛：增強心理韌性的心盛維生素，有效擺脫空虛消沉與疲憊的惡性迴圈，開啟正向能量新動力》| 閱讀心得學習筆記</title>
     <url>/2024/11/29/reading-notes-listless-and-flourishing-heart/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-listless-and-flourishing-heart-1.jpg"></p>
@@ -1727,42 +1763,6 @@
         <tag>萎靡與心盛</tag>
         <tag>增強心理韌性的心盛維生素</tag>
         <tag>有效擺脫空虛消沉與疲憊的惡性迴圈，開啟正向能量新動力</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《活學：終生受用的人生高效能解密》| 閱讀心得學習筆記</title>
-    <url>/2020/06/08/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《活學：終生受用的人生高效能解密》</span><br><span class="line">作者： 金惟純</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「管好你的念頭，就是管好你的人生。面對真實的自己，接受自己的處境。對世界、他人、自己少一些批判，才能換來內在的平靜與快樂。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活學：終生受用的人生高效能解密》由商業周刊創辦人金惟純撰寫，彙集他從人生巔峰退隱後的深刻體悟。從事業成功者到生命探尋者，他捨棄過去的成就與習慣，重新學習如何活得更自在、圓滿。本書以「活學」為核心，強調透過自省、修心與行動，逐步提升生命的品質，並幫助讀者找到真正的快樂與價值。</p>
-<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-人生最重要的事"><a href="#1-人生最重要的事" class="headerlink" title="1. 人生最重要的事"></a><strong>1. 人生最重要的事</strong></h4><ul>
-<li><strong>念頭決定人生</strong>：人一生最常重複的不是呼吸，而是<code>念頭</code>，管理好念頭才能真正改變人生。</li>
-<li><strong>面對真實的自己</strong>：「看不見」自己是人生困境的根源，<code>接受全部的自己</code>，才能真正活得輕鬆。</li>
-<li><strong>「不得不」的半吊子人生</strong>：如果無法<code>接受自己的處境</code>，又無法處理或放下，人生就會充滿掙扎與痛苦。</li>
-</ul>
-<h4 id="2-最高效能的人生"><a href="#2-最高效能的人生" class="headerlink" title="2. 最高效能的人生"></a><strong>2. 最高效能的人生</strong></h4><ul>
-<li><strong>學習「願意」</strong>：提升自我效能的關鍵，是從「不願意」轉變為「<code>願意</code>」，並從小事開始改變。</li>
-<li><strong>順境與逆境皆是修煉</strong>：人生的每個處境都是「<code>事上練心</code>」，重要的是如何面對而非逃避。</li>
-<li><strong>「放下評判心」</strong>：對世界、他人、自己<code>少一些批判</code>，才能換來內在的平靜與快樂。</li>
-</ul>
-<h4 id="3-與人相處的智慧"><a href="#3-與人相處的智慧" class="headerlink" title="3. 與人相處的智慧"></a><strong>3. 與人相處的智慧</strong></h4><ul>
-<li><strong>領導的真諦</strong>：真正的領導者要懂得「<code>事上練心</code>」，不斷在實踐中成長，而非僅靠權力驅動他人。</li>
-<li><strong>組織與人生的共通法則</strong>：「<code>創新</code>」是結果而非起點，唯有紮實的文化與價值觀，才能真正影響世界。</li>
-<li><strong>學習「不計較」</strong>：在人際關係中，計較只會製造摩擦，<code>學會放下</code>，反而能得到更多。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>活學：終生受用的人生高效能解密</tag>
       </tags>
   </entry>
   <entry>
@@ -2264,6 +2264,51 @@
       </tags>
   </entry>
   <entry>
+    <title>《別對每件事都有反應2：不執著的練習！》| 閱讀心得學習筆記</title>
+    <url>/2025/01/20/reading-notes-the-practice-of-non-attachment/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-practice-of-non-attachment-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《別對每件事都有反應2：不執著的練習》</span><br><span class="line">作者： 枡野俊明</span><br><span class="line">譯者： 黃薇嬪</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「人生，就是活在當下。過去、現在、未來看似相連，實則各自獨立。別放不下過去，也不擔憂未來，專注凝視現在。全力以赴做好此刻能做的事。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸、情緒起伏劇烈的時代，我們時常被周遭的人事物影響，難以保持內心的平靜。本書延續《別對每件事都有反應》的核心理念，透過禪學智慧，帶領我們學習「不執著」的生活態度。作者枡野俊明提出 99 個禪練習，從人際、工作到身心靈，幫助我們擺脫內心負擔，培養「不反應、不在意、不牽扯」的能力，讓生活更順遂。  </p>
+<p><img src="/img/posts/reading-notes-the-practice-of-non-attachment-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-簡化人際關係"><a href="#1-簡化人際關係" class="headerlink" title="1. 簡化人際關係"></a><strong>1. 簡化人際關係</strong></h4><ul>
+<li><strong>別人是別人，自己是自己</strong>：不勉強討好他人，專注做好自己。  </li>
+<li><strong>遠離被情緒操控的人</strong>：學會適時抽離，不被負能量影響。  </li>
+<li><strong>怒氣應暗自排解</strong>：生氣只會損害自己，保持冷靜才是智慧。  </li>
+<li><strong>競爭要秉持「輸就是贏」的精神</strong>：過度比較只會徒增壓力，反而失去快樂。</li>
+</ul>
+<h4 id="2-轉念看待工作煩惱"><a href="#2-轉念看待工作煩惱" class="headerlink" title="2. 轉念看待工作煩惱"></a><strong>2. 轉念看待工作煩惱</strong></h4><ul>
+<li><strong>「失敗」是挑戰過的證明</strong>：接受不完美，才能真正成長。  </li>
+<li><strong>能幹的人擅長喘口氣</strong>：懂得休息才能長久保持高效能。  </li>
+<li><strong>全力以赴後，聽天命</strong>：盡力做好當下，不糾結結果。  </li>
+<li><strong>人生的痛苦起因於「要得太多」</strong>：適度知足，才能減少煩惱。</li>
+</ul>
+<h4 id="3-身心重置，減少負擔"><a href="#3-身心重置，減少負擔" class="headerlink" title="3. 身心重置，減少負擔"></a><strong>3. 身心重置，減少負擔</strong></h4><ul>
+<li><strong>不被智慧型手機奪心</strong>：與手機保持距離，找回專注與自由。  </li>
+<li><strong>飯吃七分飽，心不過度貪求</strong>：控制物慾，才能真正滿足。  </li>
+<li><strong>坐禪減壓，養成內在穩定</strong>：透過冥想與靜心，讓情緒歸零。</li>
+</ul>
+<h4 id="4-禪學切換力，擺脫執著"><a href="#4-禪學切換力，擺脫執著" class="headerlink" title="4. 禪學切換力，擺脫執著"></a><strong>4. 禪學切換力，擺脫執著</strong></h4><ul>
+<li><strong>「未來是今天的創造」——深知今日事</strong>：把握當下，決定未來的樣貌。  </li>
+<li><strong>「前進的路不只一條」——大道在目前</strong>：停止執著於單一選擇，放眼更多可能。  </li>
+<li><strong>「好事壞事終有盡頭」——諸行無常</strong>：學會接受變化，人生才能自在。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>別對每件事都有反應</tag>
+        <tag>別對每件事都有反應2</tag>
+        <tag>不執著的練習</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《當下的力量：通往靈性開悟的指引》| 閱讀心得學習筆記</title>
     <url>/2023/03/01/reading-notes-the-power-of-now-a-guide-to-spiritual-enlightenment/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-power-of-now-a-guide-to-spiritual-enlightenment-1.jpg"></p>
@@ -2309,51 +2354,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>當下的力量：通往靈性開悟的指引</tag>
         <tag>當下的力量</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《別對每件事都有反應2：不執著的練習！》| 閱讀心得學習筆記</title>
-    <url>/2025/01/20/reading-notes-the-practice-of-non-attachment/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-practice-of-non-attachment-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《別對每件事都有反應2：不執著的練習》</span><br><span class="line">作者： 枡野俊明</span><br><span class="line">譯者： 黃薇嬪</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「人生，就是活在當下。過去、現在、未來看似相連，實則各自獨立。別放不下過去，也不擔憂未來，專注凝視現在。全力以赴做好此刻能做的事。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸、情緒起伏劇烈的時代，我們時常被周遭的人事物影響，難以保持內心的平靜。本書延續《別對每件事都有反應》的核心理念，透過禪學智慧，帶領我們學習「不執著」的生活態度。作者枡野俊明提出 99 個禪練習，從人際、工作到身心靈，幫助我們擺脫內心負擔，培養「不反應、不在意、不牽扯」的能力，讓生活更順遂。  </p>
-<p><img src="/img/posts/reading-notes-the-practice-of-non-attachment-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-簡化人際關係"><a href="#1-簡化人際關係" class="headerlink" title="1. 簡化人際關係"></a><strong>1. 簡化人際關係</strong></h4><ul>
-<li><strong>別人是別人，自己是自己</strong>：不勉強討好他人，專注做好自己。  </li>
-<li><strong>遠離被情緒操控的人</strong>：學會適時抽離，不被負能量影響。  </li>
-<li><strong>怒氣應暗自排解</strong>：生氣只會損害自己，保持冷靜才是智慧。  </li>
-<li><strong>競爭要秉持「輸就是贏」的精神</strong>：過度比較只會徒增壓力，反而失去快樂。</li>
-</ul>
-<h4 id="2-轉念看待工作煩惱"><a href="#2-轉念看待工作煩惱" class="headerlink" title="2. 轉念看待工作煩惱"></a><strong>2. 轉念看待工作煩惱</strong></h4><ul>
-<li><strong>「失敗」是挑戰過的證明</strong>：接受不完美，才能真正成長。  </li>
-<li><strong>能幹的人擅長喘口氣</strong>：懂得休息才能長久保持高效能。  </li>
-<li><strong>全力以赴後，聽天命</strong>：盡力做好當下，不糾結結果。  </li>
-<li><strong>人生的痛苦起因於「要得太多」</strong>：適度知足，才能減少煩惱。</li>
-</ul>
-<h4 id="3-身心重置，減少負擔"><a href="#3-身心重置，減少負擔" class="headerlink" title="3. 身心重置，減少負擔"></a><strong>3. 身心重置，減少負擔</strong></h4><ul>
-<li><strong>不被智慧型手機奪心</strong>：與手機保持距離，找回專注與自由。  </li>
-<li><strong>飯吃七分飽，心不過度貪求</strong>：控制物慾，才能真正滿足。  </li>
-<li><strong>坐禪減壓，養成內在穩定</strong>：透過冥想與靜心，讓情緒歸零。</li>
-</ul>
-<h4 id="4-禪學切換力，擺脫執著"><a href="#4-禪學切換力，擺脫執著" class="headerlink" title="4. 禪學切換力，擺脫執著"></a><strong>4. 禪學切換力，擺脫執著</strong></h4><ul>
-<li><strong>「未來是今天的創造」——深知今日事</strong>：把握當下，決定未來的樣貌。  </li>
-<li><strong>「前進的路不只一條」——大道在目前</strong>：停止執著於單一選擇，放眼更多可能。  </li>
-<li><strong>「好事壞事終有盡頭」——諸行無常</strong>：學會接受變化，人生才能自在。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>別對每件事都有反應</tag>
-        <tag>別對每件事都有反應2</tag>
-        <tag>不執著的練習</tag>
       </tags>
   </entry>
   <entry>
@@ -2789,6 +2789,40 @@
       </tags>
   </entry>
   <entry>
+    <title>《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》| 閱讀心得學習筆記</title>
+    <url>/2024/02/29/reading-notes-wait-what-and-lifes-essential-questions/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》</span><br><span class="line">作者： 詹姆斯．萊恩</span><br><span class="line">原文作者： James E. Ryan</span><br><span class="line">譯者： 廖月娟</span><br><span class="line">出版社：天下文化 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「不論你所處的領域為何，提出好問題都是生涯成功的關鍵。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書《你的人生，真正重要的是什麼？》由維吉尼亞大學校長詹姆斯．萊恩所著，深入探討了人生中最重要的五個問題，並提供了對應的思維方式來幫助讀者突破生涯中的障礙。這些問題並非尋常的答案，而是能引發深刻思考、促進自我成長並改善人際關係的提問。透過幽默的小故事和實際的生活例子，萊恩向我們展示了思考的力量，並告訴我們如何用問題來開創一個充滿智慧的未來。</p>
+<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>「等等，你說什麼？」</strong><br>這是深入了解的根源。<code>學會傾聽</code>和<code>確保你理解對方的話語</code>，可以讓你從根本上把握對話的方向。</p>
+</li>
+<li><p><strong>「我想知道……？」</strong><br><code>好奇心</code>是學習的驅動力。提出這個問題能夠激發探索精神，開啟思考的邊界。</p>
+</li>
+<li><p><strong>「至少，我們是不是能夠……？」</strong><br>這個問題啟動了<code>行動的開始</code>，幫助我們從理論轉向實踐，尋找進步的途徑。</p>
+</li>
+<li><p><strong>「我能夠幫什麼忙？」</strong><br>這是建立關係的基礎。透過詢問自己能為他人做什麼，我們能夠創造<code>良好的互動與合作</code>。</p>
+</li>
+<li><p><strong>「真正重要的是什麼？」</strong><br>這個問題幫助我們<code>回歸生命的核心</code>，<code>找出真正值得追求的目標</code>。</p>
+</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《你的人生，真正重要的是什麼？》提醒我們，提出好問題能夠塑造出一個更加充實和有意義的人生。萊恩的五個關鍵問題，不僅能夠解答人生的迷茫，還能幫助我們在職業生涯和人際關係中走得更遠。這本書是一本指引我們反思並實踐智慧的寶典，值得每一位渴望成長的讀者閱讀。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>你的人生，真正重要的是什麼？</tag>
+        <tag>感動百萬人的5個人生提問，那些比正確答案更關鍵的事</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《台南老店散步：回味本町摩登老時光(新版)》 | 閱讀心得學習筆記</title>
     <url>/2024/12/06/reading-notes-walking-around-old-shops-in-tainan/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-around-old-shops-in-tainan-1.jpg"></p>
@@ -2872,37 +2906,74 @@
       </tags>
   </entry>
   <entry>
-    <title>《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》| 閱讀心得學習筆記</title>
-    <url>/2024/02/29/reading-notes-wait-what-and-lifes-essential-questions/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》</span><br><span class="line">作者： 詹姆斯．萊恩</span><br><span class="line">原文作者： James E. Ryan</span><br><span class="line">譯者： 廖月娟</span><br><span class="line">出版社：天下文化 </span><br></pre></td></tr></table></figure>
+    <title>《為什麼魚不存在：關於失去、愛與生命的本質，踏上追尋人生意義的解答之旅》| 閱讀心得學習筆記</title>
+    <url>/2024/03/07/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼魚不存在：關於失去、愛與生命的本質，踏上追尋人生意義的解答之旅》</span><br><span class="line">Why Fish Don’t Exist: A Story of Loss, Love, and the Hidden Order of Life</span><br><span class="line">作者： 露露．米勒  </span><br><span class="line">原文作者： Lulu Miller</span><br><span class="line">譯者： 閻蕙群</span><br><span class="line">出版社：采實文化  </span><br><span class="line">出版日期：2024/03/07</span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<p>「不論你所處的領域為何，提出好問題都是生涯成功的關鍵。」</p>
+<p>「世上沒有戰勝混亂的方法，但我們仍能尋找意義。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書《你的人生，真正重要的是什麼？》由維吉尼亞大學校長詹姆斯．萊恩所著，深入探討了人生中最重要的五個問題，並提供了對應的思維方式來幫助讀者突破生涯中的障礙。這些問題並非尋常的答案，而是能引發深刻思考、促進自我成長並改善人際關係的提問。透過幽默的小故事和實際的生活例子，萊恩向我們展示了思考的力量，並告訴我們如何用問題來開創一個充滿智慧的未來。</p>
-<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>「等等，你說什麼？」</strong><br>這是深入了解的根源。<code>學會傾聽</code>和<code>確保你理解對方的話語</code>，可以讓你從根本上把握對話的方向。</p>
-</li>
-<li><p><strong>「我想知道……？」</strong><br><code>好奇心</code>是學習的驅動力。提出這個問題能夠激發探索精神，開啟思考的邊界。</p>
-</li>
-<li><p><strong>「至少，我們是不是能夠……？」</strong><br>這個問題啟動了<code>行動的開始</code>，幫助我們從理論轉向實踐，尋找進步的途徑。</p>
-</li>
-<li><p><strong>「我能夠幫什麼忙？」</strong><br>這是建立關係的基礎。透過詢問自己能為他人做什麼，我們能夠創造<code>良好的互動與合作</code>。</p>
-</li>
-<li><p><strong>「真正重要的是什麼？」</strong><br>這個問題幫助我們<code>回歸生命的核心</code>，<code>找出真正值得追求的目標</code>。</p>
-</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《你的人生，真正重要的是什麼？》提醒我們，提出好問題能夠塑造出一個更加充實和有意義的人生。萊恩的五個關鍵問題，不僅能夠解答人生的迷茫，還能幫助我們在職業生涯和人際關係中走得更遠。這本書是一本指引我們反思並實踐智慧的寶典，值得每一位渴望成長的讀者閱讀。</p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《為什麼魚不存在》不僅是一本關於分類學家的傳記，也是一場探尋人生秩序與混亂的旅程。科學記者露露・米勒透過研究大衛・喬丹的生平，試圖理解人在失敗與變動中如何堅持信念，最終卻發現一個顛覆自身價值觀的真相。本書揉合科學、歷史與個人成長，帶領讀者重新思考世界的本質。</p>
+<p><img src="/img/posts/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>混亂與秩序的衝突</strong>：喬丹一生致力於分類魚類，試圖為自然帶來秩序，卻屢次遭遇挫折，如舊金山地震摧毀他的標本館。</li>
+<li><strong>堅持與執念的界線</strong>：喬丹面對失敗選擇重建，但他的科學信仰是否合理？米勒藉由探究其人生，質疑這種過度執著的代價。</li>
+<li><strong>個人經歷的投射</strong>：米勒自身的失敗與迷惘，使她對喬丹的故事產生共鳴，並最終意識到世上沒有絕對的秩序。</li>
+<li><strong>科學與人生的反思</strong>：真正的科學不該為自然畫地自限，而是擁抱不確定性，理解生命的多樣與複雜。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>當我們試圖掌控生活時，是否反而陷入執念，忽略了世界本就充滿變數？</li>
+<li>科學的追求是尋找秩序，還是接受未知？我們應如何面對不可控的現實？</li>
+<li>個人成就與道德邊界如何權衡？喬丹的學術成就是否掩蓋了他道德上的爭議？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《為什麼魚不存在》提醒我們，世界並非井然有序，而是充滿未知與變化。當秩序崩解時，重要的不是執著於過去，而是學會接受混亂，並在其中找到自己的價值與方向。</p>
+]]></content>
+      <tags>
+        <tag>為什麼魚不存在</tag>
+        <tag>踏上追尋人生意義的解答之旅</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》 | 閱讀心得學習筆記</title>
+    <url>/2023/05/26/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》</span><br><span class="line">作者： 沃克</span><br><span class="line">原文作者： Matthew Walker</span><br><span class="line">譯者： 姚若潔</span><br><span class="line">出版社：天下文化</span><br><span class="line">出版日期：2023/05/26</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「睡眠是大腦的維修站，沒有它，一切都會崩潰。夢提供虛擬實境，讓過去與現在的知識融合，激發創意。夢還能撫慰痛苦的記憶，幫助我們走出創傷。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>睡眠不只是生理需求，更是影響記憶、健康、創意與壽命的關鍵要素。然而，在快節奏的現代社會，缺乏睡眠已成為全球性流行病。《為什麼要睡覺？》由神經科學家馬修·沃克撰寫，透過科學實證揭示睡眠的必要性，提醒我們重視這項被忽略的生命基礎。</p>
+<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="1-睡眠的神奇功效"><a href="#1-睡眠的神奇功效" class="headerlink" title="1. 睡眠的神奇功效"></a>1. <strong>睡眠的神奇功效</strong></h3><ul>
+<li>幫助記憶形成與學習能力提升。</li>
+<li>夢境能促進創意，並幫助情緒修復。</li>
+<li>深度睡眠可強化免疫力，降低罹癌風險。</li>
+</ul>
+<h3 id="2-睡眠不足的嚴重後果"><a href="#2-睡眠不足的嚴重後果" class="headerlink" title="2. 睡眠不足的嚴重後果"></a>2. <strong>睡眠不足的嚴重後果</strong></h3><ul>
+<li>免疫系統衰弱，癌症風險增加。</li>
+<li>腦部無法清除有害蛋白質，提高失智風險。</li>
+<li>專注力下降，長時間清醒的駕駛狀態等同酒駕。</li>
+</ul>
+<h3 id="3-睡眠對職場與運動的影響"><a href="#3-睡眠對職場與運動的影響" class="headerlink" title="3. 睡眠對職場與運動的影響"></a>3. <strong>睡眠對職場與運動的影響</strong></h3><ul>
+<li>運動員睡得越多，表現越佳。</li>
+<li>短暫午睡能顯著提高專注力與生產力。</li>
+<li>睡眠不足的主管，會影響整個團隊的績效。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們該如何改變現代人的睡眠習慣？</li>
+<li>長期忽視睡眠，會對社會帶來哪些隱患？</li>
+<li>企業是否應將睡眠納入員工健康管理計畫？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《為什麼要睡覺？》以科學數據與案例解析，提醒我們：睡眠是健康與成功的關鍵，而不是時間的浪費。現代社會應正視睡眠危機，重新調整對工作的迷思，才能真正提升生活品質。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
-        <tag>你的人生，真正重要的是什麼？</tag>
-        <tag>感動百萬人的5個人生提問，那些比正確答案更關鍵的事</tag>
+        <tag>森林智者</tag>
+        <tag>為什麼要睡覺</tag>
       </tags>
   </entry>
   <entry>
@@ -2960,77 +3031,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>深夜加油站遇見蘇格拉底</tag>
         <tag>蘇格拉底</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》 | 閱讀心得學習筆記</title>
-    <url>/2023/05/26/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》</span><br><span class="line">作者： 沃克</span><br><span class="line">原文作者： Matthew Walker</span><br><span class="line">譯者： 姚若潔</span><br><span class="line">出版社：天下文化</span><br><span class="line">出版日期：2023/05/26</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「睡眠是大腦的維修站，沒有它，一切都會崩潰。夢提供虛擬實境，讓過去與現在的知識融合，激發創意。夢還能撫慰痛苦的記憶，幫助我們走出創傷。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>睡眠不只是生理需求，更是影響記憶、健康、創意與壽命的關鍵要素。然而，在快節奏的現代社會，缺乏睡眠已成為全球性流行病。《為什麼要睡覺？》由神經科學家馬修·沃克撰寫，透過科學實證揭示睡眠的必要性，提醒我們重視這項被忽略的生命基礎。</p>
-<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="1-睡眠的神奇功效"><a href="#1-睡眠的神奇功效" class="headerlink" title="1. 睡眠的神奇功效"></a>1. <strong>睡眠的神奇功效</strong></h3><ul>
-<li>幫助記憶形成與學習能力提升。</li>
-<li>夢境能促進創意，並幫助情緒修復。</li>
-<li>深度睡眠可強化免疫力，降低罹癌風險。</li>
-</ul>
-<h3 id="2-睡眠不足的嚴重後果"><a href="#2-睡眠不足的嚴重後果" class="headerlink" title="2. 睡眠不足的嚴重後果"></a>2. <strong>睡眠不足的嚴重後果</strong></h3><ul>
-<li>免疫系統衰弱，癌症風險增加。</li>
-<li>腦部無法清除有害蛋白質，提高失智風險。</li>
-<li>專注力下降，長時間清醒的駕駛狀態等同酒駕。</li>
-</ul>
-<h3 id="3-睡眠對職場與運動的影響"><a href="#3-睡眠對職場與運動的影響" class="headerlink" title="3. 睡眠對職場與運動的影響"></a>3. <strong>睡眠對職場與運動的影響</strong></h3><ul>
-<li>運動員睡得越多，表現越佳。</li>
-<li>短暫午睡能顯著提高專注力與生產力。</li>
-<li>睡眠不足的主管，會影響整個團隊的績效。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們該如何改變現代人的睡眠習慣？</li>
-<li>長期忽視睡眠，會對社會帶來哪些隱患？</li>
-<li>企業是否應將睡眠納入員工健康管理計畫？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《為什麼要睡覺？》以科學數據與案例解析，提醒我們：睡眠是健康與成功的關鍵，而不是時間的浪費。現代社會應正視睡眠危機，重新調整對工作的迷思，才能真正提升生活品質。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>森林智者</tag>
-        <tag>為什麼要睡覺</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《為什麼魚不存在：關於失去、愛與生命的本質，踏上追尋人生意義的解答之旅》| 閱讀心得學習筆記</title>
-    <url>/2024/03/07/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼魚不存在：關於失去、愛與生命的本質，踏上追尋人生意義的解答之旅》</span><br><span class="line">Why Fish Don’t Exist: A Story of Loss, Love, and the Hidden Order of Life</span><br><span class="line">作者： 露露．米勒  </span><br><span class="line">原文作者： Lulu Miller</span><br><span class="line">譯者： 閻蕙群</span><br><span class="line">出版社：采實文化  </span><br><span class="line">出版日期：2024/03/07</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「世上沒有戰勝混亂的方法，但我們仍能尋找意義。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《為什麼魚不存在》不僅是一本關於分類學家的傳記，也是一場探尋人生秩序與混亂的旅程。科學記者露露・米勒透過研究大衛・喬丹的生平，試圖理解人在失敗與變動中如何堅持信念，最終卻發現一個顛覆自身價值觀的真相。本書揉合科學、歷史與個人成長，帶領讀者重新思考世界的本質。</p>
-<p><img src="/img/posts/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>混亂與秩序的衝突</strong>：喬丹一生致力於分類魚類，試圖為自然帶來秩序，卻屢次遭遇挫折，如舊金山地震摧毀他的標本館。</li>
-<li><strong>堅持與執念的界線</strong>：喬丹面對失敗選擇重建，但他的科學信仰是否合理？米勒藉由探究其人生，質疑這種過度執著的代價。</li>
-<li><strong>個人經歷的投射</strong>：米勒自身的失敗與迷惘，使她對喬丹的故事產生共鳴，並最終意識到世上沒有絕對的秩序。</li>
-<li><strong>科學與人生的反思</strong>：真正的科學不該為自然畫地自限，而是擁抱不確定性，理解生命的多樣與複雜。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>當我們試圖掌控生活時，是否反而陷入執念，忽略了世界本就充滿變數？</li>
-<li>科學的追求是尋找秩序，還是接受未知？我們應如何面對不可控的現實？</li>
-<li>個人成就與道德邊界如何權衡？喬丹的學術成就是否掩蓋了他道德上的爭議？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《為什麼魚不存在》提醒我們，世界並非井然有序，而是充滿未知與變化。當秩序崩解時，重要的不是執著於過去，而是學會接受混亂，並在其中找到自己的價值與方向。</p>
-]]></content>
-      <tags>
-        <tag>為什麼魚不存在</tag>
-        <tag>踏上追尋人生意義的解答之旅</tag>
       </tags>
   </entry>
   <entry>
