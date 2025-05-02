@@ -28,36 +28,6 @@
       </tags>
   </entry>
   <entry>
-    <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-tech-10-keywords/</url>
-    <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
-<ol>
-<li><strong>自然語言處理（NLP）</strong>（Natural Language Processing, NLP）</li>
-<li><strong>機器學習</strong>（Machine Learning）</li>
-<li><strong>深度學習</strong>（Deep Learning）</li>
-<li><strong>文本生成</strong>（Text Generation）</li>
-<li><strong>上下文理解</strong>（Contextual Understanding）</li>
-<li><strong>語義分析</strong>（Semantic Analysis）</li>
-<li><strong>模型訓練</strong>（Model Training）</li>
-<li><strong>語言建模</strong>（Language Modeling）</li>
-<li><strong>人工智慧</strong>（Artificial Intelligence, AI）</li>
-<li><strong>轉移學習</strong>（Transfer Learning）</li>
-</ol>
-<p>這些關鍵字涵蓋了大型語言模型的核心概念、技術和應用領域，有助於幫助我們深入理解 LLMs 的工作原理和用途。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>財報分析入門筆記</title>
     <url>/2017/06/30/financial-statements-analysis-introduction/</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>財務報表是一家公司的體質檢查表，透過財務報表可以了解這家公司的財務狀況和營運狀況，也就是說可以透過財務報表去一窺公司的身體健康是否硬朗或是漸漸亮起紅燈。許多人以為財務報表晦澀難懂，只有經營者、會計師或是財務分析師才需要了解。事實上，財務報表的觀念並不難懂，不管是投資大眾甚至是公司員工應該都要對自己投資和工作的公司要有所掌握，一般投資人若能了解財報就有機會從中挖掘被低估的優質股票進而獲取相對報酬（賺錢），而一般員工若能掌握財報資訊，更能全面性了解公司營運狀況和未來發展方向，為自己的職涯加分。</p>
@@ -154,6 +124,36 @@
         <tag>Cash flow statement</tag>
         <tag>finance</tag>
         <tag>財務</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-tech-10-keywords/</url>
+    <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
+<ol>
+<li><strong>自然語言處理（NLP）</strong>（Natural Language Processing, NLP）</li>
+<li><strong>機器學習</strong>（Machine Learning）</li>
+<li><strong>深度學習</strong>（Deep Learning）</li>
+<li><strong>文本生成</strong>（Text Generation）</li>
+<li><strong>上下文理解</strong>（Contextual Understanding）</li>
+<li><strong>語義分析</strong>（Semantic Analysis）</li>
+<li><strong>模型訓練</strong>（Model Training）</li>
+<li><strong>語言建模</strong>（Language Modeling）</li>
+<li><strong>人工智慧</strong>（Artificial Intelligence, AI）</li>
+<li><strong>轉移學習</strong>（Transfer Learning）</li>
+</ol>
+<p>這些關鍵字涵蓋了大型語言模型的核心概念、技術和應用領域，有助於幫助我們深入理解 LLMs 的工作原理和用途。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
       </tags>
   </entry>
   <entry>
@@ -693,6 +693,39 @@
       </tags>
   </entry>
   <entry>
+    <title>《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》| 閱讀心得學習筆記</title>
+    <url>/2017/09/26/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》</span><br><span class="line">作者： 莎拉‧古柏  </span><br><span class="line">原文作者： Sarah Cooper</span><br><span class="line">譯者： 陳重亨</span><br><span class="line">出版社：時報出版  </span><br><span class="line">出版日期：2017/09/26</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「開會是讓你展示領導才能、軟實力和大腦分析創造思考能力的好機會，你在開會的時候表現得越聰明，就會有越多人找你去開會，那麼你表現出聰明的機會也就越多。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代職場中，開會幾乎是每日必經的儀式。面對冗長、空洞又充滿競爭氣味的會議，新人往往束手無策，而老鳥也未必能掌控全場。前 Yahoo! 與 Google 主管莎拉．古柏的《這樣開會，最聰明！》以幽默諷刺的手法，揭露那些表面「看起來很聰明」的行為，實則是職場生存的潛規則。本書不僅是一本工具書，更像是一本職場生存手冊，讓讀者在會議中看起來「比實際聰明三倍」。</p>
+<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>進入會議室的第一印象策略</strong>：包括帶著筆記本、坐在適當位置、適時點頭等看似微不足道卻效果驚人的舉動。  </li>
+<li><strong>白板技巧與圖表魔法</strong>：善用毫無意義但看起來很「複雜」的圖形，展現邏輯與思考能力。  </li>
+<li><strong>電話與遠距會議密技</strong>：透過問候語與檔案確認等語言小技巧，在聲音中塑造專業感。  </li>
+<li><strong>跨文化會議指南</strong>：各國開會文化不同，美國偏行動、日本偏委婉、英國愛抱怨制度，理解這些差異可避免文化衝突。  </li>
+<li><strong>臨場應變絕招</strong>：例如臨時發言時，善用「我補充一下」或「讓我們回到原始目標」等話術來顯得有貢獻。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否太過依賴形式來衡量一個人的「專業度」？</li>
+<li>看起來「聰明」是否比實際「聰明」更容易在職場中獲得信任與晉升？</li>
+<li>書中所揭示的行為，究竟是諷刺還是反映真實？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《這樣開會，最聰明！》不只是一本搞笑的開會指南，而是對職場文化的精準觀察與反思。透過作者的幽默筆觸，我們得以重新審視那些「看起來很努力」的假象與潛藏的生存智慧。無論你是新鮮人還是資深主管，都能從書中找到自嘲與提升的空間。這是一本用笑聲包裝的職場真言書，教你在會議中「看起來像個專家」，也許就是你職涯邁向 A 咖的第一步。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》| 閱讀心得學習筆記</title>
     <url>/2024/11/29/reading-notes-adulting-learning-doing-things-being-a-person/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-1.jpg"></p>
@@ -946,38 +979,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《每一天練習照顧自己:當我們為自己負起責任, 就能真正放手, 做自己》| 閱讀心得學習筆記</title>
-    <url>/2014/07/01/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《每一天練習照顧自己: 當我們為自己負起責任, 就能真正放手, 做自己》</span><br><span class="line">作者：梅樂蒂．碧緹</span><br><span class="line">譯者：林卓君</span><br><span class="line">出版社：遠流出版事業股份有限公司</span><br><span class="line">出版日期：2014/07/01</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「我們的幸福與快樂並非源自於他人，而是出自於自己。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《每一天練習照顧自己》是梅樂蒂·碧緹的代表作，這本書深入探討了如何放下過去，勇敢面對自己，並在繁忙的生活中找到內心的自由與平靜。作者結合自身經歷，提供了實用的建議與練習，幫助讀者放下執著、建立自我關愛，並最終實現與自己和解、活出自我。本書的價值在於提醒每一位讀者，真正的幸福來自於自己，而非依賴他人來給予。</p>
-<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>放下執著</strong>：放手不再執著於過去的痛苦與他人對自己的看法，學會接納並關照自己，活出自由與獨立。</li>
-<li><strong>照顧自己</strong>：不再讓自己成為他人情感的附庸，先學會愛自己，才能夠為他人提供真誠的愛。</li>
-<li><strong>走出受害者心態</strong>：不再將自己定位為<code>受害者</code>，<code>勇敢負責</code>，<code>學會從困境中找到成長的契機</code>。</li>
-<li><strong>情緒管理</strong>：<code>學會處理憤怒</code>與<code>負面情緒</code>，尋找積極的方式<code>釋放情感</code>，並讓自己<code>保持內心的平衡</code>。</li>
-<li><strong>設定個人目標</strong>：清楚地為自己<code>設定人生目標</code>，並以此作為動力去實現自我價值。</li>
-<li><strong>自我愛戀</strong>：與自己建立良好的關係，<code>從內心開始愛自己</code>，讓自己過得<code>快樂</code>、<code>自在</code>。</li>
-<li><strong>練習放手</strong>：書中提供了具體的練習活動，幫助讀者每天都在<code>放下執著中找到力量</code>，<code>逐漸釋放不必要的壓力</code>。</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《每一天練習照顧自己》不僅是一部心理勵志書籍，它是一份深入人心的生命指南，讓人重新理解如何擁抱自己，放下過去的包袱，活出真正的自我。作者梅樂蒂·碧緹透過自身的生命經歷，告訴我們，真正的自由來自於自我關愛與放手。當我們<code>學會照顧自己</code>，<code>接受不完美的自己</code>，並勇敢地走出過去的陰霾時，生活自然會變得更加豐富與美好。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>運氣好的人</tag>
-        <tag>運氣</tag>
-        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《蛤蟆先生去看心理師》| 閱讀心得學習筆記</title>
     <url>/2022/01/26/reading-notes-counselling-for-roads-a-psychological-adventure/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-1.jpg"></p>
@@ -1031,6 +1032,38 @@
       </tags>
   </entry>
   <entry>
+    <title>《每一天練習照顧自己:當我們為自己負起責任, 就能真正放手, 做自己》| 閱讀心得學習筆記</title>
+    <url>/2014/07/01/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《每一天練習照顧自己: 當我們為自己負起責任, 就能真正放手, 做自己》</span><br><span class="line">作者：梅樂蒂．碧緹</span><br><span class="line">譯者：林卓君</span><br><span class="line">出版社：遠流出版事業股份有限公司</span><br><span class="line">出版日期：2014/07/01</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「我們的幸福與快樂並非源自於他人，而是出自於自己。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《每一天練習照顧自己》是梅樂蒂·碧緹的代表作，這本書深入探討了如何放下過去，勇敢面對自己，並在繁忙的生活中找到內心的自由與平靜。作者結合自身經歷，提供了實用的建議與練習，幫助讀者放下執著、建立自我關愛，並最終實現與自己和解、活出自我。本書的價值在於提醒每一位讀者，真正的幸福來自於自己，而非依賴他人來給予。</p>
+<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>放下執著</strong>：放手不再執著於過去的痛苦與他人對自己的看法，學會接納並關照自己，活出自由與獨立。</li>
+<li><strong>照顧自己</strong>：不再讓自己成為他人情感的附庸，先學會愛自己，才能夠為他人提供真誠的愛。</li>
+<li><strong>走出受害者心態</strong>：不再將自己定位為<code>受害者</code>，<code>勇敢負責</code>，<code>學會從困境中找到成長的契機</code>。</li>
+<li><strong>情緒管理</strong>：<code>學會處理憤怒</code>與<code>負面情緒</code>，尋找積極的方式<code>釋放情感</code>，並讓自己<code>保持內心的平衡</code>。</li>
+<li><strong>設定個人目標</strong>：清楚地為自己<code>設定人生目標</code>，並以此作為動力去實現自我價值。</li>
+<li><strong>自我愛戀</strong>：與自己建立良好的關係，<code>從內心開始愛自己</code>，讓自己過得<code>快樂</code>、<code>自在</code>。</li>
+<li><strong>練習放手</strong>：書中提供了具體的練習活動，幫助讀者每天都在<code>放下執著中找到力量</code>，<code>逐漸釋放不必要的壓力</code>。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《每一天練習照顧自己》不僅是一部心理勵志書籍，它是一份深入人心的生命指南，讓人重新理解如何擁抱自己，放下過去的包袱，活出真正的自我。作者梅樂蒂·碧緹透過自身的生命經歷，告訴我們，真正的自由來自於自我關愛與放手。當我們<code>學會照顧自己</code>，<code>接受不完美的自己</code>，並勇敢地走出過去的陰霾時，生活自然會變得更加豐富與美好。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>運氣好的人</tag>
+        <tag>運氣</tag>
+        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《別把你的錢留到死：懂得花錢，是最好的投資——理想人生的9大財務思維》| 閱讀心得學習筆記</title>
     <url>/2024/08/06/reading-notes-die-with-zero-getting-all-you-can-from-your-money-and-your-life/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-die-with-zero-getting-all-you-can-from-your-money-and-your-life-1.jpg"></p>
@@ -1062,6 +1095,41 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>別把你的錢留到死</tag>
         <tag>別把你的錢留到死：懂得花錢，是最好的投資——理想人生的9大財務思維</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《不要只顧著努力，也要過得幸福：給認真生活卻不安的你58個幸福清單》| 閱讀心得學習筆記</title>
+    <url>/2023/03/31/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《不要只顧著努力，也要過得幸福：給認真生活卻不安的你58個幸福清單》</span><br><span class="line">作者： 跳舞蝸牛  </span><br><span class="line">原文作者： Dancing Snail</span><br><span class="line">譯者： 王品涵</span><br><span class="line">出版社：大好書屋  </span><br><span class="line">出版日期：2023/03/31</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「停止虛假的自我開發！聚焦當下、安頓身心，累積一點一滴的幸福。生命不是等待暴風雨過去，而是要學會在雨中跳舞！只要創造了比昨天稍好的一天，你的一切努力就已足夠。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>當努力成為習慣，疲憊也悄悄變成常態。跳舞蝸牛以插畫與療癒短文，為在焦慮與倦怠中掙扎的你我，開出58帖關於「幸福」的溫柔處方。本書不談艱深道理，而是從日常切入，引導我們重新感受當下、照顧內在。</p>
+<p><img src="/img/posts/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>當下價值</strong>：別為了虛構的「未來理想」犧牲今日，學習在當下找到幸福感。</li>
+<li><strong>自我友善</strong>：溫柔看待自己，即使不是完美的人，也值得被好好對待。</li>
+<li><strong>轉念練習</strong>：透過正向思考及「自我合理化」，將焦慮與自責轉化為行動力。</li>
+<li><strong>接受不完美</strong>：允許自己偶爾脆弱、不積極，這些「看似沒用」的時間正是恢復力的來源。</li>
+<li><strong>情緒正視</strong>：不是逃避或壓抑，而是學習與焦慮共處，從中找回生活的平衡。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否太在意「他人眼中的努力」而忽略「自己內心的感受」？</li>
+<li>是否將「幸福」與「效率」綁定，錯失了真正放鬆的機會？</li>
+<li>在追求自我成長的過程中，我們是否反而對自己越來越苛刻？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書就像一本溫柔的枕邊書，提醒我們：幸福不在遠方，而在於是否允許自己放慢腳步、誠實面對內在。本書適合每一位努力生活卻常感疲憊的人——學會「在雨中跳舞」，也是一種成長的勇氣。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>不要只顧著努力</tag>
+        <tag>也要過得幸福</tag>
+        <tag>給認真生活卻不安的你58個幸福清單</tag>
       </tags>
   </entry>
   <entry>
@@ -1208,6 +1276,40 @@
         <tag>我可能錯了</tag>
         <tag>森林智者</tag>
         <tag>森林智者的最後一堂人生課</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《從邊緣到核心：台灣半導體如何成為世界的心臟》| 閱讀心得學習筆記</title>
+    <url>/2025/03/31/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-manifesting-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《從邊緣到核心：台灣半導體如何成為世界的心臟》</span><br><span class="line">作者： 史欽泰, 陳添枝, 吳淑敏  </span><br><span class="line">出版社：天下文化  </span><br><span class="line">出版日期：2025/03/31</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「歷史研究的不是過去，而是改變。以歷史為經、科技為緯，從全球半導體發展的歷史的軌跡，解析台灣政府和一群科技先鋒，五十年前如何擘劃產業政策、抓住關鍵的思考與機會，讓台灣成為今日世界的心臟。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《從邊緣到核心：台灣半導體如何成為世界的心臟》是一部橫跨歷史、科技與地緣政治的深度之作，由史欽泰、陳添枝與吳淑敏三位橫跨實務、政策與文史領域的專家共同執筆。本書以台灣半導體產業為主軸，描繪從無到有的發展軌跡，並剖析其如何在世界舞台上成為無可取代的戰略支點。</p>
+<p><img src="/img/posts/reading-notes-manifesting-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>政府角色</strong>：以「協助不介入」原則，有效孕育民間企業如台積電與聯電。</li>
+<li><strong>RCA計畫</strong>：從美國引進完整技術，成為產業發展關鍵轉捩點。</li>
+<li><strong>晶圓代工模式創新</strong>：台積電首創純代工模式，重塑全球半導體產業鏈。</li>
+<li><strong>DRAM困境與轉型</strong>：反映技術取得與自主創新的界線與代價。</li>
+<li><strong>地緣政治影響</strong>：中美角力使台灣半導體成為全球供應鏈的戰略核心。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>台灣模式是否能持續維持其技術優勢與全球信任？</li>
+<li>面對中國的技術追趕與美國的政治介入，台灣該如何應對？</li>
+<li>人才流動與技術自主間的平衡，是否正面臨考驗？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅記錄台灣半導體從無到有的歷史，更深入揭示其面對全球科技戰略佈局下的未來挑戰與轉機。對關心台灣產業、科技政策與地緣政治者而言，是一本不可或缺的參考之作。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>思維的良率</tag>
+        <tag>台積電教我的高效工作法，像經營者一樣思考、解題</tag>
       </tags>
   </entry>
   <entry>
@@ -1391,6 +1493,51 @@
       </tags>
   </entry>
   <entry>
+    <title>《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀心得學習筆記</title>
+    <url>/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》</span><br><span class="line">INSPIRED: How to Create Tech Products Customers Love</span><br><span class="line">作者： 馬提．凱根  </span><br><span class="line">原文作者： Marty Cagan</span><br><span class="line">譯者： 洪慧芳</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「產品管理的藝術就是生活的藝術。與優秀人才為伍，專注於產品魅力，誠實打造卓越產品，想法堅定但態度淡定。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>這本書被譽為產品經理的聖經，自 2008 年出版以來，暢銷至今。作者馬提．凱根（Marty Cagan）是矽谷產品團隊公司（SVPG）的創辦人，擁有豐富的產品開發經驗。本書集結了作者多年來的實戰經驗，以及當今頂尖科技公司的產品開發案例，旨在幫助產品經理打造出受市場歡迎的產品。成功的產品不僅僅是技術的堆砌，更需要深入了解使用者需求、打造優秀團隊，並建立一套行之有效的產品開發流程。</p>
+<p><img src="/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><ul>
+<li><p><strong>以使用者為中心：</strong> 產品開發的出發點應始終<code>以使用者需求為中心</code>，透過深入的<code>使用者研究</code>與<code>反覆迭代</code>，打造出<code>真正能滿足使用者需求的產品</code>。</p>
+</li>
+<li><p><strong>組成跨功能團隊：</strong> 建立一個由<code>產品經理</code>、<code>設計師</code>、<code>工程師</code>等不同角色組成的跨功能團隊，促進團隊成員之間的協作與溝通。</p>
+</li>
+<li><p><strong>推動敏捷開發：</strong> 採用<code>敏捷開發方法</code>，能夠快速響應市場變化，提高產品的適應性。</p>
+</li>
+<li><p><strong>建立產品路徑圖：</strong> <code>產品路徑圖</code>是產品開發的指南針，能幫助團隊保持方向，並做出明智的決策。</p>
+</li>
+<li><p><strong>打造產品文化：</strong> 建立一個<code>鼓勵創新</code>、<code>重視使用者體驗的產品文化</code>，是產品開發成功的關鍵。</p>
+</li>
+<li><p><strong>卓越的產品不是套公式來的：</strong>Amazon、Google、Facebook、Netflix、Apple 等企業之所以成功，是因為他們知道如何定義、設計、開發出全球數十億人喜愛的產品。他們深知專案是<code>產出（output）</code>，但產品完全看<code>結果（outcome）</code>，如果開發出來的產品沒有市場價值，開發團隊再怎麼優秀也是枉然。</p>
+</li>
+<li><p><strong>先進技術和實務做法是兩碼事：</strong>多數公司在開發產品及執行計畫時，仍使用缺乏效率的老方法。同時，就算導入新技術，也搞錯流程規則。本書作者指導大家如何打造一個獲得授權及高效的產品團隊，配置優秀的人才，發掘顧客喜愛及適合事業的產品並順利地推出上市。</p>
+</li>
+<li><p><strong>本書串起產品開發的整套流程：</strong>本書具備各環節的實務技巧與最前緣的技術說明，從產品與服務定義與實務、適用的流程與技術、人才招募與職能分工、測試與量化的執行到創造出有市場性的產品。</p>
+</li>
+<li><p><strong>當紅公司的產品開發經驗：</strong>本書除了作者親身經驗外，也介紹當今成功的產品經理和科技產品公司，包括 Adobe、Apple、BBC、Google、Microsoft、Netflix。看產品怪獸公司的專案經理如何思考、布局。</p>
+</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
+]]></content>
+      <tags>
+        <tag>產案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>產品專案管理專案全書</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《親密恐懼：為什麼我們無法好好愛人，好好被愛？》| 閱讀心得學習筆記</title>
     <url>/2023/11/27/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly-1.jpg"></p>
@@ -1435,51 +1582,6 @@
         <tag>不幸的人做情緒的奴隸</tag>
         <tag>理情行為治療</tag>
         <tag>亞伯‧艾里斯</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀心得學習筆記</title>
-    <url>/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》</span><br><span class="line">INSPIRED: How to Create Tech Products Customers Love</span><br><span class="line">作者： 馬提．凱根  </span><br><span class="line">原文作者： Marty Cagan</span><br><span class="line">譯者： 洪慧芳</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「產品管理的藝術就是生活的藝術。與優秀人才為伍，專注於產品魅力，誠實打造卓越產品，想法堅定但態度淡定。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>這本書被譽為產品經理的聖經，自 2008 年出版以來，暢銷至今。作者馬提．凱根（Marty Cagan）是矽谷產品團隊公司（SVPG）的創辦人，擁有豐富的產品開發經驗。本書集結了作者多年來的實戰經驗，以及當今頂尖科技公司的產品開發案例，旨在幫助產品經理打造出受市場歡迎的產品。成功的產品不僅僅是技術的堆砌，更需要深入了解使用者需求、打造優秀團隊，並建立一套行之有效的產品開發流程。</p>
-<p><img src="/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><ul>
-<li><p><strong>以使用者為中心：</strong> 產品開發的出發點應始終<code>以使用者需求為中心</code>，透過深入的<code>使用者研究</code>與<code>反覆迭代</code>，打造出<code>真正能滿足使用者需求的產品</code>。</p>
-</li>
-<li><p><strong>組成跨功能團隊：</strong> 建立一個由<code>產品經理</code>、<code>設計師</code>、<code>工程師</code>等不同角色組成的跨功能團隊，促進團隊成員之間的協作與溝通。</p>
-</li>
-<li><p><strong>推動敏捷開發：</strong> 採用<code>敏捷開發方法</code>，能夠快速響應市場變化，提高產品的適應性。</p>
-</li>
-<li><p><strong>建立產品路徑圖：</strong> <code>產品路徑圖</code>是產品開發的指南針，能幫助團隊保持方向，並做出明智的決策。</p>
-</li>
-<li><p><strong>打造產品文化：</strong> 建立一個<code>鼓勵創新</code>、<code>重視使用者體驗的產品文化</code>，是產品開發成功的關鍵。</p>
-</li>
-<li><p><strong>卓越的產品不是套公式來的：</strong>Amazon、Google、Facebook、Netflix、Apple 等企業之所以成功，是因為他們知道如何定義、設計、開發出全球數十億人喜愛的產品。他們深知專案是<code>產出（output）</code>，但產品完全看<code>結果（outcome）</code>，如果開發出來的產品沒有市場價值，開發團隊再怎麼優秀也是枉然。</p>
-</li>
-<li><p><strong>先進技術和實務做法是兩碼事：</strong>多數公司在開發產品及執行計畫時，仍使用缺乏效率的老方法。同時，就算導入新技術，也搞錯流程規則。本書作者指導大家如何打造一個獲得授權及高效的產品團隊，配置優秀的人才，發掘顧客喜愛及適合事業的產品並順利地推出上市。</p>
-</li>
-<li><p><strong>本書串起產品開發的整套流程：</strong>本書具備各環節的實務技巧與最前緣的技術說明，從產品與服務定義與實務、適用的流程與技術、人才招募與職能分工、測試與量化的執行到創造出有市場性的產品。</p>
-</li>
-<li><p><strong>當紅公司的產品開發經驗：</strong>本書除了作者親身經驗外，也介紹當今成功的產品經理和科技產品公司，包括 Adobe、Apple、BBC、Google、Microsoft、Netflix。看產品怪獸公司的專案經理如何思考、布局。</p>
-</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
-]]></content>
-      <tags>
-        <tag>產案管理</tag>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>產品專案管理專案全書</tag>
       </tags>
   </entry>
   <entry>
@@ -1795,8 +1897,8 @@
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
-        <tag>思維的良率</tag>
-        <tag>台積電教我的高效工作法，像經營者一樣思考、解題</tag>
+        <tag>顯化效應</tag>
+        <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
       </tags>
   </entry>
   <entry>
@@ -2002,43 +2104,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《失控的焦慮世代：手機餵養的世代，如何面對心理疾病的瘟疫》| 閱讀心得學習筆記</title>
-    <url>/2024/11/29/reading-notes-the-anxious-generation/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-anxious-generation-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《失控的焦慮世代：手機餵養的世代，如何面對心理疾病的瘟疫》</span><br><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「科技塑造童年，焦慮隨之而來。以手機為主的童年，需要增加在現實世界的體驗，提高五感經驗。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在智慧型手機與社群媒體普及的時代，青少年的心理健康問題日益嚴重。《失控的焦慮世代》由社會心理學家海德特撰寫，探討Z世代如何因為手機與社群媒體的影響，經歷焦慮、憂鬱與社交障礙。本書不僅揭露問題根源，更提供政府、學校、企業與父母的可行對策，期望為下一代創造更健康的成長環境。  </p>
-<p><img src="/img/posts/reading-notes-the-anxious-generation-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-童年的變遷與失落"><a href="#1-童年的變遷與失落" class="headerlink" title="1. 童年的變遷與失落"></a><strong>1. 童年的變遷與失落</strong></h4><ul>
-<li>過去以「玩耍」為核心的童年被「手機主導」的生活取代。  </li>
-<li>缺乏自由探索與實體互動，使青少年社交發展受阻。</li>
-</ul>
-<h4 id="2-智慧型手機與社群媒體的影響"><a href="#2-智慧型手機與社群媒體的影響" class="headerlink" title="2. 智慧型手機與社群媒體的影響"></a><strong>2. 智慧型手機與社群媒體的影響</strong></h4><ul>
-<li><strong>心理健康衰退</strong>：憂鬱、自殘、自殺率上升，尤其影響女孩更深。  </li>
-<li><strong>注意力破碎化</strong>：短影音與社群推播讓專注力下降，學習與社交受影響。  </li>
-<li><strong>上癮機制</strong>：社群媒體透過演算法強化即時獎勵，讓青少年難以脫離。</li>
-</ul>
-<h4 id="3-如何改善現況"><a href="#3-如何改善現況" class="headerlink" title="3. 如何改善現況"></a><strong>3. 如何改善現況</strong></h4><ul>
-<li><strong>政府與科技企業</strong>：立法限制兒童接觸社群媒體，要求更健康的設計。  </li>
-<li><strong>學校與教育機構</strong>：減少校內螢幕使用，推動戶外活動與人際互動。  </li>
-<li><strong>家長與社會</strong>：延後手機使用年齡，建立更健康的數位習慣。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《失控的焦慮世代》是一本警鐘長鳴的書，揭示了科技對青少年的深遠影響。我們不能忽視Z世代的困境，唯有採取行動，才能讓孩子擁有更健康的成長環境，重新找回失落的童年。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>失控的焦慮世代</tag>
-        <tag>手機餵養的世代</tag>
-        <tag>如何面對心理疾病的瘟疫</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《ScrumMaster、敏捷教練及專案經理轉型的最佳指南》| 閱讀心得學習筆記</title>
     <url>/2024/06/06/reading-notes-scrum-master-team/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-scrum-master-team-1.jpg"></p>
@@ -2088,6 +2153,79 @@
         <tag>敏捷開發</tag>
         <tag>agile</tag>
         <tag>agile coach</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《失控的焦慮世代：手機餵養的世代，如何面對心理疾病的瘟疫》| 閱讀心得學習筆記</title>
+    <url>/2024/11/29/reading-notes-the-anxious-generation/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-anxious-generation-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《失控的焦慮世代：手機餵養的世代，如何面對心理疾病的瘟疫》</span><br><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「科技塑造童年，焦慮隨之而來。以手機為主的童年，需要增加在現實世界的體驗，提高五感經驗。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在智慧型手機與社群媒體普及的時代，青少年的心理健康問題日益嚴重。《失控的焦慮世代》由社會心理學家海德特撰寫，探討Z世代如何因為手機與社群媒體的影響，經歷焦慮、憂鬱與社交障礙。本書不僅揭露問題根源，更提供政府、學校、企業與父母的可行對策，期望為下一代創造更健康的成長環境。  </p>
+<p><img src="/img/posts/reading-notes-the-anxious-generation-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-童年的變遷與失落"><a href="#1-童年的變遷與失落" class="headerlink" title="1. 童年的變遷與失落"></a><strong>1. 童年的變遷與失落</strong></h4><ul>
+<li>過去以「玩耍」為核心的童年被「手機主導」的生活取代。  </li>
+<li>缺乏自由探索與實體互動，使青少年社交發展受阻。</li>
+</ul>
+<h4 id="2-智慧型手機與社群媒體的影響"><a href="#2-智慧型手機與社群媒體的影響" class="headerlink" title="2. 智慧型手機與社群媒體的影響"></a><strong>2. 智慧型手機與社群媒體的影響</strong></h4><ul>
+<li><strong>心理健康衰退</strong>：憂鬱、自殘、自殺率上升，尤其影響女孩更深。  </li>
+<li><strong>注意力破碎化</strong>：短影音與社群推播讓專注力下降，學習與社交受影響。  </li>
+<li><strong>上癮機制</strong>：社群媒體透過演算法強化即時獎勵，讓青少年難以脫離。</li>
+</ul>
+<h4 id="3-如何改善現況"><a href="#3-如何改善現況" class="headerlink" title="3. 如何改善現況"></a><strong>3. 如何改善現況</strong></h4><ul>
+<li><strong>政府與科技企業</strong>：立法限制兒童接觸社群媒體，要求更健康的設計。  </li>
+<li><strong>學校與教育機構</strong>：減少校內螢幕使用，推動戶外活動與人際互動。  </li>
+<li><strong>家長與社會</strong>：延後手機使用年齡，建立更健康的數位習慣。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《失控的焦慮世代》是一本警鐘長鳴的書，揭示了科技對青少年的深遠影響。我們不能忽視Z世代的困境，唯有採取行動，才能讓孩子擁有更健康的成長環境，重新找回失落的童年。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>失控的焦慮世代</tag>
+        <tag>手機餵養的世代</tag>
+        <tag>如何面對心理疾病的瘟疫</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《被討厭的勇氣：自我啟發之父「阿德勒」的教導》| 閱讀心得學習筆記</title>
+    <url>/2014/10/30/reading-notes-the-courage-to-be-disliked-1/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-courage-to-be-disliked-1-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《被討厭的勇氣：自我啟發之父「阿德勒」的教導》</span><br><span class="line">作者： 岸見一郎, 古賀史健  </span><br><span class="line">譯者： 葉小燕</span><br><span class="line">出版社：究竟  </span><br><span class="line">出版日期：2014/10/30</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「所謂的自由，就是被別人討厭。有人討厭你，正是你行使自由、依照自己的生活方針過日子的標記。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《被討厭的勇氣》以對話體裁，展開一場年輕人與哲學家的深夜辯論，探討自由、自卑、幸福等人生核心課題。本書將阿德勒心理學的精髓轉化為易於理解的故事，指出真正的自由來自於不害怕被他人討厭，並強調「現在的自己」可以選擇新的生活方向，而非被過去束縛。</p>
+<p><img src="/img/posts/reading-notes-the-courage-to-be-disliked-1-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>自由的本質</strong>：自由是有勇氣被別人討厭，選擇依自己意志生活。</li>
+<li><strong>自卑與目標</strong>：自卑感本身無害，關鍵在於是否將之作為不行動的藉口。</li>
+<li><strong>人生不是因果論</strong>：人並非因過去創傷而無法改變，而是自己選擇不改變。</li>
+<li><strong>課題分離</strong>：認清「這是誰的課題」，不為他人情緒負責，專注自己應做之事。</li>
+<li><strong>幸福的條件</strong>：幸福來自「被貢獻感」，在社會中找到自我價值。</li>
+<li><strong>改變的起點</strong>：不需要等到萬事俱備，當下即可決定改變。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li><strong>為何我們如此害怕被討厭？</strong></li>
+<li><strong>面對他人期待，該如何堅守自己？</strong></li>
+<li><strong>真的可以擺脫過去，重新選擇嗎？</strong></li>
+<li><strong>什麼才是「正確」的貢獻感？如何界定？</strong></li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《被討厭的勇氣》帶領讀者重新審視生命，鼓勵我們放下過去的束縛，直視自己內心的渴望。真正的自由，是坦然接受有人不理解、不喜歡你，同時依然忠於自我，勇敢追求幸福。改變人生，從今天的選擇開始，而非過去的故事決定。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>被討厭的勇氣</tag>
+        <tag>阿德勒</tag>
       </tags>
   </entry>
   <entry>
@@ -2174,48 +2312,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《致富心態：關於財富、貪婪與幸福的20堂理財課》| 閱讀心得學習筆記</title>
-    <url>/2023/01/13/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《致富心態：關於財富、貪婪與幸福的20堂理財課》</span><br><span class="line">作者： 摩根‧豪瑟  </span><br><span class="line">原文作者： Morgan Housel</span><br><span class="line">譯者： 周玉文</span><br><span class="line">出版社：天下文化 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「財富的真正價值，不在於數字，而在於選擇與自由。財務管理更多取決於行為模式、心理因素和習慣。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸的時代，許多人認為投資成功的關鍵是專業知識和市場資訊。然而，《致富心態》一書顛覆了這種傳統觀念，強調財務管理更多取決於行為模式、心理因素和習慣。摩根‧豪瑟透過真實故事與案例，揭示了致富與守財的核心原則，幫助讀者培養正確的金錢觀，邁向財務自由。</p>
-<p><img src="/img/posts/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="1-致富與守財的關鍵區別"><a href="#1-致富與守財的關鍵區別" class="headerlink" title="1. 致富與守財的關鍵區別"></a><strong>1. 致富與守財的關鍵區別</strong></h3><ul>
-<li><strong>致富：</strong> 依靠機會、運氣、風險承擔與長期堅持。  </li>
-<li><strong>守財：</strong> 需要謹慎、節制、良好的財務習慣來維持財富。</li>
-</ul>
-<h3 id="2-心態比知識更重要"><a href="#2-心態比知識更重要" class="headerlink" title="2. 心態比知識更重要"></a><strong>2. 心態比知識更重要</strong></h3><ul>
-<li>投資成功不只是計算數字，而是管理情緒、耐心與風險承受能力。  </li>
-<li>即使擁有相同的投資知識，不同的行為模式將導致截然不同的財務結果。</li>
-</ul>
-<h3 id="3-理財不是追求最高報酬，而是合理性"><a href="#3-理財不是追求最高報酬，而是合理性" class="headerlink" title="3. 理財不是追求最高報酬，而是合理性"></a><strong>3. 理財不是追求最高報酬，而是合理性</strong></h3><ul>
-<li>理性投資者會計算所有可能情境，而<strong>合理投資者則更注重可持續性</strong>。  </li>
-<li>預留「安全邊際」以應對市場變動，不被短期波動影響決策。</li>
-</ul>
-<h3 id="4-時間與複利的力量"><a href="#4-時間與複利的力量" class="headerlink" title="4. 時間與複利的力量"></a><strong>4. 時間與複利的力量</strong></h3><ul>
-<li>巴菲特成功的關鍵不只是選股能力，而是「<strong>早期開始且長期堅持</strong>」。  </li>
-<li>理財的最大優勢是時間，長期穩健投資比短期投機更具威力。</li>
-</ul>
-<h3 id="5-金錢的真正價值：選擇與自由"><a href="#5-金錢的真正價值：選擇與自由" class="headerlink" title="5. 金錢的真正價值：選擇與自由"></a><strong>5. 金錢的真正價值：選擇與自由</strong></h3><ul>
-<li><strong>財務自由的關鍵不是賺最多，而是擁有選擇權。</strong>  </li>
-<li>控制時間是金錢帶來的最大紅利，讓人有能力選擇生活方式。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《致富心態》不只是一本投資指南，而是一本探討金錢哲學與行為心理的書籍。它提醒我們，投資與理財不僅關乎數字，更關乎決策與習慣。真正的財富來自於明智的選擇，而非短暫的市場勝利。透過理解風險、長期思維與行為管理，每個人都能建立穩健的財務基礎，邁向真正的財務自由。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>致富心態</tag>
-        <tag>關於財富、貪婪與幸福的20堂理財課</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《別對每件事都有反應2：不執著的練習！》| 閱讀心得學習筆記</title>
     <url>/2025/01/20/reading-notes-the-practice-of-non-attachment/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-practice-of-non-attachment-1.jpg"></p>
@@ -2258,6 +2354,48 @@
         <tag>別對每件事都有反應</tag>
         <tag>別對每件事都有反應2</tag>
         <tag>不執著的練習</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《致富心態：關於財富、貪婪與幸福的20堂理財課》| 閱讀心得學習筆記</title>
+    <url>/2023/01/13/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《致富心態：關於財富、貪婪與幸福的20堂理財課》</span><br><span class="line">作者： 摩根‧豪瑟  </span><br><span class="line">原文作者： Morgan Housel</span><br><span class="line">譯者： 周玉文</span><br><span class="line">出版社：天下文化 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「財富的真正價值，不在於數字，而在於選擇與自由。財務管理更多取決於行為模式、心理因素和習慣。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸的時代，許多人認為投資成功的關鍵是專業知識和市場資訊。然而，《致富心態》一書顛覆了這種傳統觀念，強調財務管理更多取決於行為模式、心理因素和習慣。摩根‧豪瑟透過真實故事與案例，揭示了致富與守財的核心原則，幫助讀者培養正確的金錢觀，邁向財務自由。</p>
+<p><img src="/img/posts/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="1-致富與守財的關鍵區別"><a href="#1-致富與守財的關鍵區別" class="headerlink" title="1. 致富與守財的關鍵區別"></a><strong>1. 致富與守財的關鍵區別</strong></h3><ul>
+<li><strong>致富：</strong> 依靠機會、運氣、風險承擔與長期堅持。  </li>
+<li><strong>守財：</strong> 需要謹慎、節制、良好的財務習慣來維持財富。</li>
+</ul>
+<h3 id="2-心態比知識更重要"><a href="#2-心態比知識更重要" class="headerlink" title="2. 心態比知識更重要"></a><strong>2. 心態比知識更重要</strong></h3><ul>
+<li>投資成功不只是計算數字，而是管理情緒、耐心與風險承受能力。  </li>
+<li>即使擁有相同的投資知識，不同的行為模式將導致截然不同的財務結果。</li>
+</ul>
+<h3 id="3-理財不是追求最高報酬，而是合理性"><a href="#3-理財不是追求最高報酬，而是合理性" class="headerlink" title="3. 理財不是追求最高報酬，而是合理性"></a><strong>3. 理財不是追求最高報酬，而是合理性</strong></h3><ul>
+<li>理性投資者會計算所有可能情境，而<strong>合理投資者則更注重可持續性</strong>。  </li>
+<li>預留「安全邊際」以應對市場變動，不被短期波動影響決策。</li>
+</ul>
+<h3 id="4-時間與複利的力量"><a href="#4-時間與複利的力量" class="headerlink" title="4. 時間與複利的力量"></a><strong>4. 時間與複利的力量</strong></h3><ul>
+<li>巴菲特成功的關鍵不只是選股能力，而是「<strong>早期開始且長期堅持</strong>」。  </li>
+<li>理財的最大優勢是時間，長期穩健投資比短期投機更具威力。</li>
+</ul>
+<h3 id="5-金錢的真正價值：選擇與自由"><a href="#5-金錢的真正價值：選擇與自由" class="headerlink" title="5. 金錢的真正價值：選擇與自由"></a><strong>5. 金錢的真正價值：選擇與自由</strong></h3><ul>
+<li><strong>財務自由的關鍵不是賺最多，而是擁有選擇權。</strong>  </li>
+<li>控制時間是金錢帶來的最大紅利，讓人有能力選擇生活方式。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《致富心態》不只是一本投資指南，而是一本探討金錢哲學與行為心理的書籍。它提醒我們，投資與理財不僅關乎數字，更關乎決策與習慣。真正的財富來自於明智的選擇，而非短暫的市場勝利。透過理解風險、長期思維與行為管理，每個人都能建立穩健的財務基礎，邁向真正的財務自由。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>致富心態</tag>
+        <tag>關於財富、貪婪與幸福的20堂理財課</tag>
       </tags>
   </entry>
   <entry>
@@ -2651,40 +2789,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》| 閱讀心得學習筆記</title>
-    <url>/2024/02/29/reading-notes-wait-what-and-lifes-essential-questions/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》</span><br><span class="line">作者： 詹姆斯．萊恩</span><br><span class="line">原文作者： James E. Ryan</span><br><span class="line">譯者： 廖月娟</span><br><span class="line">出版社：天下文化 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「不論你所處的領域為何，提出好問題都是生涯成功的關鍵。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書《你的人生，真正重要的是什麼？》由維吉尼亞大學校長詹姆斯．萊恩所著，深入探討了人生中最重要的五個問題，並提供了對應的思維方式來幫助讀者突破生涯中的障礙。這些問題並非尋常的答案，而是能引發深刻思考、促進自我成長並改善人際關係的提問。透過幽默的小故事和實際的生活例子，萊恩向我們展示了思考的力量，並告訴我們如何用問題來開創一個充滿智慧的未來。</p>
-<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>「等等，你說什麼？」</strong><br>這是深入了解的根源。<code>學會傾聽</code>和<code>確保你理解對方的話語</code>，可以讓你從根本上把握對話的方向。</p>
-</li>
-<li><p><strong>「我想知道……？」</strong><br><code>好奇心</code>是學習的驅動力。提出這個問題能夠激發探索精神，開啟思考的邊界。</p>
-</li>
-<li><p><strong>「至少，我們是不是能夠……？」</strong><br>這個問題啟動了<code>行動的開始</code>，幫助我們從理論轉向實踐，尋找進步的途徑。</p>
-</li>
-<li><p><strong>「我能夠幫什麼忙？」</strong><br>這是建立關係的基礎。透過詢問自己能為他人做什麼，我們能夠創造<code>良好的互動與合作</code>。</p>
-</li>
-<li><p><strong>「真正重要的是什麼？」</strong><br>這個問題幫助我們<code>回歸生命的核心</code>，<code>找出真正值得追求的目標</code>。</p>
-</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《你的人生，真正重要的是什麼？》提醒我們，提出好問題能夠塑造出一個更加充實和有意義的人生。萊恩的五個關鍵問題，不僅能夠解答人生的迷茫，還能幫助我們在職業生涯和人際關係中走得更遠。這本書是一本指引我們反思並實踐智慧的寶典，值得每一位渴望成長的讀者閱讀。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>你的人生，真正重要的是什麼？</tag>
-        <tag>感動百萬人的5個人生提問，那些比正確答案更關鍵的事</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《台南老店散步：回味本町摩登老時光(新版)》 | 閱讀心得學習筆記</title>
     <url>/2024/12/06/reading-notes-walking-around-old-shops-in-tainan/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-around-old-shops-in-tainan-1.jpg"></p>
@@ -2768,6 +2872,40 @@
       </tags>
   </entry>
   <entry>
+    <title>《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》| 閱讀心得學習筆記</title>
+    <url>/2024/02/29/reading-notes-wait-what-and-lifes-essential-questions/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》</span><br><span class="line">作者： 詹姆斯．萊恩</span><br><span class="line">原文作者： James E. Ryan</span><br><span class="line">譯者： 廖月娟</span><br><span class="line">出版社：天下文化 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「不論你所處的領域為何，提出好問題都是生涯成功的關鍵。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書《你的人生，真正重要的是什麼？》由維吉尼亞大學校長詹姆斯．萊恩所著，深入探討了人生中最重要的五個問題，並提供了對應的思維方式來幫助讀者突破生涯中的障礙。這些問題並非尋常的答案，而是能引發深刻思考、促進自我成長並改善人際關係的提問。透過幽默的小故事和實際的生活例子，萊恩向我們展示了思考的力量，並告訴我們如何用問題來開創一個充滿智慧的未來。</p>
+<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>「等等，你說什麼？」</strong><br>這是深入了解的根源。<code>學會傾聽</code>和<code>確保你理解對方的話語</code>，可以讓你從根本上把握對話的方向。</p>
+</li>
+<li><p><strong>「我想知道……？」</strong><br><code>好奇心</code>是學習的驅動力。提出這個問題能夠激發探索精神，開啟思考的邊界。</p>
+</li>
+<li><p><strong>「至少，我們是不是能夠……？」</strong><br>這個問題啟動了<code>行動的開始</code>，幫助我們從理論轉向實踐，尋找進步的途徑。</p>
+</li>
+<li><p><strong>「我能夠幫什麼忙？」</strong><br>這是建立關係的基礎。透過詢問自己能為他人做什麼，我們能夠創造<code>良好的互動與合作</code>。</p>
+</li>
+<li><p><strong>「真正重要的是什麼？」</strong><br>這個問題幫助我們<code>回歸生命的核心</code>，<code>找出真正值得追求的目標</code>。</p>
+</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《你的人生，真正重要的是什麼？》提醒我們，提出好問題能夠塑造出一個更加充實和有意義的人生。萊恩的五個關鍵問題，不僅能夠解答人生的迷茫，還能幫助我們在職業生涯和人際關係中走得更遠。這本書是一本指引我們反思並實踐智慧的寶典，值得每一位渴望成長的讀者閱讀。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>你的人生，真正重要的是什麼？</tag>
+        <tag>感動百萬人的5個人生提問，那些比正確答案更關鍵的事</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《深夜加油站遇見蘇格拉底》| 閱讀心得學習筆記</title>
     <url>/2022/04/08/reading-notes-way-of-the-peaceful-warrior-a-book-that-changes-lives/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-way-of-the-peaceful-warrior-a-book-that-changes-lives-1.jpg"></p>
@@ -2825,35 +2963,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《為什麼魚不存在：關於失去、愛與生命的本質，踏上追尋人生意義的解答之旅》| 閱讀心得學習筆記</title>
-    <url>/2024/03/07/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼魚不存在：關於失去、愛與生命的本質，踏上追尋人生意義的解答之旅》</span><br><span class="line">Why Fish Don’t Exist: A Story of Loss, Love, and the Hidden Order of Life</span><br><span class="line">作者： 露露．米勒  </span><br><span class="line">原文作者： Lulu Miller</span><br><span class="line">譯者： 閻蕙群</span><br><span class="line">出版社：采實文化  </span><br><span class="line">出版日期：2024/03/07</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「世上沒有戰勝混亂的方法，但我們仍能尋找意義。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《為什麼魚不存在》不僅是一本關於分類學家的傳記，也是一場探尋人生秩序與混亂的旅程。科學記者露露・米勒透過研究大衛・喬丹的生平，試圖理解人在失敗與變動中如何堅持信念，最終卻發現一個顛覆自身價值觀的真相。本書揉合科學、歷史與個人成長，帶領讀者重新思考世界的本質。</p>
-<p><img src="/img/posts/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>混亂與秩序的衝突</strong>：喬丹一生致力於分類魚類，試圖為自然帶來秩序，卻屢次遭遇挫折，如舊金山地震摧毀他的標本館。</li>
-<li><strong>堅持與執念的界線</strong>：喬丹面對失敗選擇重建，但他的科學信仰是否合理？米勒藉由探究其人生，質疑這種過度執著的代價。</li>
-<li><strong>個人經歷的投射</strong>：米勒自身的失敗與迷惘，使她對喬丹的故事產生共鳴，並最終意識到世上沒有絕對的秩序。</li>
-<li><strong>科學與人生的反思</strong>：真正的科學不該為自然畫地自限，而是擁抱不確定性，理解生命的多樣與複雜。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>當我們試圖掌控生活時，是否反而陷入執念，忽略了世界本就充滿變數？</li>
-<li>科學的追求是尋找秩序，還是接受未知？我們應如何面對不可控的現實？</li>
-<li>個人成就與道德邊界如何權衡？喬丹的學術成就是否掩蓋了他道德上的爭議？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《為什麼魚不存在》提醒我們，世界並非井然有序，而是充滿未知與變化。當秩序崩解時，重要的不是執著於過去，而是學會接受混亂，並在其中找到自己的價值與方向。</p>
-]]></content>
-      <tags>
-        <tag>為什麼魚不存在</tag>
-        <tag>踏上追尋人生意義的解答之旅</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》 | 閱讀心得學習筆記</title>
     <url>/2023/05/26/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-1.jpg"></p>
@@ -2893,6 +3002,35 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>森林智者</tag>
         <tag>為什麼要睡覺</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《為什麼魚不存在：關於失去、愛與生命的本質，踏上追尋人生意義的解答之旅》| 閱讀心得學習筆記</title>
+    <url>/2024/03/07/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼魚不存在：關於失去、愛與生命的本質，踏上追尋人生意義的解答之旅》</span><br><span class="line">Why Fish Don’t Exist: A Story of Loss, Love, and the Hidden Order of Life</span><br><span class="line">作者： 露露．米勒  </span><br><span class="line">原文作者： Lulu Miller</span><br><span class="line">譯者： 閻蕙群</span><br><span class="line">出版社：采實文化  </span><br><span class="line">出版日期：2024/03/07</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「世上沒有戰勝混亂的方法，但我們仍能尋找意義。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《為什麼魚不存在》不僅是一本關於分類學家的傳記，也是一場探尋人生秩序與混亂的旅程。科學記者露露・米勒透過研究大衛・喬丹的生平，試圖理解人在失敗與變動中如何堅持信念，最終卻發現一個顛覆自身價值觀的真相。本書揉合科學、歷史與個人成長，帶領讀者重新思考世界的本質。</p>
+<p><img src="/img/posts/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>混亂與秩序的衝突</strong>：喬丹一生致力於分類魚類，試圖為自然帶來秩序，卻屢次遭遇挫折，如舊金山地震摧毀他的標本館。</li>
+<li><strong>堅持與執念的界線</strong>：喬丹面對失敗選擇重建，但他的科學信仰是否合理？米勒藉由探究其人生，質疑這種過度執著的代價。</li>
+<li><strong>個人經歷的投射</strong>：米勒自身的失敗與迷惘，使她對喬丹的故事產生共鳴，並最終意識到世上沒有絕對的秩序。</li>
+<li><strong>科學與人生的反思</strong>：真正的科學不該為自然畫地自限，而是擁抱不確定性，理解生命的多樣與複雜。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>當我們試圖掌控生活時，是否反而陷入執念，忽略了世界本就充滿變數？</li>
+<li>科學的追求是尋找秩序，還是接受未知？我們應如何面對不可控的現實？</li>
+<li>個人成就與道德邊界如何權衡？喬丹的學術成就是否掩蓋了他道德上的爭議？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《為什麼魚不存在》提醒我們，世界並非井然有序，而是充滿未知與變化。當秩序崩解時，重要的不是執著於過去，而是學會接受混亂，並在其中找到自己的價值與方向。</p>
+]]></content>
+      <tags>
+        <tag>為什麼魚不存在</tag>
+        <tag>踏上追尋人生意義的解答之旅</tag>
       </tags>
   </entry>
   <entry>
@@ -3055,9 +3193,9 @@
         <tag>自卑與超越</tag>
         <tag>阿德勒心理學</tag>
         <tag>心理學</tag>
+        <tag>阿德勒</tag>
         <tag>佛洛依德</tag>
         <tag>榮格</tag>
-        <tag>阿德勒</tag>
         <tag>你不必成為任何人</tag>
       </tags>
   </entry>
