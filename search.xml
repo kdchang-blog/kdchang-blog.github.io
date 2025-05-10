@@ -58,105 +58,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
-    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
-    <content><![CDATA[<blockquote>
-<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
-<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
-<p>Axure RP 主要有幾個常用的功能區塊：</p>
-<ol>
-<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
-<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
-<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
-<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
-<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
-</ol>
-<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
-<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
-<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
-<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
-<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
-<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
-<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
-<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
-<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
-<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
-<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
-<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
-<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
-<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
-<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>產品專案管理</tag>
-        <tag>產品管理</tag>
-        <tag>專案管理</tag>
-        <tag>Axure RP 10</tag>
-        <tag>axure</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</title>
-    <url>/2024/05/22/llm-app-in-martech/</url>
-    <content><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p>
-<h3 id="1-內容生成和改善"><a href="#1-內容生成和改善" class="headerlink" title="1. 內容生成和改善"></a>1. <strong>內容生成和改善</strong></h3><ul>
-<li><strong>部落格文章</strong>：LLMs 可以自動生成高質量的部落格文章、新聞稿和長篇內容。</li>
-<li><strong>社交媒體文章</strong>：自動創建引人入勝的社交媒體內容，適應不同平台的風格和受眾。</li>
-<li><strong>電子郵件行銷</strong>：撰寫個性化的 Email 內容，提高打開率和點擊率。</li>
-</ul>
-<h3 id="2-個人化推薦"><a href="#2-個人化推薦" class="headerlink" title="2. 個人化推薦"></a>2. <strong>個人化推薦</strong></h3><ul>
-<li><strong>產品推薦</strong>：根據使用者的歷史行為和偏好，LLMs 可以生成精確的產品推薦，提高轉化率。</li>
-<li><strong>內容推薦</strong>：在網站或應用中，推薦相關的文章、影片或其他內容，增加用戶黏著性。</li>
-</ul>
-<h3 id="3-客戶服務和互動"><a href="#3-客戶服務和互動" class="headerlink" title="3. 客戶服務和互動"></a>3. <strong>客戶服務和互動</strong></h3><ul>
-<li><strong>聊天機器人</strong>：使用自然語言處理技術的聊天機器人可以處理客戶查詢，提供即時支持和建議。</li>
-<li><strong>客服自動化</strong>：分析和回答常見問題，減少人工客服的工作量，提高回應速度。</li>
-</ul>
-<h3 id="4-市場分析和洞察"><a href="#4-市場分析和洞察" class="headerlink" title="4. 市場分析和洞察"></a>4. <strong>市場分析和洞察</strong></h3><ul>
-<li><strong>社群觀測</strong>：分析社群媒體上的用戶評論和趨勢，幫助企業了解市場需求和品牌形象。</li>
-<li><strong>情感分析</strong>：評估用戶評論和回饋的情感，了解用戶的真實感受和意見。</li>
-</ul>
-<h3 id="5-A-x2F-B-測試和優化"><a href="#5-A-x2F-B-測試和優化" class="headerlink" title="5. A&#x2F;B 測試和優化"></a>5. <strong>A&#x2F;B 測試和優化</strong></h3><ul>
-<li><strong>文案和設計測試</strong>：生成多個版本的廣告文案或設計，進行 A&#x2F;B 測試，找到最有效的組合。</li>
-<li><strong>自動化調整</strong>：根據測試結果，自動調整和優化行銷策略。</li>
-</ul>
-<h3 id="6-語音和影音內容生成"><a href="#6-語音和影音內容生成" class="headerlink" title="6. 語音和影音內容生成"></a>6. <strong>語音和影音內容生成</strong></h3><ul>
-<li><strong>語音助理和 Podcast</strong>：創建和管理企業的語音助理內容或自動生成 Podcast 節目。</li>
-<li><strong>影片腳本和字幕</strong>：自動生成影片腳本，新增字幕，提高內容可及性。</li>
-</ul>
-<h3 id="7-資料分析和報告"><a href="#7-資料分析和報告" class="headerlink" title="7. 資料分析和報告"></a>7. <strong>資料分析和報告</strong></h3><ul>
-<li><strong>智慧報告生成</strong>：根據行銷資料自動生成報告，提供深刻的分析和見解，幫助決策制定。</li>
-<li><strong>趨勢預測</strong>：使用歷史資料和機器學習模型，預測市場趨勢和消費者行為。</li>
-</ul>
-<h3 id="8-SEO-優化"><a href="#8-SEO-優化" class="headerlink" title="8. SEO 優化"></a>8. <strong>SEO 優化</strong></h3><ul>
-<li><strong>關鍵詞建議</strong>：根據內容和目標受眾，提供關鍵字建議，提升搜索引擎排名。</li>
-<li><strong>內容改寫</strong>：改善現有內容，使其更具搜索引擎友好性，提高自然有機流量。</li>
-</ul>
-<h3 id="9-自動摘要"><a href="#9-自動摘要" class="headerlink" title="9. 自動摘要"></a>9. <strong>自動摘要</strong></h3><ul>
-<li><strong>商業報告</strong>：自動生成長篇報告的摘要，便於高階主管快速了解重點。</li>
-<li><strong>新聞摘要</strong>：從多篇新聞文章中提取關鍵信息，生成簡短摘要。</li>
-</ul>
-<h3 id="10-語義搜尋"><a href="#10-語義搜尋" class="headerlink" title="10. 語義搜尋"></a>10. <strong>語義搜尋</strong></h3><ul>
-<li><strong>文件管理系統</strong>：提高公司內部文件搜尋的準確性，快速找到所需資料。</li>
-<li><strong>電子商務搜尋</strong>：根據顧客的搜尋意圖（intent）提供更準確的產品推薦。</li>
-</ul>
-<p>LLMs 在 MarTech 領域的應用廣泛且多樣，能夠幫助企業自動化和改善行銷活動，提升效果和效率。隨著技術的不斷進步，LLMs 將在 MarTech 中發揮越來越重要的作用。</p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>財報分析入門筆記</title>
     <url>/2017/06/30/financial-statements-analysis-introduction/</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>財務報表是一家公司的體質檢查表，透過財務報表可以了解這家公司的財務狀況和營運狀況，也就是說可以透過財務報表去一窺公司的身體健康是否硬朗或是漸漸亮起紅燈。許多人以為財務報表晦澀難懂，只有經營者、會計師或是財務分析師才需要了解。事實上，財務報表的觀念並不難懂，不管是投資大眾甚至是公司員工應該都要對自己投資和工作的公司要有所掌握，一般投資人若能了解財報就有機會從中挖掘被低估的優質股票進而獲取相對報酬（賺錢），而一般員工若能掌握財報資訊，更能全面性了解公司營運狀況和未來發展方向，為自己的職涯加分。</p>
@@ -253,6 +154,105 @@
         <tag>Cash flow statement</tag>
         <tag>finance</tag>
         <tag>財務</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
+    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
+    <content><![CDATA[<blockquote>
+<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
+<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
+<p>Axure RP 主要有幾個常用的功能區塊：</p>
+<ol>
+<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
+<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
+<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
+<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
+<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
+</ol>
+<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
+<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
+<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
+<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
+<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
+<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
+<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
+<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
+<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
+<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
+<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
+<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
+<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
+<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
+<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>產品專案管理</tag>
+        <tag>產品管理</tag>
+        <tag>專案管理</tag>
+        <tag>Axure RP 10</tag>
+        <tag>axure</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</title>
+    <url>/2024/05/22/llm-app-in-martech/</url>
+    <content><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p>
+<h3 id="1-內容生成和改善"><a href="#1-內容生成和改善" class="headerlink" title="1. 內容生成和改善"></a>1. <strong>內容生成和改善</strong></h3><ul>
+<li><strong>部落格文章</strong>：LLMs 可以自動生成高質量的部落格文章、新聞稿和長篇內容。</li>
+<li><strong>社交媒體文章</strong>：自動創建引人入勝的社交媒體內容，適應不同平台的風格和受眾。</li>
+<li><strong>電子郵件行銷</strong>：撰寫個性化的 Email 內容，提高打開率和點擊率。</li>
+</ul>
+<h3 id="2-個人化推薦"><a href="#2-個人化推薦" class="headerlink" title="2. 個人化推薦"></a>2. <strong>個人化推薦</strong></h3><ul>
+<li><strong>產品推薦</strong>：根據使用者的歷史行為和偏好，LLMs 可以生成精確的產品推薦，提高轉化率。</li>
+<li><strong>內容推薦</strong>：在網站或應用中，推薦相關的文章、影片或其他內容，增加用戶黏著性。</li>
+</ul>
+<h3 id="3-客戶服務和互動"><a href="#3-客戶服務和互動" class="headerlink" title="3. 客戶服務和互動"></a>3. <strong>客戶服務和互動</strong></h3><ul>
+<li><strong>聊天機器人</strong>：使用自然語言處理技術的聊天機器人可以處理客戶查詢，提供即時支持和建議。</li>
+<li><strong>客服自動化</strong>：分析和回答常見問題，減少人工客服的工作量，提高回應速度。</li>
+</ul>
+<h3 id="4-市場分析和洞察"><a href="#4-市場分析和洞察" class="headerlink" title="4. 市場分析和洞察"></a>4. <strong>市場分析和洞察</strong></h3><ul>
+<li><strong>社群觀測</strong>：分析社群媒體上的用戶評論和趨勢，幫助企業了解市場需求和品牌形象。</li>
+<li><strong>情感分析</strong>：評估用戶評論和回饋的情感，了解用戶的真實感受和意見。</li>
+</ul>
+<h3 id="5-A-x2F-B-測試和優化"><a href="#5-A-x2F-B-測試和優化" class="headerlink" title="5. A&#x2F;B 測試和優化"></a>5. <strong>A&#x2F;B 測試和優化</strong></h3><ul>
+<li><strong>文案和設計測試</strong>：生成多個版本的廣告文案或設計，進行 A&#x2F;B 測試，找到最有效的組合。</li>
+<li><strong>自動化調整</strong>：根據測試結果，自動調整和優化行銷策略。</li>
+</ul>
+<h3 id="6-語音和影音內容生成"><a href="#6-語音和影音內容生成" class="headerlink" title="6. 語音和影音內容生成"></a>6. <strong>語音和影音內容生成</strong></h3><ul>
+<li><strong>語音助理和 Podcast</strong>：創建和管理企業的語音助理內容或自動生成 Podcast 節目。</li>
+<li><strong>影片腳本和字幕</strong>：自動生成影片腳本，新增字幕，提高內容可及性。</li>
+</ul>
+<h3 id="7-資料分析和報告"><a href="#7-資料分析和報告" class="headerlink" title="7. 資料分析和報告"></a>7. <strong>資料分析和報告</strong></h3><ul>
+<li><strong>智慧報告生成</strong>：根據行銷資料自動生成報告，提供深刻的分析和見解，幫助決策制定。</li>
+<li><strong>趨勢預測</strong>：使用歷史資料和機器學習模型，預測市場趨勢和消費者行為。</li>
+</ul>
+<h3 id="8-SEO-優化"><a href="#8-SEO-優化" class="headerlink" title="8. SEO 優化"></a>8. <strong>SEO 優化</strong></h3><ul>
+<li><strong>關鍵詞建議</strong>：根據內容和目標受眾，提供關鍵字建議，提升搜索引擎排名。</li>
+<li><strong>內容改寫</strong>：改善現有內容，使其更具搜索引擎友好性，提高自然有機流量。</li>
+</ul>
+<h3 id="9-自動摘要"><a href="#9-自動摘要" class="headerlink" title="9. 自動摘要"></a>9. <strong>自動摘要</strong></h3><ul>
+<li><strong>商業報告</strong>：自動生成長篇報告的摘要，便於高階主管快速了解重點。</li>
+<li><strong>新聞摘要</strong>：從多篇新聞文章中提取關鍵信息，生成簡短摘要。</li>
+</ul>
+<h3 id="10-語義搜尋"><a href="#10-語義搜尋" class="headerlink" title="10. 語義搜尋"></a>10. <strong>語義搜尋</strong></h3><ul>
+<li><strong>文件管理系統</strong>：提高公司內部文件搜尋的準確性，快速找到所需資料。</li>
+<li><strong>電子商務搜尋</strong>：根據顧客的搜尋意圖（intent）提供更準確的產品推薦。</li>
+</ul>
+<p>LLMs 在 MarTech 領域的應用廣泛且多樣，能夠幫助企業自動化和改善行銷活動，提升效果和效率。隨著技術的不斷進步，LLMs 將在 MarTech 中發揮越來越重要的作用。</p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
       </tags>
   </entry>
   <entry>
@@ -529,36 +529,6 @@
       </tags>
   </entry>
   <entry>
-    <title>產品經理（Product Manager, PM）面試學習筆記 - [1] 總覽</title>
-    <url>/2024/05/25/product-manager-interview-notes/</url>
-    <content><![CDATA[<h1 id="PM-面試設計"><a href="#PM-面試設計" class="headerlink" title="PM 面試設計"></a>PM 面試設計</h1><p>隨著工作經驗的累積，漸漸會有機會參與面試成為面試官，如何設計 PM 面試流程也是資深產品經理必須學習的重要課題。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li>
-<li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li>
-<li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li>
-<li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li>
-<li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li>
-<li><a href="https://hahow.in/contents/articles/60a72a1f328ad057e2d9a5c0">老闆：「下班前給我競品分析！」實戰產品經理要會的生存技：快速做出競品分析</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>Project Manager</tag>
-        <tag>Program Manager</tag>
-        <tag>專案經理</tag>
-        <tag>PM</tag>
-        <tag>interview</tag>
-        <tag>PM Interview</tag>
-        <tag>PM 面試</tag>
-        <tag>面試</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>產品經理（Product Manager, PM）課程學習參考清單</title>
     <url>/2024/06/03/product-manager-course-list/</url>
     <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
@@ -586,6 +556,36 @@
         <tag>course</tag>
         <tag>Online Course</tag>
         <tag>線上課程</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>產品經理（Product Manager, PM）面試學習筆記 - [1] 總覽</title>
+    <url>/2024/05/25/product-manager-interview-notes/</url>
+    <content><![CDATA[<h1 id="PM-面試設計"><a href="#PM-面試設計" class="headerlink" title="PM 面試設計"></a>PM 面試設計</h1><p>隨著工作經驗的累積，漸漸會有機會參與面試成為面試官，如何設計 PM 面試流程也是資深產品經理必須學習的重要課題。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li>
+<li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li>
+<li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li>
+<li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li>
+<li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li>
+<li><a href="https://hahow.in/contents/articles/60a72a1f328ad057e2d9a5c0">老闆：「下班前給我競品分析！」實戰產品經理要會的生存技：快速做出競品分析</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>Project Manager</tag>
+        <tag>Program Manager</tag>
+        <tag>專案經理</tag>
+        <tag>PM</tag>
+        <tag>interview</tag>
+        <tag>PM Interview</tag>
+        <tag>PM 面試</tag>
+        <tag>面試</tag>
       </tags>
   </entry>
   <entry>
@@ -902,6 +902,48 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望</tag>
         <tag>終於成為自己</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《Be Water , My Friend 似水無形，李小龍的人生哲學：水很柔弱，卻能穿透最堅硬的物質，你感覺它平靜停滯，卻正流進任何可能的地方。》| 閱讀心得學習筆記</title>
+    <url>/2021/03/31/reading-notes-be-water-my-friend-the-teachings-of-bruce-lee/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-be-water-my-friend-the-teachings-of-bruce-lee-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《Be Water , My Friend 似水無形，李小龍的人生哲學：水很柔弱，卻能穿透最堅硬的物質，你感覺它平靜停滯，卻正流進任何可能的地方。》</span><br><span class="line">作者： 李香凝</span><br><span class="line">譯者： 廖桓偉</span><br><span class="line">出版社：大是文化</span><br><span class="line">出版日期：2021/03/31</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「光有知識是不夠的，你得學以致用；光有決心也不夠，你得付諸行動。請記住，我的朋友，杯子何時能發揮用處？只有當它是空著的時候。如果你熱愛人生，那就別浪費時間，因為人生就是由時間構成的。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《Be Water , My Friend 似水無形，李小龍的人生哲學：水很柔弱，卻能穿透最堅硬的物質，你感覺它平靜停滯，卻正流進任何可能的地方。》由李小龍之女李香凝執筆，透過父親的人生哲學，傳遞「像水一樣」的智慧。本書不僅是武術指南，更是一種生活態度。面對壓力、挑戰與不確定性，我們能否如水般柔韌、靈活而不失力量？這是現代人值得深思的課題。</p>
+<p><img src="/img/posts/reading-notes-be-water-my-friend-the-teachings-of-bruce-lee-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p>化為水的哲學：水無固定形狀，能適應環境，遇阻不硬碰，而是繞道而行，象徵隨遇而安、靈活應對。</p>
+</li>
+<li><p>空杯心態：只有放下成見、保持學習，才能持續吸收新知，正如「空杯才能盛水」。</p>
+</li>
+<li><p>持續鍛鍊：無論是武術、心智或生活技能，都需要不斷練習與反覆實踐。李小龍強調「我不怕練過一萬種招式的人，只怕一種招式練一萬遍」。</p>
+</li>
+<li><p>面對阻礙的態度：水會靜待時機，障礙消除後便迅速流過，提醒我們面對挑戰時需放鬆而保持準備。</p>
+</li>
+<li><p>行動力的重要：光有知識與決心不夠，唯有持續行動，才能累積真正的力量。</p>
+</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li><p>在面對突如其來的變局時，我是否能像水一樣適應與轉化？</p>
+</li>
+<li><p>我的學習是否因「滿杯心態」而停滯不前？</p>
+</li>
+<li><p>我對自己的目標是否有足夠的行動力支持？</p>
+</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書以李小龍的「水之道」啟發讀者，在瞬息萬變的世界裡，培養柔韌、靈活與堅定兼具的心態。它不僅是對武術的詮釋，更是一種面對人生的方式，提醒我們「功夫在日常」，行動與修煉從此刻開始。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>水很柔弱，卻能穿透最堅硬的物質，你感覺它平靜停滯，卻正流進任何可能的地方</tag>
+        <tag>Be Water , My Friend 似水無形，李小龍的人生哲學</tag>
       </tags>
   </entry>
   <entry>
@@ -1248,37 +1290,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀心得學習筆記</title>
-    <url>/2024/08/06/reading-notes-forest-wisdom/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-forest-wisdom-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我可能錯了：森林智者的最後一堂人生課》</span><br><span class="line">作者： 比約恩．納提科．林德布勞, 卡洛琳．班克勒, 納維德．莫迪里</span><br><span class="line">原文作者： Björn Natthiko Lindeblad, Caroline Bankler, Navid Modiri</span><br><span class="line">出版社：先覺</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「我可能錯了」的智慧：過度執著於應該如何 會讓人受困，試著鬆開執念，才能真正放下。</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>比約恩．納提科．林德布勞的《我可能錯了》是一場深刻的心靈對話，他以坦誠、幽默而智慧的筆觸，分享自己從金融界菁英轉身成為到泰國擔任森林僧人，再回歸俗世與漸凍症共存的生命歷程。本書沒有說教，而是透過自身經驗，帶領讀者學會放下執著，接受無常，以更自由的心態面對人生的種種挑戰。對於陷入焦慮、迷惘或生命低潮的人來說，這是一本能帶來安慰與啟發的書。</p>
-<p><img src="/img/posts/reading-notes-forest-wisdom-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>「我可能錯了」的智慧</strong>：這句話不只是謙遜的表達，而是一種<code>認識自我執著</code>、<code>學會開放心態</code>的重要工具。  </li>
-<li><strong>放下對思想的盲目信任</strong>：比約恩認為，我們的念頭並非絕對真實，<code>學會質疑</code>與<code>釋放念頭</code>，能帶來內在自由。  </li>
-<li><strong>焦慮是最嚴格的精神導師</strong>：與其抗拒焦慮，不如視之為學習機會，透過觀察與接納，找到內在平靜。  </li>
-<li><strong>不要強求正面思考</strong>：比約恩不鼓勵刻意正向思考，而是提倡<code>以平靜與開放的態度面對現實</code>。  </li>
-<li><strong>學會喜歡別人本來的樣子</strong>：<code>接受他人</code>，而非試圖改變對方，才是建立和諧關係的關鍵。  </li>
-<li><strong>「應該」帶來痛苦</strong>：過度執著於<code>應該如何</code> 會讓人受困，試著鬆開執念，才能真正放下。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《我可能錯了》這本書不僅僅是一本心理勵志書，更是一本實用的生活指南。作者透過自己的親身經歷，為我們提供了一套面對生活挑戰的方法。這本書的價值在於，它讓我們看到，即使在面對生命的困境時，我們依然可以找到內心的平靜與力量。人生充滿不確定性，而我們唯一能掌控的，是如何選擇看待世界的方式。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>我可能錯了</tag>
-        <tag>森林智者</tag>
-        <tag>森林智者的最後一堂人生課</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《從邊緣到核心：台灣半導體如何成為世界的心臟》| 閱讀心得學習筆記</title>
     <url>/2025/03/31/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world-1.jpg"></p>
@@ -1310,6 +1321,37 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>從邊緣到核心</tag>
         <tag>台灣半導體如何成為世界的心臟</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀心得學習筆記</title>
+    <url>/2024/08/06/reading-notes-forest-wisdom/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-forest-wisdom-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我可能錯了：森林智者的最後一堂人生課》</span><br><span class="line">作者： 比約恩．納提科．林德布勞, 卡洛琳．班克勒, 納維德．莫迪里</span><br><span class="line">原文作者： Björn Natthiko Lindeblad, Caroline Bankler, Navid Modiri</span><br><span class="line">出版社：先覺</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「我可能錯了」的智慧：過度執著於應該如何 會讓人受困，試著鬆開執念，才能真正放下。</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>比約恩．納提科．林德布勞的《我可能錯了》是一場深刻的心靈對話，他以坦誠、幽默而智慧的筆觸，分享自己從金融界菁英轉身成為到泰國擔任森林僧人，再回歸俗世與漸凍症共存的生命歷程。本書沒有說教，而是透過自身經驗，帶領讀者學會放下執著，接受無常，以更自由的心態面對人生的種種挑戰。對於陷入焦慮、迷惘或生命低潮的人來說，這是一本能帶來安慰與啟發的書。</p>
+<p><img src="/img/posts/reading-notes-forest-wisdom-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>「我可能錯了」的智慧</strong>：這句話不只是謙遜的表達，而是一種<code>認識自我執著</code>、<code>學會開放心態</code>的重要工具。  </li>
+<li><strong>放下對思想的盲目信任</strong>：比約恩認為，我們的念頭並非絕對真實，<code>學會質疑</code>與<code>釋放念頭</code>，能帶來內在自由。  </li>
+<li><strong>焦慮是最嚴格的精神導師</strong>：與其抗拒焦慮，不如視之為學習機會，透過觀察與接納，找到內在平靜。  </li>
+<li><strong>不要強求正面思考</strong>：比約恩不鼓勵刻意正向思考，而是提倡<code>以平靜與開放的態度面對現實</code>。  </li>
+<li><strong>學會喜歡別人本來的樣子</strong>：<code>接受他人</code>，而非試圖改變對方，才是建立和諧關係的關鍵。  </li>
+<li><strong>「應該」帶來痛苦</strong>：過度執著於<code>應該如何</code> 會讓人受困，試著鬆開執念，才能真正放下。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《我可能錯了》這本書不僅僅是一本心理勵志書，更是一本實用的生活指南。作者透過自己的親身經歷，為我們提供了一套面對生活挑戰的方法。這本書的價值在於，它讓我們看到，即使在面對生命的困境時，我們依然可以找到內心的平靜與力量。人生充滿不確定性，而我們唯一能掌控的，是如何選擇看待世界的方式。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>我可能錯了</tag>
+        <tag>森林智者</tag>
+        <tag>森林智者的最後一堂人生課</tag>
       </tags>
   </entry>
   <entry>
@@ -1730,6 +1772,42 @@
       </tags>
   </entry>
   <entry>
+    <title>《活學：終生受用的人生高效能解密》| 閱讀心得學習筆記</title>
+    <url>/2020/06/08/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《活學：終生受用的人生高效能解密》</span><br><span class="line">作者： 金惟純</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「管好你的念頭，就是管好你的人生。面對真實的自己，接受自己的處境。對世界、他人、自己少一些批判，才能換來內在的平靜與快樂。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活學：終生受用的人生高效能解密》由商業周刊創辦人金惟純撰寫，彙集他從人生巔峰退隱後的深刻體悟。從事業成功者到生命探尋者，他捨棄過去的成就與習慣，重新學習如何活得更自在、圓滿。本書以「活學」為核心，強調透過自省、修心與行動，逐步提升生命的品質，並幫助讀者找到真正的快樂與價值。</p>
+<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-人生最重要的事"><a href="#1-人生最重要的事" class="headerlink" title="1. 人生最重要的事"></a><strong>1. 人生最重要的事</strong></h4><ul>
+<li><strong>念頭決定人生</strong>：人一生最常重複的不是呼吸，而是<code>念頭</code>，管理好念頭才能真正改變人生。</li>
+<li><strong>面對真實的自己</strong>：「看不見」自己是人生困境的根源，<code>接受全部的自己</code>，才能真正活得輕鬆。</li>
+<li><strong>「不得不」的半吊子人生</strong>：如果無法<code>接受自己的處境</code>，又無法處理或放下，人生就會充滿掙扎與痛苦。</li>
+</ul>
+<h4 id="2-最高效能的人生"><a href="#2-最高效能的人生" class="headerlink" title="2. 最高效能的人生"></a><strong>2. 最高效能的人生</strong></h4><ul>
+<li><strong>學習「願意」</strong>：提升自我效能的關鍵，是從「不願意」轉變為「<code>願意</code>」，並從小事開始改變。</li>
+<li><strong>順境與逆境皆是修煉</strong>：人生的每個處境都是「<code>事上練心</code>」，重要的是如何面對而非逃避。</li>
+<li><strong>「放下評判心」</strong>：對世界、他人、自己<code>少一些批判</code>，才能換來內在的平靜與快樂。</li>
+</ul>
+<h4 id="3-與人相處的智慧"><a href="#3-與人相處的智慧" class="headerlink" title="3. 與人相處的智慧"></a><strong>3. 與人相處的智慧</strong></h4><ul>
+<li><strong>領導的真諦</strong>：真正的領導者要懂得「<code>事上練心</code>」，不斷在實踐中成長，而非僅靠權力驅動他人。</li>
+<li><strong>組織與人生的共通法則</strong>：「<code>創新</code>」是結果而非起點，唯有紮實的文化與價值觀，才能真正影響世界。</li>
+<li><strong>學習「不計較」</strong>：在人際關係中，計較只會製造摩擦，<code>學會放下</code>，反而能得到更多。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>活學：終生受用的人生高效能解密</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《矽谷最夯．產品專案行銷全書：破解世界級爆款產品，重新定義產品行銷力》 | 閱讀心得學習筆記</title>
     <url>/2025/02/13/reading-notes-loved-how-to-rethink-marketing-for-tech-products/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-loved-how-to-rethink-marketing-for-tech-products-1.jpg"></p>
@@ -1785,42 +1863,6 @@
         <tag>marketing</tag>
         <tag>產案行銷</tag>
         <tag>Product Marketing Manager</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《活學：終生受用的人生高效能解密》| 閱讀心得學習筆記</title>
-    <url>/2020/06/08/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《活學：終生受用的人生高效能解密》</span><br><span class="line">作者： 金惟純</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「管好你的念頭，就是管好你的人生。面對真實的自己，接受自己的處境。對世界、他人、自己少一些批判，才能換來內在的平靜與快樂。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活學：終生受用的人生高效能解密》由商業周刊創辦人金惟純撰寫，彙集他從人生巔峰退隱後的深刻體悟。從事業成功者到生命探尋者，他捨棄過去的成就與習慣，重新學習如何活得更自在、圓滿。本書以「活學」為核心，強調透過自省、修心與行動，逐步提升生命的品質，並幫助讀者找到真正的快樂與價值。</p>
-<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-人生最重要的事"><a href="#1-人生最重要的事" class="headerlink" title="1. 人生最重要的事"></a><strong>1. 人生最重要的事</strong></h4><ul>
-<li><strong>念頭決定人生</strong>：人一生最常重複的不是呼吸，而是<code>念頭</code>，管理好念頭才能真正改變人生。</li>
-<li><strong>面對真實的自己</strong>：「看不見」自己是人生困境的根源，<code>接受全部的自己</code>，才能真正活得輕鬆。</li>
-<li><strong>「不得不」的半吊子人生</strong>：如果無法<code>接受自己的處境</code>，又無法處理或放下，人生就會充滿掙扎與痛苦。</li>
-</ul>
-<h4 id="2-最高效能的人生"><a href="#2-最高效能的人生" class="headerlink" title="2. 最高效能的人生"></a><strong>2. 最高效能的人生</strong></h4><ul>
-<li><strong>學習「願意」</strong>：提升自我效能的關鍵，是從「不願意」轉變為「<code>願意</code>」，並從小事開始改變。</li>
-<li><strong>順境與逆境皆是修煉</strong>：人生的每個處境都是「<code>事上練心</code>」，重要的是如何面對而非逃避。</li>
-<li><strong>「放下評判心」</strong>：對世界、他人、自己<code>少一些批判</code>，才能換來內在的平靜與快樂。</li>
-</ul>
-<h4 id="3-與人相處的智慧"><a href="#3-與人相處的智慧" class="headerlink" title="3. 與人相處的智慧"></a><strong>3. 與人相處的智慧</strong></h4><ul>
-<li><strong>領導的真諦</strong>：真正的領導者要懂得「<code>事上練心</code>」，不斷在實踐中成長，而非僅靠權力驅動他人。</li>
-<li><strong>組織與人生的共通法則</strong>：「<code>創新</code>」是結果而非起點，唯有紮實的文化與價值觀，才能真正影響世界。</li>
-<li><strong>學習「不計較」</strong>：在人際關係中，計較只會製造摩擦，<code>學會放下</code>，反而能得到更多。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>活學：終生受用的人生高效能解密</tag>
       </tags>
   </entry>
   <entry>
@@ -2149,6 +2191,40 @@
       </tags>
   </entry>
   <entry>
+    <title>《正念溝通：在衝突、委屈、情緒勒索場景下說出真心話》| 閱讀心得學習筆記</title>
+    <url>/2022/03/30/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《正念溝通：在衝突、委屈、情緒勒索場景下說出真心話》</span><br><span class="line">作者： 奧朗‧傑‧舒佛</span><br><span class="line">原文作者： Oren Jay Sofer</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：究竟</span><br><span class="line">出版日期：2020/01/01</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「當我們用較少字眼表達出較多真誠時，表達會更清晰、更有力量。語言不僅能療癒、帶來連結，也能製造傷害與分裂。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>這本書從人類最基本卻最強大的力量——語言出發，提醒我們說話的方式如何影響生活與人際關係。作者奧朗．傑．舒佛結合正念、體感治療與非暴力溝通，提供一套改變對話、療癒關係、促進社會和諧的方法。</p>
+<p><img src="/img/posts/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li>語言的力量：語言不僅能療癒、帶來連結，也能製造傷害與分裂。</li>
+<li>溝通的模板：我們的對話模式會影響與自己、與社會的關係。</li>
+<li>正念與同理：有意識地聆聽與說話，才能創造出真誠、同理的交流。</li>
+<li>練習的重要性：溝通是一種需要練習的藝術，非與生俱來的天賦。</li>
+<li>影響層面：個人、群體乃至整個社會，都需要這種更有覺知的溝通方式。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們在日常生活中，是否察覺到自己說話背後的情緒與動機？</li>
+<li>當他人表達不同觀點時，我們能否帶著深度傾聽而非立刻反駁？</li>
+<li>面對衝突時，我們如何使用「愛的話語」來緩解彼此的痛苦？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《正念溝通》不只是一本談理論的書，而是提供練習與實踐的方法，幫助我們在劇烈變動的世界中，用更智慧的方式說話與傾聽。它提醒我們：說話的責任重大，只有用心選擇與練習，我們才能讓語言成為創造和諧與連結的工具。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>正念溝通</tag>
+        <tag>在衝突、委屈、情緒勒索場景下說出真心話</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《ScrumMaster、敏捷教練及專案經理轉型的最佳指南》| 閱讀心得學習筆記</title>
     <url>/2024/06/06/reading-notes-scrum-master-team/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-scrum-master-team-1.jpg"></p>
@@ -2235,6 +2311,40 @@
         <tag>失控的焦慮世代</tag>
         <tag>手機餵養的世代</tag>
         <tag>如何面對心理疾病的瘟疫</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《愛的藝術：心理學大師佛洛姆談愛的真諦，一本學習如何去愛的聖經》| 閱讀心得學習筆記</title>
+    <url>/2021/09/29/reading-notes-the-art-of-loving/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-art-of-loving-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《愛的藝術：心理學大師佛洛姆談愛的真諦，一本學習如何去愛的聖經》</span><br><span class="line">作者： 埃里希．佛洛姆</span><br><span class="line">原文作者： Erich Fromm</span><br><span class="line">譯者： 梁永安</span><br><span class="line">出版社：木馬文化</span><br><span class="line">出版日期：2021/09/29</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「沒有愛，人類連一天也不能存在。愛是人身上的主動力量。如果我真正愛一個人，我就會愛所有人，就會愛世界，就會愛生命。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《愛的藝術》是心理學大師佛洛姆於 1956 年出版的經典之作，被譽為跨世代的精神指引。書中挑戰我們對愛的迷思，指出愛並非純粹感性衝動，而是一門需要學習、鍛鍊與實踐的藝術。</p>
+<p><img src="/img/posts/reading-notes-the-art-of-loving-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li>愛是主動的：愛不是被動的感覺，而是主動的力量，來自個人的成熟與付出。</li>
+<li>愛可學習：如同音樂、繪畫，愛需要知識、紀律、專注與耐心。</li>
+<li>愛的多元面向：包括親子、手足、伴侶、自愛與對神的愛，不限於浪漫情感。</li>
+<li>愛是人格的修煉：謙遜、勇敢、誠實、負責，皆是愛的基礎養分。</li>
+<li>愛的錯誤觀念：現代人常誤以為愛等於被愛，而忽略愛的主動與內在能力。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>在親密關係中，我們是否過於期待他人的愛，而忽視自身的愛人能力？</li>
+<li>我們是否把愛等同於短暫的激情，而缺乏長期投入的準備？</li>
+<li>面對愛的挫敗時，我們有沒有反思過自己的學習與成長？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《愛的藝術》提醒我們，愛不是天降的恩賜，而是一種需要練習與體悟的藝術。唯有理解愛的本質、主動學習與修煉人格，才能在各種人際關係中找到真正的愛與幸福。這本書不僅是戀人間的指南，更是全方位的人生成長課。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>顯化效應</tag>
+        <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
       </tags>
   </entry>
   <entry>
@@ -2834,6 +2944,42 @@
       </tags>
   </entry>
   <entry>
+    <title>《一本書讀懂匯率： 44個匯率關鍵概念，看懂全球經濟脈動，做對投資理財決策》| 閱讀心得學習筆記</title>
+    <url>/2025/04/24/reading-notes-understand-exchange-rates-with-a-book/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-understand-exchange-rates-with-a-book-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《一本書讀懂匯率： 44個匯率關鍵概念，看懂全球經濟脈動，做對投資理財決策》</span><br><span class="line">作者： 盧泳佑, 趙慶燁</span><br><span class="line">譯者： 陳柏蓁</span><br><span class="line">出版社：商業周刊</span><br><span class="line">出版日期：2025/04/24</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「簡單來說，匯率就是兩種貨幣之間的交換比例。就像我們去買東西，需要用台幣交換商品一樣，國家與國家之間的貿易往來，也要用不同的貨幣來交換。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《一本書讀懂匯率》深入剖析了匯率的基本原理及其對全球經濟的影響，尤其是在美中貿易戰等重大國際事件中，匯率作為一種經濟武器的重要性愈加顯著。無論是個人投資、國際貿易，還是國家的經濟政策，匯率都扮演著關鍵角色。本書以淺顯易懂的方式，幫助讀者理解匯率背後的複雜關係。</p>
+<p><img src="/img/posts/reading-notes-understand-exchange-rates-with-a-book-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>匯率的本質</strong><br>匯率是兩種貨幣之間的交換比率，受市場供需影響。美元作為全球主要的儲備貨幣，其波動對全球經濟有深遠影響。</p>
+</li>
+<li><p><strong>外匯市場與匯率的關聯</strong><br>匯率變動反映了外匯市場的動態，市場中多方力量（如利率、物價等）共同作用，影響匯率走勢。</p>
+</li>
+<li><p><strong>美元霸權的形成</strong><br>美國自二戰後通過經濟實力確立了美元霸權，並與全球貿易結算保持密切關聯，這也使得美元成為全球最重要的交易和儲備貨幣。</p>
+</li>
+<li><p><strong>匯率的實際影響</strong><br>匯率對企業、消費者乃至國家的經濟決策都至關重要。企業出口、國民生活水平及國際投資，都可能因匯率波動而受到極大影響。</p>
+</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li><strong>匯率戰的風險</strong>：全球經濟中，尤其是貿易戰背景下，匯率操作成為各國競爭力的一部分。這種策略雖然能短期促使經濟增長，但長期會引發國際市場的不穩定。</li>
+<li><strong>美元與其他貨幣的博弈</strong>：雖然美元是全球主要貨幣，但隨著中國等新興市場的崛起，人民幣等貨幣挑戰美元霸權的勢頭日益增強，未來可能出現新變局。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書通過詳盡的解釋，讓讀者不僅能理解匯率的運作原理，還能掌握如何應對匯率風險，作出更明智的經濟和投資決策。無論是企業主還是個人投資者，理解匯率的變動將是未來成功的關鍵。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>顯化效應</tag>
+        <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》| 閱讀心得學習筆記</title>
     <url>/2024/02/29/reading-notes-wait-what-and-lifes-essential-questions/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-1.jpg"></p>
@@ -3391,6 +3537,51 @@
       </tags>
   </entry>
   <entry>
+    <title>在注意力稀缺的時代重新找回深度工作力（Deep Work）</title>
+    <url>/2017/09/10/stay-focus-and-keep-deep-working/</url>
+    <content><![CDATA[<p><img src="/img/posts/deep-work.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>隨著網際網路和科技產品的發展，人們除了時間外，注意力、專注力和深度工作力也成為十分稀缺的資產。現代人號稱一天工作八小時甚至更長，但我們往往在開會、被打斷、逛網站、滑手機、處理私人事務和在茶水間討論公司組織裡的八卦中切換我們的思緒，實際上真正有生產力和進入心流專注狀態可能不過幾個小時。</p>
+<p>或許是希望在日常工作之餘多一點自我時間，在生活瑣事襲來時能保有自我的追求，我很喜歡閱讀各類型有關提高工作生產力和自我學習的書籍並在生活中實踐。最近看的這本由 Cal Newport 撰寫的 <a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692">Deep Work: Rules for Focused Success in a Distracted World Hardcover</a>（<a href="http://www.books.com.tw/products/0010758381">中文書名：深度工作力</a>）討論了最近幾年在工作生產力書籍中時常被談到的議題：專注力和工作效率，並明確定義了深度工作力和淺薄工作力的區別。書中沒有複雜的理論，取而代之的是淺顯的範例和建議，蠻適合希望在競爭激烈的知識經濟時代保有核心工作力的朋友當做入門的概論書來看。</p>
+<h1 id="在新經濟社會需要具備的深度工作力"><a href="#在新經濟社會需要具備的深度工作力" class="headerlink" title="在新經濟社會需要具備的深度工作力"></a>在新經濟社會需要具備的深度工作力</h1><p>本書一開始定義了什麼是<code>深度工作</code>，什麼是<code>淺薄工作</code>。所謂的深度工作是在一段充分專注的情況下所從事的職業活動。在深度工作的狀態下你可以將你的認知能力發揮到極限，進而改善並學習困難的專業技術，創造新的價值並建立他人難以模仿的專業能力和思考洞察。相對而言，淺薄工作主要是不需要高認知需求，偏向回覆性、協調性工作，通常不太需要太多專注力就可以執行，通常這類型工作創造價值有限，且容易被模仿。</p>
+<p>當然書中也提到了一些比較特別的例子，包括身兼 Twitter 執行長和 Squard CEO 的 Jack Dorsey，工作上確實花很多時間在做淺薄工作，例如：擔任主管開各種會議、不斷被打斷、收發 Email 等。然而這類主管、業務員和網路行銷企劃人員隨時保持社會連線是很重要的事情，因為這些淺薄工作就是驅動他們工作的重要因子。</p>
+<p>儘管如此，若能在這類工作中適度的融入深度工作或許也有機會發揮意想不到的成果，例如：微軟共同創辦人 Bill Gates 就以一年兩次的沉思週而聞名。在沉思期間他會離群索居於湖濱小屋中思考未來的趨勢發展，也是在沉思期間 Gates 寫下來網際網路浪潮的備忘錄，將注意力轉往當時才剛發展不久的全球第一個商用瀏覽器 Netscape（網景），進而揭開了第一次瀏覽器大戰。</p>
+<h1 id="在注意力稀缺的時代重新找回深度工作力"><a href="#在注意力稀缺的時代重新找回深度工作力" class="headerlink" title="在注意力稀缺的時代重新找回深度工作力"></a>在注意力稀缺的時代重新找回深度工作力</h1><p>對於一般沒有初始化繼承衣缽的經濟資本的人來說，透過深度工作力的培養是達成職涯目標的一個可以嘗試的方式。尤其在世界公民的時代，現在是人類歷史上工作力流動最頻繁的年代，擁有無可取代的技術和專業能力的超級明星比起從前任何時候所能發揮的影響力更大更深遠。</p>
+<p>讀到這裡，如果你認同深度工作力，在這邊我融合了書中一些方法建議和我個人的經驗整理和大家分享，也歡迎讀者們補充：</p>
+<h3 id="1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"><a href="#1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容" class="headerlink" title="1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"></a>1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容</h3><p>這邊推薦使用 <a href="http://wiki.mbalib.com/zh-tw/OKR">Objectives and Key Results，OKR</a> 來定義一年和每季需要完成的目標並使用 <a href="http://blog.idonethis.com/google-snippets-internal-tool/">Google Snippets template</a>（感謝一位朋友推薦使用）追蹤記錄每天的工作內容。另外，雖不用到古人吾日三省吾身的狀態，但可以參考 <a href="https://zh.wikipedia.org/zh-tw/Scrum">Scrum</a> 敏捷開發方法中的 Stand up meeting 每天自問自己昨天做了什麼，今天打算做什麼，有沒有遇到哪些困難。</p>
+<p><img src="/img/posts/snippet.png" alt="在注意力稀缺的時代重新找回深度工作力"></p>
+<h3 id="2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"><a href="#2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏" class="headerlink" title="2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"></a>2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏</h3><p>在記錄完自己一到兩週的工作內容後，便可以利用這些 data 進行資料分析，找到自己最具生產力的時段。有的人習慣早上工作，像我一般習慣在一大早起來頭腦清楚時進行思考和需要專注度的工作，而有的人習慣在深夜夜深人靜時工作，沒什麼對錯，就是充分了解自己就好。</p>
+<h3 id="3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"><a href="#3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式" class="headerlink" title="3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"></a>3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式</h3><p>拜智慧型手機所賜，現代人使用網路的時間遠遠大於過去，然而我們常常在使用網路過程中有意無意浪費了許多寶貴時間和專注力。建議可以從中篩選合適自己的社群網站和媒體以及使用方式。</p>
+<h3 id="4-定義自己回覆訊息和電子郵件的方法和原則"><a href="#4-定義自己回覆訊息和電子郵件的方法和原則" class="headerlink" title="4. 定義自己回覆訊息和電子郵件的方法和原則"></a>4. 定義自己回覆訊息和電子郵件的方法和原則</h3><p>現在人上網很多時間是在回覆訊息和電子郵件，有些工作者每天甚至被數百封電子郵件給淹沒。若能掌握幾個原則則有機會可以提高自己的工作效率：例如：公告了自己的電子信箱同時就明確定義發信的範本和收信規則讓發信過來的人可以具體化自己的問題，一方面也篩選掉了沒有準備好的聯絡者。定義好收信、回信時間和回信規則，不需要時時刻刻 context switch 去收發電子信箱。</p>
+<h3 id="5-打造屬於自己的工作環境和工作儀式"><a href="#5-打造屬於自己的工作環境和工作儀式" class="headerlink" title="5. 打造屬於自己的工作環境和工作儀式"></a>5. 打造屬於自己的工作環境和工作儀式</h3><p>人會因為服裝和環境而改變自己的行為，建立起自己的高效率工作環境和工作儀式，例如有的人喜歡在咖啡廳工作，在來杯拿鐵咖啡或是聽一首熟悉的歌後開啟自己的工作模式，所以找到自己的那杯咖啡吧！</p>
+<h3 id="6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"><a href="#6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者" class="headerlink" title="6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"></a>6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者</h3><p>隨著科技的指數性成長，各種科技工具推陳出新（例如：追蹤上網時間的 <a href="https://toggl.com/">toggl</a>、todo 工具：<a href="https://pomotodo.com/">番茄土豆</a>、<a href="https://zhtw.todoist.com/">todoist</a>），如何善用不同的工作技巧和生產力工具並培養自己快速學習各種跨領域技術的能力將可以讓自己持續保有專業活力。</p>
+<h3 id="7-定期運動、規律飲食和作息，保持身心靈健康"><a href="#7-定期運動、規律飲食和作息，保持身心靈健康" class="headerlink" title="7. 定期運動、規律飲食和作息，保持身心靈健康"></a>7. 定期運動、規律飲食和作息，保持身心靈健康</h3><p>雖然是老生常談，但定期運動、規律飲食和作息可以讓自己在忙碌的工作中儲備好能力，迎接生活中的每一個挑戰！</p>
+<p><img src="/img/posts/book.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>以上分享了幾個我覺得蠻實用的工作生產力技巧和深度工作力這本書的一些讀後心得，在這個專注力稀缺的年代，注意力和深度工作力是除了時間外珍貴的稀缺資源。把握幾個核心原則並刻意練習，相信你也可以在注意力稀缺的時代重新找回深度工作力，也歡迎讀者若有覺得不錯的提高工作生產力技巧補充分享！</p>
+<h1 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h1><ol>
+<li><a href="http://blog.idonethis.com/silicon-valleys-productivity-secret/">Silicon Valley’s Productivity Secret</a></li>
+<li><a href="http://dannyimages.com/2012/06/05/2106-smart-working-with-snippets/">敏捷工作術(1) — snippet</a></li>
+<li><a href="https://www.zhihu.com/question/22471467">谷歌内部考核制度 OKR 是怎样的？</a></li>
+<li><a href="http://www.cheers.com.tw/article/article.action?id=5083664">【每日熱門網摘】別再多工了！「深度工作法」才能讓你提早下班</a></li>
+</ol>
+<p>（image via <a href="https://associatesmind.com/wp-content/uploads/2016/01/Cal-Newport-Deep-Work.jpg">associatesmind</a>、<a href="https://cdn.kingstone.com.tw/book/images/product/20149/2014941495564/2014941495564b.jpg">kingstone</a>）</p>
+]]></content>
+      <tags>
+        <tag>財務</tag>
+        <tag>職場</tag>
+        <tag>商業管理</tag>
+        <tag>人生</tag>
+        <tag>溝通</tag>
+        <tag>專注力</tag>
+        <tag>focus</tag>
+        <tag>deep work</tag>
+        <tag>深度工作力</tag>
+        <tag>工作力</tag>
+        <tag>career</tag>
+        <tag>work</tag>
+        <tag>生產力工具</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>產品開發現場：當一個 Scrum Master 是一個怎樣的體驗？</title>
     <url>/2019/01/04/what-is-the-experience-of-be-a-scrum-master/</url>
     <content><![CDATA[<p><img src="/img/posts/i-am-scrum-master.png" alt="當一個 Scrum Master 是一個怎樣的體驗？"></p>
@@ -3473,6 +3664,8 @@
         <tag>scrum</tag>
         <tag>敏捷開發</tag>
         <tag>agile</tag>
+        <tag>職場</tag>
+        <tag>career</tag>
         <tag>scrum master</tag>
         <tag>product owner</tag>
         <tag>dev team</tag>
@@ -3480,53 +3673,6 @@
         <tag>軟體工程</tag>
         <tag>software engineering</tag>
         <tag>產品開發現場</tag>
-        <tag>職場</tag>
-        <tag>career</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在注意力稀缺的時代重新找回深度工作力（Deep Work）</title>
-    <url>/2017/09/10/stay-focus-and-keep-deep-working/</url>
-    <content><![CDATA[<p><img src="/img/posts/deep-work.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>隨著網際網路和科技產品的發展，人們除了時間外，注意力、專注力和深度工作力也成為十分稀缺的資產。現代人號稱一天工作八小時甚至更長，但我們往往在開會、被打斷、逛網站、滑手機、處理私人事務和在茶水間討論公司組織裡的八卦中切換我們的思緒，實際上真正有生產力和進入心流專注狀態可能不過幾個小時。</p>
-<p>或許是希望在日常工作之餘多一點自我時間，在生活瑣事襲來時能保有自我的追求，我很喜歡閱讀各類型有關提高工作生產力和自我學習的書籍並在生活中實踐。最近看的這本由 Cal Newport 撰寫的 <a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692">Deep Work: Rules for Focused Success in a Distracted World Hardcover</a>（<a href="http://www.books.com.tw/products/0010758381">中文書名：深度工作力</a>）討論了最近幾年在工作生產力書籍中時常被談到的議題：專注力和工作效率，並明確定義了深度工作力和淺薄工作力的區別。書中沒有複雜的理論，取而代之的是淺顯的範例和建議，蠻適合希望在競爭激烈的知識經濟時代保有核心工作力的朋友當做入門的概論書來看。</p>
-<h1 id="在新經濟社會需要具備的深度工作力"><a href="#在新經濟社會需要具備的深度工作力" class="headerlink" title="在新經濟社會需要具備的深度工作力"></a>在新經濟社會需要具備的深度工作力</h1><p>本書一開始定義了什麼是<code>深度工作</code>，什麼是<code>淺薄工作</code>。所謂的深度工作是在一段充分專注的情況下所從事的職業活動。在深度工作的狀態下你可以將你的認知能力發揮到極限，進而改善並學習困難的專業技術，創造新的價值並建立他人難以模仿的專業能力和思考洞察。相對而言，淺薄工作主要是不需要高認知需求，偏向回覆性、協調性工作，通常不太需要太多專注力就可以執行，通常這類型工作創造價值有限，且容易被模仿。</p>
-<p>當然書中也提到了一些比較特別的例子，包括身兼 Twitter 執行長和 Squard CEO 的 Jack Dorsey，工作上確實花很多時間在做淺薄工作，例如：擔任主管開各種會議、不斷被打斷、收發 Email 等。然而這類主管、業務員和網路行銷企劃人員隨時保持社會連線是很重要的事情，因為這些淺薄工作就是驅動他們工作的重要因子。</p>
-<p>儘管如此，若能在這類工作中適度的融入深度工作或許也有機會發揮意想不到的成果，例如：微軟共同創辦人 Bill Gates 就以一年兩次的沉思週而聞名。在沉思期間他會離群索居於湖濱小屋中思考未來的趨勢發展，也是在沉思期間 Gates 寫下來網際網路浪潮的備忘錄，將注意力轉往當時才剛發展不久的全球第一個商用瀏覽器 Netscape（網景），進而揭開了第一次瀏覽器大戰。</p>
-<h1 id="在注意力稀缺的時代重新找回深度工作力"><a href="#在注意力稀缺的時代重新找回深度工作力" class="headerlink" title="在注意力稀缺的時代重新找回深度工作力"></a>在注意力稀缺的時代重新找回深度工作力</h1><p>對於一般沒有初始化繼承衣缽的經濟資本的人來說，透過深度工作力的培養是達成職涯目標的一個可以嘗試的方式。尤其在世界公民的時代，現在是人類歷史上工作力流動最頻繁的年代，擁有無可取代的技術和專業能力的超級明星比起從前任何時候所能發揮的影響力更大更深遠。</p>
-<p>讀到這裡，如果你認同深度工作力，在這邊我融合了書中一些方法建議和我個人的經驗整理和大家分享，也歡迎讀者們補充：</p>
-<h3 id="1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"><a href="#1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容" class="headerlink" title="1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"></a>1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容</h3><p>這邊推薦使用 <a href="http://wiki.mbalib.com/zh-tw/OKR">Objectives and Key Results，OKR</a> 來定義一年和每季需要完成的目標並使用 <a href="http://blog.idonethis.com/google-snippets-internal-tool/">Google Snippets template</a>（感謝一位朋友推薦使用）追蹤記錄每天的工作內容。另外，雖不用到古人吾日三省吾身的狀態，但可以參考 <a href="https://zh.wikipedia.org/zh-tw/Scrum">Scrum</a> 敏捷開發方法中的 Stand up meeting 每天自問自己昨天做了什麼，今天打算做什麼，有沒有遇到哪些困難。</p>
-<p><img src="/img/posts/snippet.png" alt="在注意力稀缺的時代重新找回深度工作力"></p>
-<h3 id="2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"><a href="#2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏" class="headerlink" title="2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"></a>2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏</h3><p>在記錄完自己一到兩週的工作內容後，便可以利用這些 data 進行資料分析，找到自己最具生產力的時段。有的人習慣早上工作，像我一般習慣在一大早起來頭腦清楚時進行思考和需要專注度的工作，而有的人習慣在深夜夜深人靜時工作，沒什麼對錯，就是充分了解自己就好。</p>
-<h3 id="3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"><a href="#3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式" class="headerlink" title="3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"></a>3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式</h3><p>拜智慧型手機所賜，現代人使用網路的時間遠遠大於過去，然而我們常常在使用網路過程中有意無意浪費了許多寶貴時間和專注力。建議可以從中篩選合適自己的社群網站和媒體以及使用方式。</p>
-<h3 id="4-定義自己回覆訊息和電子郵件的方法和原則"><a href="#4-定義自己回覆訊息和電子郵件的方法和原則" class="headerlink" title="4. 定義自己回覆訊息和電子郵件的方法和原則"></a>4. 定義自己回覆訊息和電子郵件的方法和原則</h3><p>現在人上網很多時間是在回覆訊息和電子郵件，有些工作者每天甚至被數百封電子郵件給淹沒。若能掌握幾個原則則有機會可以提高自己的工作效率：例如：公告了自己的電子信箱同時就明確定義發信的範本和收信規則讓發信過來的人可以具體化自己的問題，一方面也篩選掉了沒有準備好的聯絡者。定義好收信、回信時間和回信規則，不需要時時刻刻 context switch 去收發電子信箱。</p>
-<h3 id="5-打造屬於自己的工作環境和工作儀式"><a href="#5-打造屬於自己的工作環境和工作儀式" class="headerlink" title="5. 打造屬於自己的工作環境和工作儀式"></a>5. 打造屬於自己的工作環境和工作儀式</h3><p>人會因為服裝和環境而改變自己的行為，建立起自己的高效率工作環境和工作儀式，例如有的人喜歡在咖啡廳工作，在來杯拿鐵咖啡或是聽一首熟悉的歌後開啟自己的工作模式，所以找到自己的那杯咖啡吧！</p>
-<h3 id="6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"><a href="#6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者" class="headerlink" title="6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"></a>6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者</h3><p>隨著科技的指數性成長，各種科技工具推陳出新（例如：追蹤上網時間的 <a href="https://toggl.com/">toggl</a>、todo 工具：<a href="https://pomotodo.com/">番茄土豆</a>、<a href="https://zhtw.todoist.com/">todoist</a>），如何善用不同的工作技巧和生產力工具並培養自己快速學習各種跨領域技術的能力將可以讓自己持續保有專業活力。</p>
-<h3 id="7-定期運動、規律飲食和作息，保持身心靈健康"><a href="#7-定期運動、規律飲食和作息，保持身心靈健康" class="headerlink" title="7. 定期運動、規律飲食和作息，保持身心靈健康"></a>7. 定期運動、規律飲食和作息，保持身心靈健康</h3><p>雖然是老生常談，但定期運動、規律飲食和作息可以讓自己在忙碌的工作中儲備好能力，迎接生活中的每一個挑戰！</p>
-<p><img src="/img/posts/book.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>以上分享了幾個我覺得蠻實用的工作生產力技巧和深度工作力這本書的一些讀後心得，在這個專注力稀缺的年代，注意力和深度工作力是除了時間外珍貴的稀缺資源。把握幾個核心原則並刻意練習，相信你也可以在注意力稀缺的時代重新找回深度工作力，也歡迎讀者若有覺得不錯的提高工作生產力技巧補充分享！</p>
-<h1 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h1><ol>
-<li><a href="http://blog.idonethis.com/silicon-valleys-productivity-secret/">Silicon Valley’s Productivity Secret</a></li>
-<li><a href="http://dannyimages.com/2012/06/05/2106-smart-working-with-snippets/">敏捷工作術(1) — snippet</a></li>
-<li><a href="https://www.zhihu.com/question/22471467">谷歌内部考核制度 OKR 是怎样的？</a></li>
-<li><a href="http://www.cheers.com.tw/article/article.action?id=5083664">【每日熱門網摘】別再多工了！「深度工作法」才能讓你提早下班</a></li>
-</ol>
-<p>（image via <a href="https://associatesmind.com/wp-content/uploads/2016/01/Cal-Newport-Deep-Work.jpg">associatesmind</a>、<a href="https://cdn.kingstone.com.tw/book/images/product/20149/2014941495564/2014941495564b.jpg">kingstone</a>）</p>
-]]></content>
-      <tags>
-        <tag>財務</tag>
-        <tag>職場</tag>
-        <tag>career</tag>
-        <tag>商業管理</tag>
-        <tag>人生</tag>
-        <tag>溝通</tag>
-        <tag>專注力</tag>
-        <tag>focus</tag>
-        <tag>deep work</tag>
-        <tag>深度工作力</tag>
-        <tag>工作力</tag>
-        <tag>work</tag>
-        <tag>生產力工具</tag>
       </tags>
   </entry>
 </search>
