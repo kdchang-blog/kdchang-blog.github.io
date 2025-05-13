@@ -51,3 +51,9 @@ FB：https://www.facebook.com/kdchang.net
 IG：https://www.instagram.com/kdchang_net/
 
 #閱讀 #閱讀筆記 #重點書摘 #閱讀書單 #推薦書單 #閱讀心得 #書摘 #reading #books #book #learning #學習 #書單 #筆記 #書
+
+---
+
+歡迎來到人生推書店！在高壓和快速變動的環境下上班族變得越來越不容易。這邊推薦妳一本關於情緒管理、工作與生活平衡、管理的書籍，希望對妳會有幫助：）
+
+網頁好讀版
