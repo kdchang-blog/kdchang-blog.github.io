@@ -1,33 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-app-10-keywords/</url>
-    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
-<ol>
-<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
-<li><strong>聊天機器人</strong>（Chatbots）</li>
-<li><strong>文字摘要</strong>（Text Summarization）</li>
-<li><strong>內容生成</strong>（Content Generation）</li>
-<li><strong>情感分析</strong>（Sentiment Analysis）</li>
-<li><strong>語音助手</strong>（Voice Assistants）</li>
-<li><strong>自動翻譯</strong>（Automatic Translation）</li>
-<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
-<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
-<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
-</ol>
-<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
     <url>/2024/05/22/about-llm-tech-10-keywords/</url>
     <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
@@ -47,6 +20,33 @@
 <h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
 <li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
 </ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-app-10-keywords/</url>
+    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
+<ol>
+<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
+<li><strong>聊天機器人</strong>（Chatbots）</li>
+<li><strong>文字摘要</strong>（Text Summarization）</li>
+<li><strong>內容生成</strong>（Content Generation）</li>
+<li><strong>情感分析</strong>（Sentiment Analysis）</li>
+<li><strong>語音助手</strong>（Voice Assistants）</li>
+<li><strong>自動翻譯</strong>（Automatic Translation）</li>
+<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
+<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
+<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
+</ol>
+<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
 ]]></content>
       <tags>
         <tag>生成式 AI</tag>
@@ -157,50 +157,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
-    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
-    <content><![CDATA[<blockquote>
-<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
-<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
-<p>Axure RP 主要有幾個常用的功能區塊：</p>
-<ol>
-<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
-<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
-<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
-<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
-<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
-</ol>
-<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
-<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
-<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
-<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
-<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
-<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
-<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
-<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
-<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
-<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
-<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
-<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
-<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
-<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
-<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>產品專案管理</tag>
-        <tag>產品管理</tag>
-        <tag>專案管理</tag>
-        <tag>Axure RP 10</tag>
-        <tag>axure</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</title>
     <url>/2024/05/22/llm-app-in-martech/</url>
     <content><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p>
@@ -253,6 +209,50 @@
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
+    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
+    <content><![CDATA[<blockquote>
+<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
+<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
+<p>Axure RP 主要有幾個常用的功能區塊：</p>
+<ol>
+<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
+<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
+<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
+<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
+<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
+</ol>
+<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
+<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
+<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
+<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
+<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
+<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
+<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
+<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
+<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
+<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
+<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
+<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
+<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
+<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
+<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>產品專案管理</tag>
+        <tag>產品管理</tag>
+        <tag>專案管理</tag>
+        <tag>Axure RP 10</tag>
+        <tag>axure</tag>
       </tags>
   </entry>
   <entry>
@@ -589,6 +589,40 @@
       </tags>
   </entry>
   <entry>
+    <title>常見專案經理（Project Manager）、產品經理（Product Manager, PM）和敏捷開發（Agile）相關證照</title>
+    <url>/2024/07/26/project-manager-product-manager-scrum-certifications/</url>
+    <content><![CDATA[<ol>
+<li><input disabled="" type="checkbox"> PMP</li>
+<li><input disabled="" type="checkbox"> NPDP</li>
+<li><input disabled="" type="checkbox"> Google Project Manager</li>
+<li><input disabled="" type="checkbox"> CSM</li>
+<li><input disabled="" type="checkbox"> CSPO</li>
+<li><input disabled="" type="checkbox"> PMI - ACP &#x2F; PMI - PBA</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>產案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>PM</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>書籍</tag>
+        <tag>清單</tag>
+        <tag>書單</tag>
+        <tag>證照</tag>
+        <tag>scrum</tag>
+        <tag>PMP</tag>
+        <tag>NPDP</tag>
+        <tag>Google Project Manager</tag>
+        <tag>CSM</tag>
+        <tag>CSPO</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>產品經理（Product Manager, PM）推薦學習參考書單</title>
     <url>/2024/06/06/product-manager-reading-list/</url>
     <content><![CDATA[<p>產品經理（Product Manager, PdM）和專案經理（Project Manager, PjM）在工作上需要跟許多跨部門和跨單位的團隊合作，必須具備溝通和解決問題的能力，是一個跨職能和跨領域的綜合性職務。因此，透過大量閱讀不同領域的書籍，將讓自己可以掌握更多產品經理所需具備的軟實力和硬實力。以下透過整理不同構面的產品經理&#x2F;專案經理（PM）推薦書單，讓我們可以透過閱讀學習點滿我們的技能樹。</p>
@@ -659,40 +693,6 @@
       </tags>
   </entry>
   <entry>
-    <title>常見專案經理（Project Manager）、產品經理（Product Manager, PM）和敏捷開發（Agile）相關證照</title>
-    <url>/2024/07/26/project-manager-product-manager-scrum-certifications/</url>
-    <content><![CDATA[<ol>
-<li><input disabled="" type="checkbox"> PMP</li>
-<li><input disabled="" type="checkbox"> NPDP</li>
-<li><input disabled="" type="checkbox"> Google Project Manager</li>
-<li><input disabled="" type="checkbox"> CSM</li>
-<li><input disabled="" type="checkbox"> CSPO</li>
-<li><input disabled="" type="checkbox"> PMI - ACP &#x2F; PMI - PBA</li>
-</ol>
-]]></content>
-      <tags>
-        <tag>產案管理</tag>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>PM</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>書籍</tag>
-        <tag>清單</tag>
-        <tag>書單</tag>
-        <tag>證照</tag>
-        <tag>scrum</tag>
-        <tag>PMP</tag>
-        <tag>NPDP</tag>
-        <tag>Google Project Manager</tag>
-        <tag>CSM</tag>
-        <tag>CSPO</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》| 閱讀心得學習筆記</title>
     <url>/2017/09/26/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-1.jpg"></p>
@@ -760,6 +760,61 @@
       </tags>
   </entry>
   <entry>
+    <title>《原子習慣：細微改變帶來巨大成就的實證法則》| 閱讀心得學習筆記</title>
+    <url>/2019/06/01/reading-notes-atomic-habits/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-atomic-habits-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子習慣：細微改變帶來巨大成就的實證法則》</span><br><span class="line">作者： 詹姆斯‧克利爾  </span><br><span class="line">原文作者： James Clear</span><br><span class="line">譯者： 蔡世偉</span><br><span class="line">出版社：方智</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「真正的改變來自於微小但持續的習慣累積，就像複利效應一般，日積月累後帶來巨大成果。」  </p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們總以為改變人生需要驚天動地的決定，實則不然。本書《原子習慣》告訴我們，真正的改變來自於<code>微小但持續的習慣累積</code>，就像<code>複利效應</code>一般，<code>日積月累後帶來巨大成果</code>。作者詹姆斯·克利爾透過科學研究與實證案例，提供了一套實用的方法論，讓我們能夠掌握習慣的力量，擺脫壞習慣，培養能帶來成功的好習慣。  </p>
+<p><img src="/img/posts/reading-notes-atomic-habits-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>習慣的影響力</strong></p>
+<ul>
+<li><code>習慣不是一次性的選擇</code>，<code>而是日常行為的累積</code>，影響最終結果。  </li>
+<li><code>人生的成果是無數習慣的總和</code>，而非單一決策的結果。</li>
+</ul>
+</li>
+<li><p><strong>四大習慣法則</strong>  </p>
+<ul>
+<li><strong>提示</strong>：讓好習慣變得<code>顯而易見</code>，例如：將運動服擺在床邊提醒自己運動。  </li>
+<li><strong>渴望</strong>：讓好習慣變得<code>有吸引力</code>，例如：將習慣與喜愛的活動結合。  </li>
+<li><strong>回應</strong>：讓好習慣變得<code>簡單易行</code>，例如：減少執行步驟，讓運動變得更輕鬆開始。  </li>
+<li><strong>獎賞</strong>：讓好習慣變得<code>令人滿足</code>，例如：記錄進步並給予小獎勵。</li>
+</ul>
+</li>
+<li><p><strong>微小改變的複利效應</strong></p>
+<ul>
+<li><code>1% 的日常進步</code>，<code>長期累積</code>後帶來<code>巨大變化</code>。  </li>
+<li>即使短期內看不到成果，習慣的影響會隨時間擴大。</li>
+</ul>
+</li>
+<li><p><strong>環境對習慣的影響</strong></p>
+<ul>
+<li><code>環境</code>塑造習慣，比意志力更重要。  </li>
+<li>透過<code>改變環境來強化好習慣</code>，例如：將健康零食擺在顯眼處，減少垃圾食物的誘惑。</li>
+</ul>
+</li>
+<li><p><strong>如何擺脫壞習慣</strong></p>
+<ul>
+<li>讓壞習慣變得<code>不明顯</code>、<code>不吸引人</code>、<code>難以執行</code>、<code>不具獎勵效果</code>，例如：移除讓人分心的手機應用程式。</li>
+</ul>
+</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《原子習慣》提供了一個簡單但有效的<code>習慣養成方法</code>，不依賴意志力，而是透過<code>環境設計</code>與<code>行為調整</code>，讓改變變得自然而然。如果我們能夠掌握這些原則，每天進步 1%，長期下來，人生將會迎來翻天覆地的變化。改變，不是來自一時的決心，而是來自每天不經意的小行動。</p>
+]]></content>
+      <tags>
+        <tag>原子習慣</tag>
+        <tag>細微改變帶來巨大成就的實證法則</tag>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《大人學破局思考:從關鍵小事看出職場大局【大人的Small Talk 1】》| 閱讀心得學習筆記</title>
     <url>/2023/06/30/reading-notes-adultology-breakthrough-thinking/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-adultology-breakthrough-thinking-1.jpg"></p>
@@ -813,61 +868,6 @@
         <tag>自卑感</tag>
         <tag>自卑與超越</tag>
         <tag>阿德勒心理學</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《原子習慣：細微改變帶來巨大成就的實證法則》| 閱讀心得學習筆記</title>
-    <url>/2019/06/01/reading-notes-atomic-habits/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-atomic-habits-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子習慣：細微改變帶來巨大成就的實證法則》</span><br><span class="line">作者： 詹姆斯‧克利爾  </span><br><span class="line">原文作者： James Clear</span><br><span class="line">譯者： 蔡世偉</span><br><span class="line">出版社：方智</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「真正的改變來自於微小但持續的習慣累積，就像複利效應一般，日積月累後帶來巨大成果。」  </p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們總以為改變人生需要驚天動地的決定，實則不然。本書《原子習慣》告訴我們，真正的改變來自於<code>微小但持續的習慣累積</code>，就像<code>複利效應</code>一般，<code>日積月累後帶來巨大成果</code>。作者詹姆斯·克利爾透過科學研究與實證案例，提供了一套實用的方法論，讓我們能夠掌握習慣的力量，擺脫壞習慣，培養能帶來成功的好習慣。  </p>
-<p><img src="/img/posts/reading-notes-atomic-habits-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>習慣的影響力</strong></p>
-<ul>
-<li><code>習慣不是一次性的選擇</code>，<code>而是日常行為的累積</code>，影響最終結果。  </li>
-<li><code>人生的成果是無數習慣的總和</code>，而非單一決策的結果。</li>
-</ul>
-</li>
-<li><p><strong>四大習慣法則</strong>  </p>
-<ul>
-<li><strong>提示</strong>：讓好習慣變得<code>顯而易見</code>，例如：將運動服擺在床邊提醒自己運動。  </li>
-<li><strong>渴望</strong>：讓好習慣變得<code>有吸引力</code>，例如：將習慣與喜愛的活動結合。  </li>
-<li><strong>回應</strong>：讓好習慣變得<code>簡單易行</code>，例如：減少執行步驟，讓運動變得更輕鬆開始。  </li>
-<li><strong>獎賞</strong>：讓好習慣變得<code>令人滿足</code>，例如：記錄進步並給予小獎勵。</li>
-</ul>
-</li>
-<li><p><strong>微小改變的複利效應</strong></p>
-<ul>
-<li><code>1% 的日常進步</code>，<code>長期累積</code>後帶來<code>巨大變化</code>。  </li>
-<li>即使短期內看不到成果，習慣的影響會隨時間擴大。</li>
-</ul>
-</li>
-<li><p><strong>環境對習慣的影響</strong></p>
-<ul>
-<li><code>環境</code>塑造習慣，比意志力更重要。  </li>
-<li>透過<code>改變環境來強化好習慣</code>，例如：將健康零食擺在顯眼處，減少垃圾食物的誘惑。</li>
-</ul>
-</li>
-<li><p><strong>如何擺脫壞習慣</strong></p>
-<ul>
-<li>讓壞習慣變得<code>不明顯</code>、<code>不吸引人</code>、<code>難以執行</code>、<code>不具獎勵效果</code>，例如：移除讓人分心的手機應用程式。</li>
-</ul>
-</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《原子習慣》提供了一個簡單但有效的<code>習慣養成方法</code>，不依賴意志力，而是透過<code>環境設計</code>與<code>行為調整</code>，讓改變變得自然而然。如果我們能夠掌握這些原則，每天進步 1%，長期下來，人生將會迎來翻天覆地的變化。改變，不是來自一時的決心，而是來自每天不經意的小行動。</p>
-]]></content>
-      <tags>
-        <tag>原子習慣</tag>
-        <tag>細微改變帶來巨大成就的實證法則</tag>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
       </tags>
   </entry>
   <entry>
@@ -1355,39 +1355,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》| 閱讀心得學習筆記</title>
-    <url>/2023/05/31/reading-notes-from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》</span><br><span class="line">作者： 亞瑟．布魯克斯  </span><br><span class="line">原文作者： Arthur C. Brooks</span><br><span class="line">譯者： 許恬寧</span><br><span class="line">出版社：天下雜誌  </span><br><span class="line">出版日期：2023/05/31</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「最有意義的人生經驗，往往很痛苦；你以為的絕境，其實藏著豐收的祕密。人生不會因為無條件的相信和努力就變得幸福，有時候你必須捨棄，才會發現生活中真正重要的事情。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》由哈佛大學教授亞瑟·布魯克斯所著，探討了人生在追求成功過程中的挑戰與轉機。布魯克斯透過科學、哲學、神學等多角度的分析，提供了一條不同於傳統成功路徑的道路，並幫助讀者認識如何在高峰過後，勇敢地面對生活中的轉折，從而找到新的生命價值。</p>
-<p><img src="/img/posts/reading-notes-from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>重新思考成功</strong>：不應該將自我價值與外在成功掛鈎，而是應該更關注內在的力量與自我實現。</li>
-<li><strong>成功的反向邏輯</strong>：人生不必一味追求高峰，面對下降期，應學會放下並接納衰退的過程，從中發現新的機會。</li>
-<li><strong>脆弱變力量</strong>：脆弱不應被視為缺點，而是能夠帶來成長與愛的契機，這種力量能幫助我們更好地面對挑戰。</li>
-<li><strong>活好而非活得長久</strong>：重視生活質量而非單純延長壽命，學會如何在現有的條件下活得更加充實與快樂。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ol>
-<li><strong>如何處理職場中的衰退期？</strong><br>當事業或生活出現瓶頸時，如何保持積極心態，並轉化這些困境為成長的動力？</li>
-<li><strong>為什麼現代人常陷入成功的迷思？</strong><br>在社會文化的影響下，人們常將成功等同於物質成就與名聲，這樣的價值觀如何影響我們的內心世界？</li>
-<li><strong>放下與接納的重要性</strong><br>為什麼放下過去的成就與未來的焦慮，能夠讓我們更加輕盈地走向新的生活階段？</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》提供了一種全新的視角，幫助讀者擺脫無休止的奮鬥與競爭，學會如何在生活的起伏中找到內在的平衡。布魯克斯不僅強調成功的相對性，更教會我們如何在面對變化與困境時，依然能夠優雅地活出自己。這本書是對那些對未來感到迷茫或疲憊的讀者的鼓勵，幫助他們走出過去的框架，找到屬於自己的新生命意義。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>重啟人生</tag>
-        <tag>一個哈佛教授的生命領悟，給你把餘生過好的簡單建議</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《高敏感是種天賦：肯定自己的獨特，感受更多、想像更多、創造更多》| 閱讀心得學習筆記</title>
     <url>/2024/08/02/reading-notes-highly-sensitive-people-in-an-insensitive-world-how-to-create-a-happy-life/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-highly-sensitive-people-in-an-insensitive-world-how-to-create-a-happy-life-1.jpg"></p>
@@ -1420,6 +1387,39 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>高敏感是種天賦</tag>
         <tag>肯定自己的獨特，感受更多、想像更多、創造更多</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》| 閱讀心得學習筆記</title>
+    <url>/2023/05/31/reading-notes-from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》</span><br><span class="line">作者： 亞瑟．布魯克斯  </span><br><span class="line">原文作者： Arthur C. Brooks</span><br><span class="line">譯者： 許恬寧</span><br><span class="line">出版社：天下雜誌  </span><br><span class="line">出版日期：2023/05/31</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「最有意義的人生經驗，往往很痛苦；你以為的絕境，其實藏著豐收的祕密。人生不會因為無條件的相信和努力就變得幸福，有時候你必須捨棄，才會發現生活中真正重要的事情。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》由哈佛大學教授亞瑟·布魯克斯所著，探討了人生在追求成功過程中的挑戰與轉機。布魯克斯透過科學、哲學、神學等多角度的分析，提供了一條不同於傳統成功路徑的道路，並幫助讀者認識如何在高峰過後，勇敢地面對生活中的轉折，從而找到新的生命價值。</p>
+<p><img src="/img/posts/reading-notes-from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>重新思考成功</strong>：不應該將自我價值與外在成功掛鈎，而是應該更關注內在的力量與自我實現。</li>
+<li><strong>成功的反向邏輯</strong>：人生不必一味追求高峰，面對下降期，應學會放下並接納衰退的過程，從中發現新的機會。</li>
+<li><strong>脆弱變力量</strong>：脆弱不應被視為缺點，而是能夠帶來成長與愛的契機，這種力量能幫助我們更好地面對挑戰。</li>
+<li><strong>活好而非活得長久</strong>：重視生活質量而非單純延長壽命，學會如何在現有的條件下活得更加充實與快樂。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ol>
+<li><strong>如何處理職場中的衰退期？</strong><br>當事業或生活出現瓶頸時，如何保持積極心態，並轉化這些困境為成長的動力？</li>
+<li><strong>為什麼現代人常陷入成功的迷思？</strong><br>在社會文化的影響下，人們常將成功等同於物質成就與名聲，這樣的價值觀如何影響我們的內心世界？</li>
+<li><strong>放下與接納的重要性</strong><br>為什麼放下過去的成就與未來的焦慮，能夠讓我們更加輕盈地走向新的生活階段？</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》提供了一種全新的視角，幫助讀者擺脫無休止的奮鬥與競爭，學會如何在生活的起伏中找到內在的平衡。布魯克斯不僅強調成功的相對性，更教會我們如何在面對變化與困境時，依然能夠優雅地活出自己。這本書是對那些對未來感到迷茫或疲憊的讀者的鼓勵，幫助他們走出過去的框架，找到屬於自己的新生命意義。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>重啟人生</tag>
+        <tag>一個哈佛教授的生命領悟，給你把餘生過好的簡單建議</tag>
       </tags>
   </entry>
   <entry>
@@ -1535,51 +1535,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀心得學習筆記</title>
-    <url>/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》</span><br><span class="line">INSPIRED: How to Create Tech Products Customers Love</span><br><span class="line">作者： 馬提．凱根  </span><br><span class="line">原文作者： Marty Cagan</span><br><span class="line">譯者： 洪慧芳</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「產品管理的藝術就是生活的藝術。與優秀人才為伍，專注於產品魅力，誠實打造卓越產品，想法堅定但態度淡定。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>這本書被譽為產品經理的聖經，自 2008 年出版以來，暢銷至今。作者馬提．凱根（Marty Cagan）是矽谷產品團隊公司（SVPG）的創辦人，擁有豐富的產品開發經驗。本書集結了作者多年來的實戰經驗，以及當今頂尖科技公司的產品開發案例，旨在幫助產品經理打造出受市場歡迎的產品。成功的產品不僅僅是技術的堆砌，更需要深入了解使用者需求、打造優秀團隊，並建立一套行之有效的產品開發流程。</p>
-<p><img src="/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><ul>
-<li><p><strong>以使用者為中心：</strong> 產品開發的出發點應始終<code>以使用者需求為中心</code>，透過深入的<code>使用者研究</code>與<code>反覆迭代</code>，打造出<code>真正能滿足使用者需求的產品</code>。</p>
-</li>
-<li><p><strong>組成跨功能團隊：</strong> 建立一個由<code>產品經理</code>、<code>設計師</code>、<code>工程師</code>等不同角色組成的跨功能團隊，促進團隊成員之間的協作與溝通。</p>
-</li>
-<li><p><strong>推動敏捷開發：</strong> 採用<code>敏捷開發方法</code>，能夠快速響應市場變化，提高產品的適應性。</p>
-</li>
-<li><p><strong>建立產品路徑圖：</strong> <code>產品路徑圖</code>是產品開發的指南針，能幫助團隊保持方向，並做出明智的決策。</p>
-</li>
-<li><p><strong>打造產品文化：</strong> 建立一個<code>鼓勵創新</code>、<code>重視使用者體驗的產品文化</code>，是產品開發成功的關鍵。</p>
-</li>
-<li><p><strong>卓越的產品不是套公式來的：</strong>Amazon、Google、Facebook、Netflix、Apple 等企業之所以成功，是因為他們知道如何定義、設計、開發出全球數十億人喜愛的產品。他們深知專案是<code>產出（output）</code>，但產品完全看<code>結果（outcome）</code>，如果開發出來的產品沒有市場價值，開發團隊再怎麼優秀也是枉然。</p>
-</li>
-<li><p><strong>先進技術和實務做法是兩碼事：</strong>多數公司在開發產品及執行計畫時，仍使用缺乏效率的老方法。同時，就算導入新技術，也搞錯流程規則。本書作者指導大家如何打造一個獲得授權及高效的產品團隊，配置優秀的人才，發掘顧客喜愛及適合事業的產品並順利地推出上市。</p>
-</li>
-<li><p><strong>本書串起產品開發的整套流程：</strong>本書具備各環節的實務技巧與最前緣的技術說明，從產品與服務定義與實務、適用的流程與技術、人才招募與職能分工、測試與量化的執行到創造出有市場性的產品。</p>
-</li>
-<li><p><strong>當紅公司的產品開發經驗：</strong>本書除了作者親身經驗外，也介紹當今成功的產品經理和科技產品公司，包括 Adobe、Apple、BBC、Google、Microsoft、Netflix。看產品怪獸公司的專案經理如何思考、布局。</p>
-</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
-]]></content>
-      <tags>
-        <tag>產案管理</tag>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>產品專案管理專案全書</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《親密恐懼：為什麼我們無法好好愛人，好好被愛？》| 閱讀心得學習筆記</title>
     <url>/2023/11/27/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly-1.jpg"></p>
@@ -1624,6 +1579,51 @@
         <tag>不幸的人做情緒的奴隸</tag>
         <tag>理情行為治療</tag>
         <tag>亞伯‧艾里斯</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀心得學習筆記</title>
+    <url>/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》</span><br><span class="line">INSPIRED: How to Create Tech Products Customers Love</span><br><span class="line">作者： 馬提．凱根  </span><br><span class="line">原文作者： Marty Cagan</span><br><span class="line">譯者： 洪慧芳</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「產品管理的藝術就是生活的藝術。與優秀人才為伍，專注於產品魅力，誠實打造卓越產品，想法堅定但態度淡定。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>這本書被譽為產品經理的聖經，自 2008 年出版以來，暢銷至今。作者馬提．凱根（Marty Cagan）是矽谷產品團隊公司（SVPG）的創辦人，擁有豐富的產品開發經驗。本書集結了作者多年來的實戰經驗，以及當今頂尖科技公司的產品開發案例，旨在幫助產品經理打造出受市場歡迎的產品。成功的產品不僅僅是技術的堆砌，更需要深入了解使用者需求、打造優秀團隊，並建立一套行之有效的產品開發流程。</p>
+<p><img src="/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><ul>
+<li><p><strong>以使用者為中心：</strong> 產品開發的出發點應始終<code>以使用者需求為中心</code>，透過深入的<code>使用者研究</code>與<code>反覆迭代</code>，打造出<code>真正能滿足使用者需求的產品</code>。</p>
+</li>
+<li><p><strong>組成跨功能團隊：</strong> 建立一個由<code>產品經理</code>、<code>設計師</code>、<code>工程師</code>等不同角色組成的跨功能團隊，促進團隊成員之間的協作與溝通。</p>
+</li>
+<li><p><strong>推動敏捷開發：</strong> 採用<code>敏捷開發方法</code>，能夠快速響應市場變化，提高產品的適應性。</p>
+</li>
+<li><p><strong>建立產品路徑圖：</strong> <code>產品路徑圖</code>是產品開發的指南針，能幫助團隊保持方向，並做出明智的決策。</p>
+</li>
+<li><p><strong>打造產品文化：</strong> 建立一個<code>鼓勵創新</code>、<code>重視使用者體驗的產品文化</code>，是產品開發成功的關鍵。</p>
+</li>
+<li><p><strong>卓越的產品不是套公式來的：</strong>Amazon、Google、Facebook、Netflix、Apple 等企業之所以成功，是因為他們知道如何定義、設計、開發出全球數十億人喜愛的產品。他們深知專案是<code>產出（output）</code>，但產品完全看<code>結果（outcome）</code>，如果開發出來的產品沒有市場價值，開發團隊再怎麼優秀也是枉然。</p>
+</li>
+<li><p><strong>先進技術和實務做法是兩碼事：</strong>多數公司在開發產品及執行計畫時，仍使用缺乏效率的老方法。同時，就算導入新技術，也搞錯流程規則。本書作者指導大家如何打造一個獲得授權及高效的產品團隊，配置優秀的人才，發掘顧客喜愛及適合事業的產品並順利地推出上市。</p>
+</li>
+<li><p><strong>本書串起產品開發的整套流程：</strong>本書具備各環節的實務技巧與最前緣的技術說明，從產品與服務定義與實務、適用的流程與技術、人才招募與職能分工、測試與量化的執行到創造出有市場性的產品。</p>
+</li>
+<li><p><strong>當紅公司的產品開發經驗：</strong>本書除了作者親身經驗外，也介紹當今成功的產品經理和科技產品公司，包括 Adobe、Apple、BBC、Google、Microsoft、Netflix。看產品怪獸公司的專案經理如何思考、布局。</p>
+</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
+]]></content>
+      <tags>
+        <tag>產案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>產品專案管理專案全書</tag>
       </tags>
   </entry>
   <entry>
@@ -2419,41 +2419,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》| 閱讀心得學習筆記</title>
-    <url>/2024/06/05/reading-notes-the-middle-passage/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-middle-passage-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》</span><br><span class="line">作者： 詹姆斯．霍利斯</span><br><span class="line">原文作者： James Hollis</span><br><span class="line">譯者： 鐘穎（愛智者）</span><br><span class="line">出版社：楓樹林出版社</span><br><span class="line">出版日期：2024/06/05</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「除了我的過往，以及我所扮演的角色之外，我到底是誰？從現在開始，你要練習不再討好任何人，只需清醒地活出更大的自己。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《中年之路》由詹姆斯・霍利斯撰寫，是一本以榮格心理學為基礎，深入探討中年階段心理轉折與個體化歷程的重要著作。中年不再只是人生的下坡期，而是一場重新覺醒與蛻變的契機。作者指出，當人們在中年感受到內外衝突與空虛，便揭開了通往「第二個成年期」的序幕。</p>
-<p><img src="/img/posts/reading-notes-the-middle-passage-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>暫時性人格</strong>：我們在第一成年期形成的身分，常為討好、角色或責任所驅動，並不是真我。</li>
-<li><strong>中年之路的預兆</strong>：內部壓力、失望、投射破裂、神經症等症狀，暗示我們與內在真我失聯。</li>
-<li><strong>轉向內在的旅程</strong>：個體化過程要求我們直視陰影、自我矛盾與童年創傷，重新界定生命意義。</li>
-<li><strong>從孤單到孤獨</strong>：學會與自己相處，接受失落與分離，將恐懼轉化為精神成長的資源。</li>
-<li><strong>重新定位人我關係</strong>：個體化並非自我中心，而是與他人真誠連結、承擔責任的成熟表現。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否曾經用外在成就掩蓋內在空虛？</li>
-<li>面對中年危機，我們是逃避還是選擇面對與成長？</li>
-<li>如何判斷現在的「我」，是真正的我，還是扮演出來的角色？</li>
-<li>當人生的「上半場」劇本無法繼續套用，我們是否願意重寫新的劇本？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《中年之路》不只是一本心理學書籍，更是一面鏡子，照見我們潛藏已久的焦慮、夢想與渴望。霍利斯以榮格的視角邀請我們，不再被過往角色所束縛，勇敢穿越中年的黑暗森林，找回與生命本質的連結。這是一場屬於每個人的深層心靈旅程。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>顯化效應</tag>
-        <tag>中年之路：穿越幽暗，迎向完整的內在鍊金之旅</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《當下的力量：通往靈性開悟的指引》| 閱讀心得學習筆記</title>
     <url>/2023/03/01/reading-notes-the-power-of-now-a-guide-to-spiritual-enlightenment/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-power-of-now-a-guide-to-spiritual-enlightenment-1.jpg"></p>
@@ -2547,6 +2512,75 @@
       </tags>
   </entry>
   <entry>
+    <title>《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》| 閱讀心得學習筆記</title>
+    <url>/2024/06/05/reading-notes-the-middle-passage/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-middle-passage-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》</span><br><span class="line">作者： 詹姆斯．霍利斯</span><br><span class="line">原文作者： James Hollis</span><br><span class="line">譯者： 鐘穎（愛智者）</span><br><span class="line">出版社：楓樹林出版社</span><br><span class="line">出版日期：2024/06/05</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「除了我的過往，以及我所扮演的角色之外，我到底是誰？從現在開始，你要練習不再討好任何人，只需清醒地活出更大的自己。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《中年之路》由詹姆斯・霍利斯撰寫，是一本以榮格心理學為基礎，深入探討中年階段心理轉折與個體化歷程的重要著作。中年不再只是人生的下坡期，而是一場重新覺醒與蛻變的契機。作者指出，當人們在中年感受到內外衝突與空虛，便揭開了通往「第二個成年期」的序幕。</p>
+<p><img src="/img/posts/reading-notes-the-middle-passage-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>暫時性人格</strong>：我們在第一成年期形成的身分，常為討好、角色或責任所驅動，並不是真我。</li>
+<li><strong>中年之路的預兆</strong>：內部壓力、失望、投射破裂、神經症等症狀，暗示我們與內在真我失聯。</li>
+<li><strong>轉向內在的旅程</strong>：個體化過程要求我們直視陰影、自我矛盾與童年創傷，重新界定生命意義。</li>
+<li><strong>從孤單到孤獨</strong>：學會與自己相處，接受失落與分離，將恐懼轉化為精神成長的資源。</li>
+<li><strong>重新定位人我關係</strong>：個體化並非自我中心，而是與他人真誠連結、承擔責任的成熟表現。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否曾經用外在成就掩蓋內在空虛？</li>
+<li>面對中年危機，我們是逃避還是選擇面對與成長？</li>
+<li>如何判斷現在的「我」，是真正的我，還是扮演出來的角色？</li>
+<li>當人生的「上半場」劇本無法繼續套用，我們是否願意重寫新的劇本？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《中年之路》不只是一本心理學書籍，更是一面鏡子，照見我們潛藏已久的焦慮、夢想與渴望。霍利斯以榮格的視角邀請我們，不再被過往角色所束縛，勇敢穿越中年的黑暗森林，找回與生命本質的連結。這是一場屬於每個人的深層心靈旅程。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>顯化效應</tag>
+        <tag>中年之路：穿越幽暗，迎向完整的內在鍊金之旅</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《感恩計畫：一次一封感謝函，養成你的幸福感》| 閱讀心得學習筆記</title>
+    <url>/2024/12/23/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《感恩計畫：一次一封感謝函，養成你的幸福感》</span><br><span class="line">作者： 南西．戴維斯．郭  </span><br><span class="line">原文作者： Nancy Davis Kho</span><br><span class="line">譯者： 林琳</span><br><span class="line">出版社：春天出版社  </span><br><span class="line">出版日期：2024/12/23</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「一次一封感謝函，養成你的幸福感。感謝是一種選擇，也是一種力量。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《感恩計畫：一次一封感謝函，養成你的幸福感》是一本溫柔卻力量十足的書。作者南西．戴維斯．郭用真實故事示範，感恩不僅是情感的表達，更是一種持續建構幸福的日常行動。書中透過她一年的「每週一封感謝信」計畫，啟發我們重新審視與他人之間的連結與影響。</p>
+<p><img src="/img/posts/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>每週一信，書寫感恩</strong>：作者於50歲生日展開計畫，連續50週寫下感謝信，致贈給曾深刻影響她的人。  </li>
+<li><strong>觸動內心的回饋與療癒</strong>：不論信是否寄出，書寫本身即是一種自我療癒與正向能量的累積。  </li>
+<li><strong>實用的感恩指南</strong>：書中提供具體步驟與撰寫提示，協助讀者啟動屬於自己的感恩行動。  </li>
+<li><strong>支持網絡的再發現</strong>：將信件裝訂成冊，成為她在困難時期重拾力量的重要象徵。  </li>
+<li><strong>感恩的擴散效應</strong>：這些信件不只是單向的致謝，也激發了收信人的回應與感動。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們有多久沒真誠地感謝那些成就我們的人了？  </li>
+<li>在數位時代，紙本書寫是否更具情感傳遞的力量？  </li>
+<li>若你要開始這樣的感恩計畫，你會從誰開始？為什麼？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅是一場關於感謝的書寫計畫，更是一場靈魂的覺醒與連結之旅。透過親筆信重拾與人之間真摯的互動，也讓我們重新發現，被感謝的幸福與感謝他人的療癒。日復一日的小小行動，能累積出一段無比溫暖的人生軌跡。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>感恩計畫</tag>
+        <tag>一次一封感謝函，養成你的幸福感</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《致富心態：關於財富、貪婪與幸福的20堂理財課》| 閱讀心得學習筆記</title>
     <url>/2023/01/13/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness-1.jpg"></p>
@@ -2586,40 +2620,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>致富心態</tag>
         <tag>關於財富、貪婪與幸福的20堂理財課</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《感恩計畫：一次一封感謝函，養成你的幸福感》| 閱讀心得學習筆記</title>
-    <url>/2024/12/23/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《感恩計畫：一次一封感謝函，養成你的幸福感》</span><br><span class="line">作者： 南西．戴維斯．郭  </span><br><span class="line">原文作者： Nancy Davis Kho</span><br><span class="line">譯者： 林琳</span><br><span class="line">出版社：春天出版社  </span><br><span class="line">出版日期：2024/12/23</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「一次一封感謝函，養成你的幸福感。感謝是一種選擇，也是一種力量。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《感恩計畫：一次一封感謝函，養成你的幸福感》是一本溫柔卻力量十足的書。作者南西．戴維斯．郭用真實故事示範，感恩不僅是情感的表達，更是一種持續建構幸福的日常行動。書中透過她一年的「每週一封感謝信」計畫，啟發我們重新審視與他人之間的連結與影響。</p>
-<p><img src="/img/posts/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>每週一信，書寫感恩</strong>：作者於50歲生日展開計畫，連續50週寫下感謝信，致贈給曾深刻影響她的人。  </li>
-<li><strong>觸動內心的回饋與療癒</strong>：不論信是否寄出，書寫本身即是一種自我療癒與正向能量的累積。  </li>
-<li><strong>實用的感恩指南</strong>：書中提供具體步驟與撰寫提示，協助讀者啟動屬於自己的感恩行動。  </li>
-<li><strong>支持網絡的再發現</strong>：將信件裝訂成冊，成為她在困難時期重拾力量的重要象徵。  </li>
-<li><strong>感恩的擴散效應</strong>：這些信件不只是單向的致謝，也激發了收信人的回應與感動。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們有多久沒真誠地感謝那些成就我們的人了？  </li>
-<li>在數位時代，紙本書寫是否更具情感傳遞的力量？  </li>
-<li>若你要開始這樣的感恩計畫，你會從誰開始？為什麼？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅是一場關於感謝的書寫計畫，更是一場靈魂的覺醒與連結之旅。透過親筆信重拾與人之間真摯的互動，也讓我們重新發現，被感謝的幸福與感謝他人的療癒。日復一日的小小行動，能累積出一段無比溫暖的人生軌跡。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>感恩計畫</tag>
-        <tag>一次一封感謝函，養成你的幸福感</tag>
       </tags>
   </entry>
   <entry>
@@ -3189,9 +3189,12 @@
       </tags>
   </entry>
   <entry>
-    <title>《哈佛醫學院的SMART壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案》| 閱讀心得學習筆記</title>
+    <title>人生推書店：《哈佛醫學院的SMART壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案》| 人生處方簽</title>
     <url>/2020/12/09/reading-notes-when-stress-knocks-on-your-door-stress-management-and-resiliency-traning-program/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-when-stress-knocks-on-your-door-stress-management-and-resiliency-traning-program-1.jpg"></p>
+    <content><![CDATA[<blockquote>
+<p>粉絲來信：上班族該如何在日常生活處理情緒管理、工作與生活平衡、管理等議題呢？</p>
+</blockquote>
+<p><img src="/img/posts/reading-notes-when-stress-knocks-on-your-door-stress-management-and-resiliency-traning-program-1.jpg"></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《哈佛醫學院的SMART壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案》</span><br><span class="line">作者： 王芳</span><br><span class="line">出版社：方言文化</span><br><span class="line">出版日期：2020/12/09</span><br></pre></td></tr></table></figure>
 
 <blockquote>
@@ -3254,48 +3257,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》 | 閱讀心得學習筆記</title>
-    <url>/2023/05/26/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》</span><br><span class="line">作者： 沃克</span><br><span class="line">原文作者： Matthew Walker</span><br><span class="line">譯者： 姚若潔</span><br><span class="line">出版社：天下文化</span><br><span class="line">出版日期：2023/05/26</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「睡眠是大腦的維修站，沒有它，一切都會崩潰。夢提供虛擬實境，讓過去與現在的知識融合，激發創意。夢還能撫慰痛苦的記憶，幫助我們走出創傷。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>睡眠不只是生理需求，更是影響記憶、健康、創意與壽命的關鍵要素。然而，在快節奏的現代社會，缺乏睡眠已成為全球性流行病。《為什麼要睡覺？》由神經科學家馬修·沃克撰寫，透過科學實證揭示睡眠的必要性，提醒我們重視這項被忽略的生命基礎。</p>
-<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="1-睡眠的神奇功效"><a href="#1-睡眠的神奇功效" class="headerlink" title="1. 睡眠的神奇功效"></a>1. <strong>睡眠的神奇功效</strong></h3><ul>
-<li>幫助記憶形成與學習能力提升。</li>
-<li>夢境能促進創意，並幫助情緒修復。</li>
-<li>深度睡眠可強化免疫力，降低罹癌風險。</li>
-</ul>
-<h3 id="2-睡眠不足的嚴重後果"><a href="#2-睡眠不足的嚴重後果" class="headerlink" title="2. 睡眠不足的嚴重後果"></a>2. <strong>睡眠不足的嚴重後果</strong></h3><ul>
-<li>免疫系統衰弱，癌症風險增加。</li>
-<li>腦部無法清除有害蛋白質，提高失智風險。</li>
-<li>專注力下降，長時間清醒的駕駛狀態等同酒駕。</li>
-</ul>
-<h3 id="3-睡眠對職場與運動的影響"><a href="#3-睡眠對職場與運動的影響" class="headerlink" title="3. 睡眠對職場與運動的影響"></a>3. <strong>睡眠對職場與運動的影響</strong></h3><ul>
-<li>運動員睡得越多，表現越佳。</li>
-<li>短暫午睡能顯著提高專注力與生產力。</li>
-<li>睡眠不足的主管，會影響整個團隊的績效。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們該如何改變現代人的睡眠習慣？</li>
-<li>長期忽視睡眠，會對社會帶來哪些隱患？</li>
-<li>企業是否應將睡眠納入員工健康管理計畫？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《為什麼要睡覺？》以科學數據與案例解析，提醒我們：睡眠是健康與成功的關鍵，而不是時間的浪費。現代社會應正視睡眠危機，重新調整對工作的迷思，才能真正提升生活品質。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>森林智者</tag>
-        <tag>為什麼要睡覺</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》| 閱讀心得學習筆記</title>
     <url>/2021/08/05/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-1.jpg"></p>
@@ -3344,6 +3305,48 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>思維的良率</tag>
         <tag>台積電教我的高效工作法，像經營者一樣思考、解題</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》 | 閱讀心得學習筆記</title>
+    <url>/2023/05/26/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》</span><br><span class="line">作者： 沃克</span><br><span class="line">原文作者： Matthew Walker</span><br><span class="line">譯者： 姚若潔</span><br><span class="line">出版社：天下文化</span><br><span class="line">出版日期：2023/05/26</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「睡眠是大腦的維修站，沒有它，一切都會崩潰。夢提供虛擬實境，讓過去與現在的知識融合，激發創意。夢還能撫慰痛苦的記憶，幫助我們走出創傷。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>睡眠不只是生理需求，更是影響記憶、健康、創意與壽命的關鍵要素。然而，在快節奏的現代社會，缺乏睡眠已成為全球性流行病。《為什麼要睡覺？》由神經科學家馬修·沃克撰寫，透過科學實證揭示睡眠的必要性，提醒我們重視這項被忽略的生命基礎。</p>
+<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="1-睡眠的神奇功效"><a href="#1-睡眠的神奇功效" class="headerlink" title="1. 睡眠的神奇功效"></a>1. <strong>睡眠的神奇功效</strong></h3><ul>
+<li>幫助記憶形成與學習能力提升。</li>
+<li>夢境能促進創意，並幫助情緒修復。</li>
+<li>深度睡眠可強化免疫力，降低罹癌風險。</li>
+</ul>
+<h3 id="2-睡眠不足的嚴重後果"><a href="#2-睡眠不足的嚴重後果" class="headerlink" title="2. 睡眠不足的嚴重後果"></a>2. <strong>睡眠不足的嚴重後果</strong></h3><ul>
+<li>免疫系統衰弱，癌症風險增加。</li>
+<li>腦部無法清除有害蛋白質，提高失智風險。</li>
+<li>專注力下降，長時間清醒的駕駛狀態等同酒駕。</li>
+</ul>
+<h3 id="3-睡眠對職場與運動的影響"><a href="#3-睡眠對職場與運動的影響" class="headerlink" title="3. 睡眠對職場與運動的影響"></a>3. <strong>睡眠對職場與運動的影響</strong></h3><ul>
+<li>運動員睡得越多，表現越佳。</li>
+<li>短暫午睡能顯著提高專注力與生產力。</li>
+<li>睡眠不足的主管，會影響整個團隊的績效。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們該如何改變現代人的睡眠習慣？</li>
+<li>長期忽視睡眠，會對社會帶來哪些隱患？</li>
+<li>企業是否應將睡眠納入員工健康管理計畫？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《為什麼要睡覺？》以科學數據與案例解析，提醒我們：睡眠是健康與成功的關鍵，而不是時間的浪費。現代社會應正視睡眠危機，重新調整對工作的迷思，才能真正提升生活品質。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>森林智者</tag>
+        <tag>為什麼要睡覺</tag>
       </tags>
   </entry>
   <entry>
