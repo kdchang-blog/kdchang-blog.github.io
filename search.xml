@@ -1,33 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-app-10-keywords/</url>
-    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
-<ol>
-<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
-<li><strong>聊天機器人</strong>（Chatbots）</li>
-<li><strong>文字摘要</strong>（Text Summarization）</li>
-<li><strong>內容生成</strong>（Content Generation）</li>
-<li><strong>情感分析</strong>（Sentiment Analysis）</li>
-<li><strong>語音助手</strong>（Voice Assistants）</li>
-<li><strong>自動翻譯</strong>（Automatic Translation）</li>
-<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
-<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
-<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
-</ol>
-<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
     <url>/2024/05/22/about-llm-tech-10-keywords/</url>
     <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
@@ -47,6 +20,33 @@
 <h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
 <li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
 </ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-app-10-keywords/</url>
+    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
+<ol>
+<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
+<li><strong>聊天機器人</strong>（Chatbots）</li>
+<li><strong>文字摘要</strong>（Text Summarization）</li>
+<li><strong>內容生成</strong>（Content Generation）</li>
+<li><strong>情感分析</strong>（Sentiment Analysis）</li>
+<li><strong>語音助手</strong>（Voice Assistants）</li>
+<li><strong>自動翻譯</strong>（Automatic Translation）</li>
+<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
+<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
+<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
+</ol>
+<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
 ]]></content>
       <tags>
         <tag>生成式 AI</tag>
@@ -693,6 +693,43 @@
       </tags>
   </entry>
   <entry>
+    <title>《愛的 8 法則【《僧人心態》作者愛的力作】：如何找到愛、維繫愛、放下愛》| 閱讀心得學習筆記</title>
+    <url>/2024/01/01/reading-notes-8-rules-of-love-how-to-find-it-keep-it-and-let-it-go/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-8-rules-of-love-how-to-find-it-keep-it-and-let-it-go-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《愛的 8 法則【《僧人心態》作者愛的力作】：如何找到愛、維繫愛、放下愛》</span><br><span class="line">作者： 傑．謝帝</span><br><span class="line">原文作者： Jay Shetty</span><br><span class="line">譯者： 祁怡瑋</span><br><span class="line">出版社：方智</span><br><span class="line">出版日期：2024/01/01</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「藉由獨處學習愛自己，學會慈悲心、同理心及耐心。將愛擴展到每一個人及人生的每一刻，學習一再去愛。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們總以為愛是一種感覺，但傑・謝帝透過僧人的視角提醒我們：愛，其實是一種可以學習與實踐的能力。這本書結合古老的吠陀智慧與現代心理學，為我們打開了一條有方法、有步驟的愛之修行之路。</p>
+<p><img src="/img/posts/reading-notes-8-rules-of-love-how-to-find-it-keep-it-and-let-it-go-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>法則一：愛從獨處開始</strong><br>愛人前，先學會和自己相處，培養慈悲、同理與耐心。</li>
+<li><strong>法則二：重新定義愛的概念</strong><br>拋開電影與文化灌輸的浪漫幻想，回到愛的本質——尊重、理解與承諾。</li>
+<li><strong>法則三：以「清明」眼光檢視感情</strong><br>檢討過去關係，認識自我行為與選擇的模式。</li>
+<li><strong>法則四：一起成長才是愛的長久之道</strong><br>健康的關係，是兩人共同成長的旅程，不是一方拯救另一方。</li>
+<li><strong>法則五：設定愛的界線與優先順序</strong><br>在親密中保有界線，才能維持關係中的尊重與空間。</li>
+<li><strong>法則六：衝突是練習愛的機會</strong><br>藉由正向溝通、同理與傾聽來深化彼此連結。</li>
+<li><strong>法則七：學會放手，讓愛更圓滿</strong><br>有時分開也是一種愛，善終關係比強留更成熟。</li>
+<li><strong>法則八：讓愛無限延伸</strong><br>愛不該侷限於伴侶，也可以擴及朋友、社會與全人類。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>為何我們常在感情中重蹈覆轍？</li>
+<li>如何分辨「愛」與「依附」？</li>
+<li>當感情無法繼續時，如何優雅地放下？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《愛的 8 法則》不是情場技巧書，而是人生修行的指引。它教我們，真正的愛不是擁有對方，而是先擁有自己，然後練習在理解、尊重與成長中持續地去愛。對任何關係感到迷惘的人，這是一本值得靜下心細讀的指南。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>僧人心態</tag>
+        <tag>愛的 8 法則</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》| 閱讀心得學習筆記</title>
     <url>/2017/09/26/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-1.jpg"></p>
@@ -1053,40 +1090,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《別把你的錢留到死：懂得花錢，是最好的投資——理想人生的9大財務思維》| 閱讀心得學習筆記</title>
-    <url>/2024/08/06/reading-notes-die-with-zero-getting-all-you-can-from-your-money-and-your-life/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-die-with-zero-getting-all-you-can-from-your-money-and-your-life-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《別把你的錢留到死：懂得花錢，是最好的投資——理想人生的9大財務思維》</span><br><span class="line">作者： 比爾‧柏金斯  </span><br><span class="line">原文作者： Bill Perkins</span><br><span class="line">譯者： 吳琪仁</span><br><span class="line">出版社：遠流  </span><br><span class="line">出版日期：2023/08/30</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「你的人生就是你所有體驗的總和，當你回顧時，會記得這些體驗的豐富內容。請規畫你想要的體驗並立即開始行動。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>許多人幾十年如一日地賺錢，卻往往沒有機會好好享受生活。《Die with Zero》指出，如果我們一直把錢省起來，到頭來卻沒時間消費，這样真的算是聰明的金錢管理方式嗎？書中的「死前財產歸零」理念，提醒我們應該把金錢賺來享受，還要做好人生規劃，以找到時間、健康與錢貨之間的最佳平衡。</p>
-<p><img src="/img/posts/reading-notes-die-with-zero-getting-all-you-can-from-your-money-and-your-life-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>每個人的錢都應該用來換取生活體驗，而不是一味賺錢或儲蓄。</strong></li>
-<li><strong>進行天期觀察，每個階段的錢都有最優先使用機會。</strong></li>
-<li><strong>相比於努力傷害健康賺錢，更應該選擇在最完整的時期做最值得的事情。</strong></li>
-<li><strong>不要隨波逐流地過日子，人生應該是一個經過細緻管理的計畫。</strong></li>
-<li><strong>享受生活並不是危險依應，而是對金錢最優化的利用。</strong></li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>如果相比集無積起錢財，你會選擇先做生活體驗嗎？</li>
-<li>你認為死前財產歸零是應該選擇的生活方式嗎？</li>
-<li>從現在開始，你會如何計畫自己在時間與金錢之間的依據關係？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>金錢不是目標，而是手段。《Die with Zero》告訴我們，我們不是為了賺錢而活，而是應該利用金錢更好地享受生活。我們不屬於錢貨，而金錢應該屬於我們。無論是對天期的排列、錢財的充分利用，還是在生命不同階段先選擇可以獲得最大幸福感的活動，更好的生活計畫，都能為我們的人生加分。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>別把你的錢留到死</tag>
-        <tag>別把你的錢留到死：懂得花錢，是最好的投資——理想人生的9大財務思維</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《蛤蟆先生去看心理師》| 閱讀心得學習筆記</title>
     <url>/2022/01/26/reading-notes-counselling-for-roads-a-psychological-adventure/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-1.jpg"></p>
@@ -1137,6 +1140,40 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>蛤蟆先生去看心理師</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《別把你的錢留到死：懂得花錢，是最好的投資——理想人生的9大財務思維》| 閱讀心得學習筆記</title>
+    <url>/2024/08/06/reading-notes-die-with-zero-getting-all-you-can-from-your-money-and-your-life/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-die-with-zero-getting-all-you-can-from-your-money-and-your-life-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《別把你的錢留到死：懂得花錢，是最好的投資——理想人生的9大財務思維》</span><br><span class="line">作者： 比爾‧柏金斯  </span><br><span class="line">原文作者： Bill Perkins</span><br><span class="line">譯者： 吳琪仁</span><br><span class="line">出版社：遠流  </span><br><span class="line">出版日期：2023/08/30</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「你的人生就是你所有體驗的總和，當你回顧時，會記得這些體驗的豐富內容。請規畫你想要的體驗並立即開始行動。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>許多人幾十年如一日地賺錢，卻往往沒有機會好好享受生活。《Die with Zero》指出，如果我們一直把錢省起來，到頭來卻沒時間消費，這样真的算是聰明的金錢管理方式嗎？書中的「死前財產歸零」理念，提醒我們應該把金錢賺來享受，還要做好人生規劃，以找到時間、健康與錢貨之間的最佳平衡。</p>
+<p><img src="/img/posts/reading-notes-die-with-zero-getting-all-you-can-from-your-money-and-your-life-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>每個人的錢都應該用來換取生活體驗，而不是一味賺錢或儲蓄。</strong></li>
+<li><strong>進行天期觀察，每個階段的錢都有最優先使用機會。</strong></li>
+<li><strong>相比於努力傷害健康賺錢，更應該選擇在最完整的時期做最值得的事情。</strong></li>
+<li><strong>不要隨波逐流地過日子，人生應該是一個經過細緻管理的計畫。</strong></li>
+<li><strong>享受生活並不是危險依應，而是對金錢最優化的利用。</strong></li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>如果相比集無積起錢財，你會選擇先做生活體驗嗎？</li>
+<li>你認為死前財產歸零是應該選擇的生活方式嗎？</li>
+<li>從現在開始，你會如何計畫自己在時間與金錢之間的依據關係？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>金錢不是目標，而是手段。《Die with Zero》告訴我們，我們不是為了賺錢而活，而是應該利用金錢更好地享受生活。我們不屬於錢貨，而金錢應該屬於我們。無論是對天期的排列、錢財的充分利用，還是在生命不同階段先選擇可以獲得最大幸福感的活動，更好的生活計畫，都能為我們的人生加分。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>別把你的錢留到死</tag>
+        <tag>別把你的錢留到死：懂得花錢，是最好的投資——理想人生的9大財務思維</tag>
       </tags>
   </entry>
   <entry>
@@ -1290,6 +1327,43 @@
       </tags>
   </entry>
   <entry>
+    <title>《童話故事裡的心理學：從榮格心理學解析格林童話（《童話心理學》新修版）》| 閱讀心得學習筆記</title>
+    <url>/2023/08/10/reading-notes-fairy-tale-psychology/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-fairy-tale-psychology-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《童話故事裡的心理學：從榮格心理學解析格林童話（《童話心理學》新修版）》</span><br><span class="line">作者： 河合隼雄</span><br><span class="line">譯者： 林仁惠</span><br><span class="line">出版社：遠流</span><br><span class="line">出版日期：2023/08/30</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「個人的成長經常是死亡與重生的輪迴。所謂的人生，無論再怎樣換句話說，本來就十分駭人。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>河合隼雄這部以榮格心理學解讀格林童話的著作，不只是重新認識童話的契機，更是一次潛意識的深度探索旅程。透過耳熟能詳的故事與角色象徵，他讓我們看見潛藏在靈魂深處的黑暗、矛盾與渴望。</p>
+<p><img src="/img/posts/reading-notes-fairy-tale-psychology-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>母性雙面性</strong>：如〈糖果屋〉與〈特魯德夫人〉所示，母性既能滋養也可能毀滅，是人類情感的深層張力象徵。</li>
+<li><strong>「二」的結構設計</strong>：反映心理對立面（如光明與陰影、善與惡）的辯證過程，是個體化的重要基礎。</li>
+<li><strong>斬首與復活</strong>：代表自我的死亡與重生，是心理轉化與成熟的隱喻。</li>
+<li><strong>神祕房間與禁忌</strong>：象徵內心深處不可觸碰的秘密，背後往往潛藏慾望與恐懼。</li>
+<li><strong>無為中的穩定力量</strong>：〈三個懶人〉中傳遞的不主動反而成就命運，呼應榮格對陰性力量的重視。</li>
+<li><strong>慾望的反作用</strong>：〈忠實的約翰〉揭示「越禁止越想要」的人性矛盾。</li>
+<li><strong>男女關係中的投射與陰影</strong>：〈謎題〉呈現兩性關係中彼此的不理解與潛意識對抗。</li>
+<li><strong>童話為靈魂成長藍圖</strong>：每一則故事皆可對應個體化歷程，是潛意識對我們「如何活下去」的提問與回答。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們對父母角色的不滿，是否其實反映了內在「母性與父性」的衝突？</li>
+<li>當我們渴望成功與肯定時，是否忽略了內在尚未整合的自我？</li>
+<li>我們是否也住著一個無法抵擋誘惑、卻害怕真相的自己？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《童話故事裡的心理學》不是要我們回到童年，而是引導我們認識童話背後真實的自我。它讓我們看見，每個看似荒謬的情節，皆源自人性中亟欲整合的內在對話。河合隼雄用溫柔與洞察的筆觸，讓我們學會與潛意識和解，進而擁抱那個完整又矛盾的自己。這本書，是給願意深入探索內心世界的成人童話。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>童話故事裡的心理學</tag>
+        <tag>從榮格心理學解析格林童話</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀心得學習筆記</title>
     <url>/2024/08/06/reading-notes-forest-wisdom/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-forest-wisdom-1.jpg"></p>
@@ -1318,40 +1392,6 @@
         <tag>我可能錯了</tag>
         <tag>森林智者</tag>
         <tag>森林智者的最後一堂人生課</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《從邊緣到核心：台灣半導體如何成為世界的心臟》| 閱讀心得學習筆記</title>
-    <url>/2025/03/31/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《從邊緣到核心：台灣半導體如何成為世界的心臟》</span><br><span class="line">作者： 史欽泰, 陳添枝, 吳淑敏  </span><br><span class="line">出版社：天下文化  </span><br><span class="line">出版日期：2025/03/31</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「歷史研究的不是過去，而是改變。以歷史為經、科技為緯，從全球半導體發展的歷史的軌跡，解析台灣政府和一群科技先鋒，五十年前如何擘劃產業政策、抓住關鍵的思考與機會，讓台灣成為今日世界的心臟。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《從邊緣到核心：台灣半導體如何成為世界的心臟》是一部橫跨歷史、科技與地緣政治的深度之作，由史欽泰、陳添枝與吳淑敏三位橫跨實務、政策與文史領域的專家共同執筆。本書以台灣半導體產業為主軸，描繪從無到有的發展軌跡，並剖析其如何在世界舞台上成為無可取代的戰略支點。</p>
-<p><img src="/img/posts/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>政府角色</strong>：以「協助不介入」原則，有效孕育民間企業如台積電與聯電。</li>
-<li><strong>RCA計畫</strong>：從美國引進完整技術，成為產業發展關鍵轉捩點。</li>
-<li><strong>晶圓代工模式創新</strong>：台積電首創純代工模式，重塑全球半導體產業鏈。</li>
-<li><strong>DRAM困境與轉型</strong>：反映技術取得與自主創新的界線與代價。</li>
-<li><strong>地緣政治影響</strong>：中美角力使台灣半導體成為全球供應鏈的戰略核心。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>台灣模式是否能持續維持其技術優勢與全球信任？</li>
-<li>面對中國的技術追趕與美國的政治介入，台灣該如何應對？</li>
-<li>人才流動與技術自主間的平衡，是否正面臨考驗？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅記錄台灣半導體從無到有的歷史，更深入揭示其面對全球科技戰略佈局下的未來挑戰與轉機。對關心台灣產業、科技政策與地緣政治者而言，是一本不可或缺的參考之作。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>從邊緣到核心</tag>
-        <tag>台灣半導體如何成為世界的心臟</tag>
       </tags>
   </entry>
   <entry>
@@ -1432,6 +1472,40 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>慣習 Habitus</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《從邊緣到核心：台灣半導體如何成為世界的心臟》| 閱讀心得學習筆記</title>
+    <url>/2025/03/31/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《從邊緣到核心：台灣半導體如何成為世界的心臟》</span><br><span class="line">作者： 史欽泰, 陳添枝, 吳淑敏  </span><br><span class="line">出版社：天下文化  </span><br><span class="line">出版日期：2025/03/31</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「歷史研究的不是過去，而是改變。以歷史為經、科技為緯，從全球半導體發展的歷史的軌跡，解析台灣政府和一群科技先鋒，五十年前如何擘劃產業政策、抓住關鍵的思考與機會，讓台灣成為今日世界的心臟。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《從邊緣到核心：台灣半導體如何成為世界的心臟》是一部橫跨歷史、科技與地緣政治的深度之作，由史欽泰、陳添枝與吳淑敏三位橫跨實務、政策與文史領域的專家共同執筆。本書以台灣半導體產業為主軸，描繪從無到有的發展軌跡，並剖析其如何在世界舞台上成為無可取代的戰略支點。</p>
+<p><img src="/img/posts/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>政府角色</strong>：以「協助不介入」原則，有效孕育民間企業如台積電與聯電。</li>
+<li><strong>RCA計畫</strong>：從美國引進完整技術，成為產業發展關鍵轉捩點。</li>
+<li><strong>晶圓代工模式創新</strong>：台積電首創純代工模式，重塑全球半導體產業鏈。</li>
+<li><strong>DRAM困境與轉型</strong>：反映技術取得與自主創新的界線與代價。</li>
+<li><strong>地緣政治影響</strong>：中美角力使台灣半導體成為全球供應鏈的戰略核心。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>台灣模式是否能持續維持其技術優勢與全球信任？</li>
+<li>面對中國的技術追趕與美國的政治介入，台灣該如何應對？</li>
+<li>人才流動與技術自主間的平衡，是否正面臨考驗？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅記錄台灣半導體從無到有的歷史，更深入揭示其面對全球科技戰略佈局下的未來挑戰與轉機。對關心台灣產業、科技政策與地緣政治者而言，是一本不可或缺的參考之作。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>從邊緣到核心</tag>
+        <tag>台灣半導體如何成為世界的心臟</tag>
       </tags>
   </entry>
   <entry>
@@ -2144,39 +2218,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》| 閱讀心得學習筆記</title>
-    <url>/2024/08/08/reading-notes-one-day-one-country-world-map/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》</span><br><span class="line">作者： 井田仁康  </span><br><span class="line">譯者： 王豫</span><br><span class="line">出版社：美藝學苑社  </span><br><span class="line">出版日期：2024/08/08</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「每天一分鐘，打開世界之窗，拓展無限可能。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在全球化的時代，國際觀不再是少數人的專利，而是每個人都該具備的基本素養。《一日一國家，世界地圖全解讀》用簡單易懂的方式，幫助讀者快速理解各國歷史、政治、經濟與文化，讓世界不再遙遠，而是與我們的生活息息相關。</p>
-<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>每日一國，輕鬆累積國際知識</strong>：透過每天60秒的閱讀，快速掌握212個國家與區域的核心資訊。</li>
-<li><strong>視覺化資訊，提升理解效率</strong>：運用地圖、圖表與簡明敘述，讓複雜的國際情勢變得一目了然。</li>
-<li><strong>適合不同年齡層</strong>：無論是學生、社會人士或投資者，都能從本書獲得有助於學業、職場與投資的知識。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們如何在忙碌的生活中建立對國際局勢的敏感度？</li>
-<li>地緣政治的變化如何影響我們的經濟、科技發展與日常生活？</li>
-<li>在資訊爆炸的時代，如何培養批判性思維來判斷國際新聞的真偽？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《一日一國家，世界地圖全解讀》不僅是一本國際知識的百科全書，更是開啟全球視野的最佳入門書。透過每日學習，我們能更全面地理解世界，並在變動的時代中做出更明智的選擇。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>我可能錯了</tag>
-        <tag>森林智者</tag>
-        <tag>森林智者的最後一堂人生課</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《擁抱 B 選項》| 閱讀心得學習筆記</title>
     <url>/2017/10/02/reading-notes-option-b-facing-adversity-building-resilience-and-finding-joy/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-option-b-facing-adversity-building-resilience-and-finding-joy-1.jpg"></p>
@@ -2211,6 +2252,39 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>擁抱 B 選項</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》| 閱讀心得學習筆記</title>
+    <url>/2024/08/08/reading-notes-one-day-one-country-world-map/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》</span><br><span class="line">作者： 井田仁康  </span><br><span class="line">譯者： 王豫</span><br><span class="line">出版社：美藝學苑社  </span><br><span class="line">出版日期：2024/08/08</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「每天一分鐘，打開世界之窗，拓展無限可能。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在全球化的時代，國際觀不再是少數人的專利，而是每個人都該具備的基本素養。《一日一國家，世界地圖全解讀》用簡單易懂的方式，幫助讀者快速理解各國歷史、政治、經濟與文化，讓世界不再遙遠，而是與我們的生活息息相關。</p>
+<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>每日一國，輕鬆累積國際知識</strong>：透過每天60秒的閱讀，快速掌握212個國家與區域的核心資訊。</li>
+<li><strong>視覺化資訊，提升理解效率</strong>：運用地圖、圖表與簡明敘述，讓複雜的國際情勢變得一目了然。</li>
+<li><strong>適合不同年齡層</strong>：無論是學生、社會人士或投資者，都能從本書獲得有助於學業、職場與投資的知識。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們如何在忙碌的生活中建立對國際局勢的敏感度？</li>
+<li>地緣政治的變化如何影響我們的經濟、科技發展與日常生活？</li>
+<li>在資訊爆炸的時代，如何培養批判性思維來判斷國際新聞的真偽？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《一日一國家，世界地圖全解讀》不僅是一本國際知識的百科全書，更是開啟全球視野的最佳入門書。透過每日學習，我們能更全面地理解世界，並在變動的時代中做出更明智的選擇。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>我可能錯了</tag>
+        <tag>森林智者</tag>
+        <tag>森林智者的最後一堂人生課</tag>
       </tags>
   </entry>
   <entry>
@@ -3180,40 +3254,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》 | 閱讀心得學習筆記</title>
-    <url>/2023/04/28/reading-notes-walking-on-wall-street/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-on-wall-street-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》</span><br><span class="line">作者： 墨基爾  </span><br><span class="line">原文作者： Burton G. Malkiel</span><br><span class="line">譯者： 楊美齡, 林麗冠, 蘇鵬元, 陳儀, 林俊宏</span><br><span class="line">出版社：天下文化  </span><br><span class="line">出版日期：2023/04/28</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「愈簡單的策略，愈容易成功。話題愈熱烈愈有可能是投機泡沫。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《漫步華爾街》是一本跨越半世紀仍屹立不搖的經典投資指南。作者墨基爾身兼經濟學者與實務投資人，以平易近人的筆觸傳遞長期投資、分散風險的重要理念，提醒讀者別被市場流行術語與短期熱潮所迷惑。此50週年增訂版則進一步納入ESG、加密貨幣等新興議題，讓本書在新時代仍具實用價值。</p>
-<p><img src="/img/posts/reading-notes-walking-on-wall-street-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>指數型基金為王道：長期投資、廣泛分散，是最穩健的致富之路。</li>
-<li>市場難以預測：技術分析與基本面分析皆有盲點，普通人難以持續打敗市場。</li>
-<li>風險與報酬並存：報酬來自承擔風險，但非所有風險皆值得承擔。</li>
-<li>行為財務學警示：人性常導致投資錯誤，須設計簡單且能堅持的策略。</li>
-<li>新興投資需謹慎：NFT、加密貨幣與ESG投資背後潛藏高風險與資訊不對稱。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你是否曾因熱門話題而進場投資，卻忽略了風險與長期性？</li>
-<li>當市場震盪時，你能否堅守紀律、不輕易調整資產配置？</li>
-<li>面對投資新趨勢，如何保持開放但不盲從的態度？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《漫步華爾街》提醒我們：與其追逐短期獲利，不如選擇一條可持之以恆的簡單道路。對每一位想改善財務狀況的投資人而言，這是一本值得反覆閱讀的實用經典。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>漫步華爾街</tag>
-        <tag>超越股市漲跌的成功投資策略</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《深夜加油站遇見蘇格拉底》| 閱讀心得學習筆記</title>
     <url>/2022/04/08/reading-notes-way-of-the-peaceful-warrior-a-book-that-changes-lives/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-way-of-the-peaceful-warrior-a-book-that-changes-lives-1.jpg"></p>
@@ -3268,6 +3308,40 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>深夜加油站遇見蘇格拉底</tag>
         <tag>蘇格拉底</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》 | 閱讀心得學習筆記</title>
+    <url>/2023/04/28/reading-notes-walking-on-wall-street/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-on-wall-street-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》</span><br><span class="line">作者： 墨基爾  </span><br><span class="line">原文作者： Burton G. Malkiel</span><br><span class="line">譯者： 楊美齡, 林麗冠, 蘇鵬元, 陳儀, 林俊宏</span><br><span class="line">出版社：天下文化  </span><br><span class="line">出版日期：2023/04/28</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「愈簡單的策略，愈容易成功。話題愈熱烈愈有可能是投機泡沫。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《漫步華爾街》是一本跨越半世紀仍屹立不搖的經典投資指南。作者墨基爾身兼經濟學者與實務投資人，以平易近人的筆觸傳遞長期投資、分散風險的重要理念，提醒讀者別被市場流行術語與短期熱潮所迷惑。此50週年增訂版則進一步納入ESG、加密貨幣等新興議題，讓本書在新時代仍具實用價值。</p>
+<p><img src="/img/posts/reading-notes-walking-on-wall-street-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>指數型基金為王道：長期投資、廣泛分散，是最穩健的致富之路。</li>
+<li>市場難以預測：技術分析與基本面分析皆有盲點，普通人難以持續打敗市場。</li>
+<li>風險與報酬並存：報酬來自承擔風險，但非所有風險皆值得承擔。</li>
+<li>行為財務學警示：人性常導致投資錯誤，須設計簡單且能堅持的策略。</li>
+<li>新興投資需謹慎：NFT、加密貨幣與ESG投資背後潛藏高風險與資訊不對稱。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你是否曾因熱門話題而進場投資，卻忽略了風險與長期性？</li>
+<li>當市場震盪時，你能否堅守紀律、不輕易調整資產配置？</li>
+<li>面對投資新趨勢，如何保持開放但不盲從的態度？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《漫步華爾街》提醒我們：與其追逐短期獲利，不如選擇一條可持之以恆的簡單道路。對每一位想改善財務狀況的投資人而言，這是一本值得反覆閱讀的實用經典。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>漫步華爾街</tag>
+        <tag>超越股市漲跌的成功投資策略</tag>
       </tags>
   </entry>
   <entry>
@@ -3381,57 +3455,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》| 閱讀心得學習筆記</title>
-    <url>/2021/08/05/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》</span><br><span class="line">作者： 彭建文  </span><br><span class="line">出版社：商業周刊  </span><br><span class="line">出版日期：2021/08/05</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「一流人才，不靠天賦，而靠一流的解題思維。強化四種思考力（產品思維力、市場思維力、財務思維力、競爭者思維力），養成經營者般的商業思維，決策精準、果斷。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在快速變動與高壓的職場環境中，單靠努力與技能已難以脫穎而出。《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》作者彭建文，憑藉在台積電的深厚歷練，提出一套邏輯嚴謹、方法實用的解題思維與經營觀點，幫助讀者在職場中培養經營者般的全局視野與問題解決力。本書不只是一本職場技巧書，更是一本教你如何用經營思維進化自己的職涯解題書。</p>
-<p><img src="/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><p><strong>四大商業思維力：</strong></p>
-<ul>
-<li><em>產品思維力</em>：從市場角度理解產品價值，不當只懂執行的工作者。</li>
-<li><em>市場思維力</em>：觀察趨勢、理解顧客與需求演變，掌握工作未來性。</li>
-<li><em>財務思維力</em>：理解成本與營收的背後邏輯，建立數字敏感度。</li>
-<li><em>競爭者思維力</em>：從外部競爭中學習，刺激創新與優化。</li>
-</ul>
-</li>
-<li><p><strong>高效解題工作法：</strong></p>
-<ul>
-<li>採用 <em>8D、3x5 Why、5W2H</em> 等問題分析工具，聚焦核心、排定優先。</li>
-<li>強化會議與回應技巧，提升提問力與臨場應變。</li>
-<li>「滾動式修正」取代一次到位，培養動態調整的能力。</li>
-</ul>
-</li>
-<li><p><strong>職涯進階策略：</strong></p>
-<ul>
-<li>建立問責與改善文化，發展持續進步的思維。</li>
-<li>掌握升遷五力：績效、表達、思維、協作、潛力。</li>
-<li>學會用考績制度設計激勵，影響團隊士氣與績效。</li>
-</ul>
-</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我是否總是忙於執行，卻忽略了從「經營層級」看問題？</li>
-<li>面對反覆發生的問題，我是否掌握了有效的分析工具？</li>
-<li>我的升遷卡關，是因為缺乏什麼樣的商業或邏輯思維？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>作者以其在台積電的實戰經驗，將世界級企業的經營與解題邏輯濃縮成一套人人可學的實用方法。本書幫助職場工作者從執行者思維，轉化為具有經營視角的問題解決者。不論你是基層員工、管理主管，甚至是創業者，都能從中獲得升級自己職涯的關鍵答案。讓解題能力與經營思維，成為你職場中的最佳靠山。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>思維的良率</tag>
-        <tag>台積電教我的高效工作法，像經營者一樣思考、解題</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《你不是懶，而是能量低：人生開外掛的精力管理術》| 閱讀心得學習筆記</title>
     <url>/2024/10/22/reading-notes-you-are-not-lazy-but-low-energy/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-you-are-not-lazy-but-low-energy-1.jpg"></p>
@@ -3531,40 +3554,54 @@
       </tags>
   </entry>
   <entry>
-    <title>《禪者的初心：賈伯斯的禪學入門聖經，用正念找回內在平靜，踏上靈魂尋覓之旅(二版)》 | 閱讀心得學習筆記</title>
-    <url>/2024/05/02/reading-notes-zen-mind-beginners-mind/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-zen-mind-beginners-mind-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《禪者的初心：賈伯斯的禪學入門聖經，用正念找回內在平靜，踏上靈魂尋覓之旅(二版)》</span><br><span class="line">作者： 鈴木俊隆  </span><br><span class="line">譯者： 駱香潔</span><br><span class="line">出版社：自由之丘  </span><br><span class="line">出版日期：2024/05/02</span><br></pre></td></tr></table></figure>
+    <title>《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》| 閱讀心得學習筆記</title>
+    <url>/2021/08/05/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》</span><br><span class="line">作者： 彭建文  </span><br><span class="line">出版社：商業周刊  </span><br><span class="line">出版日期：2021/08/05</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<p>「真正的禪修祕訣：永遠當個初學者。初學者的心沒有偏見與習氣，最能接近真理。不分好壞、不執對錯，保持包容與接納。」</p>
+<p>「一流人才，不靠天賦，而靠一流的解題思維。強化四種思考力（產品思維力、市場思維力、財務思維力、競爭者思維力），養成經營者般的商業思維，決策精準、果斷。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《禪者的初心：賈伯斯的禪學入門聖經，用正念找回內在平靜，踏上靈魂尋覓之旅》是一本深入卻親切的禪學入門書，由鈴木俊隆禪師親筆所著，既是蘋果創辦人賈伯斯的禪修啟蒙書，也是一把通往內在寧靜與真實自我的萬能鑰匙。本書強調「初心者之心」的重要性，提醒我們唯有放下執念、保持純真與開放，才能真正走上覺察與慈悲的修行之路。</p>
-<p><img src="/img/posts/reading-notes-zen-mind-beginners-mind-2.jpg"></p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在快速變動與高壓的職場環境中，單靠努力與技能已難以脫穎而出。《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》作者彭建文，憑藉在台積電的深厚歷練，提出一套邏輯嚴謹、方法實用的解題思維與經營觀點，幫助讀者在職場中培養經營者般的全局視野與問題解決力。本書不只是一本職場技巧書，更是一本教你如何用經營思維進化自己的職涯解題書。</p>
+<p><img src="/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-2.jpg"></p>
 <h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>初心之心即是禪修之心</strong>：<code>初學者的心沒有偏見與習氣</code>，最能<code>接近真理</code>。  </li>
-<li><strong>坐禪是回歸本心的唯一方式</strong>：不是為了成就，而是為了展現<code>當下的自己</code>。  </li>
-<li><strong>身心姿勢影響精神狀態</strong>：透過<code>坐正</code>、<code>呼吸</code>、<code>放鬆</code>，可以回歸<code>內在穩定</code>。  </li>
-<li><strong>禪的核心在於「放下二元」</strong>：<code>不分好壞</code>、<code>不執對錯</code>，<code>保持包容與接納</code>。  </li>
-<li><strong>正確態度勝於技巧</strong>：<code>重複練習</code>、<code>自然體會</code>，才能真正內化禪修精神。  </li>
-<li><strong>不追求開悟、不貪求成果</strong>：真正的修行是一種<code>生活態度</code>，不是目標導向。</li>
+<li><p><strong>四大商業思維力：</strong></p>
+<ul>
+<li><em>產品思維力</em>：從市場角度理解產品價值，不當只懂執行的工作者。</li>
+<li><em>市場思維力</em>：觀察趨勢、理解顧客與需求演變，掌握工作未來性。</li>
+<li><em>財務思維力</em>：理解成本與營收的背後邏輯，建立數字敏感度。</li>
+<li><em>競爭者思維力</em>：從外部競爭中學習，刺激創新與優化。</li>
+</ul>
+</li>
+<li><p><strong>高效解題工作法：</strong></p>
+<ul>
+<li>採用 <em>8D、3x5 Why、5W2H</em> 等問題分析工具，聚焦核心、排定優先。</li>
+<li>強化會議與回應技巧，提升提問力與臨場應變。</li>
+<li>「滾動式修正」取代一次到位，培養動態調整的能力。</li>
+</ul>
+</li>
+<li><p><strong>職涯進階策略：</strong></p>
+<ul>
+<li>建立問責與改善文化，發展持續進步的思維。</li>
+<li>掌握升遷五力：績效、表達、思維、協作、潛力。</li>
+<li>學會用考績制度設計激勵，影響團隊士氣與績效。</li>
+</ul>
+</li>
 </ul>
 <h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否太常陷入對「成果」的執著，而忘了修行本身就是目的？  </li>
-<li>當我們學會放空與接受，是否就能更容易與自己與他人和解？  </li>
-<li>如果「初心」是心靈的根本，我們要如何在現代忙碌生活中持續保持？</li>
+<li>我是否總是忙於執行，卻忽略了從「經營層級」看問題？</li>
+<li>面對反覆發生的問題，我是否掌握了有效的分析工具？</li>
+<li>我的升遷卡關，是因為缺乏什麼樣的商業或邏輯思維？</li>
 </ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書最大的價值不在於理論，而是讓人在日常中自然實踐禪心。鈴木俊隆用最平實的語言，解開禪宗的複雜包裝，將「初心」化為生活中的一種清明狀態。對於想要開始探索自我、培養內在平靜與覺察的人而言，這本書是踏出第一步的最佳指南。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>作者以其在台積電的實戰經驗，將世界級企業的經營與解題邏輯濃縮成一套人人可學的實用方法。本書幫助職場工作者從執行者思維，轉化為具有經營視角的問題解決者。不論你是基層員工、管理主管，甚至是創業者，都能從中獲得升級自己職涯的關鍵答案。讓解題能力與經營思維，成為你職場中的最佳靠山。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
-        <tag>禪者的初心</tag>
-        <tag>賈伯斯的禪學入門聖經</tag>
-        <tag>用正念找回內在平靜</tag>
-        <tag>踏上靈魂尋覓之旅</tag>
+        <tag>思維的良率</tag>
+        <tag>台積電教我的高效工作法，像經營者一樣思考、解題</tag>
       </tags>
   </entry>
   <entry>
@@ -3629,6 +3666,43 @@
         <tag>佛洛依德</tag>
         <tag>榮格</tag>
         <tag>你不必成為任何人</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《禪者的初心：賈伯斯的禪學入門聖經，用正念找回內在平靜，踏上靈魂尋覓之旅(二版)》 | 閱讀心得學習筆記</title>
+    <url>/2024/05/02/reading-notes-zen-mind-beginners-mind/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-zen-mind-beginners-mind-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《禪者的初心：賈伯斯的禪學入門聖經，用正念找回內在平靜，踏上靈魂尋覓之旅(二版)》</span><br><span class="line">作者： 鈴木俊隆  </span><br><span class="line">譯者： 駱香潔</span><br><span class="line">出版社：自由之丘  </span><br><span class="line">出版日期：2024/05/02</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「真正的禪修祕訣：永遠當個初學者。初學者的心沒有偏見與習氣，最能接近真理。不分好壞、不執對錯，保持包容與接納。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《禪者的初心：賈伯斯的禪學入門聖經，用正念找回內在平靜，踏上靈魂尋覓之旅》是一本深入卻親切的禪學入門書，由鈴木俊隆禪師親筆所著，既是蘋果創辦人賈伯斯的禪修啟蒙書，也是一把通往內在寧靜與真實自我的萬能鑰匙。本書強調「初心者之心」的重要性，提醒我們唯有放下執念、保持純真與開放，才能真正走上覺察與慈悲的修行之路。</p>
+<p><img src="/img/posts/reading-notes-zen-mind-beginners-mind-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>初心之心即是禪修之心</strong>：<code>初學者的心沒有偏見與習氣</code>，最能<code>接近真理</code>。  </li>
+<li><strong>坐禪是回歸本心的唯一方式</strong>：不是為了成就，而是為了展現<code>當下的自己</code>。  </li>
+<li><strong>身心姿勢影響精神狀態</strong>：透過<code>坐正</code>、<code>呼吸</code>、<code>放鬆</code>，可以回歸<code>內在穩定</code>。  </li>
+<li><strong>禪的核心在於「放下二元」</strong>：<code>不分好壞</code>、<code>不執對錯</code>，<code>保持包容與接納</code>。  </li>
+<li><strong>正確態度勝於技巧</strong>：<code>重複練習</code>、<code>自然體會</code>，才能真正內化禪修精神。  </li>
+<li><strong>不追求開悟、不貪求成果</strong>：真正的修行是一種<code>生活態度</code>，不是目標導向。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否太常陷入對「成果」的執著，而忘了修行本身就是目的？  </li>
+<li>當我們學會放空與接受，是否就能更容易與自己與他人和解？  </li>
+<li>如果「初心」是心靈的根本，我們要如何在現代忙碌生活中持續保持？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書最大的價值不在於理論，而是讓人在日常中自然實踐禪心。鈴木俊隆用最平實的語言，解開禪宗的複雜包裝，將「初心」化為生活中的一種清明狀態。對於想要開始探索自我、培養內在平靜與覺察的人而言，這本書是踏出第一步的最佳指南。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>禪者的初心</tag>
+        <tag>賈伯斯的禪學入門聖經</tag>
+        <tag>用正念找回內在平靜</tag>
+        <tag>踏上靈魂尋覓之旅</tag>
       </tags>
   </entry>
   <entry>
