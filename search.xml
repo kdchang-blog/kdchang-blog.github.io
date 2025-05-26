@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-app-10-keywords/</url>
+    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
+<ol>
+<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
+<li><strong>聊天機器人</strong>（Chatbots）</li>
+<li><strong>文字摘要</strong>（Text Summarization）</li>
+<li><strong>內容生成</strong>（Content Generation）</li>
+<li><strong>情感分析</strong>（Sentiment Analysis）</li>
+<li><strong>語音助手</strong>（Voice Assistants）</li>
+<li><strong>自動翻譯</strong>（Automatic Translation）</li>
+<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
+<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
+<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
+</ol>
+<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
     <url>/2024/05/22/about-llm-tech-10-keywords/</url>
     <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
@@ -20,33 +47,6 @@
 <h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
 <li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
 </ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-app-10-keywords/</url>
-    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
-<ol>
-<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
-<li><strong>聊天機器人</strong>（Chatbots）</li>
-<li><strong>文字摘要</strong>（Text Summarization）</li>
-<li><strong>內容生成</strong>（Content Generation）</li>
-<li><strong>情感分析</strong>（Sentiment Analysis）</li>
-<li><strong>語音助手</strong>（Voice Assistants）</li>
-<li><strong>自動翻譯</strong>（Automatic Translation）</li>
-<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
-<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
-<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
-</ol>
-<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
 ]]></content>
       <tags>
         <tag>生成式 AI</tag>
@@ -256,6 +256,44 @@
       </tags>
   </entry>
   <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
     <url>/2024/05/23/llm-langchain-notes/</url>
     <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
@@ -302,44 +340,6 @@
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
         <tag>LangChain</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -693,6 +693,39 @@
       </tags>
   </entry>
   <entry>
+    <title>《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》| 閱讀心得學習筆記</title>
+    <url>/2017/09/26/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》</span><br><span class="line">作者： 莎拉‧古柏  </span><br><span class="line">原文作者： Sarah Cooper</span><br><span class="line">譯者： 陳重亨</span><br><span class="line">出版社：時報出版  </span><br><span class="line">出版日期：2017/09/26</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「開會是讓你展示領導才能、軟實力和大腦分析創造思考能力的好機會，你在開會的時候表現得越聰明，就會有越多人找你去開會，那麼你表現出聰明的機會也就越多。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代職場中，開會幾乎是每日必經的儀式。面對冗長、空洞又充滿競爭氣味的會議，新人往往束手無策，而老鳥也未必能掌控全場。前 Yahoo! 與 Google 主管莎拉．古柏的《這樣開會，最聰明！》以幽默諷刺的手法，揭露那些表面「看起來很聰明」的行為，實則是職場生存的潛規則。本書不僅是一本工具書，更像是一本職場生存手冊，讓讀者在會議中看起來「比實際聰明三倍」。</p>
+<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>進入會議室的第一印象策略</strong>：包括帶著筆記本、坐在適當位置、適時點頭等看似微不足道卻效果驚人的舉動。  </li>
+<li><strong>白板技巧與圖表魔法</strong>：善用毫無意義但看起來很「複雜」的圖形，展現邏輯與思考能力。  </li>
+<li><strong>電話與遠距會議密技</strong>：透過問候語與檔案確認等語言小技巧，在聲音中塑造專業感。  </li>
+<li><strong>跨文化會議指南</strong>：各國開會文化不同，美國偏行動、日本偏委婉、英國愛抱怨制度，理解這些差異可避免文化衝突。  </li>
+<li><strong>臨場應變絕招</strong>：例如臨時發言時，善用「我補充一下」或「讓我們回到原始目標」等話術來顯得有貢獻。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否太過依賴形式來衡量一個人的「專業度」？</li>
+<li>看起來「聰明」是否比實際「聰明」更容易在職場中獲得信任與晉升？</li>
+<li>書中所揭示的行為，究竟是諷刺還是反映真實？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《這樣開會，最聰明！》不只是一本搞笑的開會指南，而是對職場文化的精準觀察與反思。透過作者的幽默筆觸，我們得以重新審視那些「看起來很努力」的假象與潛藏的生存智慧。無論你是新鮮人還是資深主管，都能從書中找到自嘲與提升的空間。這是一本用笑聲包裝的職場真言書，教你在會議中「看起來像個專家」，也許就是你職涯邁向 A 咖的第一步。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《愛的 8 法則【《僧人心態》作者愛的力作】：如何找到愛、維繫愛、放下愛》| 閱讀心得學習筆記</title>
     <url>/2024/01/01/reading-notes-8-rules-of-love-how-to-find-it-keep-it-and-let-it-go/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-8-rules-of-love-how-to-find-it-keep-it-and-let-it-go-1.jpg"></p>
@@ -727,39 +760,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>僧人心態</tag>
         <tag>愛的 8 法則</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》| 閱讀心得學習筆記</title>
-    <url>/2017/09/26/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》</span><br><span class="line">作者： 莎拉‧古柏  </span><br><span class="line">原文作者： Sarah Cooper</span><br><span class="line">譯者： 陳重亨</span><br><span class="line">出版社：時報出版  </span><br><span class="line">出版日期：2017/09/26</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「開會是讓你展示領導才能、軟實力和大腦分析創造思考能力的好機會，你在開會的時候表現得越聰明，就會有越多人找你去開會，那麼你表現出聰明的機會也就越多。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代職場中，開會幾乎是每日必經的儀式。面對冗長、空洞又充滿競爭氣味的會議，新人往往束手無策，而老鳥也未必能掌控全場。前 Yahoo! 與 Google 主管莎拉．古柏的《這樣開會，最聰明！》以幽默諷刺的手法，揭露那些表面「看起來很聰明」的行為，實則是職場生存的潛規則。本書不僅是一本工具書，更像是一本職場生存手冊，讓讀者在會議中看起來「比實際聰明三倍」。</p>
-<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>進入會議室的第一印象策略</strong>：包括帶著筆記本、坐在適當位置、適時點頭等看似微不足道卻效果驚人的舉動。  </li>
-<li><strong>白板技巧與圖表魔法</strong>：善用毫無意義但看起來很「複雜」的圖形，展現邏輯與思考能力。  </li>
-<li><strong>電話與遠距會議密技</strong>：透過問候語與檔案確認等語言小技巧，在聲音中塑造專業感。  </li>
-<li><strong>跨文化會議指南</strong>：各國開會文化不同，美國偏行動、日本偏委婉、英國愛抱怨制度，理解這些差異可避免文化衝突。  </li>
-<li><strong>臨場應變絕招</strong>：例如臨時發言時，善用「我補充一下」或「讓我們回到原始目標」等話術來顯得有貢獻。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否太過依賴形式來衡量一個人的「專業度」？</li>
-<li>看起來「聰明」是否比實際「聰明」更容易在職場中獲得信任與晉升？</li>
-<li>書中所揭示的行為，究竟是諷刺還是反映真實？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《這樣開會，最聰明！》不只是一本搞笑的開會指南，而是對職場文化的精準觀察與反思。透過作者的幽默筆觸，我們得以重新審視那些「看起來很努力」的假象與潛藏的生存智慧。無論你是新鮮人還是資深主管，都能從書中找到自嘲與提升的空間。這是一本用笑聲包裝的職場真言書，教你在會議中「看起來像個專家」，也許就是你職涯邁向 A 咖的第一步。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！</tag>
       </tags>
   </entry>
   <entry>
@@ -1395,6 +1395,40 @@
       </tags>
   </entry>
   <entry>
+    <title>《從邊緣到核心：台灣半導體如何成為世界的心臟》| 閱讀心得學習筆記</title>
+    <url>/2025/03/31/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《從邊緣到核心：台灣半導體如何成為世界的心臟》</span><br><span class="line">作者： 史欽泰, 陳添枝, 吳淑敏  </span><br><span class="line">出版社：天下文化  </span><br><span class="line">出版日期：2025/03/31</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「歷史研究的不是過去，而是改變。以歷史為經、科技為緯，從全球半導體發展的歷史的軌跡，解析台灣政府和一群科技先鋒，五十年前如何擘劃產業政策、抓住關鍵的思考與機會，讓台灣成為今日世界的心臟。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《從邊緣到核心：台灣半導體如何成為世界的心臟》是一部橫跨歷史、科技與地緣政治的深度之作，由史欽泰、陳添枝與吳淑敏三位橫跨實務、政策與文史領域的專家共同執筆。本書以台灣半導體產業為主軸，描繪從無到有的發展軌跡，並剖析其如何在世界舞台上成為無可取代的戰略支點。</p>
+<p><img src="/img/posts/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>政府角色</strong>：以「協助不介入」原則，有效孕育民間企業如台積電與聯電。</li>
+<li><strong>RCA計畫</strong>：從美國引進完整技術，成為產業發展關鍵轉捩點。</li>
+<li><strong>晶圓代工模式創新</strong>：台積電首創純代工模式，重塑全球半導體產業鏈。</li>
+<li><strong>DRAM困境與轉型</strong>：反映技術取得與自主創新的界線與代價。</li>
+<li><strong>地緣政治影響</strong>：中美角力使台灣半導體成為全球供應鏈的戰略核心。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>台灣模式是否能持續維持其技術優勢與全球信任？</li>
+<li>面對中國的技術追趕與美國的政治介入，台灣該如何應對？</li>
+<li>人才流動與技術自主間的平衡，是否正面臨考驗？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅記錄台灣半導體從無到有的歷史，更深入揭示其面對全球科技戰略佈局下的未來挑戰與轉機。對關心台灣產業、科技政策與地緣政治者而言，是一本不可或缺的參考之作。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>從邊緣到核心</tag>
+        <tag>台灣半導體如何成為世界的心臟</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》| 閱讀心得學習筆記</title>
     <url>/2023/05/31/reading-notes-from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life-1.jpg"></p>
@@ -1472,40 +1506,6 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>慣習 Habitus</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《從邊緣到核心：台灣半導體如何成為世界的心臟》| 閱讀心得學習筆記</title>
-    <url>/2025/03/31/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《從邊緣到核心：台灣半導體如何成為世界的心臟》</span><br><span class="line">作者： 史欽泰, 陳添枝, 吳淑敏  </span><br><span class="line">出版社：天下文化  </span><br><span class="line">出版日期：2025/03/31</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「歷史研究的不是過去，而是改變。以歷史為經、科技為緯，從全球半導體發展的歷史的軌跡，解析台灣政府和一群科技先鋒，五十年前如何擘劃產業政策、抓住關鍵的思考與機會，讓台灣成為今日世界的心臟。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《從邊緣到核心：台灣半導體如何成為世界的心臟》是一部橫跨歷史、科技與地緣政治的深度之作，由史欽泰、陳添枝與吳淑敏三位橫跨實務、政策與文史領域的專家共同執筆。本書以台灣半導體產業為主軸，描繪從無到有的發展軌跡，並剖析其如何在世界舞台上成為無可取代的戰略支點。</p>
-<p><img src="/img/posts/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>政府角色</strong>：以「協助不介入」原則，有效孕育民間企業如台積電與聯電。</li>
-<li><strong>RCA計畫</strong>：從美國引進完整技術，成為產業發展關鍵轉捩點。</li>
-<li><strong>晶圓代工模式創新</strong>：台積電首創純代工模式，重塑全球半導體產業鏈。</li>
-<li><strong>DRAM困境與轉型</strong>：反映技術取得與自主創新的界線與代價。</li>
-<li><strong>地緣政治影響</strong>：中美角力使台灣半導體成為全球供應鏈的戰略核心。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>台灣模式是否能持續維持其技術優勢與全球信任？</li>
-<li>面對中國的技術追趕與美國的政治介入，台灣該如何應對？</li>
-<li>人才流動與技術自主間的平衡，是否正面臨考驗？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅記錄台灣半導體從無到有的歷史，更深入揭示其面對全球科技戰略佈局下的未來挑戰與轉機。對關心台灣產業、科技政策與地緣政治者而言，是一本不可或缺的參考之作。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>從邊緣到核心</tag>
-        <tag>台灣半導體如何成為世界的心臟</tag>
       </tags>
   </entry>
   <entry>
@@ -1624,38 +1624,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《假如孫子是現代上班族》| 閱讀心得學習筆記</title>
-    <url>/2020/11/26/reading-notes-if-sunzi-were-a-modern-office-worker/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《假如孫子是現代上班族》</span><br><span class="line">作者： 安恒理（Osamu Yasutsune）  </span><br><span class="line">譯者： 沈俊傑</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2020/11/26</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「知彼知己，百戰不殆。《孫子兵法》不僅是一部軍書，更能應用在商場、戀愛、運動、博弈等含有競爭要素的領域，因為一切競爭行為都來自於人，而《孫子兵法》精準剖析了人類細微的心理。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《假如孫子是現代上班族》是一本將《孫子兵法》現代化應用於職場的實戰指南。作者安恒理以現代職場的五大情境問題為核心，搭配32條兵法守則與38則實務案例，引導讀者如何透過「情報」與「策略」，在混亂不明的職場中脫穎而出，打造不敗的生存之道。</p>
-<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>情報為先</strong>：孫子強調「多算勝，少算不勝」，蒐集與分析情報才是致勝關鍵。</li>
-<li><strong>攻心為上</strong>：掌握上司、客戶的習慣與喜好，在對方鬆懈時出擊最有效。</li>
-<li><strong>順勢而為</strong>：與其硬碰硬，不如借力使力、利用敵方資源達成目的。</li>
-<li><strong>靈活應變</strong>：比起強者思維，「生存智慧」與適應變化的能力才是長遠之計。</li>
-<li><strong>職場戰略</strong>：離職糾紛、客訴危機、公關風暴皆可借由兵法中的「守」、「攻」、「變」對應解法。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否過於強調績效與努力，卻忽略了背後的資訊戰與心理戰？</li>
-<li>在講求效率的現代職場，「等待最佳時機」是否會被視為消極？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提醒我們，職場如戰場，面對豬隊友、奧客、雷主管時，光靠努力不夠，更要懂得策略與情報運用。透過孫子的智慧，我們能更有系統地拆解問題、預判風險，化解難關。現代問題，有時真的需要古代手段解決。這本書，正是寫給在職場中載浮載沉的你。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>假如孫子是現代上班族</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀心得學習筆記</title>
     <url>/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-1.jpg"></p>
@@ -1698,6 +1666,38 @@
         <tag>Career Development</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>產品專案管理專案全書</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《假如孫子是現代上班族》| 閱讀心得學習筆記</title>
+    <url>/2020/11/26/reading-notes-if-sunzi-were-a-modern-office-worker/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《假如孫子是現代上班族》</span><br><span class="line">作者： 安恒理（Osamu Yasutsune）  </span><br><span class="line">譯者： 沈俊傑</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2020/11/26</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「知彼知己，百戰不殆。《孫子兵法》不僅是一部軍書，更能應用在商場、戀愛、運動、博弈等含有競爭要素的領域，因為一切競爭行為都來自於人，而《孫子兵法》精準剖析了人類細微的心理。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《假如孫子是現代上班族》是一本將《孫子兵法》現代化應用於職場的實戰指南。作者安恒理以現代職場的五大情境問題為核心，搭配32條兵法守則與38則實務案例，引導讀者如何透過「情報」與「策略」，在混亂不明的職場中脫穎而出，打造不敗的生存之道。</p>
+<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>情報為先</strong>：孫子強調「多算勝，少算不勝」，蒐集與分析情報才是致勝關鍵。</li>
+<li><strong>攻心為上</strong>：掌握上司、客戶的習慣與喜好，在對方鬆懈時出擊最有效。</li>
+<li><strong>順勢而為</strong>：與其硬碰硬，不如借力使力、利用敵方資源達成目的。</li>
+<li><strong>靈活應變</strong>：比起強者思維，「生存智慧」與適應變化的能力才是長遠之計。</li>
+<li><strong>職場戰略</strong>：離職糾紛、客訴危機、公關風暴皆可借由兵法中的「守」、「攻」、「變」對應解法。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否過於強調績效與努力，卻忽略了背後的資訊戰與心理戰？</li>
+<li>在講求效率的現代職場，「等待最佳時機」是否會被視為消極？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提醒我們，職場如戰場，面對豬隊友、奧客、雷主管時，光靠努力不夠，更要懂得策略與情報運用。透過孫子的智慧，我們能更有系統地拆解問題、預判風險，化解難關。現代問題，有時真的需要古代手段解決。這本書，正是寫給在職場中載浮載沉的你。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>假如孫子是現代上班族</tag>
       </tags>
   </entry>
   <entry>
@@ -2218,6 +2218,39 @@
       </tags>
   </entry>
   <entry>
+    <title>《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》| 閱讀心得學習筆記</title>
+    <url>/2024/08/08/reading-notes-one-day-one-country-world-map/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》</span><br><span class="line">作者： 井田仁康  </span><br><span class="line">譯者： 王豫</span><br><span class="line">出版社：美藝學苑社  </span><br><span class="line">出版日期：2024/08/08</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「每天一分鐘，打開世界之窗，拓展無限可能。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在全球化的時代，國際觀不再是少數人的專利，而是每個人都該具備的基本素養。《一日一國家，世界地圖全解讀》用簡單易懂的方式，幫助讀者快速理解各國歷史、政治、經濟與文化，讓世界不再遙遠，而是與我們的生活息息相關。</p>
+<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>每日一國，輕鬆累積國際知識</strong>：透過每天60秒的閱讀，快速掌握212個國家與區域的核心資訊。</li>
+<li><strong>視覺化資訊，提升理解效率</strong>：運用地圖、圖表與簡明敘述，讓複雜的國際情勢變得一目了然。</li>
+<li><strong>適合不同年齡層</strong>：無論是學生、社會人士或投資者，都能從本書獲得有助於學業、職場與投資的知識。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們如何在忙碌的生活中建立對國際局勢的敏感度？</li>
+<li>地緣政治的變化如何影響我們的經濟、科技發展與日常生活？</li>
+<li>在資訊爆炸的時代，如何培養批判性思維來判斷國際新聞的真偽？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《一日一國家，世界地圖全解讀》不僅是一本國際知識的百科全書，更是開啟全球視野的最佳入門書。透過每日學習，我們能更全面地理解世界，並在變動的時代中做出更明智的選擇。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>我可能錯了</tag>
+        <tag>森林智者</tag>
+        <tag>森林智者的最後一堂人生課</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《擁抱 B 選項》| 閱讀心得學習筆記</title>
     <url>/2017/10/02/reading-notes-option-b-facing-adversity-building-resilience-and-finding-joy/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-option-b-facing-adversity-building-resilience-and-finding-joy-1.jpg"></p>
@@ -2255,36 +2288,40 @@
       </tags>
   </entry>
   <entry>
-    <title>《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》| 閱讀心得學習筆記</title>
-    <url>/2024/08/08/reading-notes-one-day-one-country-world-map/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》</span><br><span class="line">作者： 井田仁康  </span><br><span class="line">譯者： 王豫</span><br><span class="line">出版社：美藝學苑社  </span><br><span class="line">出版日期：2024/08/08</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
+    <title>《逆襲人生21個底層邏輯：快速做出改變的高效率成長指南》| 閱讀心得學習筆記</title>
+    <url>/2023/06/07/reading-notes-reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《逆襲人生 21 個底層邏輯：快速做出改變的高效率成長指南》</span><br><span class="line">作者： 呂白</span><br><span class="line">出版社：幸福文化</span><br><span class="line">出版日期：2023/06/07</span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<p>「每天一分鐘，打開世界之窗，拓展無限可能。」</p>
+<p>「不管多小的努力，不停地做、使勁做、堅持做，成效會很大！設置一個每天要做的最低量，跑贏人生的馬拉松。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在全球化的時代，國際觀不再是少數人的專利，而是每個人都該具備的基本素養。《一日一國家，世界地圖全解讀》用簡單易懂的方式，幫助讀者快速理解各國歷史、政治、經濟與文化，讓世界不再遙遠，而是與我們的生活息息相關。</p>
-<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>每日一國，輕鬆累積國際知識</strong>：透過每天60秒的閱讀，快速掌握212個國家與區域的核心資訊。</li>
-<li><strong>視覺化資訊，提升理解效率</strong>：運用地圖、圖表與簡明敘述，讓複雜的國際情勢變得一目了然。</li>
-<li><strong>適合不同年齡層</strong>：無論是學生、社會人士或投資者，都能從本書獲得有助於學業、職場與投資的知識。</li>
-</ul>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《21 天實現逆風翻盤》是一本寫給在生活與職場中困頓、卻渴望改變的年輕人的行動指南。作者呂白，從一位小鎮青年躍升為職場實力派，以自身經驗提煉出 21 個可立即實踐的底層邏輯，鼓勵讀者在 21 天內培養習慣、翻轉人生。這不是雞湯式的夢想激勵，而是一場結構明確、具體可行的自我提升實驗。</p>
+<p><img src="/img/posts/reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>黃金 1 小時法則</strong>：起床後的第一小時決定一天效率。四段 15 分鐘，分別用於列清單、定優先、想目標、理情緒。</li>
+<li><strong>時間管理三法則</strong>：記錄時間、先完成再完美、提升利用率。</li>
+<li><strong>賺錢思維</strong>：建立認知優勢，學會投資與人脈經營。</li>
+<li><strong>吸引力法則</strong>：目標明確＋心懷感恩＝吸引資源與機會。</li>
+<li><strong>向上社交</strong>：不再「等被看到」，主動出擊創造高價值人脈。</li>
+<li><strong>殺死拖延症</strong>：以「5 分鐘行動法」啟動行動，搭配番茄鐘強化執行力。</li>
+<li><strong>精進表達力</strong>：從鏡子練習到素材輸入，打造清晰表達能力。</li>
+<li><strong>最低量堅持法</strong>：設定每日可執行的小任務，累積習慣。</li>
+</ol>
 <h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們如何在忙碌的生活中建立對國際局勢的敏感度？</li>
-<li>地緣政治的變化如何影響我們的經濟、科技發展與日常生活？</li>
-<li>在資訊爆炸的時代，如何培養批判性思維來判斷國際新聞的真偽？</li>
+<li>你是否經常陷入「想做但不開始」的循環？</li>
+<li>是否把「完美」當作拖延的藉口，而錯失改變的時機？</li>
+<li>是否願意給自己 21 天，不追求極致，只求「比昨天好一點點」？</li>
 </ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《一日一國家，世界地圖全解讀》不僅是一本國際知識的百科全書，更是開啟全球視野的最佳入門書。透過每日學習，我們能更全面地理解世界，並在變動的時代中做出更明智的選擇。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書的核心訊息很簡單卻深具力量：不要等待完美時機，而要從當下的小行動開始。透過 21 個實戰邏輯與每日執行清單，幫助你培養效率、自信與成長思維。若你正處於迷惘、拖延或自我懷疑的階段，這是一本能幫你實際「動起來」的好書，從一點一滴的累積中，走出自己的逆襲之路。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
-        <tag>我可能錯了</tag>
-        <tag>森林智者</tag>
-        <tag>森林智者的最後一堂人生課</tag>
+        <tag>逆襲人生21個底層邏輯</tag>
+        <tag>快速做出改變的高效率成長指南</tag>
       </tags>
   </entry>
   <entry>
@@ -2501,6 +2538,39 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>顯化效應</tag>
         <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《他的地板是你的天花板：特權階級怎樣自我複製並阻礙社會流動機會？我們如何打破社會不平等？》| 閱讀心得學習筆記</title>
+    <url>/2022/06/04/reading-notes-the-class-ceiling-why-it-pays-to-be-privileged/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-class-ceiling-why-it-pays-to-be-privileged-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《他的地板是你的天花板：特權階級怎樣自我複製並阻礙社會流動機會？我們如何打破社會不平等？》</span><br><span class="line">作者： 山姆•弗里曼, 丹尼爾•勞瑞森</span><br><span class="line">原文作者： Sam Friedman, Daniel Laurison</span><br><span class="line">譯者： 麥慧芬</span><br><span class="line">出版社：商周出版</span><br><span class="line">出版日期：2022/06/04</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「他的地板，是你的天花板。那些享有特權、領取身世紅利的人，總在你以為可以翻身的時候阻止你。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們總以為，只要夠努力、夠有才華，就能出人頭地。然而，《他的地板是你的天花板》這本書以大量訪談與數據揭示，現代社會中「唯才是用」其實是一場迷思。階級不平等不但未曾消失，反而在菁英職場中變本加厲。作者山姆．弗里曼與丹尼爾．勞瑞森以英國為例，指出富裕出身者如何憑藉家世與人脈壟斷機會，而勞工階級者即使再有能力，也常被擋在通往成功的大門之外。</p>
+<p><img src="/img/posts/reading-notes-the-class-ceiling-why-it-pays-to-be-privileged-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>階級薪資差異</strong>：即使在同樣的工作中，出身勞工階級者平均薪資比富裕背景者低 16%。</li>
+<li><strong>菁英職業的封閉性</strong>：中高階級家庭子女成為醫師的機率，是勞工階級的 12 倍。</li>
+<li><strong>隱形門檻與潛規則</strong>：富二代靠「父母銀行」、舉薦制度、熟人引介等方式進入高階職場。</li>
+<li><strong>自我內化與否定</strong>：弱勢者常為了融入職場文化而否定自我，卻仍難以真正晉升核心圈。</li>
+<li><strong>改革建議</strong>：書末提出 10 點行動方案，協助組織檢視並打破無形的階級障礙。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>在強調「機會平等」的社會敘事下，我們是否忽略了「結果不平等」的根源？</li>
+<li>面對菁英職場的封閉性，個人努力是否足以突破結構性限制？</li>
+<li>若企業或組織不自覺檢討選才與晉升制度，所謂的公平是否只是一場幻覺？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《他的地板是你的天花板》是一部挑戰現代菁英神話的重要著作，提醒我們階級的存在從未遠離，且深植於我們視為「正常」的職場運作中。唯有承認這些不平等的結構，我們才能真正推動改變，朝更公平的社會邁進。這不只是一本社會學研究書籍，更是一面映照我們職場與社會盲點的鏡子。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>他的地板是你的天花板</tag>
       </tags>
   </entry>
   <entry>
@@ -3254,6 +3324,40 @@
       </tags>
   </entry>
   <entry>
+    <title>《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》 | 閱讀心得學習筆記</title>
+    <url>/2023/04/28/reading-notes-walking-on-wall-street/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-on-wall-street-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》</span><br><span class="line">作者： 墨基爾  </span><br><span class="line">原文作者： Burton G. Malkiel</span><br><span class="line">譯者： 楊美齡, 林麗冠, 蘇鵬元, 陳儀, 林俊宏</span><br><span class="line">出版社：天下文化  </span><br><span class="line">出版日期：2023/04/28</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「愈簡單的策略，愈容易成功。話題愈熱烈愈有可能是投機泡沫。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《漫步華爾街》是一本跨越半世紀仍屹立不搖的經典投資指南。作者墨基爾身兼經濟學者與實務投資人，以平易近人的筆觸傳遞長期投資、分散風險的重要理念，提醒讀者別被市場流行術語與短期熱潮所迷惑。此50週年增訂版則進一步納入ESG、加密貨幣等新興議題，讓本書在新時代仍具實用價值。</p>
+<p><img src="/img/posts/reading-notes-walking-on-wall-street-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>指數型基金為王道：長期投資、廣泛分散，是最穩健的致富之路。</li>
+<li>市場難以預測：技術分析與基本面分析皆有盲點，普通人難以持續打敗市場。</li>
+<li>風險與報酬並存：報酬來自承擔風險，但非所有風險皆值得承擔。</li>
+<li>行為財務學警示：人性常導致投資錯誤，須設計簡單且能堅持的策略。</li>
+<li>新興投資需謹慎：NFT、加密貨幣與ESG投資背後潛藏高風險與資訊不對稱。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你是否曾因熱門話題而進場投資，卻忽略了風險與長期性？</li>
+<li>當市場震盪時，你能否堅守紀律、不輕易調整資產配置？</li>
+<li>面對投資新趨勢，如何保持開放但不盲從的態度？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《漫步華爾街》提醒我們：與其追逐短期獲利，不如選擇一條可持之以恆的簡單道路。對每一位想改善財務狀況的投資人而言，這是一本值得反覆閱讀的實用經典。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>漫步華爾街</tag>
+        <tag>超越股市漲跌的成功投資策略</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《深夜加油站遇見蘇格拉底》| 閱讀心得學習筆記</title>
     <url>/2022/04/08/reading-notes-way-of-the-peaceful-warrior-a-book-that-changes-lives/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-way-of-the-peaceful-warrior-a-book-that-changes-lives-1.jpg"></p>
@@ -3308,40 +3412,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>深夜加油站遇見蘇格拉底</tag>
         <tag>蘇格拉底</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》 | 閱讀心得學習筆記</title>
-    <url>/2023/04/28/reading-notes-walking-on-wall-street/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-on-wall-street-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》</span><br><span class="line">作者： 墨基爾  </span><br><span class="line">原文作者： Burton G. Malkiel</span><br><span class="line">譯者： 楊美齡, 林麗冠, 蘇鵬元, 陳儀, 林俊宏</span><br><span class="line">出版社：天下文化  </span><br><span class="line">出版日期：2023/04/28</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「愈簡單的策略，愈容易成功。話題愈熱烈愈有可能是投機泡沫。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《漫步華爾街》是一本跨越半世紀仍屹立不搖的經典投資指南。作者墨基爾身兼經濟學者與實務投資人，以平易近人的筆觸傳遞長期投資、分散風險的重要理念，提醒讀者別被市場流行術語與短期熱潮所迷惑。此50週年增訂版則進一步納入ESG、加密貨幣等新興議題，讓本書在新時代仍具實用價值。</p>
-<p><img src="/img/posts/reading-notes-walking-on-wall-street-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>指數型基金為王道：長期投資、廣泛分散，是最穩健的致富之路。</li>
-<li>市場難以預測：技術分析與基本面分析皆有盲點，普通人難以持續打敗市場。</li>
-<li>風險與報酬並存：報酬來自承擔風險，但非所有風險皆值得承擔。</li>
-<li>行為財務學警示：人性常導致投資錯誤，須設計簡單且能堅持的策略。</li>
-<li>新興投資需謹慎：NFT、加密貨幣與ESG投資背後潛藏高風險與資訊不對稱。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你是否曾因熱門話題而進場投資，卻忽略了風險與長期性？</li>
-<li>當市場震盪時，你能否堅守紀律、不輕易調整資產配置？</li>
-<li>面對投資新趨勢，如何保持開放但不盲從的態度？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《漫步華爾街》提醒我們：與其追逐短期獲利，不如選擇一條可持之以恆的簡單道路。對每一位想改善財務狀況的投資人而言，這是一本值得反覆閱讀的實用經典。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>漫步華爾街</tag>
-        <tag>超越股市漲跌的成功投資策略</tag>
       </tags>
   </entry>
   <entry>
@@ -3455,6 +3525,57 @@
       </tags>
   </entry>
   <entry>
+    <title>《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》| 閱讀心得學習筆記</title>
+    <url>/2021/08/05/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》</span><br><span class="line">作者： 彭建文  </span><br><span class="line">出版社：商業周刊  </span><br><span class="line">出版日期：2021/08/05</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「一流人才，不靠天賦，而靠一流的解題思維。強化四種思考力（產品思維力、市場思維力、財務思維力、競爭者思維力），養成經營者般的商業思維，決策精準、果斷。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在快速變動與高壓的職場環境中，單靠努力與技能已難以脫穎而出。《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》作者彭建文，憑藉在台積電的深厚歷練，提出一套邏輯嚴謹、方法實用的解題思維與經營觀點，幫助讀者在職場中培養經營者般的全局視野與問題解決力。本書不只是一本職場技巧書，更是一本教你如何用經營思維進化自己的職涯解題書。</p>
+<p><img src="/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><p><strong>四大商業思維力：</strong></p>
+<ul>
+<li><em>產品思維力</em>：從市場角度理解產品價值，不當只懂執行的工作者。</li>
+<li><em>市場思維力</em>：觀察趨勢、理解顧客與需求演變，掌握工作未來性。</li>
+<li><em>財務思維力</em>：理解成本與營收的背後邏輯，建立數字敏感度。</li>
+<li><em>競爭者思維力</em>：從外部競爭中學習，刺激創新與優化。</li>
+</ul>
+</li>
+<li><p><strong>高效解題工作法：</strong></p>
+<ul>
+<li>採用 <em>8D、3x5 Why、5W2H</em> 等問題分析工具，聚焦核心、排定優先。</li>
+<li>強化會議與回應技巧，提升提問力與臨場應變。</li>
+<li>「滾動式修正」取代一次到位，培養動態調整的能力。</li>
+</ul>
+</li>
+<li><p><strong>職涯進階策略：</strong></p>
+<ul>
+<li>建立問責與改善文化，發展持續進步的思維。</li>
+<li>掌握升遷五力：績效、表達、思維、協作、潛力。</li>
+<li>學會用考績制度設計激勵，影響團隊士氣與績效。</li>
+</ul>
+</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我是否總是忙於執行，卻忽略了從「經營層級」看問題？</li>
+<li>面對反覆發生的問題，我是否掌握了有效的分析工具？</li>
+<li>我的升遷卡關，是因為缺乏什麼樣的商業或邏輯思維？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>作者以其在台積電的實戰經驗，將世界級企業的經營與解題邏輯濃縮成一套人人可學的實用方法。本書幫助職場工作者從執行者思維，轉化為具有經營視角的問題解決者。不論你是基層員工、管理主管，甚至是創業者，都能從中獲得升級自己職涯的關鍵答案。讓解題能力與經營思維，成為你職場中的最佳靠山。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>思維的良率</tag>
+        <tag>台積電教我的高效工作法，像經營者一樣思考、解題</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《你不是懶，而是能量低：人生開外掛的精力管理術》| 閱讀心得學習筆記</title>
     <url>/2024/10/22/reading-notes-you-are-not-lazy-but-low-energy/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-you-are-not-lazy-but-low-energy-1.jpg"></p>
@@ -3551,57 +3672,6 @@
         <tag>人生就會值得</tag>
         <tag>你願意</tag>
         <tag>蔡康永的情商課</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》| 閱讀心得學習筆記</title>
-    <url>/2021/08/05/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》</span><br><span class="line">作者： 彭建文  </span><br><span class="line">出版社：商業周刊  </span><br><span class="line">出版日期：2021/08/05</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「一流人才，不靠天賦，而靠一流的解題思維。強化四種思考力（產品思維力、市場思維力、財務思維力、競爭者思維力），養成經營者般的商業思維，決策精準、果斷。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在快速變動與高壓的職場環境中，單靠努力與技能已難以脫穎而出。《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》作者彭建文，憑藉在台積電的深厚歷練，提出一套邏輯嚴謹、方法實用的解題思維與經營觀點，幫助讀者在職場中培養經營者般的全局視野與問題解決力。本書不只是一本職場技巧書，更是一本教你如何用經營思維進化自己的職涯解題書。</p>
-<p><img src="/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><p><strong>四大商業思維力：</strong></p>
-<ul>
-<li><em>產品思維力</em>：從市場角度理解產品價值，不當只懂執行的工作者。</li>
-<li><em>市場思維力</em>：觀察趨勢、理解顧客與需求演變，掌握工作未來性。</li>
-<li><em>財務思維力</em>：理解成本與營收的背後邏輯，建立數字敏感度。</li>
-<li><em>競爭者思維力</em>：從外部競爭中學習，刺激創新與優化。</li>
-</ul>
-</li>
-<li><p><strong>高效解題工作法：</strong></p>
-<ul>
-<li>採用 <em>8D、3x5 Why、5W2H</em> 等問題分析工具，聚焦核心、排定優先。</li>
-<li>強化會議與回應技巧，提升提問力與臨場應變。</li>
-<li>「滾動式修正」取代一次到位，培養動態調整的能力。</li>
-</ul>
-</li>
-<li><p><strong>職涯進階策略：</strong></p>
-<ul>
-<li>建立問責與改善文化，發展持續進步的思維。</li>
-<li>掌握升遷五力：績效、表達、思維、協作、潛力。</li>
-<li>學會用考績制度設計激勵，影響團隊士氣與績效。</li>
-</ul>
-</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我是否總是忙於執行，卻忽略了從「經營層級」看問題？</li>
-<li>面對反覆發生的問題，我是否掌握了有效的分析工具？</li>
-<li>我的升遷卡關，是因為缺乏什麼樣的商業或邏輯思維？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>作者以其在台積電的實戰經驗，將世界級企業的經營與解題邏輯濃縮成一套人人可學的實用方法。本書幫助職場工作者從執行者思維，轉化為具有經營視角的問題解決者。不論你是基層員工、管理主管，甚至是創業者，都能從中獲得升級自己職涯的關鍵答案。讓解題能力與經營思維，成為你職場中的最佳靠山。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>思維的良率</tag>
-        <tag>台積電教我的高效工作法，像經營者一樣思考、解題</tag>
       </tags>
   </entry>
   <entry>
