@@ -189,13 +189,13 @@
 <p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
       <tags>
-        <tag>產品專案管理</tag>
-        <tag>產品管理</tag>
-        <tag>專案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產品專案管理</tag>
+        <tag>產品管理</tag>
+        <tag>專案管理</tag>
         <tag>Axure RP 10</tag>
         <tag>axure</tag>
       </tags>
@@ -302,6 +302,101 @@
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
         <tag>LangChain</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學</title>
+    <url>/2024/05/23/llm-rag-app-notes/</url>
+    <content><![CDATA[<p>擷取擴增產生&#x2F;檢索增強生成（Retrieval-Augmented Generation, RAG）是一種結合檢索和生成技術的混合模型，用於改善文本生成任務的性能。這種方法能夠在生成文本時引入外部知識，從而生成更準確和上下文相關的內容。以下是對 RAG 的詳細介紹：</p>
+<h3 id="RAG-的工作原理"><a href="#RAG-的工作原理" class="headerlink" title="RAG 的工作原理"></a>RAG 的工作原理</h3><ol>
+<li><p><strong>檢索階段</strong>：</p>
+<ul>
+<li><strong>查詢生成</strong>：首先，根據輸入文本（例如用戶查詢或初始上下文），生成一個查詢。</li>
+<li><strong>文件檢索</strong>：使用查詢從大型文件庫或知識庫中檢索相關文件。這可以使用傳統的資訊檢索技術（如 TF-IDF、BM25）或先進的檢索模型（如 Dense Passage Retrieval, DPR）。</li>
+</ul>
+</li>
+<li><p><strong>生成階段</strong>：</p>
+<ul>
+<li><strong>資訊整合</strong>：將檢索到的相關文件與原始輸入結合，作為生成模型的上下文。</li>
+<li><strong>文本生成</strong>：生成模型（如 GPT 或 BERT 變體）基於這些整合的上下文生成回應或文本。</li>
+</ul>
+</li>
+</ol>
+<h3 id="RAG-的優點"><a href="#RAG-的優點" class="headerlink" title="RAG 的優點"></a>RAG 的優點</h3><ol>
+<li><p><strong>上下文豐富性</strong>：</p>
+<ul>
+<li>由於引入了外部文件，生成模型在生成回應時能夠參考更多的背景資訊，從而提高生成文本的品質和準確性。</li>
+</ul>
+</li>
+<li><p><strong>動態知識更新</strong>：</p>
+<ul>
+<li>通過檢索最新的文件，模型能夠利用最新的資訊，而不需要重新訓練模型來更新知識。</li>
+</ul>
+</li>
+<li><p><strong>知識擴展</strong>：</p>
+<ul>
+<li>模型不再僅僅依賴於訓練數據中的資訊，而是可以動態地檢索和使用更多外部知識，適應更廣泛的應用場景。</li>
+</ul>
+</li>
+</ol>
+<h3 id="RAG-的應用"><a href="#RAG-的應用" class="headerlink" title="RAG 的應用"></a>RAG 的應用</h3><ol>
+<li><p><strong>問答系統</strong>：</p>
+<ul>
+<li>例如，對於複雜或需要最新資訊的問答，RAG 可以檢索相關資料並生成詳細回答。</li>
+</ul>
+</li>
+<li><p><strong>對話系統</strong>：</p>
+<ul>
+<li>在聊天機器人中使用 RAG 可以提高對話的連貫性和資訊量，提供更有意義和上下文相關的回應。</li>
+</ul>
+</li>
+<li><p><strong>內容生成</strong>：</p>
+<ul>
+<li>用於撰寫技術文文件、新聞報導或產品描述時，RAG 可以檢索相關背景資料並生成高品質的文本。</li>
+</ul>
+</li>
+<li><p><strong>文本摘要</strong>：</p>
+<ul>
+<li>將長文件或多個文建的核心資訊檢索出來，並生成簡潔的摘要。</li>
+</ul>
+</li>
+</ol>
+<h3 id="RAG-的挑戰"><a href="#RAG-的挑戰" class="headerlink" title="RAG 的挑戰"></a>RAG 的挑戰</h3><ol>
+<li><p><strong>檢索品質</strong>：</p>
+<ul>
+<li>檢索階段的品質直接影響生成結果，檢索到的文件需要高度相關且準確。</li>
+</ul>
+</li>
+<li><p><strong>整合策略</strong>：</p>
+<ul>
+<li>如何有效地將檢索到的文件與原始上下文整合，是一個技術挑戰。</li>
+</ul>
+</li>
+<li><p><strong>計算資源</strong>：</p>
+<ul>
+<li>檢索和生成過程需要大量的計算資源，尤其是在處理大規模文件庫時。</li>
+</ul>
+</li>
+</ol>
+<h3 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h3><p>擷取擴增產生&#x2F;檢索增強生成（RAG）是一種創新的文本生成方法，結合了檢索和生成技術的優點，能夠在許多應用場景中提供更準確和上下文相關的文本生成。儘管面臨一些挑戰，但隨著技術的不斷發展，RAG 在自然語言處理領域展示了廣闊的應用前景。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://www.oracle.com/tw/artificial-intelligence/generative-ai/retrieval-augmented-generation-rag/">什麼是 Retrieval-Augmented Generation (RAG)？</a></li>
+<li><a href="https://blog.infuseai.io/rag-retrieval-augmented-generation-introduction-a5854cb6393e">RAG 檢索增強生成— 讓大型語言模型更聰明的秘密武器</a></li>
+<li><a href="https://aws.amazon.com/tw/what-is/retrieval-augmented-generation/">什麼是 RAG？</a></li>
+<li><a href="https://blogs.nvidia.com.tw/blog/what-is-retrieval-augmented-generation/">什麼是檢索增強生成？</a></li>
+<li><a href="https://learn.microsoft.com/zh-tw/azure/search/retrieval-augmented-generation-overview">在 Azure AI 搜尋中擷取擴增產生 (RAG)</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>RAG</tag>
+        <tag>Retrieval-Augmented Generation</tag>
+        <tag>擷取擴增產生</tag>
+        <tag>檢索增強生成</tag>
       </tags>
   </entry>
   <entry>
@@ -434,101 +529,6 @@
       </tags>
   </entry>
   <entry>
-    <title>擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學</title>
-    <url>/2024/05/23/llm-rag-app-notes/</url>
-    <content><![CDATA[<p>擷取擴增產生&#x2F;檢索增強生成（Retrieval-Augmented Generation, RAG）是一種結合檢索和生成技術的混合模型，用於改善文本生成任務的性能。這種方法能夠在生成文本時引入外部知識，從而生成更準確和上下文相關的內容。以下是對 RAG 的詳細介紹：</p>
-<h3 id="RAG-的工作原理"><a href="#RAG-的工作原理" class="headerlink" title="RAG 的工作原理"></a>RAG 的工作原理</h3><ol>
-<li><p><strong>檢索階段</strong>：</p>
-<ul>
-<li><strong>查詢生成</strong>：首先，根據輸入文本（例如用戶查詢或初始上下文），生成一個查詢。</li>
-<li><strong>文件檢索</strong>：使用查詢從大型文件庫或知識庫中檢索相關文件。這可以使用傳統的資訊檢索技術（如 TF-IDF、BM25）或先進的檢索模型（如 Dense Passage Retrieval, DPR）。</li>
-</ul>
-</li>
-<li><p><strong>生成階段</strong>：</p>
-<ul>
-<li><strong>資訊整合</strong>：將檢索到的相關文件與原始輸入結合，作為生成模型的上下文。</li>
-<li><strong>文本生成</strong>：生成模型（如 GPT 或 BERT 變體）基於這些整合的上下文生成回應或文本。</li>
-</ul>
-</li>
-</ol>
-<h3 id="RAG-的優點"><a href="#RAG-的優點" class="headerlink" title="RAG 的優點"></a>RAG 的優點</h3><ol>
-<li><p><strong>上下文豐富性</strong>：</p>
-<ul>
-<li>由於引入了外部文件，生成模型在生成回應時能夠參考更多的背景資訊，從而提高生成文本的品質和準確性。</li>
-</ul>
-</li>
-<li><p><strong>動態知識更新</strong>：</p>
-<ul>
-<li>通過檢索最新的文件，模型能夠利用最新的資訊，而不需要重新訓練模型來更新知識。</li>
-</ul>
-</li>
-<li><p><strong>知識擴展</strong>：</p>
-<ul>
-<li>模型不再僅僅依賴於訓練數據中的資訊，而是可以動態地檢索和使用更多外部知識，適應更廣泛的應用場景。</li>
-</ul>
-</li>
-</ol>
-<h3 id="RAG-的應用"><a href="#RAG-的應用" class="headerlink" title="RAG 的應用"></a>RAG 的應用</h3><ol>
-<li><p><strong>問答系統</strong>：</p>
-<ul>
-<li>例如，對於複雜或需要最新資訊的問答，RAG 可以檢索相關資料並生成詳細回答。</li>
-</ul>
-</li>
-<li><p><strong>對話系統</strong>：</p>
-<ul>
-<li>在聊天機器人中使用 RAG 可以提高對話的連貫性和資訊量，提供更有意義和上下文相關的回應。</li>
-</ul>
-</li>
-<li><p><strong>內容生成</strong>：</p>
-<ul>
-<li>用於撰寫技術文文件、新聞報導或產品描述時，RAG 可以檢索相關背景資料並生成高品質的文本。</li>
-</ul>
-</li>
-<li><p><strong>文本摘要</strong>：</p>
-<ul>
-<li>將長文件或多個文建的核心資訊檢索出來，並生成簡潔的摘要。</li>
-</ul>
-</li>
-</ol>
-<h3 id="RAG-的挑戰"><a href="#RAG-的挑戰" class="headerlink" title="RAG 的挑戰"></a>RAG 的挑戰</h3><ol>
-<li><p><strong>檢索品質</strong>：</p>
-<ul>
-<li>檢索階段的品質直接影響生成結果，檢索到的文件需要高度相關且準確。</li>
-</ul>
-</li>
-<li><p><strong>整合策略</strong>：</p>
-<ul>
-<li>如何有效地將檢索到的文件與原始上下文整合，是一個技術挑戰。</li>
-</ul>
-</li>
-<li><p><strong>計算資源</strong>：</p>
-<ul>
-<li>檢索和生成過程需要大量的計算資源，尤其是在處理大規模文件庫時。</li>
-</ul>
-</li>
-</ol>
-<h3 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h3><p>擷取擴增產生&#x2F;檢索增強生成（RAG）是一種創新的文本生成方法，結合了檢索和生成技術的優點，能夠在許多應用場景中提供更準確和上下文相關的文本生成。儘管面臨一些挑戰，但隨著技術的不斷發展，RAG 在自然語言處理領域展示了廣闊的應用前景。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://www.oracle.com/tw/artificial-intelligence/generative-ai/retrieval-augmented-generation-rag/">什麼是 Retrieval-Augmented Generation (RAG)？</a></li>
-<li><a href="https://blog.infuseai.io/rag-retrieval-augmented-generation-introduction-a5854cb6393e">RAG 檢索增強生成— 讓大型語言模型更聰明的秘密武器</a></li>
-<li><a href="https://aws.amazon.com/tw/what-is/retrieval-augmented-generation/">什麼是 RAG？</a></li>
-<li><a href="https://blogs.nvidia.com.tw/blog/what-is-retrieval-augmented-generation/">什麼是檢索增強生成？</a></li>
-<li><a href="https://learn.microsoft.com/zh-tw/azure/search/retrieval-augmented-generation-overview">在 Azure AI 搜尋中擷取擴增產生 (RAG)</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>RAG</tag>
-        <tag>Retrieval-Augmented Generation</tag>
-        <tag>擷取擴增產生</tag>
-        <tag>檢索增強生成</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>產品經理（Product Manager, PM）課程學習參考清單</title>
     <url>/2024/06/03/product-manager-course-list/</url>
     <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
@@ -541,11 +541,11 @@
 </ol>
 ]]></content>
       <tags>
+        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>PM</tag>
@@ -639,11 +639,11 @@
 </ol>
 ]]></content>
       <tags>
+        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>Project Manager</tag>
@@ -671,11 +671,11 @@
 </ol>
 ]]></content>
       <tags>
+        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>PM</tag>
@@ -1313,11 +1313,11 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書不僅適用於產品專案管理者，更是所有企業領導人應該深入研究的課題。數位轉型的成功關鍵在於建立「授權與賦能」的文化，使組織成員能夠自主決策與創新，最終提升企業競爭力。透過培養 <code>Sense of Ownership</code>（責任感），企業與員工才能實現共榮共存。</p>
 ]]></content>
       <tags>
+        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>產品專案管理專案全書</tag>
@@ -1583,6 +1583,38 @@
       </tags>
   </entry>
   <entry>
+    <title>《假如孫子是現代上班族》| 閱讀心得學習筆記</title>
+    <url>/2020/11/26/reading-notes-if-sunzi-were-a-modern-office-worker/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《假如孫子是現代上班族》</span><br><span class="line">作者： 安恒理（Osamu Yasutsune）  </span><br><span class="line">譯者： 沈俊傑</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2020/11/26</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「知彼知己，百戰不殆。《孫子兵法》不僅是一部軍書，更能應用在商場、戀愛、運動、博弈等含有競爭要素的領域，因為一切競爭行為都來自於人，而《孫子兵法》精準剖析了人類細微的心理。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《假如孫子是現代上班族》是一本將《孫子兵法》現代化應用於職場的實戰指南。作者安恒理以現代職場的五大情境問題為核心，搭配32條兵法守則與38則實務案例，引導讀者如何透過「情報」與「策略」，在混亂不明的職場中脫穎而出，打造不敗的生存之道。</p>
+<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>情報為先</strong>：孫子強調「多算勝，少算不勝」，蒐集與分析情報才是致勝關鍵。</li>
+<li><strong>攻心為上</strong>：掌握上司、客戶的習慣與喜好，在對方鬆懈時出擊最有效。</li>
+<li><strong>順勢而為</strong>：與其硬碰硬，不如借力使力、利用敵方資源達成目的。</li>
+<li><strong>靈活應變</strong>：比起強者思維，「生存智慧」與適應變化的能力才是長遠之計。</li>
+<li><strong>職場戰略</strong>：離職糾紛、客訴危機、公關風暴皆可借由兵法中的「守」、「攻」、「變」對應解法。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否過於強調績效與努力，卻忽略了背後的資訊戰與心理戰？</li>
+<li>在講求效率的現代職場，「等待最佳時機」是否會被視為消極？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提醒我們，職場如戰場，面對豬隊友、奧客、雷主管時，光靠努力不夠，更要懂得策略與情報運用。透過孫子的智慧，我們能更有系統地拆解問題、預判風險，化解難關。現代問題，有時真的需要古代手段解決。這本書，正是寫給在職場中載浮載沉的你。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>假如孫子是現代上班族</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》| 閱讀心得學習筆記</title>
     <url>/2020/04/08/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-1.jpg"></p>
@@ -1624,38 +1656,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《假如孫子是現代上班族》| 閱讀心得學習筆記</title>
-    <url>/2020/11/26/reading-notes-if-sunzi-were-a-modern-office-worker/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《假如孫子是現代上班族》</span><br><span class="line">作者： 安恒理（Osamu Yasutsune）  </span><br><span class="line">譯者： 沈俊傑</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2020/11/26</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「知彼知己，百戰不殆。《孫子兵法》不僅是一部軍書，更能應用在商場、戀愛、運動、博弈等含有競爭要素的領域，因為一切競爭行為都來自於人，而《孫子兵法》精準剖析了人類細微的心理。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《假如孫子是現代上班族》是一本將《孫子兵法》現代化應用於職場的實戰指南。作者安恒理以現代職場的五大情境問題為核心，搭配32條兵法守則與38則實務案例，引導讀者如何透過「情報」與「策略」，在混亂不明的職場中脫穎而出，打造不敗的生存之道。</p>
-<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>情報為先</strong>：孫子強調「多算勝，少算不勝」，蒐集與分析情報才是致勝關鍵。</li>
-<li><strong>攻心為上</strong>：掌握上司、客戶的習慣與喜好，在對方鬆懈時出擊最有效。</li>
-<li><strong>順勢而為</strong>：與其硬碰硬，不如借力使力、利用敵方資源達成目的。</li>
-<li><strong>靈活應變</strong>：比起強者思維，「生存智慧」與適應變化的能力才是長遠之計。</li>
-<li><strong>職場戰略</strong>：離職糾紛、客訴危機、公關風暴皆可借由兵法中的「守」、「攻」、「變」對應解法。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否過於強調績效與努力，卻忽略了背後的資訊戰與心理戰？</li>
-<li>在講求效率的現代職場，「等待最佳時機」是否會被視為消極？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提醒我們，職場如戰場，面對豬隊友、奧客、雷主管時，光靠努力不夠，更要懂得策略與情報運用。透過孫子的智慧，我們能更有系統地拆解問題、預判風險，化解難關。現代問題，有時真的需要古代手段解決。這本書，正是寫給在職場中載浮載沉的你。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>假如孫子是現代上班族</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀心得學習筆記</title>
     <url>/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-1.jpg"></p>
@@ -1689,11 +1689,11 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
 ]]></content>
       <tags>
+        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
-        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>閱讀心得學習筆記</tag>
@@ -1987,6 +1987,36 @@
       </tags>
   </entry>
   <entry>
+    <title>《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》| 閱讀心得學習筆記</title>
+    <url>/2024/08/19/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》</span><br><span class="line">作者： 中野信子</span><br><span class="line">譯者： 陳亦苓</span><br><span class="line">出版社：悅知文化</span><br><span class="line">出版日期：2024/08/19</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「運氣並非與生俱來，而是會隨著「思維」及「行為模式」而改變的。運氣，100% 事在人為。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>運氣是許多人認為無法控制的因素，但在中野信子的著作中，他揭示了<code>運氣其實是可以透過思維</code>與<code>行為的模式來改變</code>的。書中指出，幸運並非天賦，而是可以透過<code>對大腦的訓練</code>與調整，從而讓自己成為「<code>運氣好的人</code>」。本書從腦科學的角度出發，為讀者提供了實踐「幸運腦」的具體方法，讓每個人都能夠掌控自己的人生，並提升自己的運氣。</p>
+<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>運氣的改變</strong>：運氣不是天生的，透過<code>改變思維</code>和<code>行為模式</code>，<code>運氣是可以被控制的</code>。</li>
+<li><strong>幸福標準</strong>：運氣好的人擁有自己的<code>幸福標準</code>，並依此來決定目標與夢想。</li>
+<li><strong>正向思維</strong>：<code>保持正面的自我形象</code>，並大聲說出「<code>我好幸運</code>」，能激發大腦的積極反應，促使好運降臨。</li>
+<li><strong>行為模式</strong>：<code>採取利他行為</code>，讓大腦的「<code>內側前額葉皮質</code>」活躍，帶來更多愉悅感。</li>
+<li><strong>祈禱與幻想</strong>：<code>積極的祈禱</code>和<code>積極幻想</code>能激活大腦中的快樂神經，促進運氣的提升。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅從腦科學的角度解析運氣的科學，還為讀者提供了 36 個能讓大腦轉變成「幸運腦」的具體方法。無論在職場、人際關係，還是戀愛中，運氣都可以被創造出來。透過這些方法，每個人都可以掌控自己的命運，迎接更多的好運與機會。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>運氣好的人</tag>
+        <tag>運氣</tag>
+        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《顯化效應：每天都能做的「注意力鍊金術」，讓你心想事成》| 閱讀心得學習筆記</title>
     <url>/2022/03/30/reading-notes-manifesting/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-manifesting-1.jpg"></p>
@@ -2035,36 +2065,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》| 閱讀心得學習筆記</title>
-    <url>/2024/08/19/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》</span><br><span class="line">作者： 中野信子</span><br><span class="line">譯者： 陳亦苓</span><br><span class="line">出版社：悅知文化</span><br><span class="line">出版日期：2024/08/19</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「運氣並非與生俱來，而是會隨著「思維」及「行為模式」而改變的。運氣，100% 事在人為。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>運氣是許多人認為無法控制的因素，但在中野信子的著作中，他揭示了<code>運氣其實是可以透過思維</code>與<code>行為的模式來改變</code>的。書中指出，幸運並非天賦，而是可以透過<code>對大腦的訓練</code>與調整，從而讓自己成為「<code>運氣好的人</code>」。本書從腦科學的角度出發，為讀者提供了實踐「幸運腦」的具體方法，讓每個人都能夠掌控自己的人生，並提升自己的運氣。</p>
-<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>運氣的改變</strong>：運氣不是天生的，透過<code>改變思維</code>和<code>行為模式</code>，<code>運氣是可以被控制的</code>。</li>
-<li><strong>幸福標準</strong>：運氣好的人擁有自己的<code>幸福標準</code>，並依此來決定目標與夢想。</li>
-<li><strong>正向思維</strong>：<code>保持正面的自我形象</code>，並大聲說出「<code>我好幸運</code>」，能激發大腦的積極反應，促使好運降臨。</li>
-<li><strong>行為模式</strong>：<code>採取利他行為</code>，讓大腦的「<code>內側前額葉皮質</code>」活躍，帶來更多愉悅感。</li>
-<li><strong>祈禱與幻想</strong>：<code>積極的祈禱</code>和<code>積極幻想</code>能激活大腦中的快樂神經，促進運氣的提升。</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅從腦科學的角度解析運氣的科學，還為讀者提供了 36 個能讓大腦轉變成「幸運腦」的具體方法。無論在職場、人際關係，還是戀愛中，運氣都可以被創造出來。透過這些方法，每個人都可以掌控自己的命運，迎接更多的好運與機會。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>運氣好的人</tag>
-        <tag>運氣</tag>
-        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《掌握人心的MBTI職場溝通術：讓你開口說對話、提案一次過、贏得好人緣的16型人職場指南》| 閱讀心得學習筆記</title>
     <url>/2024/02/01/reading-notes-mbti-communication-techniques-to-win-hearts-at-work/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-mbti-communication-techniques-to-win-hearts-at-work-1.jpg"></p>
@@ -2110,42 +2110,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》| 閱讀心得學習筆記</title>
-    <url>/2024/11/14/reading-notes-micro-skills-small-actions-big-impact-notes/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》</span><br><span class="line">作者： 艾黛拉．蘭德瑞, 瑞莎．盧伊斯  </span><br><span class="line">原文作者： Adaira Landry MD , Resa E. Lewiss MD</span><br><span class="line">譯者： 何玉方</span><br><span class="line">出版社：商業周刊</span><br><span class="line">出版日期：2024/11/14</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「職場成敗，不在大事，而是小事的堆疊。職場的每步路，都是由小小的「原子技巧」累積起來。做對小事、避開小錯，持續練習就能累積大成果。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在競爭激烈又變化迅速的現代職場，僅靠努力與熱情，已不足以支撐我們走得長遠。《原子技巧》一書由兩位來自醫界、歷經現實挑戰的女醫師所寫，提出一個關鍵觀念：「成就來自於無數細小技巧的積累與應用」。這本書像是一份實用的職場工具包，幫助我們在不被教導的領域中穩健前進。</p>
-<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>原子技巧的核心概念：小行為積少成多，能影響大結果。每一項技巧都是具體、可練習、可衡量的。</p>
-<p>三大技巧範疇：</p>
-<ol>
-<li>自我照顧與效率提升：包括睡眠、情緒管理、行事曆規劃、精簡瑣事。</li>
-<li>任務與溝通管理：學會與主管對齊目標、設限會議時間、簡明扼要地傳達需求。</li>
-<li>人際與晉升策略：擴展人脈、建立信任、展現專業、避免社交地雷。</li>
-</ol>
-<p>應用方法：<br>將大目標拆解成小任務，對應適合的技巧逐一練習，例如建立人脈時先從內向者的舒適圈突破，再逐步擴張社交網絡。</p>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>為何學校與傳統教育中，鮮少提及這些實用技巧？</li>
-<li>在你目前的工作中，哪一項「原子技巧」最欠缺？</li>
-<li>是否曾因「小錯」而錯過晉升或重要機會？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《原子技巧》並非高談闊論成功學的書，而是一份實戰指南。透過拆解與練習這些細小但關鍵的行為模式，我們不只提升效率，更能在面對壓力與挑戰時，更穩健地應對。這是一本應該反覆翻閱、逐步實踐的職涯夥伴。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>原子技巧</tag>
-        <tag>小練習帶來大改變</tag>
-        <tag>早知道會更好的10種職場組合技</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《非暴力溝通：愛的語言》| 閱讀心得學習筆記</title>
     <url>/2019/08/01/reading-notes-nonviolent-communication-a-language-of-life/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-nonviolent-communication-a-language-of-life-1.jpg"></p>
@@ -2180,6 +2144,42 @@
         <tag>心理學</tag>
         <tag>非暴力溝通</tag>
         <tag>愛的語言</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》| 閱讀心得學習筆記</title>
+    <url>/2024/11/14/reading-notes-micro-skills-small-actions-big-impact-notes/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》</span><br><span class="line">作者： 艾黛拉．蘭德瑞, 瑞莎．盧伊斯  </span><br><span class="line">原文作者： Adaira Landry MD , Resa E. Lewiss MD</span><br><span class="line">譯者： 何玉方</span><br><span class="line">出版社：商業周刊</span><br><span class="line">出版日期：2024/11/14</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「職場成敗，不在大事，而是小事的堆疊。職場的每步路，都是由小小的「原子技巧」累積起來。做對小事、避開小錯，持續練習就能累積大成果。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在競爭激烈又變化迅速的現代職場，僅靠努力與熱情，已不足以支撐我們走得長遠。《原子技巧》一書由兩位來自醫界、歷經現實挑戰的女醫師所寫，提出一個關鍵觀念：「成就來自於無數細小技巧的積累與應用」。這本書像是一份實用的職場工具包，幫助我們在不被教導的領域中穩健前進。</p>
+<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>原子技巧的核心概念：小行為積少成多，能影響大結果。每一項技巧都是具體、可練習、可衡量的。</p>
+<p>三大技巧範疇：</p>
+<ol>
+<li>自我照顧與效率提升：包括睡眠、情緒管理、行事曆規劃、精簡瑣事。</li>
+<li>任務與溝通管理：學會與主管對齊目標、設限會議時間、簡明扼要地傳達需求。</li>
+<li>人際與晉升策略：擴展人脈、建立信任、展現專業、避免社交地雷。</li>
+</ol>
+<p>應用方法：<br>將大目標拆解成小任務，對應適合的技巧逐一練習，例如建立人脈時先從內向者的舒適圈突破，再逐步擴張社交網絡。</p>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>為何學校與傳統教育中，鮮少提及這些實用技巧？</li>
+<li>在你目前的工作中，哪一項「原子技巧」最欠缺？</li>
+<li>是否曾因「小錯」而錯過晉升或重要機會？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《原子技巧》並非高談闊論成功學的書，而是一份實戰指南。透過拆解與練習這些細小但關鍵的行為模式，我們不只提升效率，更能在面對壓力與挑戰時，更穩健地應對。這是一本應該反覆翻閱、逐步實踐的職涯夥伴。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>原子技巧</tag>
+        <tag>小練習帶來大改變</tag>
+        <tag>早知道會更好的10種職場組合技</tag>
       </tags>
   </entry>
   <entry>
@@ -2297,7 +2297,7 @@
 <p>粉絲來信：想投入專案管理、商業管理領域，卻始終不得要領，即便自學相關知識，仍苦於如何落地，職涯高不成、低不就，被迫在不擅長的領域不斷碰撞，缺乏自信、自我懷疑，如今已年過三十，職涯仍未能穩定向前。</p>
 </blockquote>
 <blockquote>
-<p>職涯轉換需要時間，在高壓和快速變動的環境下上班族變得越來越不容易，每個人都有自己的時區，不需要跟他人比較，多給自己一點寬容和時間。這邊推薦您一本關於職涯規劃管理、工作和學習效率提升的書籍，希望對您會有幫助：）</p>
+<p>人生處方籤：職涯轉換需要時間，在高壓和快速變動的環境下上班族變得越來越不容易，每個人都有自己的時區，不需要跟他人比較，多給自己一點寬容和時間。這邊推薦您一本關於職涯規劃管理、工作和學習效率提升的書籍，希望對您會有幫助：）</p>
 </blockquote>
 <blockquote>
 <p>「不管多小的努力，不停地做、使勁做、堅持做，成效會很大！設置一個每天要做的最低量，跑贏人生的馬拉松。」</p>
@@ -2458,8 +2458,8 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅適合敏捷教練，也適合任何希望提升團隊績效的領導者。透過理解並實踐不同教練風格，能讓團隊自主成長、持續改善，最終打造出真正具有影響力的敏捷文化。</p>
 ]]></content>
       <tags>
-        <tag>產品</tag>
         <tag>產案管理</tag>
+        <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>Project Manager</tag>
@@ -2580,41 +2580,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《我得了不想上班的病：倦怠的5大解藥，從有毒工作中奪回你的人生》| 閱讀心得學習筆記</title>
-    <url>/2025/02/25/reading-notes-the-cure-for-burnout-how-to-find-balance-and-reclaim-your-life/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-cure-for-burnout-how-to-find-balance-and-reclaim-your-life-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我得了不想上班的病：倦怠的5大解藥，從有毒工作中奪回你的人生》</span><br><span class="line">作者： 艾米莉．巴列斯特羅斯  </span><br><span class="line">原文作者： Emily Ballesteros</span><br><span class="line">譯者： 洪慧芳</span><br><span class="line">出版社：時報出版</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「倦怠不是你的錯，而是你需要學會管理的課題。從今天起，為生活而工作，不再為工作而活。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會，我們時常被高壓工作與無止境的責任感推著走，逐漸遺忘了生活的真正意義。《我得了不想上班的病：倦怠的5大解藥，從有毒工作中奪回你的人生》這本書，正是針對這種普遍的職場倦怠現象，提供了清晰的分類與實用的方法，幫助讀者擺脫長期疲憊，重拾對生活的掌控權。</p>
-<p><img src="/img/posts/reading-notes-the-cure-for-burnout-how-to-find-balance-and-reclaim-your-life-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="三種類型的倦怠"><a href="#三種類型的倦怠" class="headerlink" title="三種類型的倦怠"></a>三種類型的倦怠</h3><ol>
-<li><strong>過勞型倦怠</strong>：習慣討好他人、總覺得成就比休息更重要，無法擺脫高壓工作。</li>
-<li><strong>社交倦怠</strong>：人際關係需求超過自身承受範圍，導致精力透支，對社交產生排斥感。</li>
-<li><strong>無聊型倦怠</strong>：長期對事物失去興趣，缺乏參與感，無法提起動力做出改變。</li>
-</ol>
-<h3 id="擺脫倦怠的五大解方"><a href="#擺脫倦怠的五大解方" class="headerlink" title="擺脫倦怠的五大解方"></a>擺脫倦怠的五大解方</h3><ol>
-<li><strong>心態調整</strong>：明確個人價值觀，讓時間運用與自身目標對齊。</li>
-<li><strong>個人關懷</strong>：學會關注自身需求，而非一味滿足他人。</li>
-<li><strong>時間管理</strong>：優先處理真正重要的事，避免低效耗能。</li>
-<li><strong>設立界線</strong>：明確劃分個人時間與工作責任，避免過度消耗。</li>
-<li><strong>壓力管理</strong>：以理性方式面對壓力，透過「覺察力三角」重塑健康心態。</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅幫助我們識別倦怠的來源，還提供了一套可行的策略來改善生活品質。當我們學會管理自身的精力與界限，就能真正為生活而工作，而不是讓工作吞噬生活。這不僅是職場生存指南，更是一堂自我成長的必修課。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>我得了不想上班的病</tag>
-        <tag>倦怠的5大解藥</tag>
-        <tag>從有毒工作中奪回你的人生</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《被討厭的勇氣：自我啟發之父「阿德勒」的教導》| 閱讀心得學習筆記</title>
     <url>/2014/10/30/reading-notes-the-courage-to-be-disliked-1/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-courage-to-be-disliked-1-1.jpg"></p>
@@ -2683,6 +2648,41 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>顯化效應</tag>
         <tag>中年之路：穿越幽暗，迎向完整的內在鍊金之旅</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《我得了不想上班的病：倦怠的5大解藥，從有毒工作中奪回你的人生》| 閱讀心得學習筆記</title>
+    <url>/2025/02/25/reading-notes-the-cure-for-burnout-how-to-find-balance-and-reclaim-your-life/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-cure-for-burnout-how-to-find-balance-and-reclaim-your-life-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我得了不想上班的病：倦怠的5大解藥，從有毒工作中奪回你的人生》</span><br><span class="line">作者： 艾米莉．巴列斯特羅斯  </span><br><span class="line">原文作者： Emily Ballesteros</span><br><span class="line">譯者： 洪慧芳</span><br><span class="line">出版社：時報出版</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「倦怠不是你的錯，而是你需要學會管理的課題。從今天起，為生活而工作，不再為工作而活。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會，我們時常被高壓工作與無止境的責任感推著走，逐漸遺忘了生活的真正意義。《我得了不想上班的病：倦怠的5大解藥，從有毒工作中奪回你的人生》這本書，正是針對這種普遍的職場倦怠現象，提供了清晰的分類與實用的方法，幫助讀者擺脫長期疲憊，重拾對生活的掌控權。</p>
+<p><img src="/img/posts/reading-notes-the-cure-for-burnout-how-to-find-balance-and-reclaim-your-life-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="三種類型的倦怠"><a href="#三種類型的倦怠" class="headerlink" title="三種類型的倦怠"></a>三種類型的倦怠</h3><ol>
+<li><strong>過勞型倦怠</strong>：習慣討好他人、總覺得成就比休息更重要，無法擺脫高壓工作。</li>
+<li><strong>社交倦怠</strong>：人際關係需求超過自身承受範圍，導致精力透支，對社交產生排斥感。</li>
+<li><strong>無聊型倦怠</strong>：長期對事物失去興趣，缺乏參與感，無法提起動力做出改變。</li>
+</ol>
+<h3 id="擺脫倦怠的五大解方"><a href="#擺脫倦怠的五大解方" class="headerlink" title="擺脫倦怠的五大解方"></a>擺脫倦怠的五大解方</h3><ol>
+<li><strong>心態調整</strong>：明確個人價值觀，讓時間運用與自身目標對齊。</li>
+<li><strong>個人關懷</strong>：學會關注自身需求，而非一味滿足他人。</li>
+<li><strong>時間管理</strong>：優先處理真正重要的事，避免低效耗能。</li>
+<li><strong>設立界線</strong>：明確劃分個人時間與工作責任，避免過度消耗。</li>
+<li><strong>壓力管理</strong>：以理性方式面對壓力，透過「覺察力三角」重塑健康心態。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅幫助我們識別倦怠的來源，還提供了一套可行的策略來改善生活品質。當我們學會管理自身的精力與界限，就能真正為生活而工作，而不是讓工作吞噬生活。這不僅是職場生存指南，更是一堂自我成長的必修課。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>我得了不想上班的病</tag>
+        <tag>倦怠的5大解藥</tag>
+        <tag>從有毒工作中奪回你的人生</tag>
       </tags>
   </entry>
   <entry>
@@ -2779,6 +2779,40 @@
       </tags>
   </entry>
   <entry>
+    <title>《感恩計畫：一次一封感謝函，養成你的幸福感》| 閱讀心得學習筆記</title>
+    <url>/2024/12/23/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《感恩計畫：一次一封感謝函，養成你的幸福感》</span><br><span class="line">作者： 南西．戴維斯．郭  </span><br><span class="line">原文作者： Nancy Davis Kho</span><br><span class="line">譯者： 林琳</span><br><span class="line">出版社：春天出版社  </span><br><span class="line">出版日期：2024/12/23</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「一次一封感謝函，養成你的幸福感。感謝是一種選擇，也是一種力量。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《感恩計畫：一次一封感謝函，養成你的幸福感》是一本溫柔卻力量十足的書。作者南西．戴維斯．郭用真實故事示範，感恩不僅是情感的表達，更是一種持續建構幸福的日常行動。書中透過她一年的「每週一封感謝信」計畫，啟發我們重新審視與他人之間的連結與影響。</p>
+<p><img src="/img/posts/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>每週一信，書寫感恩</strong>：作者於50歲生日展開計畫，連續50週寫下感謝信，致贈給曾深刻影響她的人。  </li>
+<li><strong>觸動內心的回饋與療癒</strong>：不論信是否寄出，書寫本身即是一種自我療癒與正向能量的累積。  </li>
+<li><strong>實用的感恩指南</strong>：書中提供具體步驟與撰寫提示，協助讀者啟動屬於自己的感恩行動。  </li>
+<li><strong>支持網絡的再發現</strong>：將信件裝訂成冊，成為她在困難時期重拾力量的重要象徵。  </li>
+<li><strong>感恩的擴散效應</strong>：這些信件不只是單向的致謝，也激發了收信人的回應與感動。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們有多久沒真誠地感謝那些成就我們的人了？  </li>
+<li>在數位時代，紙本書寫是否更具情感傳遞的力量？  </li>
+<li>若你要開始這樣的感恩計畫，你會從誰開始？為什麼？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅是一場關於感謝的書寫計畫，更是一場靈魂的覺醒與連結之旅。透過親筆信重拾與人之間真摯的互動，也讓我們重新發現，被感謝的幸福與感謝他人的療癒。日復一日的小小行動，能累積出一段無比溫暖的人生軌跡。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>感恩計畫</tag>
+        <tag>一次一封感謝函，養成你的幸福感</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《致富心態：關於財富、貪婪與幸福的20堂理財課》| 閱讀心得學習筆記</title>
     <url>/2023/01/13/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness-1.jpg"></p>
@@ -2818,76 +2852,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>致富心態</tag>
         <tag>關於財富、貪婪與幸福的20堂理財課</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《感恩計畫：一次一封感謝函，養成你的幸福感》| 閱讀心得學習筆記</title>
-    <url>/2024/12/23/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《感恩計畫：一次一封感謝函，養成你的幸福感》</span><br><span class="line">作者： 南西．戴維斯．郭  </span><br><span class="line">原文作者： Nancy Davis Kho</span><br><span class="line">譯者： 林琳</span><br><span class="line">出版社：春天出版社  </span><br><span class="line">出版日期：2024/12/23</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「一次一封感謝函，養成你的幸福感。感謝是一種選擇，也是一種力量。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《感恩計畫：一次一封感謝函，養成你的幸福感》是一本溫柔卻力量十足的書。作者南西．戴維斯．郭用真實故事示範，感恩不僅是情感的表達，更是一種持續建構幸福的日常行動。書中透過她一年的「每週一封感謝信」計畫，啟發我們重新審視與他人之間的連結與影響。</p>
-<p><img src="/img/posts/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>每週一信，書寫感恩</strong>：作者於50歲生日展開計畫，連續50週寫下感謝信，致贈給曾深刻影響她的人。  </li>
-<li><strong>觸動內心的回饋與療癒</strong>：不論信是否寄出，書寫本身即是一種自我療癒與正向能量的累積。  </li>
-<li><strong>實用的感恩指南</strong>：書中提供具體步驟與撰寫提示，協助讀者啟動屬於自己的感恩行動。  </li>
-<li><strong>支持網絡的再發現</strong>：將信件裝訂成冊，成為她在困難時期重拾力量的重要象徵。  </li>
-<li><strong>感恩的擴散效應</strong>：這些信件不只是單向的致謝，也激發了收信人的回應與感動。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們有多久沒真誠地感謝那些成就我們的人了？  </li>
-<li>在數位時代，紙本書寫是否更具情感傳遞的力量？  </li>
-<li>若你要開始這樣的感恩計畫，你會從誰開始？為什麼？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅是一場關於感謝的書寫計畫，更是一場靈魂的覺醒與連結之旅。透過親筆信重拾與人之間真摯的互動，也讓我們重新發現，被感謝的幸福與感謝他人的療癒。日復一日的小小行動，能累積出一段無比溫暖的人生軌跡。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>感恩計畫</tag>
-        <tag>一次一封感謝函，養成你的幸福感</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《底層邏輯：看清這個世界的底牌》| 閱讀心得學習筆記</title>
-    <url>/2022/03/30/reading-notes-the-underlying-logic-see-through-the-true-face-of-the-world/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-underlying-logic-see-through-the-true-face-of-the-world-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《底層邏輯：看清這個世界的底牌》</span><br><span class="line">作者： 劉潤  </span><br><span class="line">出版社：時報出版  </span><br><span class="line">出版日期：2022/03/29</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「拋棄經驗，不要輕易下結論，懷著空杯心態去看問題。時刻反省自己：我說的話、我的表述，是事實，是觀點，是立場，還是信仰？」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《底層邏輯》是一本挑戰我們思維慣性的書，劉潤以多年的商業顧問經驗，指出我們對「事實」的理解往往被經驗、立場與信仰所左右。本書不只是職場指南，更是教我們用理性拆解複雜問題、看清世界底牌的思維工具。</p>
-<p><img src="/img/posts/reading-notes-the-underlying-logic-see-through-the-true-face-of-the-world-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>是非觀的三層結構</strong>：人性、道德與法律，對錯判斷需理解背景與層次。</li>
-<li><strong>辨識四類表述</strong>：事實、觀點、立場、信仰，避免混淆與情緒陷阱。</li>
-<li><strong>思維模式</strong>：大膽假設、小心求證，建立「假設—驗證—調整」的邏輯閉環。</li>
-<li><strong>拒絕經驗主導</strong>：保持空杯心態，擺脫經驗偏誤，真正看見本質。</li>
-<li><strong>個體進化三要素</strong>：能力×效率×槓桿，創造10倍價值。</li>
-<li><strong>人脈與合作的本質</strong>：給予價值、平等交換，而非純粹利害關係。</li>
-<li><strong>戰略與決策思維</strong>：理解環境變數與底層法則，才能做出有效行動。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否常把個人情緒誤認為事實？</li>
-<li>在工作中，我們的決策是否受限於過去經驗與預設立場？</li>
-<li>我們是否懂得「調整觀點」而非固守成見？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《底層邏輯》強調：唯有抽離立場、放下成見，運用邏輯與系統思維，才能在變動中保持清晰，洞察萬象之本質。無論是學生、職場人或創業者，都能從中獲得提升認知與決策品質的具體方法。這不只是一本書，而是一場思維的升級之旅。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>底層邏輯</tag>
-        <tag>看清這個世界的底牌</tag>
       </tags>
   </entry>
   <entry>
@@ -2950,6 +2914,42 @@
       </tags>
   </entry>
   <entry>
+    <title>《底層邏輯：看清這個世界的底牌》| 閱讀心得學習筆記</title>
+    <url>/2022/03/30/reading-notes-the-underlying-logic-see-through-the-true-face-of-the-world/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-underlying-logic-see-through-the-true-face-of-the-world-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《底層邏輯：看清這個世界的底牌》</span><br><span class="line">作者： 劉潤  </span><br><span class="line">出版社：時報出版  </span><br><span class="line">出版日期：2022/03/29</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「拋棄經驗，不要輕易下結論，懷著空杯心態去看問題。時刻反省自己：我說的話、我的表述，是事實，是觀點，是立場，還是信仰？」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《底層邏輯》是一本挑戰我們思維慣性的書，劉潤以多年的商業顧問經驗，指出我們對「事實」的理解往往被經驗、立場與信仰所左右。本書不只是職場指南，更是教我們用理性拆解複雜問題、看清世界底牌的思維工具。</p>
+<p><img src="/img/posts/reading-notes-the-underlying-logic-see-through-the-true-face-of-the-world-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>是非觀的三層結構</strong>：人性、道德與法律，對錯判斷需理解背景與層次。</li>
+<li><strong>辨識四類表述</strong>：事實、觀點、立場、信仰，避免混淆與情緒陷阱。</li>
+<li><strong>思維模式</strong>：大膽假設、小心求證，建立「假設—驗證—調整」的邏輯閉環。</li>
+<li><strong>拒絕經驗主導</strong>：保持空杯心態，擺脫經驗偏誤，真正看見本質。</li>
+<li><strong>個體進化三要素</strong>：能力×效率×槓桿，創造10倍價值。</li>
+<li><strong>人脈與合作的本質</strong>：給予價值、平等交換，而非純粹利害關係。</li>
+<li><strong>戰略與決策思維</strong>：理解環境變數與底層法則，才能做出有效行動。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否常把個人情緒誤認為事實？</li>
+<li>在工作中，我們的決策是否受限於過去經驗與預設立場？</li>
+<li>我們是否懂得「調整觀點」而非固守成見？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《底層邏輯》強調：唯有抽離立場、放下成見，運用邏輯與系統思維，才能在變動中保持清晰，洞察萬象之本質。無論是學生、職場人或創業者，都能從中獲得提升認知與決策品質的具體方法。這不只是一本書，而是一場思維的升級之旅。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>底層邏輯</tag>
+        <tag>看清這個世界的底牌</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《正念旅程：一段激勵內在潛能的啟蒙之旅》 | 閱讀心得學習筆記</title>
     <url>/2024/12/09/reading-notes-three-days-two-women-one-monkey-and-the-meaning-of-life-an-inspiring-journey/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-three-days-two-women-one-monkey-and-the-meaning-of-life-an-inspiring-journey-1.jpg"></p>
@@ -2981,44 +2981,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>正念旅程</tag>
         <tag>正念旅程：一段激勵內在潛能的啟蒙之旅</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《去書店買個好人生：日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫》| 閱讀心得學習筆記</title>
-    <url>/2022/11/24/reading-notes-to-buy-a-good-life-at-a-bookstore/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-to-buy-a-good-life-at-a-bookstore-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《去書店買個好人生：日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫》</span><br><span class="line">作者： 千田琢哉  </span><br><span class="line">譯者： 林詠純</span><br><span class="line">繪者： Bianco Tsai</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2022/11/24</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「世上沒有匱乏的閱讀者。越困頓的時刻，越需要透過閱讀，投資智慧。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>這不是一本教你怎麼快速翻書的工具書，而是一本用來「翻轉人生思維」的實戰手冊。作者千田琢哉從一名問題學生轉變為年銷破百萬冊的作家，他用自身經歷證明：閱讀可以是最低成本、最高報酬的自我投資。這本書，不只是給職場人一盞明燈，更是為人生卡關者而寫的行動指南。</p>
-<p><img src="/img/posts/reading-notes-to-buy-a-good-life-at-a-bookstore-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>閱讀是生存智慧的基礎</strong>：時代再怎麼變，有知識就能活下去。閱讀能創造「時間的寬裕」與「選擇的自由」。  </li>
-<li><strong>閱讀激發行動力</strong>：透過選書與實踐的循環，養成立即行動的習慣，減少拖延與猶豫。  </li>
-<li><strong>書本是最好的職涯顧問</strong>：從溝通、換位思考到變現，每項職場技能都能在書中找到解法與靈感。  </li>
-<li><strong>選書即選擇自己未來的樣子</strong>：命定之書無法被推薦，只能透過大量閱讀主動遇見。  </li>
-<li><strong>閱讀力等於轉化力</strong>：真正厲害的讀者，不只吸收，更能「轉述、轉化並實踐」。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們為何總是用「沒時間」為藉口，忽略最能改變自己的閱讀？  </li>
-<li>你還記得最後一次主動買書，是為了什麼？  </li>
-<li>書架上的書，是裝飾還是行動的提醒？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><ul>
-<li>閱讀是一種內在鍛鍊，更是面對未來最有力的準備。</li>
-<li>本書透過千田琢哉真實的成長故事與具體的閱讀策略，為每位迷惘的現代人指引一條通往「自我升級」的捷徑。  </li>
-<li>不需要立刻成為專家，但你可以先從走進書店開始，選一本今天的你需要的書——未來的你會感謝現在的自己。</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>去書店買個好人生</tag>
-        <tag>日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫</tag>
       </tags>
   </entry>
   <entry>
@@ -3080,53 +3042,41 @@
       </tags>
   </entry>
   <entry>
-    <title>《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》 | 閱讀心得學習筆記</title>
-    <url>/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》</span><br><span class="line">Transformed: Moving to the Product Operating Model</span><br><span class="line">作者： 馬提．凱根  </span><br><span class="line">原文作者： Marty Cagan</span><br><span class="line">譯者： 李芳齡</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+    <title>《去書店買個好人生：日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫》| 閱讀心得學習筆記</title>
+    <url>/2022/11/24/reading-notes-to-buy-a-good-life-at-a-bookstore/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-to-buy-a-good-life-at-a-bookstore-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《去書店買個好人生：日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫》</span><br><span class="line">作者： 千田琢哉  </span><br><span class="line">譯者： 林詠純</span><br><span class="line">繪者： Bianco Tsai</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2022/11/24</span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<p>「產品營運模式不是流程，而是一種文化與思維的轉變。」<br>「成功的關鍵，不在於開發更多功能，而是打造客戶真正需要的產品。」</p>
+<p>「世上沒有匱乏的閱讀者。越困頓的時刻，越需要透過閱讀，投資智慧。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>本書探討如何透過「產品營運模式」取代傳統 IT 專案管理，讓企業能夠更靈活且高效地打造成功產品。透過矽谷科技公司的實際案例，作者馬提·凱根是多本矽谷產品專業書籍作者，解析了產品管理轉型的挑戰與方法，幫助企業落實技術驅動的產品開發模式。</p>
-<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><h3 id="1-產品營運模式的重要性"><a href="#1-產品營運模式的重要性" class="headerlink" title="1. 產品營運模式的重要性"></a><strong>1. 產品營運模式的重要性</strong></h3><ul>
-<li>將產品開發從單次專案轉變為<code>持續迭代</code>運行的模式，提升創新與市場適應能力。  </li>
-<li>產品營運模式能夠確保開發的產品符合<code>客戶需求</code>，而非僅憑內部假設與推測。</li>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>這不是一本教你怎麼快速翻書的工具書，而是一本用來「翻轉人生思維」的實戰手冊。作者千田琢哉從一名問題學生轉變為年銷破百萬冊的作家，他用自身經歷證明：閱讀可以是最低成本、最高報酬的自我投資。這本書，不只是給職場人一盞明燈，更是為人生卡關者而寫的行動指南。</p>
+<p><img src="/img/posts/reading-notes-to-buy-a-good-life-at-a-bookstore-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>閱讀是生存智慧的基礎</strong>：時代再怎麼變，有知識就能活下去。閱讀能創造「時間的寬裕」與「選擇的自由」。  </li>
+<li><strong>閱讀激發行動力</strong>：透過選書與實踐的循環，養成立即行動的習慣，減少拖延與猶豫。  </li>
+<li><strong>書本是最好的職涯顧問</strong>：從溝通、換位思考到變現，每項職場技能都能在書中找到解法與靈感。  </li>
+<li><strong>選書即選擇自己未來的樣子</strong>：命定之書無法被推薦，只能透過大量閱讀主動遇見。  </li>
+<li><strong>閱讀力等於轉化力</strong>：真正厲害的讀者，不只吸收，更能「轉述、轉化並實踐」。</li>
 </ul>
-<h3 id="2-產品開發的三大變革"><a href="#2-產品開發的三大變革" class="headerlink" title="2. 產品開發的三大變革"></a><strong>2. 產品開發的三大變革</strong></h3><ul>
-<li><strong>改變打造產品的方式</strong>：採用<code>跨職能團隊</code>，<code>提高決策效率</code>。  </li>
-<li><strong>改變解決問題的方式</strong>：讓團隊<code>自主尋找問題</code>並<code>驗證解決方案</code>。  </li>
-<li><strong>改變決定解決什麼問題的方式</strong>：高層<code>提供方向</code>，<code>團隊負責實際策略與執行</code>。</li>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們為何總是用「沒時間」為藉口，忽略最能改變自己的閱讀？  </li>
+<li>你還記得最後一次主動買書，是為了什麼？  </li>
+<li>書架上的書，是裝飾還是行動的提醒？</li>
 </ul>
-<h2 id="3-產品職能與風險承擔"><a href="#3-產品職能與風險承擔" class="headerlink" title="3. 產品職能與風險承擔"></a><strong>3. 產品職能與風險承擔</strong></h2><ul>
-<li><strong>產品經理</strong>：負責<code>價值風險</code>與<code>商業可行性</code>。  </li>
-<li><strong>產品設計師</strong>：確保產品<code>可用性與用戶體驗</code>。  </li>
-<li><strong>工程師</strong>：確保<code>技術可行性與開發效率</code>。</li>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><ul>
+<li>閱讀是一種內在鍛鍊，更是面對未來最有力的準備。</li>
+<li>本書透過千田琢哉真實的成長故事與具體的閱讀策略，為每位迷惘的現代人指引一條通往「自我升級」的捷徑。  </li>
+<li>不需要立刻成為專家，但你可以先從走進書店開始，選一本今天的你需要的書——未來的你會感謝現在的自己。</li>
 </ul>
-<h2 id="4-團隊領導與組織文化"><a href="#4-團隊領導與組織文化" class="headerlink" title="4. 團隊領導與組織文化"></a><strong>4. 團隊領導與組織文化</strong></h2><ul>
-<li>團隊應該被賦權，為「<code>outcome 結果</code>」負責，而非僅關注「<code>output 產出</code>」。  </li>
-<li>領導者應專注於<code>策略</code>、<code>團隊組成</code>與<code>技術指導</code>，而非細節管理。  </li>
-<li>產品團隊應透過<code>數據</code>與<code>用戶研究</code>來<code>驅動決策</code>，而非僅依賴直覺。</li>
-</ul>
-<h2 id="5-企業轉型的挑戰與策略"><a href="#5-企業轉型的挑戰與策略" class="headerlink" title="5. 企業轉型的挑戰與策略"></a><strong>5. 企業轉型的挑戰與策略</strong></h2><ul>
-<li>轉型過程困難重重，需從企業文化、組織架構到流程全面調整。  </li>
-<li>透過與顧客、銷售、行銷、財務等部門的緊密合作，確保產品策略的一致性。  </li>
-<li>以數據驗證成果，持續改善與優化產品營運模式。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
 ]]></content>
       <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>產案管理</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>產品營運模式轉型全書</tag>
+        <tag>去書店買個好人生</tag>
+        <tag>日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫</tag>
       </tags>
   </entry>
   <entry>
@@ -3174,6 +3124,56 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>這一生，你要體會的30件事</tag>
         <tag>精神科醫師最犀利的人生告白</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》 | 閱讀心得學習筆記</title>
+    <url>/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》</span><br><span class="line">Transformed: Moving to the Product Operating Model</span><br><span class="line">作者： 馬提．凱根  </span><br><span class="line">原文作者： Marty Cagan</span><br><span class="line">譯者： 李芳齡</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「產品營運模式不是流程，而是一種文化與思維的轉變。」<br>「成功的關鍵，不在於開發更多功能，而是打造客戶真正需要的產品。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>本書探討如何透過「產品營運模式」取代傳統 IT 專案管理，讓企業能夠更靈活且高效地打造成功產品。透過矽谷科技公司的實際案例，作者馬提·凱根是多本矽谷產品專業書籍作者，解析了產品管理轉型的挑戰與方法，幫助企業落實技術驅動的產品開發模式。</p>
+<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><h3 id="1-產品營運模式的重要性"><a href="#1-產品營運模式的重要性" class="headerlink" title="1. 產品營運模式的重要性"></a><strong>1. 產品營運模式的重要性</strong></h3><ul>
+<li>將產品開發從單次專案轉變為<code>持續迭代</code>運行的模式，提升創新與市場適應能力。  </li>
+<li>產品營運模式能夠確保開發的產品符合<code>客戶需求</code>，而非僅憑內部假設與推測。</li>
+</ul>
+<h3 id="2-產品開發的三大變革"><a href="#2-產品開發的三大變革" class="headerlink" title="2. 產品開發的三大變革"></a><strong>2. 產品開發的三大變革</strong></h3><ul>
+<li><strong>改變打造產品的方式</strong>：採用<code>跨職能團隊</code>，<code>提高決策效率</code>。  </li>
+<li><strong>改變解決問題的方式</strong>：讓團隊<code>自主尋找問題</code>並<code>驗證解決方案</code>。  </li>
+<li><strong>改變決定解決什麼問題的方式</strong>：高層<code>提供方向</code>，<code>團隊負責實際策略與執行</code>。</li>
+</ul>
+<h2 id="3-產品職能與風險承擔"><a href="#3-產品職能與風險承擔" class="headerlink" title="3. 產品職能與風險承擔"></a><strong>3. 產品職能與風險承擔</strong></h2><ul>
+<li><strong>產品經理</strong>：負責<code>價值風險</code>與<code>商業可行性</code>。  </li>
+<li><strong>產品設計師</strong>：確保產品<code>可用性與用戶體驗</code>。  </li>
+<li><strong>工程師</strong>：確保<code>技術可行性與開發效率</code>。</li>
+</ul>
+<h2 id="4-團隊領導與組織文化"><a href="#4-團隊領導與組織文化" class="headerlink" title="4. 團隊領導與組織文化"></a><strong>4. 團隊領導與組織文化</strong></h2><ul>
+<li>團隊應該被賦權，為「<code>outcome 結果</code>」負責，而非僅關注「<code>output 產出</code>」。  </li>
+<li>領導者應專注於<code>策略</code>、<code>團隊組成</code>與<code>技術指導</code>，而非細節管理。  </li>
+<li>產品團隊應透過<code>數據</code>與<code>用戶研究</code>來<code>驅動決策</code>，而非僅依賴直覺。</li>
+</ul>
+<h2 id="5-企業轉型的挑戰與策略"><a href="#5-企業轉型的挑戰與策略" class="headerlink" title="5. 企業轉型的挑戰與策略"></a><strong>5. 企業轉型的挑戰與策略</strong></h2><ul>
+<li>轉型過程困難重重，需從企業文化、組織架構到流程全面調整。  </li>
+<li>透過與顧客、銷售、行銷、財務等部門的緊密合作，確保產品策略的一致性。  </li>
+<li>以數據驗證成果，持續改善與優化產品營運模式。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
+]]></content>
+      <tags>
+        <tag>產案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>產品營運模式轉型全書</tag>
       </tags>
   </entry>
   <entry>
@@ -3531,54 +3531,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《你不是懶，而是能量低：人生開外掛的精力管理術》| 閱讀心得學習筆記</title>
-    <url>/2024/10/22/reading-notes-you-are-not-lazy-but-low-energy/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-you-are-not-lazy-but-low-energy-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你不是懶，而是能量低：人生開外掛的精力管理術》</span><br><span class="line">作者： 林揚程</span><br><span class="line">出版社：時報出版</span><br><span class="line">出版日期：2024/10/22</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「管理精力，而非時間，才能真正掌控人生。能量是你最好的底牌，在關鍵時刻展現你的最佳狀態，毫不費力地打造你渴望的生活樣貌。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個講求效率的時代，許多人追求時間管理，卻忽略了真正驅動行動的「精力」。林揚程的《你不是懶，而是能量低：人生開外掛的精力管理術》以自身經歷為例，提醒我們唯有從體能、情緒、思維與精神四大層面著手，才能打造持久且有品質的人生狀態。</p>
-<p><img src="/img/posts/reading-notes-you-are-not-lazy-but-low-energy-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>體能維度</strong><ul>
-<li>採用「咖啡鐘午休法」提振精神。</li>
-<li>選擇低GI食物與211餐盤法，維持穩定血糖以避免能量低落。</li>
-</ul>
-</li>
-<li><strong>情緒維度</strong><ul>
-<li>想像「穿上防護衣」，隔絕負面情緒干擾。</li>
-<li>將壓力轉化為動力，善用適度壓力提升表現。</li>
-</ul>
-</li>
-<li><strong>思維維度</strong><ul>
-<li>練習「放空的技術」，幫助大腦恢復專注與創造力。</li>
-<li>進入心流需具備熱情、專業、明確目標與即時回饋。</li>
-</ul>
-</li>
-<li><strong>精神維度</strong><ul>
-<li>用夢想板書寫所有夢想，找出真正重要的目標。</li>
-<li>發掘使命感，從解決問題中找到人生的意義與動力。</li>
-</ul>
-</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否過度專注「做更多」，而忽略了「如何有力地做」？</li>
-<li>當壓力來襲時，你的第一反應是逃避還是轉化？</li>
-<li>目前你的夢想清單中，有哪些是真正屬於自己的渴望？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《你不是懶，而是能量低：人生開外掛的精力管理術》提醒我們，唯有從四大維度全面補足能量，才能面對生活與職場的挑戰，真正過上高效而快樂的人生。與其拚命追時間，不如先把「精力電池」充飽，讓每一刻都能全力以赴。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>你不是懶，而是能量低：人生開外掛的精力管理術</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》| 閱讀心得學習筆記</title>
     <url>/2021/08/05/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-1.jpg"></p>
@@ -3627,6 +3579,54 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>思維的良率</tag>
         <tag>台積電教我的高效工作法，像經營者一樣思考、解題</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《你不是懶，而是能量低：人生開外掛的精力管理術》| 閱讀心得學習筆記</title>
+    <url>/2024/10/22/reading-notes-you-are-not-lazy-but-low-energy/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-you-are-not-lazy-but-low-energy-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你不是懶，而是能量低：人生開外掛的精力管理術》</span><br><span class="line">作者： 林揚程</span><br><span class="line">出版社：時報出版</span><br><span class="line">出版日期：2024/10/22</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「管理精力，而非時間，才能真正掌控人生。能量是你最好的底牌，在關鍵時刻展現你的最佳狀態，毫不費力地打造你渴望的生活樣貌。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個講求效率的時代，許多人追求時間管理，卻忽略了真正驅動行動的「精力」。林揚程的《你不是懶，而是能量低：人生開外掛的精力管理術》以自身經歷為例，提醒我們唯有從體能、情緒、思維與精神四大層面著手，才能打造持久且有品質的人生狀態。</p>
+<p><img src="/img/posts/reading-notes-you-are-not-lazy-but-low-energy-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>體能維度</strong><ul>
+<li>採用「咖啡鐘午休法」提振精神。</li>
+<li>選擇低GI食物與211餐盤法，維持穩定血糖以避免能量低落。</li>
+</ul>
+</li>
+<li><strong>情緒維度</strong><ul>
+<li>想像「穿上防護衣」，隔絕負面情緒干擾。</li>
+<li>將壓力轉化為動力，善用適度壓力提升表現。</li>
+</ul>
+</li>
+<li><strong>思維維度</strong><ul>
+<li>練習「放空的技術」，幫助大腦恢復專注與創造力。</li>
+<li>進入心流需具備熱情、專業、明確目標與即時回饋。</li>
+</ul>
+</li>
+<li><strong>精神維度</strong><ul>
+<li>用夢想板書寫所有夢想，找出真正重要的目標。</li>
+<li>發掘使命感，從解決問題中找到人生的意義與動力。</li>
+</ul>
+</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否過度專注「做更多」，而忽略了「如何有力地做」？</li>
+<li>當壓力來襲時，你的第一反應是逃避還是轉化？</li>
+<li>目前你的夢想清單中，有哪些是真正屬於自己的渴望？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《你不是懶，而是能量低：人生開外掛的精力管理術》提醒我們，唯有從四大維度全面補足能量，才能面對生活與職場的挑戰，真正過上高效而快樂的人生。與其拚命追時間，不如先把「精力電池」充飽，讓每一刻都能全力以赴。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>你不是懶，而是能量低：人生開外掛的精力管理術</tag>
       </tags>
   </entry>
   <entry>
