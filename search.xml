@@ -305,6 +305,44 @@
       </tags>
   </entry>
   <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學</title>
     <url>/2024/05/23/llm-rag-app-notes/</url>
     <content><![CDATA[<p>擷取擴增產生&#x2F;檢索增強生成（Retrieval-Augmented Generation, RAG）是一種結合檢索和生成技術的混合模型，用於改善文本生成任務的性能。這種方法能夠在生成文本時引入外部知識，從而生成更準確和上下文相關的內容。以下是對 RAG 的詳細介紹：</p>
@@ -397,44 +435,6 @@
         <tag>Retrieval-Augmented Generation</tag>
         <tag>擷取擴增產生</tag>
         <tag>檢索增強生成</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -804,40 +804,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》| 閱讀心得學習筆記</title>
-    <url>/2024/11/29/reading-notes-adulting-learning-doing-things-being-a-person/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》</span><br><span class="line">作者： 張國洋, 姚詩豪  </span><br><span class="line">出版社：三采  </span><br><span class="line">出版日期：2024/11/29</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「在職場上，很多時候關鍵不在於你有多優秀，而在於不失分。互惠，才是職場人際的底層邏輯。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書由「大人學」共同創辦人張國洋與姚詩豪撰寫，融合多年職場經驗與 Podcast 討論精華，試圖解答一個常見卻困擾無數上班族的問題——「做人重要，還是做事重要？」兩位作者指出，這不應是二選一的問題，而是雙軌並進的職場策略。  </p>
-<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>做事 vs. 做人非零和選擇</strong>：大多數成功者都在這兩者之間取得良好平衡。  </li>
-<li><strong>做事的本質是選擇對的事情做對</strong>：不是一味努力或加班，而是聚焦於有價值的任務。  </li>
-<li><strong>做人不是拍馬屁，而是減少失分</strong>：基本的禮貌與人際界線能讓你不被討厭，就是「做人八十分」的關鍵。  </li>
-<li><strong>極端例子不具代表性</strong>：技術大神或交際高手的成功難以複製，一般人應從實務出發，建立可持續的策略。  </li>
-<li><strong>不失分比得高分更重要</strong>：在團隊協作中，避免讓他人受害比成為明星更實用。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否過度追求被看見，而忽略了「別被討厭」的基本？</li>
-<li>在現實職場中，「能力」和「人際」究竟如何轉換為具體的報酬與發展？</li>
-<li>是否曾誤解「做人」就是迎合？而忽略了「尊重」與「分寸」的真正價值？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅提供職場生存的實用策略，也提醒我們：職涯不只是加薪升職，更是一場長期的人生成長與體驗。與其單打獨鬥，不如練好「做事做人」這門功課，讓你在穩健中突圍，在職場上活得成熟而自在。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>大人學做事做人</tag>
-        <tag>做事，才是職場做人的根本</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《讓這本書抱抱你：每一天練習自我照顧，學會愛自己》| 閱讀心得學習筆記</title>
     <url>/2023/11/29/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals-1.jpg"></p>
@@ -874,6 +840,40 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>讓這本書抱抱你：每一天練習自我照顧，學會愛自己</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》| 閱讀心得學習筆記</title>
+    <url>/2024/11/29/reading-notes-adulting-learning-doing-things-being-a-person/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》</span><br><span class="line">作者： 張國洋, 姚詩豪  </span><br><span class="line">出版社：三采  </span><br><span class="line">出版日期：2024/11/29</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「在職場上，很多時候關鍵不在於你有多優秀，而在於不失分。互惠，才是職場人際的底層邏輯。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書由「大人學」共同創辦人張國洋與姚詩豪撰寫，融合多年職場經驗與 Podcast 討論精華，試圖解答一個常見卻困擾無數上班族的問題——「做人重要，還是做事重要？」兩位作者指出，這不應是二選一的問題，而是雙軌並進的職場策略。  </p>
+<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>做事 vs. 做人非零和選擇</strong>：大多數成功者都在這兩者之間取得良好平衡。  </li>
+<li><strong>做事的本質是選擇對的事情做對</strong>：不是一味努力或加班，而是聚焦於有價值的任務。  </li>
+<li><strong>做人不是拍馬屁，而是減少失分</strong>：基本的禮貌與人際界線能讓你不被討厭，就是「做人八十分」的關鍵。  </li>
+<li><strong>極端例子不具代表性</strong>：技術大神或交際高手的成功難以複製，一般人應從實務出發，建立可持續的策略。  </li>
+<li><strong>不失分比得高分更重要</strong>：在團隊協作中，避免讓他人受害比成為明星更實用。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否過度追求被看見，而忽略了「別被討厭」的基本？</li>
+<li>在現實職場中，「能力」和「人際」究竟如何轉換為具體的報酬與發展？</li>
+<li>是否曾誤解「做人」就是迎合？而忽略了「尊重」與「分寸」的真正價值？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅提供職場生存的實用策略，也提醒我們：職涯不只是加薪升職，更是一場長期的人生成長與體驗。與其單打獨鬥，不如練好「做事做人」這門功課，讓你在穩健中突圍，在職場上活得成熟而自在。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>大人學做事做人</tag>
+        <tag>做事，才是職場做人的根本</tag>
       </tags>
   </entry>
   <entry>
@@ -933,40 +933,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》 | 閱讀心得學習筆記</title>
-    <url>/2025/03/05/reading-notes-awaken-your-genius/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-awaken-your-genius-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》</span><br><span class="line">作者： 歐贊‧瓦羅  </span><br><span class="line">原文作者： Ozan Varol</span><br><span class="line">譯者： 韓絜光</span><br><span class="line">出版社：天下雜誌  </span><br><span class="line">出版日期：2025/03/05</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「天才，是最像自己的人。捨棄過度學習的束縛，拒絕複製別人的捷徑，與自己真實的天賦連結，人生真的不必將就。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們都曾在某個時刻疑問：「這真的是我想要的人生嗎？」《終於成為自己》是一本關於覺醒與重生的書。作者歐贊‧瓦羅以自己從火箭科學家轉型為法學教授與暢銷作家的經歷，鼓勵讀者勇敢跳脫外在框架，找回與自己天賦與渴望的連結。這不是一本教你成功的書，而是一本教你「回家」的書——回到內在最真實的自己。</p>
-<p><img src="/img/posts/reading-notes-awaken-your-genius-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>刻意捨去</strong>：意識到生活中許多信念與選擇並非出自我們本意，而是來自社會、家庭的預設劇本。學會<code>斷捨離這些外加的身份</code>。</li>
-<li><strong>找出你的第一原理</strong>：透過「<code>第一原理思維</code>」重建人生架構，不再從眾，而是回到個人價值的起點。</li>
-<li><strong>解放內在原力</strong>：<code>放下自我審查與恐懼</code>，發揮創造力與遊戲精神，學會與內在智慧合作而非抗拒。</li>
-<li><strong>去除外在雜音</strong>：辨識社會灌輸的錯誤信念，不再依賴人生導師或外部認可，<code>培養獨立判斷</code>。</li>
-<li><strong>迎向蛻變與未知</strong>：<code>擁抱不確定性與改變</code>，把「放棄」視為進化的一部分，活出與天賦對齊的人生。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們日常的選擇有多少是出自真實的渴望？  </li>
-<li>是什麼讓我們對改變感到恐懼？社會標準還是自我懷疑？  </li>
-<li>如果拋開一切期待與身份，你想過怎樣的生活？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《終於成為自己》是一本讓人重新審視人生選擇與思維慣性的書。它邀請我們放下追隨、擁抱未知，從模仿他人走向創造自己。不是成為更好的誰，而是成為更完整的自己。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望</tag>
-        <tag>終於成為自己</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《原子習慣：細微改變帶來巨大成就的實證法則》| 閱讀心得學習筆記</title>
     <url>/2019/06/01/reading-notes-atomic-habits/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-atomic-habits-1.jpg"></p>
@@ -1019,6 +985,40 @@
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》 | 閱讀心得學習筆記</title>
+    <url>/2025/03/05/reading-notes-awaken-your-genius/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-awaken-your-genius-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》</span><br><span class="line">作者： 歐贊‧瓦羅  </span><br><span class="line">原文作者： Ozan Varol</span><br><span class="line">譯者： 韓絜光</span><br><span class="line">出版社：天下雜誌  </span><br><span class="line">出版日期：2025/03/05</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「天才，是最像自己的人。捨棄過度學習的束縛，拒絕複製別人的捷徑，與自己真實的天賦連結，人生真的不必將就。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們都曾在某個時刻疑問：「這真的是我想要的人生嗎？」《終於成為自己》是一本關於覺醒與重生的書。作者歐贊‧瓦羅以自己從火箭科學家轉型為法學教授與暢銷作家的經歷，鼓勵讀者勇敢跳脫外在框架，找回與自己天賦與渴望的連結。這不是一本教你成功的書，而是一本教你「回家」的書——回到內在最真實的自己。</p>
+<p><img src="/img/posts/reading-notes-awaken-your-genius-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>刻意捨去</strong>：意識到生活中許多信念與選擇並非出自我們本意，而是來自社會、家庭的預設劇本。學會<code>斷捨離這些外加的身份</code>。</li>
+<li><strong>找出你的第一原理</strong>：透過「<code>第一原理思維</code>」重建人生架構，不再從眾，而是回到個人價值的起點。</li>
+<li><strong>解放內在原力</strong>：<code>放下自我審查與恐懼</code>，發揮創造力與遊戲精神，學會與內在智慧合作而非抗拒。</li>
+<li><strong>去除外在雜音</strong>：辨識社會灌輸的錯誤信念，不再依賴人生導師或外部認可，<code>培養獨立判斷</code>。</li>
+<li><strong>迎向蛻變與未知</strong>：<code>擁抱不確定性與改變</code>，把「放棄」視為進化的一部分，活出與天賦對齊的人生。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們日常的選擇有多少是出自真實的渴望？  </li>
+<li>是什麼讓我們對改變感到恐懼？社會標準還是自我懷疑？  </li>
+<li>如果拋開一切期待與身份，你想過怎樣的生活？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《終於成為自己》是一本讓人重新審視人生選擇與思維慣性的書。它邀請我們放下追隨、擁抱未知，從模仿他人走向創造自己。不是成為更好的誰，而是成為更完整的自己。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望</tag>
+        <tag>終於成為自己</tag>
       </tags>
   </entry>
   <entry>
@@ -1972,40 +1972,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《人生雖苦，但還是值得活下去》| 閱讀心得學習筆記</title>
-    <url>/2021/08/02/reading-notes-life-is-hard-but-still-worth-living/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-life-is-hard-but-still-worth-living-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《人生雖苦，但還是值得活下去：《被討厭的勇氣》作者集20年所有作品精華於一冊的人生哲學，獻給每一個在生命煩惱中覺得惶惶不安的人！》</span><br><span class="line">作者： 岸見一郎</span><br><span class="line">譯者： 涂紋凰</span><br><span class="line">出版社：平安文化</span><br><span class="line">出版日期：2021/08/02</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「人生不是「有苦就有樂」，而是「活著本來就很苦」。即便如此，還是值得好好活下去，因為只要活著，就有價值。「成功」不應該是人生的目標，而是「幸福」。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活著本來就很苦》是阿德勒心理學推廣者岸見一郎將其二十年人生哲思濃縮於一冊的沉靜告白。這本書不談華麗的成功學，也不灌輸正向思考的毒雞湯，而是以一種溫柔卻堅定的語調，陪伴讀者直視生命的苦與痛，然後找回對「活著」本身的認可與溫度。</p>
-<p><img src="/img/posts/reading-notes-life-is-hard-but-still-worth-living-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>人生的本質是苦</strong>：並非有苦就會有樂，而是「活著本來就很苦」，但不代表人生沒有意義。</li>
-<li><strong>擺脫他人期待</strong>：人不是為了滿足他人而生，不需勉強自己去扮演「理想的自己」。</li>
-<li><strong>幸福不是成功後的結果</strong>：幸福來自當下的自我接納，不是達成什麼目標之後才配得擁有。</li>
-<li><strong>活在當下</strong>：不要執著於過去或擔憂未來。未來尚未到來，甚至可以說「未存在」，因此對未來的恐懼並無意義。</li>
-<li><strong>生命的價值不需證明</strong>：就算什麼也不會，只要活著，就已經足夠珍貴。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>在充滿社會標準與他人期待的環境下，我們真的能「只做自己」嗎？</li>
-<li>如果人生本來就是苦，那我們為什麼還要堅持活著？價值的根源究竟來自何處？</li>
-<li>當失去摯愛之人或遭逢重創，我們如何不陷於虛無，而仍能重拾前行的勇氣？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書像一場內心的對話，引導我們緩慢地放下對於「正確人生劇本」的執念，接納痛苦本身，並在生命的孤獨與不確定中，找到一種真實而溫柔的活法。它提醒我們：「真正的自由，是活出不必被誰認可的自己。」在這個過度焦慮於未來的時代，這樣的聲音，彌足珍貴。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>人生雖苦</tag>
-        <tag>但還是值得活下去</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《萎靡與心盛：增強心理韌性的心盛維生素，有效擺脫空虛消沉與疲憊的惡性迴圈，開啟正向能量新動力》| 閱讀心得學習筆記</title>
     <url>/2024/11/29/reading-notes-listless-and-flourishing-heart/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-listless-and-flourishing-heart-1.jpg"></p>
@@ -2044,6 +2010,40 @@
         <tag>萎靡與心盛</tag>
         <tag>增強心理韌性的心盛維生素</tag>
         <tag>有效擺脫空虛消沉與疲憊的惡性迴圈，開啟正向能量新動力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《人生雖苦，但還是值得活下去》| 閱讀心得學習筆記</title>
+    <url>/2021/08/02/reading-notes-life-is-hard-but-still-worth-living/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-life-is-hard-but-still-worth-living-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《人生雖苦，但還是值得活下去：《被討厭的勇氣》作者集20年所有作品精華於一冊的人生哲學，獻給每一個在生命煩惱中覺得惶惶不安的人！》</span><br><span class="line">作者： 岸見一郎</span><br><span class="line">譯者： 涂紋凰</span><br><span class="line">出版社：平安文化</span><br><span class="line">出版日期：2021/08/02</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「人生不是「有苦就有樂」，而是「活著本來就很苦」。即便如此，還是值得好好活下去，因為只要活著，就有價值。「成功」不應該是人生的目標，而是「幸福」。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活著本來就很苦》是阿德勒心理學推廣者岸見一郎將其二十年人生哲思濃縮於一冊的沉靜告白。這本書不談華麗的成功學，也不灌輸正向思考的毒雞湯，而是以一種溫柔卻堅定的語調，陪伴讀者直視生命的苦與痛，然後找回對「活著」本身的認可與溫度。</p>
+<p><img src="/img/posts/reading-notes-life-is-hard-but-still-worth-living-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>人生的本質是苦</strong>：並非有苦就會有樂，而是「活著本來就很苦」，但不代表人生沒有意義。</li>
+<li><strong>擺脫他人期待</strong>：人不是為了滿足他人而生，不需勉強自己去扮演「理想的自己」。</li>
+<li><strong>幸福不是成功後的結果</strong>：幸福來自當下的自我接納，不是達成什麼目標之後才配得擁有。</li>
+<li><strong>活在當下</strong>：不要執著於過去或擔憂未來。未來尚未到來，甚至可以說「未存在」，因此對未來的恐懼並無意義。</li>
+<li><strong>生命的價值不需證明</strong>：就算什麼也不會，只要活著，就已經足夠珍貴。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>在充滿社會標準與他人期待的環境下，我們真的能「只做自己」嗎？</li>
+<li>如果人生本來就是苦，那我們為什麼還要堅持活著？價值的根源究竟來自何處？</li>
+<li>當失去摯愛之人或遭逢重創，我們如何不陷於虛無，而仍能重拾前行的勇氣？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書像一場內心的對話，引導我們緩慢地放下對於「正確人生劇本」的執念，接納痛苦本身，並在生命的孤獨與不確定中，找到一種真實而溫柔的活法。它提醒我們：「真正的自由，是活出不必被誰認可的自己。」在這個過度焦慮於未來的時代，這樣的聲音，彌足珍貴。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>人生雖苦</tag>
+        <tag>但還是值得活下去</tag>
       </tags>
   </entry>
   <entry>
@@ -2258,7 +2258,6 @@
 <li>如何避免因過度依賴 MBTI 而標籤自己或他人？</li>
 </ul>
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書強調 MBTI 並非一成不變的定義，而是一面鏡子，幫助我們看見自我與他人的差異，進而找到最適合的工作與溝通方式。理解性格多樣性，才能在團隊中發揮彼此的最大價值。</p>
-<p>你有做過 MBTI 測驗嗎？測驗結果有影響到你對自己的認識嗎？</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
@@ -2780,6 +2779,39 @@
       </tags>
   </entry>
   <entry>
+    <title>《他的地板是你的天花板：特權階級怎樣自我複製並阻礙社會流動機會？我們如何打破社會不平等？》| 閱讀心得學習筆記</title>
+    <url>/2022/06/04/reading-notes-the-class-ceiling-why-it-pays-to-be-privileged/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-class-ceiling-why-it-pays-to-be-privileged-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《他的地板是你的天花板：特權階級怎樣自我複製並阻礙社會流動機會？我們如何打破社會不平等？》</span><br><span class="line">作者： 山姆•弗里曼, 丹尼爾•勞瑞森</span><br><span class="line">原文作者： Sam Friedman, Daniel Laurison</span><br><span class="line">譯者： 麥慧芬</span><br><span class="line">出版社：商周出版</span><br><span class="line">出版日期：2022/06/04</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「他的地板，是你的天花板。那些享有特權、領取身世紅利的人，總在你以為可以翻身的時候阻止你。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們總以為，只要夠努力、夠有才華，就能出人頭地。然而，《他的地板是你的天花板》這本書以大量訪談與數據揭示，現代社會中「唯才是用」其實是一場迷思。階級不平等不但未曾消失，反而在菁英職場中變本加厲。作者山姆．弗里曼與丹尼爾．勞瑞森以英國為例，指出富裕出身者如何憑藉家世與人脈壟斷機會，而勞工階級者即使再有能力，也常被擋在通往成功的大門之外。</p>
+<p><img src="/img/posts/reading-notes-the-class-ceiling-why-it-pays-to-be-privileged-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>階級薪資差異</strong>：即使在同樣的工作中，出身勞工階級者平均薪資比富裕背景者低 16%。</li>
+<li><strong>菁英職業的封閉性</strong>：中高階級家庭子女成為醫師的機率，是勞工階級的 12 倍。</li>
+<li><strong>隱形門檻與潛規則</strong>：富二代靠「父母銀行」、舉薦制度、熟人引介等方式進入高階職場。</li>
+<li><strong>自我內化與否定</strong>：弱勢者常為了融入職場文化而否定自我，卻仍難以真正晉升核心圈。</li>
+<li><strong>改革建議</strong>：書末提出 10 點行動方案，協助組織檢視並打破無形的階級障礙。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>在強調「機會平等」的社會敘事下，我們是否忽略了「結果不平等」的根源？</li>
+<li>面對菁英職場的封閉性，個人努力是否足以突破結構性限制？</li>
+<li>若企業或組織不自覺檢討選才與晉升制度，所謂的公平是否只是一場幻覺？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《他的地板是你的天花板》是一部挑戰現代菁英神話的重要著作，提醒我們階級的存在從未遠離，且深植於我們視為「正常」的職場運作中。唯有承認這些不平等的結構，我們才能真正推動改變，朝更公平的社會邁進。這不只是一本社會學研究書籍，更是一面映照我們職場與社會盲點的鏡子。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>他的地板是你的天花板</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《被討厭的勇氣：自我啟發之父「阿德勒」的教導》| 閱讀心得學習筆記</title>
     <url>/2014/10/30/reading-notes-the-courage-to-be-disliked-1/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-courage-to-be-disliked-1-1.jpg"></p>
@@ -2813,39 +2845,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>被討厭的勇氣</tag>
         <tag>阿德勒</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《他的地板是你的天花板：特權階級怎樣自我複製並阻礙社會流動機會？我們如何打破社會不平等？》| 閱讀心得學習筆記</title>
-    <url>/2022/06/04/reading-notes-the-class-ceiling-why-it-pays-to-be-privileged/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-class-ceiling-why-it-pays-to-be-privileged-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《他的地板是你的天花板：特權階級怎樣自我複製並阻礙社會流動機會？我們如何打破社會不平等？》</span><br><span class="line">作者： 山姆•弗里曼, 丹尼爾•勞瑞森</span><br><span class="line">原文作者： Sam Friedman, Daniel Laurison</span><br><span class="line">譯者： 麥慧芬</span><br><span class="line">出版社：商周出版</span><br><span class="line">出版日期：2022/06/04</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「他的地板，是你的天花板。那些享有特權、領取身世紅利的人，總在你以為可以翻身的時候阻止你。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們總以為，只要夠努力、夠有才華，就能出人頭地。然而，《他的地板是你的天花板》這本書以大量訪談與數據揭示，現代社會中「唯才是用」其實是一場迷思。階級不平等不但未曾消失，反而在菁英職場中變本加厲。作者山姆．弗里曼與丹尼爾．勞瑞森以英國為例，指出富裕出身者如何憑藉家世與人脈壟斷機會，而勞工階級者即使再有能力，也常被擋在通往成功的大門之外。</p>
-<p><img src="/img/posts/reading-notes-the-class-ceiling-why-it-pays-to-be-privileged-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>階級薪資差異</strong>：即使在同樣的工作中，出身勞工階級者平均薪資比富裕背景者低 16%。</li>
-<li><strong>菁英職業的封閉性</strong>：中高階級家庭子女成為醫師的機率，是勞工階級的 12 倍。</li>
-<li><strong>隱形門檻與潛規則</strong>：富二代靠「父母銀行」、舉薦制度、熟人引介等方式進入高階職場。</li>
-<li><strong>自我內化與否定</strong>：弱勢者常為了融入職場文化而否定自我，卻仍難以真正晉升核心圈。</li>
-<li><strong>改革建議</strong>：書末提出 10 點行動方案，協助組織檢視並打破無形的階級障礙。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>在強調「機會平等」的社會敘事下，我們是否忽略了「結果不平等」的根源？</li>
-<li>面對菁英職場的封閉性，個人努力是否足以突破結構性限制？</li>
-<li>若企業或組織不自覺檢討選才與晉升制度，所謂的公平是否只是一場幻覺？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《他的地板是你的天花板》是一部挑戰現代菁英神話的重要著作，提醒我們階級的存在從未遠離，且深植於我們視為「正常」的職場運作中。唯有承認這些不平等的結構，我們才能真正推動改變，朝更公平的社會邁進。這不只是一本社會學研究書籍，更是一面映照我們職場與社會盲點的鏡子。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>他的地板是你的天花板</tag>
       </tags>
   </entry>
   <entry>
@@ -3217,45 +3216,7 @@
       </tags>
   </entry>
   <entry>
-    <title>《去書店買個好人生：日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫》| 閱讀心得學習筆記</title>
-    <url>/2022/11/24/reading-notes-to-buy-a-good-life-at-a-bookstore/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-to-buy-a-good-life-at-a-bookstore-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《去書店買個好人生：日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫》</span><br><span class="line">作者： 千田琢哉  </span><br><span class="line">譯者： 林詠純</span><br><span class="line">繪者： Bianco Tsai</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2022/11/24</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「世上沒有匱乏的閱讀者。越困頓的時刻，越需要透過閱讀，投資智慧。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>這不是一本教你怎麼快速翻書的工具書，而是一本用來「翻轉人生思維」的實戰手冊。作者千田琢哉從一名問題學生轉變為年銷破百萬冊的作家，他用自身經歷證明：閱讀可以是最低成本、最高報酬的自我投資。這本書，不只是給職場人一盞明燈，更是為人生卡關者而寫的行動指南。</p>
-<p><img src="/img/posts/reading-notes-to-buy-a-good-life-at-a-bookstore-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>閱讀是生存智慧的基礎</strong>：時代再怎麼變，有知識就能活下去。閱讀能創造「時間的寬裕」與「選擇的自由」。  </li>
-<li><strong>閱讀激發行動力</strong>：透過選書與實踐的循環，養成立即行動的習慣，減少拖延與猶豫。  </li>
-<li><strong>書本是最好的職涯顧問</strong>：從溝通、換位思考到變現，每項職場技能都能在書中找到解法與靈感。  </li>
-<li><strong>選書即選擇自己未來的樣子</strong>：命定之書無法被推薦，只能透過大量閱讀主動遇見。  </li>
-<li><strong>閱讀力等於轉化力</strong>：真正厲害的讀者，不只吸收，更能「轉述、轉化並實踐」。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們為何總是用「沒時間」為藉口，忽略最能改變自己的閱讀？  </li>
-<li>你還記得最後一次主動買書，是為了什麼？  </li>
-<li>書架上的書，是裝飾還是行動的提醒？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><ul>
-<li>閱讀是一種內在鍛鍊，更是面對未來最有力的準備。</li>
-<li>本書透過千田琢哉真實的成長故事與具體的閱讀策略，為每位迷惘的現代人指引一條通往「自我升級」的捷徑。  </li>
-<li>不需要立刻成為專家，但你可以先從走進書店開始，選一本今天的你需要的書——未來的你會感謝現在的自己。</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>去書店買個好人生</tag>
-        <tag>日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《把生活過成賞心悅目的好日子：身心整理×極簡日常×居家風格，打造閃閃發光的自在質感生活》 | 閱讀心得學習筆記</title>
+    <title>《把生活過成賞心悅目的好日子：身心整理×極簡日常×居家風格，打造閃閃發光的自在質感生活》| 閱讀心得學習筆記</title>
     <url>/2025/02/05/reading-notes-to-live-to-exist/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-to-live-to-exist-1.jpg"></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《把生活過成賞心悅目的好日子：身心整理×極簡日常×居家風格，打造閃閃發光的自在質感生活》</span><br><span class="line">作者： 有元葉子</span><br><span class="line">譯者： 黃瓊仙</span><br><span class="line">出版社：大好書屋</span><br><span class="line">出版日期：2025/02/05</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
@@ -3310,6 +3271,44 @@
         <tag>把生活過成賞心悅目的好日子</tag>
         <tag>身心整理×極簡日常×居家風格</tag>
         <tag>打造閃閃發光的自在質感生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《去書店買個好人生：日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫》| 閱讀心得學習筆記</title>
+    <url>/2022/11/24/reading-notes-to-buy-a-good-life-at-a-bookstore/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-to-buy-a-good-life-at-a-bookstore-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《去書店買個好人生：日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫》</span><br><span class="line">作者： 千田琢哉  </span><br><span class="line">譯者： 林詠純</span><br><span class="line">繪者： Bianco Tsai</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2022/11/24</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「世上沒有匱乏的閱讀者。越困頓的時刻，越需要透過閱讀，投資智慧。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>這不是一本教你怎麼快速翻書的工具書，而是一本用來「翻轉人生思維」的實戰手冊。作者千田琢哉從一名問題學生轉變為年銷破百萬冊的作家，他用自身經歷證明：閱讀可以是最低成本、最高報酬的自我投資。這本書，不只是給職場人一盞明燈，更是為人生卡關者而寫的行動指南。</p>
+<p><img src="/img/posts/reading-notes-to-buy-a-good-life-at-a-bookstore-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>閱讀是生存智慧的基礎</strong>：時代再怎麼變，有知識就能活下去。閱讀能創造「時間的寬裕」與「選擇的自由」。  </li>
+<li><strong>閱讀激發行動力</strong>：透過選書與實踐的循環，養成立即行動的習慣，減少拖延與猶豫。  </li>
+<li><strong>書本是最好的職涯顧問</strong>：從溝通、換位思考到變現，每項職場技能都能在書中找到解法與靈感。  </li>
+<li><strong>選書即選擇自己未來的樣子</strong>：命定之書無法被推薦，只能透過大量閱讀主動遇見。  </li>
+<li><strong>閱讀力等於轉化力</strong>：真正厲害的讀者，不只吸收，更能「轉述、轉化並實踐」。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們為何總是用「沒時間」為藉口，忽略最能改變自己的閱讀？  </li>
+<li>你還記得最後一次主動買書，是為了什麼？  </li>
+<li>書架上的書，是裝飾還是行動的提醒？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><ul>
+<li>閱讀是一種內在鍛鍊，更是面對未來最有力的準備。</li>
+<li>本書透過千田琢哉真實的成長故事與具體的閱讀策略，為每位迷惘的現代人指引一條通往「自我升級」的捷徑。  </li>
+<li>不需要立刻成為專家，但你可以先從走進書店開始，選一本今天的你需要的書——未來的你會感謝現在的自己。</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>去書店買個好人生</tag>
+        <tag>日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫</tag>
       </tags>
   </entry>
   <entry>
