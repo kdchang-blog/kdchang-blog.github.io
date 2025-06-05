@@ -305,44 +305,6 @@
       </tags>
   </entry>
   <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學</title>
     <url>/2024/05/23/llm-rag-app-notes/</url>
     <content><![CDATA[<p>擷取擴增產生&#x2F;檢索增強生成（Retrieval-Augmented Generation, RAG）是一種結合檢索和生成技術的混合模型，用於改善文本生成任務的性能。這種方法能夠在生成文本時引入外部知識，從而生成更準確和上下文相關的內容。以下是對 RAG 的詳細介紹：</p>
@@ -435,6 +397,44 @@
         <tag>Retrieval-Augmented Generation</tag>
         <tag>擷取擴增產生</tag>
         <tag>檢索增強生成</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -693,6 +693,80 @@
       </tags>
   </entry>
   <entry>
+    <title>《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》| 閱讀心得學習筆記</title>
+    <url>/2017/09/26/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》</span><br><span class="line">作者： 莎拉‧古柏  </span><br><span class="line">原文作者： Sarah Cooper</span><br><span class="line">譯者： 陳重亨</span><br><span class="line">出版社：時報出版  </span><br><span class="line">出版日期：2017/09/26</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「開會是讓你展示領導才能、軟實力和大腦分析創造思考能力的好機會，你在開會的時候表現得越聰明，就會有越多人找你去開會，那麼你表現出聰明的機會也就越多。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代職場中，開會幾乎是每日必經的儀式。面對冗長、空洞又充滿競爭氣味的會議，新人往往束手無策，而老鳥也未必能掌控全場。前 Yahoo! 與 Google 主管莎拉．古柏的《這樣開會，最聰明！》以幽默諷刺的手法，揭露那些表面「看起來很聰明」的行為，實則是職場生存的潛規則。本書不僅是一本工具書，更像是一本職場生存手冊，讓讀者在會議中看起來「比實際聰明三倍」。</p>
+<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>進入會議室的第一印象策略</strong>：包括帶著筆記本、坐在適當位置、適時點頭等看似微不足道卻效果驚人的舉動。  </li>
+<li><strong>白板技巧與圖表魔法</strong>：善用毫無意義但看起來很「複雜」的圖形，展現邏輯與思考能力。  </li>
+<li><strong>電話與遠距會議密技</strong>：透過問候語與檔案確認等語言小技巧，在聲音中塑造專業感。  </li>
+<li><strong>跨文化會議指南</strong>：各國開會文化不同，美國偏行動、日本偏委婉、英國愛抱怨制度，理解這些差異可避免文化衝突。  </li>
+<li><strong>臨場應變絕招</strong>：例如臨時發言時，善用「我補充一下」或「讓我們回到原始目標」等話術來顯得有貢獻。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否太過依賴形式來衡量一個人的「專業度」？</li>
+<li>看起來「聰明」是否比實際「聰明」更容易在職場中獲得信任與晉升？</li>
+<li>書中所揭示的行為，究竟是諷刺還是反映真實？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《這樣開會，最聰明！》不只是一本搞笑的開會指南，而是對職場文化的精準觀察與反思。透過作者的幽默筆觸，我們得以重新審視那些「看起來很努力」的假象與潛藏的生存智慧。無論你是新鮮人還是資深主管，都能從書中找到自嘲與提升的空間。這是一本用笑聲包裝的職場真言書，教你在會議中「看起來像個專家」，也許就是你職涯邁向 A 咖的第一步。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《薩提爾的 52 個冥想練習：覺察內在的冰山，跟自己和解，與他人共好》| 閱讀心得學習筆記</title>
+    <url>/2023/01/04/reading-notes-52-satir-meditation-practices/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-52-satir-meditation-practices-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《薩提爾的 52 個冥想練習：覺察內在的冰山，跟自己和解，與他人共好》</span><br><span class="line">作者： 克麗絲‧費拉洛</span><br><span class="line">譯者： 心意</span><br><span class="line">出版社：遠流</span><br><span class="line">出版日期：2023/01/04</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「 我們需要先看見自己內心的美好，才可能真正看見別人的。我們要先感受到對自己的愛，之後才可能去愛別人。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《薩提爾的 52 個冥想練習》是薩提爾嫡傳弟子約翰．貝曼博士，以一生所學所悟，所整理出的溫柔實用之作。書中結合薩提爾模式的核心精神與冥想技巧，引導讀者從靜心中，重新發現與自我和諧共處的可能。它不僅是一部技巧手冊，更是一份與自己深入對話的邀請。</p>
+<p><img src="/img/posts/reading-notes-52-satir-meditation-practices-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>自我連結是轉化關係與內在平靜的起點。</li>
+<li>冥想練習依循六大主題，從認識自己到擁抱生命。</li>
+<li>每篇練習都以簡單語言，引導進入當下與內心深處。</li>
+<li>書中保留薩提爾女士溫暖語感，如同被慈愛聲音包圍。</li>
+<li>鼓勵透過錄音、朗讀、帶領他人，一同體驗療癒力量。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ul>
+<li>用「每天三分鐘冥想」取代「無止盡的焦慮思考」</li>
+<li>用「關注呼吸與身體感受」取代「忽略自我狀態」</li>
+<li>用「每天書寫一句感謝」取代「對生活視而不見」</li>
+<li>用「與自己對話」取代「情緒自動反應」</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>如何在忙碌生活中維持每日靜心的習慣？</li>
+<li>面對強烈情緒時，冥想能否真正帶來改變？</li>
+<li>如何將這些練習內化為生活中的自然反應？</li>
+<li>對於不熟悉冥想的人，該如何開始這樣的自我練習？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不教你如何改變他人，而是教你如何看見自己。當我們學會靜心、與內在和好，外在世界也會因此不同。透過五十二週的冥想練習，我們不只是修煉技術，而是踏上一條充滿愛與覺察的生命旅程。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>薩提爾</tag>
+        <tag>薩提爾的 52 個冥想練習</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《愛的 8 法則【《僧人心態》作者愛的力作】：如何找到愛、維繫愛、放下愛》| 閱讀心得學習筆記</title>
     <url>/2024/01/01/reading-notes-8-rules-of-love-how-to-find-it-keep-it-and-let-it-go/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-8-rules-of-love-how-to-find-it-keep-it-and-let-it-go-1.jpg"></p>
@@ -730,36 +804,37 @@
       </tags>
   </entry>
   <entry>
-    <title>《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》| 閱讀心得學習筆記</title>
-    <url>/2017/09/26/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》</span><br><span class="line">作者： 莎拉‧古柏  </span><br><span class="line">原文作者： Sarah Cooper</span><br><span class="line">譯者： 陳重亨</span><br><span class="line">出版社：時報出版  </span><br><span class="line">出版日期：2017/09/26</span><br></pre></td></tr></table></figure>
+    <title>《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》| 閱讀心得學習筆記</title>
+    <url>/2024/11/29/reading-notes-adulting-learning-doing-things-being-a-person/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》</span><br><span class="line">作者： 張國洋, 姚詩豪  </span><br><span class="line">出版社：三采  </span><br><span class="line">出版日期：2024/11/29</span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<p>「開會是讓你展示領導才能、軟實力和大腦分析創造思考能力的好機會，你在開會的時候表現得越聰明，就會有越多人找你去開會，那麼你表現出聰明的機會也就越多。」</p>
+<p>「在職場上，很多時候關鍵不在於你有多優秀，而在於不失分。互惠，才是職場人際的底層邏輯。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代職場中，開會幾乎是每日必經的儀式。面對冗長、空洞又充滿競爭氣味的會議，新人往往束手無策，而老鳥也未必能掌控全場。前 Yahoo! 與 Google 主管莎拉．古柏的《這樣開會，最聰明！》以幽默諷刺的手法，揭露那些表面「看起來很聰明」的行為，實則是職場生存的潛規則。本書不僅是一本工具書，更像是一本職場生存手冊，讓讀者在會議中看起來「比實際聰明三倍」。</p>
-<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-2.jpg"></p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書由「大人學」共同創辦人張國洋與姚詩豪撰寫，融合多年職場經驗與 Podcast 討論精華，試圖解答一個常見卻困擾無數上班族的問題——「做人重要，還是做事重要？」兩位作者指出，這不應是二選一的問題，而是雙軌並進的職場策略。  </p>
+<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-2.jpg"></p>
 <h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>進入會議室的第一印象策略</strong>：包括帶著筆記本、坐在適當位置、適時點頭等看似微不足道卻效果驚人的舉動。  </li>
-<li><strong>白板技巧與圖表魔法</strong>：善用毫無意義但看起來很「複雜」的圖形，展現邏輯與思考能力。  </li>
-<li><strong>電話與遠距會議密技</strong>：透過問候語與檔案確認等語言小技巧，在聲音中塑造專業感。  </li>
-<li><strong>跨文化會議指南</strong>：各國開會文化不同，美國偏行動、日本偏委婉、英國愛抱怨制度，理解這些差異可避免文化衝突。  </li>
-<li><strong>臨場應變絕招</strong>：例如臨時發言時，善用「我補充一下」或「讓我們回到原始目標」等話術來顯得有貢獻。</li>
+<li><strong>做事 vs. 做人非零和選擇</strong>：大多數成功者都在這兩者之間取得良好平衡。  </li>
+<li><strong>做事的本質是選擇對的事情做對</strong>：不是一味努力或加班，而是聚焦於有價值的任務。  </li>
+<li><strong>做人不是拍馬屁，而是減少失分</strong>：基本的禮貌與人際界線能讓你不被討厭，就是「做人八十分」的關鍵。  </li>
+<li><strong>極端例子不具代表性</strong>：技術大神或交際高手的成功難以複製，一般人應從實務出發，建立可持續的策略。  </li>
+<li><strong>不失分比得高分更重要</strong>：在團隊協作中，避免讓他人受害比成為明星更實用。</li>
 </ul>
 <h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否太過依賴形式來衡量一個人的「專業度」？</li>
-<li>看起來「聰明」是否比實際「聰明」更容易在職場中獲得信任與晉升？</li>
-<li>書中所揭示的行為，究竟是諷刺還是反映真實？</li>
+<li>我們是否過度追求被看見，而忽略了「別被討厭」的基本？</li>
+<li>在現實職場中，「能力」和「人際」究竟如何轉換為具體的報酬與發展？</li>
+<li>是否曾誤解「做人」就是迎合？而忽略了「尊重」與「分寸」的真正價值？</li>
 </ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《這樣開會，最聰明！》不只是一本搞笑的開會指南，而是對職場文化的精準觀察與反思。透過作者的幽默筆觸，我們得以重新審視那些「看起來很努力」的假象與潛藏的生存智慧。無論你是新鮮人還是資深主管，都能從書中找到自嘲與提升的空間。這是一本用笑聲包裝的職場真言書，教你在會議中「看起來像個專家」，也許就是你職涯邁向 A 咖的第一步。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅提供職場生存的實用策略，也提醒我們：職涯不只是加薪升職，更是一場長期的人生成長與體驗。與其單打獨鬥，不如練好「做事做人」這門功課，讓你在穩健中突圍，在職場上活得成熟而自在。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
-        <tag>這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！</tag>
+        <tag>大人學做事做人</tag>
+        <tag>做事，才是職場做人的根本</tag>
       </tags>
   </entry>
   <entry>
@@ -799,40 +874,6 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>讓這本書抱抱你：每一天練習自我照顧，學會愛自己</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》| 閱讀心得學習筆記</title>
-    <url>/2024/11/29/reading-notes-adulting-learning-doing-things-being-a-person/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》</span><br><span class="line">作者： 張國洋, 姚詩豪  </span><br><span class="line">出版社：三采  </span><br><span class="line">出版日期：2024/11/29</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「在職場上，很多時候關鍵不在於你有多優秀，而在於不失分。互惠，才是職場人際的底層邏輯。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書由「大人學」共同創辦人張國洋與姚詩豪撰寫，融合多年職場經驗與 Podcast 討論精華，試圖解答一個常見卻困擾無數上班族的問題——「做人重要，還是做事重要？」兩位作者指出，這不應是二選一的問題，而是雙軌並進的職場策略。  </p>
-<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>做事 vs. 做人非零和選擇</strong>：大多數成功者都在這兩者之間取得良好平衡。  </li>
-<li><strong>做事的本質是選擇對的事情做對</strong>：不是一味努力或加班，而是聚焦於有價值的任務。  </li>
-<li><strong>做人不是拍馬屁，而是減少失分</strong>：基本的禮貌與人際界線能讓你不被討厭，就是「做人八十分」的關鍵。  </li>
-<li><strong>極端例子不具代表性</strong>：技術大神或交際高手的成功難以複製，一般人應從實務出發，建立可持續的策略。  </li>
-<li><strong>不失分比得高分更重要</strong>：在團隊協作中，避免讓他人受害比成為明星更實用。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否過度追求被看見，而忽略了「別被討厭」的基本？</li>
-<li>在現實職場中，「能力」和「人際」究竟如何轉換為具體的報酬與發展？</li>
-<li>是否曾誤解「做人」就是迎合？而忽略了「尊重」與「分寸」的真正價值？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅提供職場生存的實用策略，也提醒我們：職涯不只是加薪升職，更是一場長期的人生成長與體驗。與其單打獨鬥，不如練好「做事做人」這門功課，讓你在穩健中突圍，在職場上活得成熟而自在。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>大人學做事做人</tag>
-        <tag>做事，才是職場做人的根本</tag>
       </tags>
   </entry>
   <entry>
@@ -892,6 +933,40 @@
       </tags>
   </entry>
   <entry>
+    <title>《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》 | 閱讀心得學習筆記</title>
+    <url>/2025/03/05/reading-notes-awaken-your-genius/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-awaken-your-genius-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》</span><br><span class="line">作者： 歐贊‧瓦羅  </span><br><span class="line">原文作者： Ozan Varol</span><br><span class="line">譯者： 韓絜光</span><br><span class="line">出版社：天下雜誌  </span><br><span class="line">出版日期：2025/03/05</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「天才，是最像自己的人。捨棄過度學習的束縛，拒絕複製別人的捷徑，與自己真實的天賦連結，人生真的不必將就。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們都曾在某個時刻疑問：「這真的是我想要的人生嗎？」《終於成為自己》是一本關於覺醒與重生的書。作者歐贊‧瓦羅以自己從火箭科學家轉型為法學教授與暢銷作家的經歷，鼓勵讀者勇敢跳脫外在框架，找回與自己天賦與渴望的連結。這不是一本教你成功的書，而是一本教你「回家」的書——回到內在最真實的自己。</p>
+<p><img src="/img/posts/reading-notes-awaken-your-genius-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>刻意捨去</strong>：意識到生活中許多信念與選擇並非出自我們本意，而是來自社會、家庭的預設劇本。學會<code>斷捨離這些外加的身份</code>。</li>
+<li><strong>找出你的第一原理</strong>：透過「<code>第一原理思維</code>」重建人生架構，不再從眾，而是回到個人價值的起點。</li>
+<li><strong>解放內在原力</strong>：<code>放下自我審查與恐懼</code>，發揮創造力與遊戲精神，學會與內在智慧合作而非抗拒。</li>
+<li><strong>去除外在雜音</strong>：辨識社會灌輸的錯誤信念，不再依賴人生導師或外部認可，<code>培養獨立判斷</code>。</li>
+<li><strong>迎向蛻變與未知</strong>：<code>擁抱不確定性與改變</code>，把「放棄」視為進化的一部分，活出與天賦對齊的人生。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們日常的選擇有多少是出自真實的渴望？  </li>
+<li>是什麼讓我們對改變感到恐懼？社會標準還是自我懷疑？  </li>
+<li>如果拋開一切期待與身份，你想過怎樣的生活？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《終於成為自己》是一本讓人重新審視人生選擇與思維慣性的書。它邀請我們放下追隨、擁抱未知，從模仿他人走向創造自己。不是成為更好的誰，而是成為更完整的自己。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望</tag>
+        <tag>終於成為自己</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《原子習慣：細微改變帶來巨大成就的實證法則》| 閱讀心得學習筆記</title>
     <url>/2019/06/01/reading-notes-atomic-habits/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-atomic-habits-1.jpg"></p>
@@ -944,40 +1019,6 @@
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》 | 閱讀心得學習筆記</title>
-    <url>/2025/03/05/reading-notes-awaken-your-genius/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-awaken-your-genius-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》</span><br><span class="line">作者： 歐贊‧瓦羅  </span><br><span class="line">原文作者： Ozan Varol</span><br><span class="line">譯者： 韓絜光</span><br><span class="line">出版社：天下雜誌  </span><br><span class="line">出版日期：2025/03/05</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「天才，是最像自己的人。捨棄過度學習的束縛，拒絕複製別人的捷徑，與自己真實的天賦連結，人生真的不必將就。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們都曾在某個時刻疑問：「這真的是我想要的人生嗎？」《終於成為自己》是一本關於覺醒與重生的書。作者歐贊‧瓦羅以自己從火箭科學家轉型為法學教授與暢銷作家的經歷，鼓勵讀者勇敢跳脫外在框架，找回與自己天賦與渴望的連結。這不是一本教你成功的書，而是一本教你「回家」的書——回到內在最真實的自己。</p>
-<p><img src="/img/posts/reading-notes-awaken-your-genius-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>刻意捨去</strong>：意識到生活中許多信念與選擇並非出自我們本意，而是來自社會、家庭的預設劇本。學會<code>斷捨離這些外加的身份</code>。</li>
-<li><strong>找出你的第一原理</strong>：透過「<code>第一原理思維</code>」重建人生架構，不再從眾，而是回到個人價值的起點。</li>
-<li><strong>解放內在原力</strong>：<code>放下自我審查與恐懼</code>，發揮創造力與遊戲精神，學會與內在智慧合作而非抗拒。</li>
-<li><strong>去除外在雜音</strong>：辨識社會灌輸的錯誤信念，不再依賴人生導師或外部認可，<code>培養獨立判斷</code>。</li>
-<li><strong>迎向蛻變與未知</strong>：<code>擁抱不確定性與改變</code>，把「放棄」視為進化的一部分，活出與天賦對齊的人生。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們日常的選擇有多少是出自真實的渴望？  </li>
-<li>是什麼讓我們對改變感到恐懼？社會標準還是自我懷疑？  </li>
-<li>如果拋開一切期待與身份，你想過怎樣的生活？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《終於成為自己》是一本讓人重新審視人生選擇與思維慣性的書。它邀請我們放下追隨、擁抱未知，從模仿他人走向創造自己。不是成為更好的誰，而是成為更完整的自己。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望</tag>
-        <tag>終於成為自己</tag>
       </tags>
   </entry>
   <entry>
