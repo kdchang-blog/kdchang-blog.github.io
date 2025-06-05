@@ -140,8 +140,9 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: huxblog
-plugins: hexo-generator-cname
-  hexo-generator-robotstxt
+plugins:
+  - hexo-generator-cname
+  - hexo-generator-robotstxt
 
 ## social
 addthis:
@@ -212,5 +213,6 @@ feed:
   autodiscovery: true
   template:
 
-include: .nojekyll
-  CNAME
+include:
+  - .nojekyll
+  - CNAME
