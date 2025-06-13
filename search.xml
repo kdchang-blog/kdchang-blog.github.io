@@ -157,6 +157,50 @@
       </tags>
   </entry>
   <entry>
+    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
+    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
+    <content><![CDATA[<blockquote>
+<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
+<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
+<p>Axure RP 主要有幾個常用的功能區塊：</p>
+<ol>
+<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
+<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
+<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
+<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
+<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
+</ol>
+<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
+<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
+<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
+<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
+<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
+<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
+<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
+<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
+<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
+<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
+<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
+<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
+<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
+<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
+<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
+      <tags>
+        <tag>產品專案管理</tag>
+        <tag>產品管理</tag>
+        <tag>專案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Axure RP 10</tag>
+        <tag>axure</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</title>
     <url>/2024/05/22/llm-app-in-martech/</url>
     <content><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p>
@@ -212,50 +256,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
-    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
-    <content><![CDATA[<blockquote>
-<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
-<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
-<p>Axure RP 主要有幾個常用的功能區塊：</p>
-<ol>
-<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
-<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
-<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
-<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
-<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
-</ol>
-<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
-<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
-<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
-<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
-<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
-<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
-<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
-<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
-<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
-<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
-<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
-<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
-<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
-<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
-<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>產品專案管理</tag>
-        <tag>產品管理</tag>
-        <tag>專案管理</tag>
-        <tag>Axure RP 10</tag>
-        <tag>axure</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
     <url>/2024/05/23/llm-langchain-notes/</url>
     <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
@@ -302,44 +302,6 @@
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
         <tag>LangChain</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -435,6 +397,44 @@
         <tag>Retrieval-Augmented Generation</tag>
         <tag>擷取擴增產生</tag>
         <tag>檢索增強生成</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -541,11 +541,11 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>PM</tag>
@@ -639,11 +639,11 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>Project Manager</tag>
@@ -671,11 +671,11 @@
 </ol>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>PM</tag>
@@ -804,6 +804,40 @@
       </tags>
   </entry>
   <entry>
+    <title>《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》| 閱讀心得學習筆記</title>
+    <url>/2024/11/29/reading-notes-adulting-learning-doing-things-being-a-person/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》</span><br><span class="line">作者： 張國洋, 姚詩豪  </span><br><span class="line">出版社：三采  </span><br><span class="line">出版日期：2024/11/29</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「在職場上，很多時候關鍵不在於你有多優秀，而在於不失分。互惠，才是職場人際的底層邏輯。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書由「大人學」共同創辦人張國洋與姚詩豪撰寫，融合多年職場經驗與 Podcast 討論精華，試圖解答一個常見卻困擾無數上班族的問題——「做人重要，還是做事重要？」兩位作者指出，這不應是二選一的問題，而是雙軌並進的職場策略。  </p>
+<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>做事 vs. 做人非零和選擇</strong>：大多數成功者都在這兩者之間取得良好平衡。  </li>
+<li><strong>做事的本質是選擇對的事情做對</strong>：不是一味努力或加班，而是聚焦於有價值的任務。  </li>
+<li><strong>做人不是拍馬屁，而是減少失分</strong>：基本的禮貌與人際界線能讓你不被討厭，就是「做人八十分」的關鍵。  </li>
+<li><strong>極端例子不具代表性</strong>：技術大神或交際高手的成功難以複製，一般人應從實務出發，建立可持續的策略。  </li>
+<li><strong>不失分比得高分更重要</strong>：在團隊協作中，避免讓他人受害比成為明星更實用。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否過度追求被看見，而忽略了「別被討厭」的基本？</li>
+<li>在現實職場中，「能力」和「人際」究竟如何轉換為具體的報酬與發展？</li>
+<li>是否曾誤解「做人」就是迎合？而忽略了「尊重」與「分寸」的真正價值？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅提供職場生存的實用策略，也提醒我們：職涯不只是加薪升職，更是一場長期的人生成長與體驗。與其單打獨鬥，不如練好「做事做人」這門功課，讓你在穩健中突圍，在職場上活得成熟而自在。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>大人學做事做人</tag>
+        <tag>做事，才是職場做人的根本</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《讓這本書抱抱你：每一天練習自我照顧，學會愛自己》| 閱讀心得學習筆記</title>
     <url>/2023/11/29/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals-1.jpg"></p>
@@ -840,40 +874,6 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>讓這本書抱抱你：每一天練習自我照顧，學會愛自己</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》| 閱讀心得學習筆記</title>
-    <url>/2024/11/29/reading-notes-adulting-learning-doing-things-being-a-person/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》</span><br><span class="line">作者： 張國洋, 姚詩豪  </span><br><span class="line">出版社：三采  </span><br><span class="line">出版日期：2024/11/29</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「在職場上，很多時候關鍵不在於你有多優秀，而在於不失分。互惠，才是職場人際的底層邏輯。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書由「大人學」共同創辦人張國洋與姚詩豪撰寫，融合多年職場經驗與 Podcast 討論精華，試圖解答一個常見卻困擾無數上班族的問題——「做人重要，還是做事重要？」兩位作者指出，這不應是二選一的問題，而是雙軌並進的職場策略。  </p>
-<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>做事 vs. 做人非零和選擇</strong>：大多數成功者都在這兩者之間取得良好平衡。  </li>
-<li><strong>做事的本質是選擇對的事情做對</strong>：不是一味努力或加班，而是聚焦於有價值的任務。  </li>
-<li><strong>做人不是拍馬屁，而是減少失分</strong>：基本的禮貌與人際界線能讓你不被討厭，就是「做人八十分」的關鍵。  </li>
-<li><strong>極端例子不具代表性</strong>：技術大神或交際高手的成功難以複製，一般人應從實務出發，建立可持續的策略。  </li>
-<li><strong>不失分比得高分更重要</strong>：在團隊協作中，避免讓他人受害比成為明星更實用。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否過度追求被看見，而忽略了「別被討厭」的基本？</li>
-<li>在現實職場中，「能力」和「人際」究竟如何轉換為具體的報酬與發展？</li>
-<li>是否曾誤解「做人」就是迎合？而忽略了「尊重」與「分寸」的真正價值？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅提供職場生存的實用策略，也提醒我們：職涯不只是加薪升職，更是一場長期的人生成長與體驗。與其單打獨鬥，不如練好「做事做人」這門功課，讓你在穩健中突圍，在職場上活得成熟而自在。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>大人學做事做人</tag>
-        <tag>做事，才是職場做人的根本</tag>
       </tags>
   </entry>
   <entry>
@@ -988,6 +988,40 @@
       </tags>
   </entry>
   <entry>
+    <title>《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》 | 閱讀心得學習筆記</title>
+    <url>/2025/03/05/reading-notes-awaken-your-genius/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-awaken-your-genius-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》</span><br><span class="line">作者： 歐贊‧瓦羅  </span><br><span class="line">原文作者： Ozan Varol</span><br><span class="line">譯者： 韓絜光</span><br><span class="line">出版社：天下雜誌  </span><br><span class="line">出版日期：2025/03/05</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「天才，是最像自己的人。捨棄過度學習的束縛，拒絕複製別人的捷徑，與自己真實的天賦連結，人生真的不必將就。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們都曾在某個時刻疑問：「這真的是我想要的人生嗎？」《終於成為自己》是一本關於覺醒與重生的書。作者歐贊‧瓦羅以自己從火箭科學家轉型為法學教授與暢銷作家的經歷，鼓勵讀者勇敢跳脫外在框架，找回與自己天賦與渴望的連結。這不是一本教你成功的書，而是一本教你「回家」的書——回到內在最真實的自己。</p>
+<p><img src="/img/posts/reading-notes-awaken-your-genius-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>刻意捨去</strong>：意識到生活中許多信念與選擇並非出自我們本意，而是來自社會、家庭的預設劇本。學會<code>斷捨離這些外加的身份</code>。</li>
+<li><strong>找出你的第一原理</strong>：透過「<code>第一原理思維</code>」重建人生架構，不再從眾，而是回到個人價值的起點。</li>
+<li><strong>解放內在原力</strong>：<code>放下自我審查與恐懼</code>，發揮創造力與遊戲精神，學會與內在智慧合作而非抗拒。</li>
+<li><strong>去除外在雜音</strong>：辨識社會灌輸的錯誤信念，不再依賴人生導師或外部認可，<code>培養獨立判斷</code>。</li>
+<li><strong>迎向蛻變與未知</strong>：<code>擁抱不確定性與改變</code>，把「放棄」視為進化的一部分，活出與天賦對齊的人生。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們日常的選擇有多少是出自真實的渴望？  </li>
+<li>是什麼讓我們對改變感到恐懼？社會標準還是自我懷疑？  </li>
+<li>如果拋開一切期待與身份，你想過怎樣的生活？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《終於成為自己》是一本讓人重新審視人生選擇與思維慣性的書。它邀請我們放下追隨、擁抱未知，從模仿他人走向創造自己。不是成為更好的誰，而是成為更完整的自己。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望</tag>
+        <tag>終於成為自己</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《Be Water , My Friend 似水無形，李小龍的人生哲學：水很柔弱，卻能穿透最堅硬的物質，你感覺它平靜停滯，卻正流進任何可能的地方。》| 閱讀心得學習筆記</title>
     <url>/2021/03/31/reading-notes-be-water-my-friend-the-teachings-of-bruce-lee/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-be-water-my-friend-the-teachings-of-bruce-lee-1.jpg"></p>
@@ -1030,40 +1064,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》 | 閱讀心得學習筆記</title>
-    <url>/2025/03/05/reading-notes-awaken-your-genius/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-awaken-your-genius-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》</span><br><span class="line">作者： 歐贊‧瓦羅  </span><br><span class="line">原文作者： Ozan Varol</span><br><span class="line">譯者： 韓絜光</span><br><span class="line">出版社：天下雜誌  </span><br><span class="line">出版日期：2025/03/05</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「天才，是最像自己的人。捨棄過度學習的束縛，拒絕複製別人的捷徑，與自己真實的天賦連結，人生真的不必將就。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們都曾在某個時刻疑問：「這真的是我想要的人生嗎？」《終於成為自己》是一本關於覺醒與重生的書。作者歐贊‧瓦羅以自己從火箭科學家轉型為法學教授與暢銷作家的經歷，鼓勵讀者勇敢跳脫外在框架，找回與自己天賦與渴望的連結。這不是一本教你成功的書，而是一本教你「回家」的書——回到內在最真實的自己。</p>
-<p><img src="/img/posts/reading-notes-awaken-your-genius-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>刻意捨去</strong>：意識到生活中許多信念與選擇並非出自我們本意，而是來自社會、家庭的預設劇本。學會<code>斷捨離這些外加的身份</code>。</li>
-<li><strong>找出你的第一原理</strong>：透過「<code>第一原理思維</code>」重建人生架構，不再從眾，而是回到個人價值的起點。</li>
-<li><strong>解放內在原力</strong>：<code>放下自我審查與恐懼</code>，發揮創造力與遊戲精神，學會與內在智慧合作而非抗拒。</li>
-<li><strong>去除外在雜音</strong>：辨識社會灌輸的錯誤信念，不再依賴人生導師或外部認可，<code>培養獨立判斷</code>。</li>
-<li><strong>迎向蛻變與未知</strong>：<code>擁抱不確定性與改變</code>，把「放棄」視為進化的一部分，活出與天賦對齊的人生。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們日常的選擇有多少是出自真實的渴望？  </li>
-<li>是什麼讓我們對改變感到恐懼？社會標準還是自我懷疑？  </li>
-<li>如果拋開一切期待與身份，你想過怎樣的生活？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《終於成為自己》是一本讓人重新審視人生選擇與思維慣性的書。它邀請我們放下追隨、擁抱未知，從模仿他人走向創造自己。不是成為更好的誰，而是成為更完整的自己。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望</tag>
-        <tag>終於成為自己</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《在關係變成傷害之前：為什麼愈相愛愈受傷？停止悔恨、執迷與焦慮的關係修復心理學，療癒內在失控感，重建愛人與被愛的力量》| 閱讀心得學習筆記</title>
     <url>/2025/02/05/reading-notes-before-relationships-become-harmful/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-before-relationships-become-harmful-1.jpg"></p>
@@ -1090,51 +1090,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>這一生，你要體會的30件事</tag>
         <tag>精神科醫師最犀利的人生告白</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《破除困境、財富夢想實現的高效率「人生管理筆記」：全方位6大筆記系統、28個神奇工具，做自己的造命師，不再受困境擺佈》| 閱讀心得學習筆記</title>
-    <url>/2024/06/28/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《破除困境、財富夢想實現的高效率「人生管理筆記」：全方位6大筆記系統、28個神奇工具，做自己的造命師，不再受困境擺佈》</span><br><span class="line">作者： 水晶  </span><br><span class="line">出版社：方言文化</span><br><span class="line">出版日期：2024/06/28</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「勞碌辛苦不等於成功，只會陷入平庸。筆記，不是記住過去，而是開啟未來的鑰匙。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸、節奏飛快的時代，我們的學習與工作都倚賴筆記，但真正懂得運用筆記的人卻不多。本書以水晶的「樂寫人生」筆記法為核心，從記錄到提煉，帶領讀者跳脫「抄寫」的框架，進入以思考與實踐為本的筆記新境界。透過「TRAP四步法」，我們不僅能提升學習效率，更能打造個人知識體系。</p>
-<p><img src="/img/posts/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li>筆記有三層級：資訊記錄 → 精華萃取 → 自我成長與實踐。</li>
-<li>筆記的目的應聚焦於「提升自我」而非純粹記錄。</li>
-<li>杜拉克與史隆的例子顯示，透過書寫能深化理解與決策。</li>
-<li>筆記分為兩類：  <ul>
-<li><strong>方案類筆記</strong>：記錄計畫、決策與成果差異，幫助優化行動。  </li>
-<li><strong>知識類筆記</strong>：整合認知，透過重複修訂打造個人知識系統。</li>
-</ul>
-</li>
-<li>「TRAP」筆記法：  <ul>
-<li><strong>T</strong>（Thinking）：思考學習動機、重點與應用。  </li>
-<li><strong>R</strong>（Refine）：總結內容、抓住重點。  </li>
-<li><strong>A</strong>（Arrange）：結構化整理知識。  </li>
-<li><strong>P</strong>（Present）：用自己的語言與方式記錄呈現。</li>
-</ul>
-</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你目前的筆記方式是否僅停留在「抄寫」階段？</li>
-<li>有沒有透過筆記整理思考、釐清決策，甚至改變過某些行為？</li>
-<li>面對資訊過載，你是否已經建立起屬於自己的知識篩選機制？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《破除困境、財富夢想實現的高效率「人生管理筆記」》不僅是一本教你「如何記筆記」的書，更是一趟重新認識自我學習力與思考方式的旅程。它提醒我們：筆記不是輸出內容，而是輸入認知；不是紀錄事實，而是打磨思維。透過持續記錄與反覆修訂，我們能在快速變遷的世界中站穩腳步、持續進化。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>破除困境</tag>
-        <tag>財富夢想實現的高效率</tag>
-        <tag>人生管理筆記</tag>
       </tags>
   </entry>
   <entry>
@@ -1220,6 +1175,51 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>蛤蟆先生去看心理師</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《破除困境、財富夢想實現的高效率「人生管理筆記」：全方位6大筆記系統、28個神奇工具，做自己的造命師，不再受困境擺佈》| 閱讀心得學習筆記</title>
+    <url>/2024/06/28/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《破除困境、財富夢想實現的高效率「人生管理筆記」：全方位6大筆記系統、28個神奇工具，做自己的造命師，不再受困境擺佈》</span><br><span class="line">作者： 水晶  </span><br><span class="line">出版社：方言文化</span><br><span class="line">出版日期：2024/06/28</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「勞碌辛苦不等於成功，只會陷入平庸。筆記，不是記住過去，而是開啟未來的鑰匙。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸、節奏飛快的時代，我們的學習與工作都倚賴筆記，但真正懂得運用筆記的人卻不多。本書以水晶的「樂寫人生」筆記法為核心，從記錄到提煉，帶領讀者跳脫「抄寫」的框架，進入以思考與實踐為本的筆記新境界。透過「TRAP四步法」，我們不僅能提升學習效率，更能打造個人知識體系。</p>
+<p><img src="/img/posts/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li>筆記有三層級：資訊記錄 → 精華萃取 → 自我成長與實踐。</li>
+<li>筆記的目的應聚焦於「提升自我」而非純粹記錄。</li>
+<li>杜拉克與史隆的例子顯示，透過書寫能深化理解與決策。</li>
+<li>筆記分為兩類：  <ul>
+<li><strong>方案類筆記</strong>：記錄計畫、決策與成果差異，幫助優化行動。  </li>
+<li><strong>知識類筆記</strong>：整合認知，透過重複修訂打造個人知識系統。</li>
+</ul>
+</li>
+<li>「TRAP」筆記法：  <ul>
+<li><strong>T</strong>（Thinking）：思考學習動機、重點與應用。  </li>
+<li><strong>R</strong>（Refine）：總結內容、抓住重點。  </li>
+<li><strong>A</strong>（Arrange）：結構化整理知識。  </li>
+<li><strong>P</strong>（Present）：用自己的語言與方式記錄呈現。</li>
+</ul>
+</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你目前的筆記方式是否僅停留在「抄寫」階段？</li>
+<li>有沒有透過筆記整理思考、釐清決策，甚至改變過某些行為？</li>
+<li>面對資訊過載，你是否已經建立起屬於自己的知識篩選機制？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《破除困境、財富夢想實現的高效率「人生管理筆記」》不僅是一本教你「如何記筆記」的書，更是一趟重新認識自我學習力與思考方式的旅程。它提醒我們：筆記不是輸出內容，而是輸入認知；不是紀錄事實，而是打磨思維。透過持續記錄與反覆修訂，我們能在快速變遷的世界中站穩腳步、持續進化。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>破除困境</tag>
+        <tag>財富夢想實現的高效率</tag>
+        <tag>人生管理筆記</tag>
       </tags>
   </entry>
   <entry>
@@ -1393,11 +1393,11 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書不僅適用於產品專案管理者，更是所有企業領導人應該深入研究的課題。數位轉型的成功關鍵在於建立「授權與賦能」的文化，使組織成員能夠自主決策與創新，最終提升企業競爭力。透過培養 <code>Sense of Ownership</code>（責任感），企業與員工才能實現共榮共存。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>產品專案管理專案全書</tag>
@@ -1778,38 +1778,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《假如孫子是現代上班族》| 閱讀心得學習筆記</title>
-    <url>/2020/11/26/reading-notes-if-sunzi-were-a-modern-office-worker/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《假如孫子是現代上班族》</span><br><span class="line">作者： 安恒理（Osamu Yasutsune）  </span><br><span class="line">譯者： 沈俊傑</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2020/11/26</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「知彼知己，百戰不殆。《孫子兵法》不僅是一部軍書，更能應用在商場、戀愛、運動、博弈等含有競爭要素的領域，因為一切競爭行為都來自於人，而《孫子兵法》精準剖析了人類細微的心理。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《假如孫子是現代上班族》是一本將《孫子兵法》現代化應用於職場的實戰指南。作者安恒理以現代職場的五大情境問題為核心，搭配32條兵法守則與38則實務案例，引導讀者如何透過「情報」與「策略」，在混亂不明的職場中脫穎而出，打造不敗的生存之道。</p>
-<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>情報為先</strong>：孫子強調「多算勝，少算不勝」，蒐集與分析情報才是致勝關鍵。</li>
-<li><strong>攻心為上</strong>：掌握上司、客戶的習慣與喜好，在對方鬆懈時出擊最有效。</li>
-<li><strong>順勢而為</strong>：與其硬碰硬，不如借力使力、利用敵方資源達成目的。</li>
-<li><strong>靈活應變</strong>：比起強者思維，「生存智慧」與適應變化的能力才是長遠之計。</li>
-<li><strong>職場戰略</strong>：離職糾紛、客訴危機、公關風暴皆可借由兵法中的「守」、「攻」、「變」對應解法。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否過於強調績效與努力，卻忽略了背後的資訊戰與心理戰？</li>
-<li>在講求效率的現代職場，「等待最佳時機」是否會被視為消極？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提醒我們，職場如戰場，面對豬隊友、奧客、雷主管時，光靠努力不夠，更要懂得策略與情報運用。透過孫子的智慧，我們能更有系統地拆解問題、預判風險，化解難關。現代問題，有時真的需要古代手段解決。這本書，正是寫給在職場中載浮載沉的你。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>假如孫子是現代上班族</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀心得學習筆記</title>
     <url>/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-1.jpg"></p>
@@ -1843,15 +1811,47 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《矽谷最夯‧產品專案管理全書》是一本實用性極強的產品管理指南。作者通過豐富的案例和實務經驗，為讀者提供了一套系統性的產品開發方法論。無論你是產品經理、設計師還是工程師，都能從本書中獲取寶貴的知識和啟發。這本書不僅僅是一本工具書，更是一本能夠激發讀者思考的思想庫。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>產品專案管理專案全書</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《假如孫子是現代上班族》| 閱讀心得學習筆記</title>
+    <url>/2020/11/26/reading-notes-if-sunzi-were-a-modern-office-worker/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《假如孫子是現代上班族》</span><br><span class="line">作者： 安恒理（Osamu Yasutsune）  </span><br><span class="line">譯者： 沈俊傑</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2020/11/26</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「知彼知己，百戰不殆。《孫子兵法》不僅是一部軍書，更能應用在商場、戀愛、運動、博弈等含有競爭要素的領域，因為一切競爭行為都來自於人，而《孫子兵法》精準剖析了人類細微的心理。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《假如孫子是現代上班族》是一本將《孫子兵法》現代化應用於職場的實戰指南。作者安恒理以現代職場的五大情境問題為核心，搭配32條兵法守則與38則實務案例，引導讀者如何透過「情報」與「策略」，在混亂不明的職場中脫穎而出，打造不敗的生存之道。</p>
+<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>情報為先</strong>：孫子強調「多算勝，少算不勝」，蒐集與分析情報才是致勝關鍵。</li>
+<li><strong>攻心為上</strong>：掌握上司、客戶的習慣與喜好，在對方鬆懈時出擊最有效。</li>
+<li><strong>順勢而為</strong>：與其硬碰硬，不如借力使力、利用敵方資源達成目的。</li>
+<li><strong>靈活應變</strong>：比起強者思維，「生存智慧」與適應變化的能力才是長遠之計。</li>
+<li><strong>職場戰略</strong>：離職糾紛、客訴危機、公關風暴皆可借由兵法中的「守」、「攻」、「變」對應解法。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否過於強調績效與努力，卻忽略了背後的資訊戰與心理戰？</li>
+<li>在講求效率的現代職場，「等待最佳時機」是否會被視為消極？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提醒我們，職場如戰場，面對豬隊友、奧客、雷主管時，光靠努力不夠，更要懂得策略與情報運用。透過孫子的智慧，我們能更有系統地拆解問題、預判風險，化解難關。現代問題，有時真的需要古代手段解決。這本書，正是寫給在職場中載浮載沉的你。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>假如孫子是現代上班族</tag>
       </tags>
   </entry>
   <entry>
@@ -2266,42 +2266,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》| 閱讀心得學習筆記</title>
-    <url>/2024/11/14/reading-notes-micro-skills-small-actions-big-impact-notes/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》</span><br><span class="line">作者： 艾黛拉．蘭德瑞, 瑞莎．盧伊斯  </span><br><span class="line">原文作者： Adaira Landry MD , Resa E. Lewiss MD</span><br><span class="line">譯者： 何玉方</span><br><span class="line">出版社：商業周刊</span><br><span class="line">出版日期：2024/11/14</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「職場成敗，不在大事，而是小事的堆疊。職場的每步路，都是由小小的「原子技巧」累積起來。做對小事、避開小錯，持續練習就能累積大成果。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在競爭激烈又變化迅速的現代職場，僅靠努力與熱情，已不足以支撐我們走得長遠。《原子技巧》一書由兩位來自醫界、歷經現實挑戰的女醫師所寫，提出一個關鍵觀念：「成就來自於無數細小技巧的積累與應用」。這本書像是一份實用的職場工具包，幫助我們在不被教導的領域中穩健前進。</p>
-<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>原子技巧的核心概念：小行為積少成多，能影響大結果。每一項技巧都是具體、可練習、可衡量的。</p>
-<p>三大技巧範疇：</p>
-<ol>
-<li>自我照顧與效率提升：包括睡眠、情緒管理、行事曆規劃、精簡瑣事。</li>
-<li>任務與溝通管理：學會與主管對齊目標、設限會議時間、簡明扼要地傳達需求。</li>
-<li>人際與晉升策略：擴展人脈、建立信任、展現專業、避免社交地雷。</li>
-</ol>
-<p>應用方法：<br>將大目標拆解成小任務，對應適合的技巧逐一練習，例如建立人脈時先從內向者的舒適圈突破，再逐步擴張社交網絡。</p>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>為何學校與傳統教育中，鮮少提及這些實用技巧？</li>
-<li>在你目前的工作中，哪一項「原子技巧」最欠缺？</li>
-<li>是否曾因「小錯」而錯過晉升或重要機會？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《原子技巧》並非高談闊論成功學的書，而是一份實戰指南。透過拆解與練習這些細小但關鍵的行為模式，我們不只提升效率，更能在面對壓力與挑戰時，更穩健地應對。這是一本應該反覆翻閱、逐步實踐的職涯夥伴。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>原子技巧</tag>
-        <tag>小練習帶來大改變</tag>
-        <tag>早知道會更好的10種職場組合技</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《掌握人心的MBTI職場溝通術：讓你開口說對話、提案一次過、贏得好人緣的16型人職場指南》| 閱讀心得學習筆記</title>
     <url>/2024/02/01/reading-notes-mbti-communication-techniques-to-win-hearts-at-work/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-mbti-communication-techniques-to-win-hearts-at-work-1.jpg"></p>
@@ -2343,6 +2307,42 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>掌握人心的MBTI職場溝通術</tag>
         <tag>讓你開口說對話、提案一次過、贏得好人緣的16型人職場指南</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》| 閱讀心得學習筆記</title>
+    <url>/2024/11/14/reading-notes-micro-skills-small-actions-big-impact-notes/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》</span><br><span class="line">作者： 艾黛拉．蘭德瑞, 瑞莎．盧伊斯  </span><br><span class="line">原文作者： Adaira Landry MD , Resa E. Lewiss MD</span><br><span class="line">譯者： 何玉方</span><br><span class="line">出版社：商業周刊</span><br><span class="line">出版日期：2024/11/14</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「職場成敗，不在大事，而是小事的堆疊。職場的每步路，都是由小小的「原子技巧」累積起來。做對小事、避開小錯，持續練習就能累積大成果。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在競爭激烈又變化迅速的現代職場，僅靠努力與熱情，已不足以支撐我們走得長遠。《原子技巧》一書由兩位來自醫界、歷經現實挑戰的女醫師所寫，提出一個關鍵觀念：「成就來自於無數細小技巧的積累與應用」。這本書像是一份實用的職場工具包，幫助我們在不被教導的領域中穩健前進。</p>
+<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>原子技巧的核心概念：小行為積少成多，能影響大結果。每一項技巧都是具體、可練習、可衡量的。</p>
+<p>三大技巧範疇：</p>
+<ol>
+<li>自我照顧與效率提升：包括睡眠、情緒管理、行事曆規劃、精簡瑣事。</li>
+<li>任務與溝通管理：學會與主管對齊目標、設限會議時間、簡明扼要地傳達需求。</li>
+<li>人際與晉升策略：擴展人脈、建立信任、展現專業、避免社交地雷。</li>
+</ol>
+<p>應用方法：<br>將大目標拆解成小任務，對應適合的技巧逐一練習，例如建立人脈時先從內向者的舒適圈突破，再逐步擴張社交網絡。</p>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>為何學校與傳統教育中，鮮少提及這些實用技巧？</li>
+<li>在你目前的工作中，哪一項「原子技巧」最欠缺？</li>
+<li>是否曾因「小錯」而錯過晉升或重要機會？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《原子技巧》並非高談闊論成功學的書，而是一份實戰指南。透過拆解與練習這些細小但關鍵的行為模式，我們不只提升效率，更能在面對壓力與挑戰時，更穩健地應對。這是一本應該反覆翻閱、逐步實踐的職涯夥伴。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>原子技巧</tag>
+        <tag>小練習帶來大改變</tag>
+        <tag>早知道會更好的10種職場組合技</tag>
       </tags>
   </entry>
   <entry>
@@ -2388,6 +2388,50 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>心態致勝：全新成功心理學</tag>
         <tag>心態致勝</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《致富的心魔：金錢、成功與自我懷疑的致富人生》| 閱讀心得學習筆記</title>
+    <url>/2025/04/30/reading-notes-never-enough-from-barista-to-billionaire/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-never-enough-from-barista-to-billionaire-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《致富的心魔：金錢、成功與自我懷疑的致富人生》</span><br><span class="line">作者： 安德魯・威金森</span><br><span class="line">原文作者： Andrew Wilkinson</span><br><span class="line">譯者： 周群英</span><br><span class="line">出版社：感電出版</span><br><span class="line">出版日期：2025/04/30</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「賺錢永遠不嫌多，重點是怎麼活在這條路上。當你只願活在數字裡，人生就變成一場輸不起的無限賽局。金錢無法直接帶來安全感，唯有心態與認知的成長，才能真正駕馭財富。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《致富的心魔》透過作者威金森的親身經歷，剖析了億萬富翁背後鮮為人知的心理掙扎與焦慮。這本書不僅是成功創業的故事，更是對金錢、心態與自由關係的深刻反思。財富的增加並非終點，而是另一段挑戰的開始。作者提醒我們，真正的致富，不僅在於賺取更多，而在於是否能承受財富帶來的壓力，並且調整內心的認知，達到身心的自由。</p>
+<p><img src="/img/posts/reading-notes-never-enough-from-barista-to-billionaire-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>成功帶來的財富不一定帶來安全感，反而可能增加焦慮和恐懼。</li>
+<li>財富增長的同時，花費與壓力也會同步提升，許多人用消費來紓壓卻陷入空虛。</li>
+<li>追求財富的動力常是「永遠不夠」，這使人陷入無限競賽，失去生活的平衡。</li>
+<li>財富的真正挑戰是心態的調整與認知的提升，資產規模永遠受限於心智水準。</li>
+<li>傳承財富不等於傳承財富心態，缺乏認知支持的後代容易成為資產消耗者。</li>
+<li>停止盲目追逐財富，需要了解自己的能力圈與負擔能力，才能獲得真正的自由。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>定期檢視自己對金錢的心態，避免陷入無止盡的競賽與比較。</li>
+<li>釐清「足夠」的定義，設定財務目標與生活目標的平衡。</li>
+<li>建立財富管理與心態成長的學習計畫，提升對財務風險與壓力的承受力。</li>
+<li>與家人分享財富觀念，培養下一代的財富認知與責任感。</li>
+<li>適度節制消費行為，避免用花錢來填補心理空洞。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>當財富越多，焦慮反而越大，這是怎樣的心理機制在作祟？</li>
+<li>你認為什麼是「能負擔得起」的財富？如何衡量？</li>
+<li>如何建立與維持正確的財富心態，避免成為金錢的奴隸？</li>
+<li>家族財富應如何有效傳承，避免富不過三代的命運？</li>
+<li>你在追求財富時，是否曾陷入無止境的比較與攀比？如何自我調整？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《致富的心魔》不僅是關於財富的書，更是一面映照心靈的鏡子。它提醒我們，金錢只是生活的一部分，心態和認知的成長才是真正讓人從奔跑中解脫，獲得自由的關鍵。懂得駕馭財富的人，才能在追逐成功的同時保持內心的平靜與滿足。這本書對於每一位渴望成功卻又不想迷失自我的讀者，都有深刻且實用的啟示。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>致富的心魔</tag>
+        <tag>金錢、成功與自我懷疑的致富人生</tag>
       </tags>
   </entry>
   <entry>
@@ -2616,6 +2660,40 @@
       </tags>
   </entry>
   <entry>
+    <title>《正念溝通：在衝突、委屈、情緒勒索場景下說出真心話》| 閱讀心得學習筆記</title>
+    <url>/2022/03/30/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《正念溝通：在衝突、委屈、情緒勒索場景下說出真心話》</span><br><span class="line">作者： 奧朗‧傑‧舒佛</span><br><span class="line">原文作者： Oren Jay Sofer</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：究竟</span><br><span class="line">出版日期：2020/01/01</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「當我們用較少字眼表達出較多真誠時，表達會更清晰、更有力量。語言不僅能療癒、帶來連結，也能製造傷害與分裂。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>這本書從人類最基本卻最強大的力量——語言出發，提醒我們說話的方式如何影響生活與人際關係。作者奧朗．傑．舒佛結合正念、體感治療與非暴力溝通，提供一套改變對話、療癒關係、促進社會和諧的方法。</p>
+<p><img src="/img/posts/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li>語言的力量：語言不僅能療癒、帶來連結，也能製造傷害與分裂。</li>
+<li>溝通的模板：我們的對話模式會影響與自己、與社會的關係。</li>
+<li>正念與同理：有意識地聆聽與說話，才能創造出真誠、同理的交流。</li>
+<li>練習的重要性：溝通是一種需要練習的藝術，非與生俱來的天賦。</li>
+<li>影響層面：個人、群體乃至整個社會，都需要這種更有覺知的溝通方式。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們在日常生活中，是否察覺到自己說話背後的情緒與動機？</li>
+<li>當他人表達不同觀點時，我們能否帶著深度傾聽而非立刻反駁？</li>
+<li>面對衝突時，我們如何使用「愛的話語」來緩解彼此的痛苦？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《正念溝通》不只是一本談理論的書，而是提供練習與實踐的方法，幫助我們在劇烈變動的世界中，用更智慧的方式說話與傾聽。它提醒我們：說話的責任重大，只有用心選擇與練習，我們才能讓語言成為創造和諧與連結的工具。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>正念溝通</tag>
+        <tag>在衝突、委屈、情緒勒索場景下說出真心話</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《人類大歷史（增訂版）：從野獸到扮演上帝》 | 閱讀心得學習筆記</title>
     <url>/2022/10/27/reading-notes-sapiens-a-brief-history-of-humankind/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-sapiens-a-brief-history-of-humankind-1.jpg"></p>
@@ -2675,40 +2753,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《正念溝通：在衝突、委屈、情緒勒索場景下說出真心話》| 閱讀心得學習筆記</title>
-    <url>/2022/03/30/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《正念溝通：在衝突、委屈、情緒勒索場景下說出真心話》</span><br><span class="line">作者： 奧朗‧傑‧舒佛</span><br><span class="line">原文作者： Oren Jay Sofer</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：究竟</span><br><span class="line">出版日期：2020/01/01</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「當我們用較少字眼表達出較多真誠時，表達會更清晰、更有力量。語言不僅能療癒、帶來連結，也能製造傷害與分裂。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>這本書從人類最基本卻最強大的力量——語言出發，提醒我們說話的方式如何影響生活與人際關係。作者奧朗．傑．舒佛結合正念、體感治療與非暴力溝通，提供一套改變對話、療癒關係、促進社會和諧的方法。</p>
-<p><img src="/img/posts/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li>語言的力量：語言不僅能療癒、帶來連結，也能製造傷害與分裂。</li>
-<li>溝通的模板：我們的對話模式會影響與自己、與社會的關係。</li>
-<li>正念與同理：有意識地聆聽與說話，才能創造出真誠、同理的交流。</li>
-<li>練習的重要性：溝通是一種需要練習的藝術，非與生俱來的天賦。</li>
-<li>影響層面：個人、群體乃至整個社會，都需要這種更有覺知的溝通方式。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們在日常生活中，是否察覺到自己說話背後的情緒與動機？</li>
-<li>當他人表達不同觀點時，我們能否帶著深度傾聽而非立刻反駁？</li>
-<li>面對衝突時，我們如何使用「愛的話語」來緩解彼此的痛苦？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《正念溝通》不只是一本談理論的書，而是提供練習與實踐的方法，幫助我們在劇烈變動的世界中，用更智慧的方式說話與傾聽。它提醒我們：說話的責任重大，只有用心選擇與練習，我們才能讓語言成為創造和諧與連結的工具。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>正念溝通</tag>
-        <tag>在衝突、委屈、情緒勒索場景下說出真心話</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《ScrumMaster、敏捷教練及專案經理轉型的最佳指南》| 閱讀心得學習筆記</title>
     <url>/2024/06/06/reading-notes-scrum-master-team/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-scrum-master-team-1.jpg"></p>
@@ -2743,8 +2787,8 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅適合敏捷教練，也適合任何希望提升團隊績效的領導者。透過理解並實踐不同教練風格，能讓團隊自主成長、持續改善，最終打造出真正具有影響力的敏捷文化。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>Project Manager</tag>
@@ -3295,6 +3339,40 @@
       </tags>
   </entry>
   <entry>
+    <title>《正念旅程：一段激勵內在潛能的啟蒙之旅》 | 閱讀心得學習筆記</title>
+    <url>/2024/12/09/reading-notes-three-days-two-women-one-monkey-and-the-meaning-of-life-an-inspiring-journey/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-three-days-two-women-one-monkey-and-the-meaning-of-life-an-inspiring-journey-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《正念旅程：一段激勵內在潛能的啟蒙之旅》</span><br><span class="line">作者： 卡蘿莉恩．諾特貝特  </span><br><span class="line">譯者： 管中琪</span><br><span class="line">出版社：平安文化  </span><br><span class="line">出版日期：2024/12/09</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「你人生中最重要的使命，就是發現最好的自己。人生中的每一個抉擇都有意義，旅途中的每一段對話都是啟發，只要敞開心胸，打開感官，內在的智慧將會引領你發現全新的自己。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《正念旅程》以一場母女共行的徒步旅行為主軸，透過對話與自然的洗禮，引導讀者反思人生、認識自我與接納情緒。本書不僅是青春期少女的成長紀實，也是一部啟發內在智慧、連結身心靈的心理勵志作品。隨著主角瑪莉的腳步，讀者也踏上一段深刻的自我探索之旅。</p>
+<p><img src="/img/posts/reading-notes-three-days-two-women-one-monkey-and-the-meaning-of-life-an-inspiring-journey-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>正念與自我認識</strong>：瑪莉在旅途中以疑問出發，探索「我是誰」與「我要成為誰」，開啟正念覺察的第一步。</li>
+<li><strong>對話中的智慧</strong>：母親以神經科學知識結合生活體驗，點出思想與感受的自主性，強調改變始於內在覺察。</li>
+<li><strong>大自然的陪伴</strong>：愛爾蘭山谷的原始景色成為療癒場域，陪伴主角放下焦躁、傾聽心靈的聲音。</li>
+<li><strong>自律與行動</strong>：從「猴子心」的混亂到逐步穩定，旅程象徵成長必經的掙扎與突破。</li>
+<li><strong>改變的契機</strong>：唯有正視自身需求，才能展開轉變，而不是等到極度不快樂才行動。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們如何才能在日常中保持覺察，而非被情緒牽著走？</li>
+<li>若無法定義「自己是誰」，是否意味著我們永遠在變動的旅程中？</li>
+<li>面對不確定的未來，什麼才是內在穩定的依據？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書以輕盈筆觸帶出深刻省思，是一本適合在迷惘、轉折或想重新找回自我時閱讀的作品。它提醒我們：每一個困惑都是一扇門，只要願意誠實地走進去，內在的智慧終將指引我們前行。《正念旅程》不只是母女的對話，更是讀者與自己的對話，是一本能在心中留下餘韻的書。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>正念旅程</tag>
+        <tag>正念旅程：一段激勵內在潛能的啟蒙之旅</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《那些旅行教我的事：用一趟旅行重啟生活的初心，我們終將在路上，和理想的自己相遇》| 閱讀心得學習筆記</title>
     <url>/2023/06/01/reading-notes-those-travels-taught-me-use-a-trip-to-restart-the-original-intention-of-life/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-those-travels-taught-me-use-a-trip-to-restart-the-original-intention-of-life-1.jpg"></p>
@@ -3351,40 +3429,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>那些旅行教我的事</tag>
         <tag>用一趟旅行重啟生活的初心</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《正念旅程：一段激勵內在潛能的啟蒙之旅》 | 閱讀心得學習筆記</title>
-    <url>/2024/12/09/reading-notes-three-days-two-women-one-monkey-and-the-meaning-of-life-an-inspiring-journey/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-three-days-two-women-one-monkey-and-the-meaning-of-life-an-inspiring-journey-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《正念旅程：一段激勵內在潛能的啟蒙之旅》</span><br><span class="line">作者： 卡蘿莉恩．諾特貝特  </span><br><span class="line">譯者： 管中琪</span><br><span class="line">出版社：平安文化  </span><br><span class="line">出版日期：2024/12/09</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「你人生中最重要的使命，就是發現最好的自己。人生中的每一個抉擇都有意義，旅途中的每一段對話都是啟發，只要敞開心胸，打開感官，內在的智慧將會引領你發現全新的自己。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《正念旅程》以一場母女共行的徒步旅行為主軸，透過對話與自然的洗禮，引導讀者反思人生、認識自我與接納情緒。本書不僅是青春期少女的成長紀實，也是一部啟發內在智慧、連結身心靈的心理勵志作品。隨著主角瑪莉的腳步，讀者也踏上一段深刻的自我探索之旅。</p>
-<p><img src="/img/posts/reading-notes-three-days-two-women-one-monkey-and-the-meaning-of-life-an-inspiring-journey-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>正念與自我認識</strong>：瑪莉在旅途中以疑問出發，探索「我是誰」與「我要成為誰」，開啟正念覺察的第一步。</li>
-<li><strong>對話中的智慧</strong>：母親以神經科學知識結合生活體驗，點出思想與感受的自主性，強調改變始於內在覺察。</li>
-<li><strong>大自然的陪伴</strong>：愛爾蘭山谷的原始景色成為療癒場域，陪伴主角放下焦躁、傾聽心靈的聲音。</li>
-<li><strong>自律與行動</strong>：從「猴子心」的混亂到逐步穩定，旅程象徵成長必經的掙扎與突破。</li>
-<li><strong>改變的契機</strong>：唯有正視自身需求，才能展開轉變，而不是等到極度不快樂才行動。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們如何才能在日常中保持覺察，而非被情緒牽著走？</li>
-<li>若無法定義「自己是誰」，是否意味著我們永遠在變動的旅程中？</li>
-<li>面對不確定的未來，什麼才是內在穩定的依據？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書以輕盈筆觸帶出深刻省思，是一本適合在迷惘、轉折或想重新找回自我時閱讀的作品。它提醒我們：每一個困惑都是一扇門，只要願意誠實地走進去，內在的智慧終將指引我們前行。《正念旅程》不只是母女的對話，更是讀者與自己的對話，是一本能在心中留下餘韻的書。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>正念旅程</tag>
-        <tag>正念旅程：一段激勵內在潛能的啟蒙之旅</tag>
       </tags>
   </entry>
   <entry>
@@ -3565,6 +3609,42 @@
       </tags>
   </entry>
   <entry>
+    <title>《一本書讀懂匯率： 44個匯率關鍵概念，看懂全球經濟脈動，做對投資理財決策》| 閱讀心得學習筆記</title>
+    <url>/2025/04/24/reading-notes-understand-exchange-rates-with-a-book/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-understand-exchange-rates-with-a-book-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《一本書讀懂匯率： 44個匯率關鍵概念，看懂全球經濟脈動，做對投資理財決策》</span><br><span class="line">作者： 盧泳佑, 趙慶燁</span><br><span class="line">譯者： 陳柏蓁</span><br><span class="line">出版社：商業周刊</span><br><span class="line">出版日期：2025/04/24</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「簡單來說，匯率就是兩種貨幣之間的交換比例。就像我們去買東西，需要用台幣交換商品一樣，國家與國家之間的貿易往來，也要用不同的貨幣來交換。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《一本書讀懂匯率》深入剖析了匯率的基本原理及其對全球經濟的影響，尤其是在美中貿易戰等重大國際事件中，匯率作為一種經濟武器的重要性愈加顯著。無論是個人投資、國際貿易，還是國家的經濟政策，匯率都扮演著關鍵角色。本書以淺顯易懂的方式，幫助讀者理解匯率背後的複雜關係。</p>
+<p><img src="/img/posts/reading-notes-understand-exchange-rates-with-a-book-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>匯率的本質</strong><br>匯率是兩種貨幣之間的交換比率，受市場供需影響。美元作為全球主要的儲備貨幣，其波動對全球經濟有深遠影響。</p>
+</li>
+<li><p><strong>外匯市場與匯率的關聯</strong><br>匯率變動反映了外匯市場的動態，市場中多方力量（如利率、物價等）共同作用，影響匯率走勢。</p>
+</li>
+<li><p><strong>美元霸權的形成</strong><br>美國自二戰後通過經濟實力確立了美元霸權，並與全球貿易結算保持密切關聯，這也使得美元成為全球最重要的交易和儲備貨幣。</p>
+</li>
+<li><p><strong>匯率的實際影響</strong><br>匯率對企業、消費者乃至國家的經濟決策都至關重要。企業出口、國民生活水平及國際投資，都可能因匯率波動而受到極大影響。</p>
+</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li><strong>匯率戰的風險</strong>：全球經濟中，尤其是貿易戰背景下，匯率操作成為各國競爭力的一部分。這種策略雖然能短期促使經濟增長，但長期會引發國際市場的不穩定。</li>
+<li><strong>美元與其他貨幣的博弈</strong>：雖然美元是全球主要貨幣，但隨著中國等新興市場的崛起，人民幣等貨幣挑戰美元霸權的勢頭日益增強，未來可能出現新變局。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書通過詳盡的解釋，讓讀者不僅能理解匯率的運作原理，還能掌握如何應對匯率風險，作出更明智的經濟和投資決策。無論是企業主還是個人投資者，理解匯率的變動將是未來成功的關鍵。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>顯化效應</tag>
+        <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》 | 閱讀心得學習筆記</title>
     <url>/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-1.jpg"></p>
@@ -3602,101 +3682,16 @@
 <h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
 ]]></content>
       <tags>
-        <tag>產案管理</tag>
         <tag>product</tag>
         <tag>Product Manager</tag>
         <tag>產品經理</tag>
         <tag>產品</tag>
+        <tag>產案管理</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>產品專案管理專案全書</tag>
         <tag>產品營運模式轉型全書</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《一本書讀懂匯率： 44個匯率關鍵概念，看懂全球經濟脈動，做對投資理財決策》| 閱讀心得學習筆記</title>
-    <url>/2025/04/24/reading-notes-understand-exchange-rates-with-a-book/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-understand-exchange-rates-with-a-book-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《一本書讀懂匯率： 44個匯率關鍵概念，看懂全球經濟脈動，做對投資理財決策》</span><br><span class="line">作者： 盧泳佑, 趙慶燁</span><br><span class="line">譯者： 陳柏蓁</span><br><span class="line">出版社：商業周刊</span><br><span class="line">出版日期：2025/04/24</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「簡單來說，匯率就是兩種貨幣之間的交換比例。就像我們去買東西，需要用台幣交換商品一樣，國家與國家之間的貿易往來，也要用不同的貨幣來交換。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《一本書讀懂匯率》深入剖析了匯率的基本原理及其對全球經濟的影響，尤其是在美中貿易戰等重大國際事件中，匯率作為一種經濟武器的重要性愈加顯著。無論是個人投資、國際貿易，還是國家的經濟政策，匯率都扮演著關鍵角色。本書以淺顯易懂的方式，幫助讀者理解匯率背後的複雜關係。</p>
-<p><img src="/img/posts/reading-notes-understand-exchange-rates-with-a-book-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>匯率的本質</strong><br>匯率是兩種貨幣之間的交換比率，受市場供需影響。美元作為全球主要的儲備貨幣，其波動對全球經濟有深遠影響。</p>
-</li>
-<li><p><strong>外匯市場與匯率的關聯</strong><br>匯率變動反映了外匯市場的動態，市場中多方力量（如利率、物價等）共同作用，影響匯率走勢。</p>
-</li>
-<li><p><strong>美元霸權的形成</strong><br>美國自二戰後通過經濟實力確立了美元霸權，並與全球貿易結算保持密切關聯，這也使得美元成為全球最重要的交易和儲備貨幣。</p>
-</li>
-<li><p><strong>匯率的實際影響</strong><br>匯率對企業、消費者乃至國家的經濟決策都至關重要。企業出口、國民生活水平及國際投資，都可能因匯率波動而受到極大影響。</p>
-</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li><strong>匯率戰的風險</strong>：全球經濟中，尤其是貿易戰背景下，匯率操作成為各國競爭力的一部分。這種策略雖然能短期促使經濟增長，但長期會引發國際市場的不穩定。</li>
-<li><strong>美元與其他貨幣的博弈</strong>：雖然美元是全球主要貨幣，但隨著中國等新興市場的崛起，人民幣等貨幣挑戰美元霸權的勢頭日益增強，未來可能出現新變局。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書通過詳盡的解釋，讓讀者不僅能理解匯率的運作原理，還能掌握如何應對匯率風險，作出更明智的經濟和投資決策。無論是企業主還是個人投資者，理解匯率的變動將是未來成功的關鍵。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>顯化效應</tag>
-        <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《台南老店散步：回味本町摩登老時光(新版)》 | 閱讀心得學習筆記</title>
-    <url>/2024/12/06/reading-notes-walking-around-old-shops-in-tainan/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-around-old-shops-in-tainan-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《台南老店散步：回味本町摩登老時光(新版)》</span><br><span class="line">作者： 陳貴芳(鱷魚)  </span><br><span class="line">出版社：馬可孛羅 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「歷史不只存在於書本裡，更藏在街角老店的每一道門檻之間。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>台南是台灣歷史最悠久的城市之一，而本町大街（今民權路與新美街）更是府城最繁華的老街。陳貴芳（鱷魚）透過細膩的手繪插畫與深入的故事挖掘，帶領讀者走進這些屹立百年的老店，體驗台南人的生活原味。</p>
-<p><img src="/img/posts/reading-notes-walking-around-old-shops-in-tainan-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>本町的歷史演變</strong></p>
-<ul>
-<li>由荷治時期「<code>普羅民遮街</code>」發展至清領、日本時代及光復後，長久以來皆為台南最重要的商業街。</li>
-<li>經歷時代變遷，<code>老店</code>與<code>職人</code>仍堅守傳統技藝。</li>
-</ul>
-</li>
-<li><p><strong>45 家老店的故事</strong></p>
-<ul>
-<li>特色飲食：<code>石精臼牛肉湯</code>、<code>武廟炭烤三明治</code>、<code>合成帆布行</code>等。</li>
-<li>傳統手工技藝：<code>魏俊邦雕刻研究社</code>、<code>明章榻榻米</code>、<code>左藤紙藝</code>。</li>
-<li>文化地標：<code>全美戲院</code>、<code>新建國戲院</code>、<code>台南公會堂</code>。</li>
-</ul>
-</li>
-<li><p><strong>手繪記錄老街風貌</strong></p>
-<ul>
-<li>作者以 144 張手繪插圖呈現府城老街的景物、人物與店鋪。</li>
-<li>透過視覺導覽，讓讀者身臨其境，感受老台南的生活韻味。</li>
-</ul>
-</li>
-<li><p><strong>文化與傳承的重要性</strong></p>
-<ul>
-<li>這些老店不僅販售商品，更承載著台南人的歷史與回憶。</li>
-<li>在現代化衝擊下，保存這些文化資產尤顯珍貴。</li>
-</ul>
-</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《台南最多老店的本町大街》不僅是一部台南老街的歷史紀錄，更是一本充滿溫度的文化之書。透過這些店鋪與職人的故事，我們得以見證台南數百年來的繁華變遷，也體會到傳統技藝的價值與珍貴。這本書適合所有喜愛台南、文化歷史與手繪藝術的讀者。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>回味本町摩登老時光</tag>
-        <tag>台南老店散步</tag>
       </tags>
   </entry>
   <entry>
@@ -3765,6 +3760,55 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>漫步華爾街</tag>
         <tag>超越股市漲跌的成功投資策略</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《台南老店散步：回味本町摩登老時光(新版)》 | 閱讀心得學習筆記</title>
+    <url>/2024/12/06/reading-notes-walking-around-old-shops-in-tainan/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-around-old-shops-in-tainan-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《台南老店散步：回味本町摩登老時光(新版)》</span><br><span class="line">作者： 陳貴芳(鱷魚)  </span><br><span class="line">出版社：馬可孛羅 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「歷史不只存在於書本裡，更藏在街角老店的每一道門檻之間。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>台南是台灣歷史最悠久的城市之一，而本町大街（今民權路與新美街）更是府城最繁華的老街。陳貴芳（鱷魚）透過細膩的手繪插畫與深入的故事挖掘，帶領讀者走進這些屹立百年的老店，體驗台南人的生活原味。</p>
+<p><img src="/img/posts/reading-notes-walking-around-old-shops-in-tainan-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>本町的歷史演變</strong></p>
+<ul>
+<li>由荷治時期「<code>普羅民遮街</code>」發展至清領、日本時代及光復後，長久以來皆為台南最重要的商業街。</li>
+<li>經歷時代變遷，<code>老店</code>與<code>職人</code>仍堅守傳統技藝。</li>
+</ul>
+</li>
+<li><p><strong>45 家老店的故事</strong></p>
+<ul>
+<li>特色飲食：<code>石精臼牛肉湯</code>、<code>武廟炭烤三明治</code>、<code>合成帆布行</code>等。</li>
+<li>傳統手工技藝：<code>魏俊邦雕刻研究社</code>、<code>明章榻榻米</code>、<code>左藤紙藝</code>。</li>
+<li>文化地標：<code>全美戲院</code>、<code>新建國戲院</code>、<code>台南公會堂</code>。</li>
+</ul>
+</li>
+<li><p><strong>手繪記錄老街風貌</strong></p>
+<ul>
+<li>作者以 144 張手繪插圖呈現府城老街的景物、人物與店鋪。</li>
+<li>透過視覺導覽，讓讀者身臨其境，感受老台南的生活韻味。</li>
+</ul>
+</li>
+<li><p><strong>文化與傳承的重要性</strong></p>
+<ul>
+<li>這些老店不僅販售商品，更承載著台南人的歷史與回憶。</li>
+<li>在現代化衝擊下，保存這些文化資產尤顯珍貴。</li>
+</ul>
+</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《台南最多老店的本町大街》不僅是一部台南老街的歷史紀錄，更是一本充滿溫度的文化之書。透過這些店鋪與職人的故事，我們得以見證台南數百年來的繁華變遷，也體會到傳統技藝的價值與珍貴。這本書適合所有喜愛台南、文化歷史與手繪藝術的讀者。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>回味本町摩登老時光</tag>
+        <tag>台南老店散步</tag>
       </tags>
   </entry>
   <entry>
