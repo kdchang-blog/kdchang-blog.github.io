@@ -305,6 +305,44 @@
       </tags>
   </entry>
   <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學</title>
     <url>/2024/05/23/llm-rag-app-notes/</url>
     <content><![CDATA[<p>擷取擴增產生&#x2F;檢索增強生成（Retrieval-Augmented Generation, RAG）是一種結合檢索和生成技術的混合模型，用於改善文本生成任務的性能。這種方法能夠在生成文本時引入外部知識，從而生成更準確和上下文相關的內容。以下是對 RAG 的詳細介紹：</p>
@@ -400,44 +438,6 @@
       </tags>
   </entry>
   <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽</title>
     <url>/2024/05/27/product-manager-career-development-notes-01-overview/</url>
     <content><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><p>Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 <code>outcome</code> 而非 <code>output</code> 並管理整個產品生命週期（<code>發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現</code>）。在目前許多數位科技公司（網路軟體公司）：設計師、工程師和產品經理三人合稱產品三劍客。</p>
@@ -529,66 +529,6 @@
       </tags>
   </entry>
   <entry>
-    <title>產品經理（Product Manager, PM）課程學習參考清單</title>
-    <url>/2024/06/03/product-manager-course-list/</url>
-    <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
-<li><a href="https://www.pressplay.cc/project/D7BB1024574FB1E143B45A933009E02C/about">產品經理學習營第六屆</a></li>
-<li><a href="https://hahow.in/courses/5d3583687f99a20021f7ebaf">產品思維：Spotify 產品經理帶你快速入門</a></li>
-<li><a href="https://hahow.in/courses/5e689828e612310028027876">產品數據分析 - 打造網路產品的決策引擎</a></li>
-<li><a href="https://hahow.in/courses/5c8e0a0a8d1cc80020951f1a">產品經理職場學：PM 必修的職涯指南！</a></li>
-<li><a href="https://www.pressplay.cc/project/E4C9F63270ADB7ECA54C1D6B1BB84905/about">產品思維－像產品經理一樣思考</a></li>
-<li><a href="https://sat.cool/course/89">產品思維養成術｜從觀念到實踐，矽谷產品經理帶你掌握產品全貌觀</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>產案管理</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>PM</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>書籍</tag>
-        <tag>清單</tag>
-        <tag>課程</tag>
-        <tag>course</tag>
-        <tag>Online Course</tag>
-        <tag>線上課程</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>產品經理（Product Manager, PM）面試學習筆記 - [1] 總覽</title>
-    <url>/2024/05/25/product-manager-interview-notes/</url>
-    <content><![CDATA[<h1 id="PM-面試設計"><a href="#PM-面試設計" class="headerlink" title="PM 面試設計"></a>PM 面試設計</h1><p>隨著工作經驗的累積，漸漸會有機會參與面試成為面試官，如何設計 PM 面試流程也是資深產品經理必須學習的重要課題。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li>
-<li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li>
-<li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li>
-<li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li>
-<li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li>
-<li><a href="https://hahow.in/contents/articles/60a72a1f328ad057e2d9a5c0">老闆：「下班前給我競品分析！」實戰產品經理要會的生存技：快速做出競品分析</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>Project Manager</tag>
-        <tag>Program Manager</tag>
-        <tag>專案經理</tag>
-        <tag>PM</tag>
-        <tag>interview</tag>
-        <tag>PM Interview</tag>
-        <tag>PM 面試</tag>
-        <tag>面試</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>產品經理（Product Manager, PM）推薦學習參考書單</title>
     <url>/2024/06/06/product-manager-reading-list/</url>
     <content><![CDATA[<p>產品經理（Product Manager, PdM）和專案經理（Project Manager, PjM）在工作上需要跟許多跨部門和跨單位的團隊合作，必須具備溝通和解決問題的能力，是一個跨職能和跨領域的綜合性職務。因此，透過大量閱讀不同領域的書籍，將讓自己可以掌握更多產品經理所需具備的軟實力和硬實力。以下透過整理不同構面的產品經理&#x2F;專案經理（PM）推薦書單，讓我們可以透過閱讀學習點滿我們的技能樹。</p>
@@ -659,6 +599,36 @@
       </tags>
   </entry>
   <entry>
+    <title>產品經理（Product Manager, PM）面試學習筆記 - [1] 總覽</title>
+    <url>/2024/05/25/product-manager-interview-notes/</url>
+    <content><![CDATA[<h1 id="PM-面試設計"><a href="#PM-面試設計" class="headerlink" title="PM 面試設計"></a>PM 面試設計</h1><p>隨著工作經驗的累積，漸漸會有機會參與面試成為面試官，如何設計 PM 面試流程也是資深產品經理必須學習的重要課題。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li>
+<li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li>
+<li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li>
+<li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li>
+<li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li>
+<li><a href="https://hahow.in/contents/articles/60a72a1f328ad057e2d9a5c0">老闆：「下班前給我競品分析！」實戰產品經理要會的生存技：快速做出競品分析</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>Project Manager</tag>
+        <tag>Program Manager</tag>
+        <tag>專案經理</tag>
+        <tag>PM</tag>
+        <tag>interview</tag>
+        <tag>PM Interview</tag>
+        <tag>PM 面試</tag>
+        <tag>面試</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>常見專案經理（Project Manager）、產品經理（Product Manager, PM）和敏捷開發（Agile）相關證照</title>
     <url>/2024/07/26/project-manager-product-manager-scrum-certifications/</url>
     <content><![CDATA[<ol>
@@ -690,6 +660,36 @@
         <tag>Google Project Manager</tag>
         <tag>CSM</tag>
         <tag>CSPO</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>產品經理（Product Manager, PM）課程學習參考清單</title>
+    <url>/2024/06/03/product-manager-course-list/</url>
+    <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
+<li><a href="https://www.pressplay.cc/project/D7BB1024574FB1E143B45A933009E02C/about">產品經理學習營第六屆</a></li>
+<li><a href="https://hahow.in/courses/5d3583687f99a20021f7ebaf">產品思維：Spotify 產品經理帶你快速入門</a></li>
+<li><a href="https://hahow.in/courses/5e689828e612310028027876">產品數據分析 - 打造網路產品的決策引擎</a></li>
+<li><a href="https://hahow.in/courses/5c8e0a0a8d1cc80020951f1a">產品經理職場學：PM 必修的職涯指南！</a></li>
+<li><a href="https://www.pressplay.cc/project/E4C9F63270ADB7ECA54C1D6B1BB84905/about">產品思維－像產品經理一樣思考</a></li>
+<li><a href="https://sat.cool/course/89">產品思維養成術｜從觀念到實踐，矽谷產品經理帶你掌握產品全貌觀</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>產案管理</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>PM</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>書籍</tag>
+        <tag>清單</tag>
+        <tag>課程</tag>
+        <tag>course</tag>
+        <tag>Online Course</tag>
+        <tag>線上課程</tag>
       </tags>
   </entry>
   <entry>
@@ -838,45 +838,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《讓這本書抱抱你：每一天練習自我照顧，學會愛自己》| 閱讀心得學習筆記</title>
-    <url>/2023/11/29/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《讓這本書抱抱你：每一天練習自我照顧，學會愛自己》</span><br><span class="line">作者： My Self-Love Supply</span><br><span class="line">譯者： 聽思（林庭儀）</span><br><span class="line">出版社：遠流</span><br><span class="line">出版日期：2023/11/29</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「生命短暫，請忠於自己，照顧好自己。不管人生經歷到哪個階段，學習與自己相處所帶來的正面影響，都會持續影響著你。唯有與自己好好相處了，才能帶自己繼續朝著人生的旅途邁進。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個快節奏、壓力四伏的社會中，我們經常為他人付出，卻忘了把關懷留給自己。《給你最溫暖的擁抱》是一本充滿療癒能量的自我照顧指南，藉由可愛插畫與簡單實用的練習，引導讀者重拾與自己的連結，在繁忙中找回內在的寧靜與幸福。</p>
-<p><img src="/img/posts/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>自我照顧三大領域</li>
-</ol>
-<ul>
-<li>心理：保持條理、寫日記、正念練習、設定目標</li>
-<li>身體：運動、休息、娛樂、基本身體照護</li>
-<li>精神：設立界限、感恩練習、自我對話、建立連結</li>
-</ul>
-<ol start="2">
-<li><p><strong>彈性時間設計</strong>：每項練習依照可投入時間（5&#x2F;15&#x2F;30 分鐘）進行分類，鼓勵在日常中落實自我照顧。</p>
-</li>
-<li><p><strong>工具設計</strong>：每個練習皆附概念說明與操作指引頁，並有檢核表幫助追蹤進度。</p>
-</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>自我照顧是否自私？：書中指出，照顧自己不是自私，而是基礎。唯有內在穩定、情緒健康，我們才能健康地與他人互動。</li>
-<li>怎麼知道哪種練習適合自己？：作者強調自我照顧是個人化的過程，需反覆嘗試與覺察，從中發現最能帶來療癒的方式。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《給你最溫暖的擁抱》以平易近人的語言與設計，傳遞一個簡單卻深刻的訊息：自我照顧不是奢侈，而是必要。透過具體行動重拾生活節奏，是對自己最真誠的溫柔。願你從書中開始練習，成為自己最可靠的避風港。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>讓這本書抱抱你：每一天練習自我照顧，學會愛自己</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《大人學破局思考:從關鍵小事看出職場大局【大人的Small Talk 1】》| 閱讀心得學習筆記</title>
     <url>/2023/06/30/reading-notes-adultology-breakthrough-thinking/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-adultology-breakthrough-thinking-1.jpg"></p>
@@ -930,6 +891,45 @@
         <tag>自卑感</tag>
         <tag>自卑與超越</tag>
         <tag>阿德勒心理學</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《讓這本書抱抱你：每一天練習自我照顧，學會愛自己》| 閱讀心得學習筆記</title>
+    <url>/2023/11/29/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《讓這本書抱抱你：每一天練習自我照顧，學會愛自己》</span><br><span class="line">作者： My Self-Love Supply</span><br><span class="line">譯者： 聽思（林庭儀）</span><br><span class="line">出版社：遠流</span><br><span class="line">出版日期：2023/11/29</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「生命短暫，請忠於自己，照顧好自己。不管人生經歷到哪個階段，學習與自己相處所帶來的正面影響，都會持續影響著你。唯有與自己好好相處了，才能帶自己繼續朝著人生的旅途邁進。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個快節奏、壓力四伏的社會中，我們經常為他人付出，卻忘了把關懷留給自己。《給你最溫暖的擁抱》是一本充滿療癒能量的自我照顧指南，藉由可愛插畫與簡單實用的練習，引導讀者重拾與自己的連結，在繁忙中找回內在的寧靜與幸福。</p>
+<p><img src="/img/posts/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>自我照顧三大領域</li>
+</ol>
+<ul>
+<li>心理：保持條理、寫日記、正念練習、設定目標</li>
+<li>身體：運動、休息、娛樂、基本身體照護</li>
+<li>精神：設立界限、感恩練習、自我對話、建立連結</li>
+</ul>
+<ol start="2">
+<li><p><strong>彈性時間設計</strong>：每項練習依照可投入時間（5&#x2F;15&#x2F;30 分鐘）進行分類，鼓勵在日常中落實自我照顧。</p>
+</li>
+<li><p><strong>工具設計</strong>：每個練習皆附概念說明與操作指引頁，並有檢核表幫助追蹤進度。</p>
+</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>自我照顧是否自私？：書中指出，照顧自己不是自私，而是基礎。唯有內在穩定、情緒健康，我們才能健康地與他人互動。</li>
+<li>怎麼知道哪種練習適合自己？：作者強調自我照顧是個人化的過程，需反覆嘗試與覺察，從中發現最能帶來療癒的方式。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《給你最溫暖的擁抱》以平易近人的語言與設計，傳遞一個簡單卻深刻的訊息：自我照顧不是奢侈，而是必要。透過具體行動重拾生活節奏，是對自己最真誠的溫柔。願你從書中開始練習，成為自己最可靠的避風港。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>讓這本書抱抱你：每一天練習自我照顧，學會愛自己</tag>
       </tags>
   </entry>
   <entry>
@@ -1093,6 +1093,51 @@
       </tags>
   </entry>
   <entry>
+    <title>《破除困境、財富夢想實現的高效率「人生管理筆記」：全方位6大筆記系統、28個神奇工具，做自己的造命師，不再受困境擺佈》| 閱讀心得學習筆記</title>
+    <url>/2024/06/28/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《破除困境、財富夢想實現的高效率「人生管理筆記」：全方位6大筆記系統、28個神奇工具，做自己的造命師，不再受困境擺佈》</span><br><span class="line">作者： 水晶  </span><br><span class="line">出版社：方言文化</span><br><span class="line">出版日期：2024/06/28</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「勞碌辛苦不等於成功，只會陷入平庸。筆記，不是記住過去，而是開啟未來的鑰匙。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸、節奏飛快的時代，我們的學習與工作都倚賴筆記，但真正懂得運用筆記的人卻不多。本書以水晶的「樂寫人生」筆記法為核心，從記錄到提煉，帶領讀者跳脫「抄寫」的框架，進入以思考與實踐為本的筆記新境界。透過「TRAP四步法」，我們不僅能提升學習效率，更能打造個人知識體系。</p>
+<p><img src="/img/posts/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li>筆記有三層級：資訊記錄 → 精華萃取 → 自我成長與實踐。</li>
+<li>筆記的目的應聚焦於「提升自我」而非純粹記錄。</li>
+<li>杜拉克與史隆的例子顯示，透過書寫能深化理解與決策。</li>
+<li>筆記分為兩類：  <ul>
+<li><strong>方案類筆記</strong>：記錄計畫、決策與成果差異，幫助優化行動。  </li>
+<li><strong>知識類筆記</strong>：整合認知，透過重複修訂打造個人知識系統。</li>
+</ul>
+</li>
+<li>「TRAP」筆記法：  <ul>
+<li><strong>T</strong>（Thinking）：思考學習動機、重點與應用。  </li>
+<li><strong>R</strong>（Refine）：總結內容、抓住重點。  </li>
+<li><strong>A</strong>（Arrange）：結構化整理知識。  </li>
+<li><strong>P</strong>（Present）：用自己的語言與方式記錄呈現。</li>
+</ul>
+</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你目前的筆記方式是否僅停留在「抄寫」階段？</li>
+<li>有沒有透過筆記整理思考、釐清決策，甚至改變過某些行為？</li>
+<li>面對資訊過載，你是否已經建立起屬於自己的知識篩選機制？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《破除困境、財富夢想實現的高效率「人生管理筆記」》不僅是一本教你「如何記筆記」的書，更是一趟重新認識自我學習力與思考方式的旅程。它提醒我們：筆記不是輸出內容，而是輸入認知；不是紀錄事實，而是打磨思維。透過持續記錄與反覆修訂，我們能在快速變遷的世界中站穩腳步、持續進化。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>破除困境</tag>
+        <tag>財富夢想實現的高效率</tag>
+        <tag>人生管理筆記</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《每一天練習照顧自己:當我們為自己負起責任, 就能真正放手, 做自己》| 閱讀心得學習筆記</title>
     <url>/2014/07/01/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-1.jpg"></p>
@@ -1175,51 +1220,6 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>蛤蟆先生去看心理師</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《破除困境、財富夢想實現的高效率「人生管理筆記」：全方位6大筆記系統、28個神奇工具，做自己的造命師，不再受困境擺佈》| 閱讀心得學習筆記</title>
-    <url>/2024/06/28/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《破除困境、財富夢想實現的高效率「人生管理筆記」：全方位6大筆記系統、28個神奇工具，做自己的造命師，不再受困境擺佈》</span><br><span class="line">作者： 水晶  </span><br><span class="line">出版社：方言文化</span><br><span class="line">出版日期：2024/06/28</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「勞碌辛苦不等於成功，只會陷入平庸。筆記，不是記住過去，而是開啟未來的鑰匙。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸、節奏飛快的時代，我們的學習與工作都倚賴筆記，但真正懂得運用筆記的人卻不多。本書以水晶的「樂寫人生」筆記法為核心，從記錄到提煉，帶領讀者跳脫「抄寫」的框架，進入以思考與實踐為本的筆記新境界。透過「TRAP四步法」，我們不僅能提升學習效率，更能打造個人知識體系。</p>
-<p><img src="/img/posts/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li>筆記有三層級：資訊記錄 → 精華萃取 → 自我成長與實踐。</li>
-<li>筆記的目的應聚焦於「提升自我」而非純粹記錄。</li>
-<li>杜拉克與史隆的例子顯示，透過書寫能深化理解與決策。</li>
-<li>筆記分為兩類：  <ul>
-<li><strong>方案類筆記</strong>：記錄計畫、決策與成果差異，幫助優化行動。  </li>
-<li><strong>知識類筆記</strong>：整合認知，透過重複修訂打造個人知識系統。</li>
-</ul>
-</li>
-<li>「TRAP」筆記法：  <ul>
-<li><strong>T</strong>（Thinking）：思考學習動機、重點與應用。  </li>
-<li><strong>R</strong>（Refine）：總結內容、抓住重點。  </li>
-<li><strong>A</strong>（Arrange）：結構化整理知識。  </li>
-<li><strong>P</strong>（Present）：用自己的語言與方式記錄呈現。</li>
-</ul>
-</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你目前的筆記方式是否僅停留在「抄寫」階段？</li>
-<li>有沒有透過筆記整理思考、釐清決策，甚至改變過某些行為？</li>
-<li>面對資訊過載，你是否已經建立起屬於自己的知識篩選機制？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《破除困境、財富夢想實現的高效率「人生管理筆記」》不僅是一本教你「如何記筆記」的書，更是一趟重新認識自我學習力與思考方式的旅程。它提醒我們：筆記不是輸出內容，而是輸入認知；不是紀錄事實，而是打磨思維。透過持續記錄與反覆修訂，我們能在快速變遷的世界中站穩腳步、持續進化。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>破除困境</tag>
-        <tag>財富夢想實現的高效率</tag>
-        <tag>人生管理筆記</tag>
       </tags>
   </entry>
   <entry>
@@ -1472,6 +1472,47 @@
         <tag>我可能錯了</tag>
         <tag>森林智者</tag>
         <tag>森林智者的最後一堂人生課</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《人生 4 千個禮拜：時間不是用來掌控的，直面「生命的有限」，打造游刃有餘的時間運用觀》| 閱讀心得學習筆記</title>
+    <url>/2022/01/22/reading-notes-four-thousand-weeks-time-management-for-mortals/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-four-thousand-weeks-time-management-for-mortals-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《人生 4 千個禮拜：時間不是用來掌控的，直面「生命的有限」，打造游刃有餘的時間運用觀》</span><br><span class="line">作者： 奧利佛‧柏克曼</span><br><span class="line">原文作者： Oliver Burkeman</span><br><span class="line">譯者： 許恬寧</span><br><span class="line">出版社：大塊文化</span><br><span class="line">出版日期：2022/01/22</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「我們假設生命最有意義的部分就在未來的某一刻，卻永遠不是現在這個當下。然而，最終的時間管理，就是承認並擁抱自己的有限。所謂終級的時間管理就是生命的管理。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《人生 4 千個禮拜》是一部對現代時間焦慮深度反思的哲學性著作。作者奧利佛・柏克曼不試圖再教你如何變得更有效率，而是帶領讀者重新理解時間的本質，並學會在有限中找回選擇的自由。這不是一本教你如何完成更多事情的時間管理書，而是一本教你如何活得更有意義的生命指南。</p>
+<p><img src="/img/posts/reading-notes-four-thousand-weeks-time-management-for-mortals-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>一生僅有約四千個禮拜，時間的稀缺才是真正的問題核心。</li>
+<li>傳統時間管理技巧常製造更多焦慮與分心，無法真正解決問題。</li>
+<li>人類的自由來自於擁抱限制，而非追求無限可能。</li>
+<li>建立屬於自己的「深層時間」，遠離生產力的崇拜。</li>
+<li>擁抱當下，而非一直等待「未來的某一刻」才開始真正生活。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>使用「定額生產力」策略，設定每日可完成的上限，避免過勞。</li>
+<li>使用「單功能科技」取代分心多功裝置，提升注意力品質。</li>
+<li>使用「關注已完成事項」取代無止盡的待辦清單，建立正向循環。</li>
+<li>使用「策略性不及格」取代完美主義，集中能量於真正重要的事。</li>
+<li>使用「儀式建立深層時間」取代隨機時間切割，創造專注與沉浸感。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>使用「面對現實的限制」取代「逃避有限生命的焦慮」，是否能帶來更深的自由？</li>
+<li>使用「當下即目的」取代「未來才是目標」的邏輯，生活是否會變得更有意義？</li>
+<li>使用「生活節奏」取代「效率壓力」，是否會被視為懶惰或低成就？</li>
+<li>使用「深層時間儀式」取代「碎片式進度追蹤」，如何評估其產出與價值？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《人生 4 千個禮拜》是一部結合哲學、心理學與生活實踐的反直覺時間指南，挑戰我們對「效率」與「生產力」的迷思。它不教你如何做更多，而是幫助你思考什麼才值得去做。在短暫的人生中，我們不可能掌握所有時間，但可以重新定義何為「值得」花時間的事。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>人生 4 千個禮拜</tag>
       </tags>
   </entry>
   <entry>
@@ -1778,6 +1819,38 @@
       </tags>
   </entry>
   <entry>
+    <title>《假如孫子是現代上班族》| 閱讀心得學習筆記</title>
+    <url>/2020/11/26/reading-notes-if-sunzi-were-a-modern-office-worker/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《假如孫子是現代上班族》</span><br><span class="line">作者： 安恒理（Osamu Yasutsune）  </span><br><span class="line">譯者： 沈俊傑</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2020/11/26</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「知彼知己，百戰不殆。《孫子兵法》不僅是一部軍書，更能應用在商場、戀愛、運動、博弈等含有競爭要素的領域，因為一切競爭行為都來自於人，而《孫子兵法》精準剖析了人類細微的心理。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《假如孫子是現代上班族》是一本將《孫子兵法》現代化應用於職場的實戰指南。作者安恒理以現代職場的五大情境問題為核心，搭配32條兵法守則與38則實務案例，引導讀者如何透過「情報」與「策略」，在混亂不明的職場中脫穎而出，打造不敗的生存之道。</p>
+<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>情報為先</strong>：孫子強調「多算勝，少算不勝」，蒐集與分析情報才是致勝關鍵。</li>
+<li><strong>攻心為上</strong>：掌握上司、客戶的習慣與喜好，在對方鬆懈時出擊最有效。</li>
+<li><strong>順勢而為</strong>：與其硬碰硬，不如借力使力、利用敵方資源達成目的。</li>
+<li><strong>靈活應變</strong>：比起強者思維，「生存智慧」與適應變化的能力才是長遠之計。</li>
+<li><strong>職場戰略</strong>：離職糾紛、客訴危機、公關風暴皆可借由兵法中的「守」、「攻」、「變」對應解法。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否過於強調績效與努力，卻忽略了背後的資訊戰與心理戰？</li>
+<li>在講求效率的現代職場，「等待最佳時機」是否會被視為消極？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提醒我們，職場如戰場，面對豬隊友、奧客、雷主管時，光靠努力不夠，更要懂得策略與情報運用。透過孫子的智慧，我們能更有系統地拆解問題、預判風險，化解難關。現代問題，有時真的需要古代手段解決。這本書，正是寫給在職場中載浮載沉的你。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>假如孫子是現代上班族</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《矽谷最夯‧產品專案管理全書：專案管理大師教你用可實踐的流程打造人人都喜歡的產品》 | 閱讀心得學習筆記</title>
     <url>/2024/06/06/reading-notes-inspired-how-to-create-tech-products-customer-love/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-inspired-how-to-create-tech-products-customer-love-1.jpg"></p>
@@ -1820,38 +1893,6 @@
         <tag>Career Development</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>產品專案管理專案全書</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《假如孫子是現代上班族》| 閱讀心得學習筆記</title>
-    <url>/2020/11/26/reading-notes-if-sunzi-were-a-modern-office-worker/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《假如孫子是現代上班族》</span><br><span class="line">作者： 安恒理（Osamu Yasutsune）  </span><br><span class="line">譯者： 沈俊傑</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2020/11/26</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「知彼知己，百戰不殆。《孫子兵法》不僅是一部軍書，更能應用在商場、戀愛、運動、博弈等含有競爭要素的領域，因為一切競爭行為都來自於人，而《孫子兵法》精準剖析了人類細微的心理。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《假如孫子是現代上班族》是一本將《孫子兵法》現代化應用於職場的實戰指南。作者安恒理以現代職場的五大情境問題為核心，搭配32條兵法守則與38則實務案例，引導讀者如何透過「情報」與「策略」，在混亂不明的職場中脫穎而出，打造不敗的生存之道。</p>
-<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>情報為先</strong>：孫子強調「多算勝，少算不勝」，蒐集與分析情報才是致勝關鍵。</li>
-<li><strong>攻心為上</strong>：掌握上司、客戶的習慣與喜好，在對方鬆懈時出擊最有效。</li>
-<li><strong>順勢而為</strong>：與其硬碰硬，不如借力使力、利用敵方資源達成目的。</li>
-<li><strong>靈活應變</strong>：比起強者思維，「生存智慧」與適應變化的能力才是長遠之計。</li>
-<li><strong>職場戰略</strong>：離職糾紛、客訴危機、公關風暴皆可借由兵法中的「守」、「攻」、「變」對應解法。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否過於強調績效與努力，卻忽略了背後的資訊戰與心理戰？</li>
-<li>在講求效率的現代職場，「等待最佳時機」是否會被視為消極？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提醒我們，職場如戰場，面對豬隊友、奧客、雷主管時，光靠努力不夠，更要懂得策略與情報運用。透過孫子的智慧，我們能更有系統地拆解問題、預判風險，化解難關。現代問題，有時真的需要古代手段解決。這本書，正是寫給在職場中載浮載沉的你。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>假如孫子是現代上班族</tag>
       </tags>
   </entry>
   <entry>
@@ -2507,39 +2548,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》| 閱讀心得學習筆記</title>
-    <url>/2024/08/08/reading-notes-one-day-one-country-world-map/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》</span><br><span class="line">作者： 井田仁康  </span><br><span class="line">譯者： 王豫</span><br><span class="line">出版社：美藝學苑社  </span><br><span class="line">出版日期：2024/08/08</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「每天一分鐘，打開世界之窗，拓展無限可能。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在全球化的時代，國際觀不再是少數人的專利，而是每個人都該具備的基本素養。《一日一國家，世界地圖全解讀》用簡單易懂的方式，幫助讀者快速理解各國歷史、政治、經濟與文化，讓世界不再遙遠，而是與我們的生活息息相關。</p>
-<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>每日一國，輕鬆累積國際知識</strong>：透過每天60秒的閱讀，快速掌握212個國家與區域的核心資訊。</li>
-<li><strong>視覺化資訊，提升理解效率</strong>：運用地圖、圖表與簡明敘述，讓複雜的國際情勢變得一目了然。</li>
-<li><strong>適合不同年齡層</strong>：無論是學生、社會人士或投資者，都能從本書獲得有助於學業、職場與投資的知識。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們如何在忙碌的生活中建立對國際局勢的敏感度？</li>
-<li>地緣政治的變化如何影響我們的經濟、科技發展與日常生活？</li>
-<li>在資訊爆炸的時代，如何培養批判性思維來判斷國際新聞的真偽？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《一日一國家，世界地圖全解讀》不僅是一本國際知識的百科全書，更是開啟全球視野的最佳入門書。透過每日學習，我們能更全面地理解世界，並在變動的時代中做出更明智的選擇。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>我可能錯了</tag>
-        <tag>森林智者</tag>
-        <tag>森林智者的最後一堂人生課</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《擁抱 B 選項》| 閱讀心得學習筆記</title>
     <url>/2017/10/02/reading-notes-option-b-facing-adversity-building-resilience-and-finding-joy/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-option-b-facing-adversity-building-resilience-and-finding-joy-1.jpg"></p>
@@ -2617,6 +2625,39 @@
       </tags>
   </entry>
   <entry>
+    <title>《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》| 閱讀心得學習筆記</title>
+    <url>/2024/08/08/reading-notes-one-day-one-country-world-map/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》</span><br><span class="line">作者： 井田仁康  </span><br><span class="line">譯者： 王豫</span><br><span class="line">出版社：美藝學苑社  </span><br><span class="line">出版日期：2024/08/08</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「每天一分鐘，打開世界之窗，拓展無限可能。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在全球化的時代，國際觀不再是少數人的專利，而是每個人都該具備的基本素養。《一日一國家，世界地圖全解讀》用簡單易懂的方式，幫助讀者快速理解各國歷史、政治、經濟與文化，讓世界不再遙遠，而是與我們的生活息息相關。</p>
+<p><img src="/img/posts/reading-notes-one-day-one-country-world-map-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>每日一國，輕鬆累積國際知識</strong>：透過每天60秒的閱讀，快速掌握212個國家與區域的核心資訊。</li>
+<li><strong>視覺化資訊，提升理解效率</strong>：運用地圖、圖表與簡明敘述，讓複雜的國際情勢變得一目了然。</li>
+<li><strong>適合不同年齡層</strong>：無論是學生、社會人士或投資者，都能從本書獲得有助於學業、職場與投資的知識。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們如何在忙碌的生活中建立對國際局勢的敏感度？</li>
+<li>地緣政治的變化如何影響我們的經濟、科技發展與日常生活？</li>
+<li>在資訊爆炸的時代，如何培養批判性思維來判斷國際新聞的真偽？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《一日一國家，世界地圖全解讀》不僅是一本國際知識的百科全書，更是開啟全球視野的最佳入門書。透過每日學習，我們能更全面地理解世界，並在變動的時代中做出更明智的選擇。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>我可能錯了</tag>
+        <tag>森林智者</tag>
+        <tag>森林智者的最後一堂人生課</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>人生推書店：《逆襲人生21個底層邏輯：快速做出改變的高效率成長指南》| 人生處方箋</title>
     <url>/2023/06/07/reading-notes-reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast-1.jpg"></p>
@@ -2657,40 +2698,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>逆襲人生21個底層邏輯</tag>
         <tag>快速做出改變的高效率成長指南</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《正念溝通：在衝突、委屈、情緒勒索場景下說出真心話》| 閱讀心得學習筆記</title>
-    <url>/2022/03/30/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《正念溝通：在衝突、委屈、情緒勒索場景下說出真心話》</span><br><span class="line">作者： 奧朗‧傑‧舒佛</span><br><span class="line">原文作者： Oren Jay Sofer</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：究竟</span><br><span class="line">出版日期：2020/01/01</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「當我們用較少字眼表達出較多真誠時，表達會更清晰、更有力量。語言不僅能療癒、帶來連結，也能製造傷害與分裂。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>這本書從人類最基本卻最強大的力量——語言出發，提醒我們說話的方式如何影響生活與人際關係。作者奧朗．傑．舒佛結合正念、體感治療與非暴力溝通，提供一套改變對話、療癒關係、促進社會和諧的方法。</p>
-<p><img src="/img/posts/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li>語言的力量：語言不僅能療癒、帶來連結，也能製造傷害與分裂。</li>
-<li>溝通的模板：我們的對話模式會影響與自己、與社會的關係。</li>
-<li>正念與同理：有意識地聆聽與說話，才能創造出真誠、同理的交流。</li>
-<li>練習的重要性：溝通是一種需要練習的藝術，非與生俱來的天賦。</li>
-<li>影響層面：個人、群體乃至整個社會，都需要這種更有覺知的溝通方式。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們在日常生活中，是否察覺到自己說話背後的情緒與動機？</li>
-<li>當他人表達不同觀點時，我們能否帶著深度傾聽而非立刻反駁？</li>
-<li>面對衝突時，我們如何使用「愛的話語」來緩解彼此的痛苦？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《正念溝通》不只是一本談理論的書，而是提供練習與實踐的方法，幫助我們在劇烈變動的世界中，用更智慧的方式說話與傾聽。它提醒我們：說話的責任重大，只有用心選擇與練習，我們才能讓語言成為創造和諧與連結的工具。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>正念溝通</tag>
-        <tag>在衝突、委屈、情緒勒索場景下說出真心話</tag>
       </tags>
   </entry>
   <entry>
@@ -2750,6 +2757,40 @@
         <tag>我可能錯了</tag>
         <tag>森林智者</tag>
         <tag>森林智者的最後一堂人生課</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《正念溝通：在衝突、委屈、情緒勒索場景下說出真心話》| 閱讀心得學習筆記</title>
+    <url>/2022/03/30/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《正念溝通：在衝突、委屈、情緒勒索場景下說出真心話》</span><br><span class="line">作者： 奧朗‧傑‧舒佛</span><br><span class="line">原文作者： Oren Jay Sofer</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：究竟</span><br><span class="line">出版日期：2020/01/01</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「當我們用較少字眼表達出較多真誠時，表達會更清晰、更有力量。語言不僅能療癒、帶來連結，也能製造傷害與分裂。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>這本書從人類最基本卻最強大的力量——語言出發，提醒我們說話的方式如何影響生活與人際關係。作者奧朗．傑．舒佛結合正念、體感治療與非暴力溝通，提供一套改變對話、療癒關係、促進社會和諧的方法。</p>
+<p><img src="/img/posts/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li>語言的力量：語言不僅能療癒、帶來連結，也能製造傷害與分裂。</li>
+<li>溝通的模板：我們的對話模式會影響與自己、與社會的關係。</li>
+<li>正念與同理：有意識地聆聽與說話，才能創造出真誠、同理的交流。</li>
+<li>練習的重要性：溝通是一種需要練習的藝術，非與生俱來的天賦。</li>
+<li>影響層面：個人、群體乃至整個社會，都需要這種更有覺知的溝通方式。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們在日常生活中，是否察覺到自己說話背後的情緒與動機？</li>
+<li>當他人表達不同觀點時，我們能否帶著深度傾聽而非立刻反駁？</li>
+<li>面對衝突時，我們如何使用「愛的話語」來緩解彼此的痛苦？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《正念溝通》不只是一本談理論的書，而是提供練習與實踐的方法，幫助我們在劇烈變動的世界中，用更智慧的方式說話與傾聽。它提醒我們：說話的責任重大，只有用心選擇與練習，我們才能讓語言成為創造和諧與連結的工具。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>正念溝通</tag>
+        <tag>在衝突、委屈、情緒勒索場景下說出真心話</tag>
       </tags>
   </entry>
   <entry>
@@ -3339,40 +3380,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《正念旅程：一段激勵內在潛能的啟蒙之旅》 | 閱讀心得學習筆記</title>
-    <url>/2024/12/09/reading-notes-three-days-two-women-one-monkey-and-the-meaning-of-life-an-inspiring-journey/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-three-days-two-women-one-monkey-and-the-meaning-of-life-an-inspiring-journey-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《正念旅程：一段激勵內在潛能的啟蒙之旅》</span><br><span class="line">作者： 卡蘿莉恩．諾特貝特  </span><br><span class="line">譯者： 管中琪</span><br><span class="line">出版社：平安文化  </span><br><span class="line">出版日期：2024/12/09</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「你人生中最重要的使命，就是發現最好的自己。人生中的每一個抉擇都有意義，旅途中的每一段對話都是啟發，只要敞開心胸，打開感官，內在的智慧將會引領你發現全新的自己。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《正念旅程》以一場母女共行的徒步旅行為主軸，透過對話與自然的洗禮，引導讀者反思人生、認識自我與接納情緒。本書不僅是青春期少女的成長紀實，也是一部啟發內在智慧、連結身心靈的心理勵志作品。隨著主角瑪莉的腳步，讀者也踏上一段深刻的自我探索之旅。</p>
-<p><img src="/img/posts/reading-notes-three-days-two-women-one-monkey-and-the-meaning-of-life-an-inspiring-journey-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>正念與自我認識</strong>：瑪莉在旅途中以疑問出發，探索「我是誰」與「我要成為誰」，開啟正念覺察的第一步。</li>
-<li><strong>對話中的智慧</strong>：母親以神經科學知識結合生活體驗，點出思想與感受的自主性，強調改變始於內在覺察。</li>
-<li><strong>大自然的陪伴</strong>：愛爾蘭山谷的原始景色成為療癒場域，陪伴主角放下焦躁、傾聽心靈的聲音。</li>
-<li><strong>自律與行動</strong>：從「猴子心」的混亂到逐步穩定，旅程象徵成長必經的掙扎與突破。</li>
-<li><strong>改變的契機</strong>：唯有正視自身需求，才能展開轉變，而不是等到極度不快樂才行動。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們如何才能在日常中保持覺察，而非被情緒牽著走？</li>
-<li>若無法定義「自己是誰」，是否意味著我們永遠在變動的旅程中？</li>
-<li>面對不確定的未來，什麼才是內在穩定的依據？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書以輕盈筆觸帶出深刻省思，是一本適合在迷惘、轉折或想重新找回自我時閱讀的作品。它提醒我們：每一個困惑都是一扇門，只要願意誠實地走進去，內在的智慧終將指引我們前行。《正念旅程》不只是母女的對話，更是讀者與自己的對話，是一本能在心中留下餘韻的書。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>正念旅程</tag>
-        <tag>正念旅程：一段激勵內在潛能的啟蒙之旅</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《那些旅行教我的事：用一趟旅行重啟生活的初心，我們終將在路上，和理想的自己相遇》| 閱讀心得學習筆記</title>
     <url>/2023/06/01/reading-notes-those-travels-taught-me-use-a-trip-to-restart-the-original-intention-of-life/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-those-travels-taught-me-use-a-trip-to-restart-the-original-intention-of-life-1.jpg"></p>
@@ -3429,6 +3436,40 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>那些旅行教我的事</tag>
         <tag>用一趟旅行重啟生活的初心</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《正念旅程：一段激勵內在潛能的啟蒙之旅》 | 閱讀心得學習筆記</title>
+    <url>/2024/12/09/reading-notes-three-days-two-women-one-monkey-and-the-meaning-of-life-an-inspiring-journey/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-three-days-two-women-one-monkey-and-the-meaning-of-life-an-inspiring-journey-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《正念旅程：一段激勵內在潛能的啟蒙之旅》</span><br><span class="line">作者： 卡蘿莉恩．諾特貝特  </span><br><span class="line">譯者： 管中琪</span><br><span class="line">出版社：平安文化  </span><br><span class="line">出版日期：2024/12/09</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「你人生中最重要的使命，就是發現最好的自己。人生中的每一個抉擇都有意義，旅途中的每一段對話都是啟發，只要敞開心胸，打開感官，內在的智慧將會引領你發現全新的自己。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《正念旅程》以一場母女共行的徒步旅行為主軸，透過對話與自然的洗禮，引導讀者反思人生、認識自我與接納情緒。本書不僅是青春期少女的成長紀實，也是一部啟發內在智慧、連結身心靈的心理勵志作品。隨著主角瑪莉的腳步，讀者也踏上一段深刻的自我探索之旅。</p>
+<p><img src="/img/posts/reading-notes-three-days-two-women-one-monkey-and-the-meaning-of-life-an-inspiring-journey-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>正念與自我認識</strong>：瑪莉在旅途中以疑問出發，探索「我是誰」與「我要成為誰」，開啟正念覺察的第一步。</li>
+<li><strong>對話中的智慧</strong>：母親以神經科學知識結合生活體驗，點出思想與感受的自主性，強調改變始於內在覺察。</li>
+<li><strong>大自然的陪伴</strong>：愛爾蘭山谷的原始景色成為療癒場域，陪伴主角放下焦躁、傾聽心靈的聲音。</li>
+<li><strong>自律與行動</strong>：從「猴子心」的混亂到逐步穩定，旅程象徵成長必經的掙扎與突破。</li>
+<li><strong>改變的契機</strong>：唯有正視自身需求，才能展開轉變，而不是等到極度不快樂才行動。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們如何才能在日常中保持覺察，而非被情緒牽著走？</li>
+<li>若無法定義「自己是誰」，是否意味著我們永遠在變動的旅程中？</li>
+<li>面對不確定的未來，什麼才是內在穩定的依據？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書以輕盈筆觸帶出深刻省思，是一本適合在迷惘、轉折或想重新找回自我時閱讀的作品。它提醒我們：每一個困惑都是一扇門，只要願意誠實地走進去，內在的智慧終將指引我們前行。《正念旅程》不只是母女的對話，更是讀者與自己的對話，是一本能在心中留下餘韻的書。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>正念旅程</tag>
+        <tag>正念旅程：一段激勵內在潛能的啟蒙之旅</tag>
       </tags>
   </entry>
   <entry>
@@ -3575,6 +3616,56 @@
       </tags>
   </entry>
   <entry>
+    <title>《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》 | 閱讀心得學習筆記</title>
+    <url>/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》</span><br><span class="line">Transformed: Moving to the Product Operating Model</span><br><span class="line">作者： 馬提．凱根  </span><br><span class="line">原文作者： Marty Cagan</span><br><span class="line">譯者： 李芳齡</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「產品營運模式不是流程，而是一種文化與思維的轉變。」<br>「成功的關鍵，不在於開發更多功能，而是打造客戶真正需要的產品。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>本書探討如何透過「產品營運模式」取代傳統 IT 專案管理，讓企業能夠更靈活且高效地打造成功產品。透過矽谷科技公司的實際案例，作者馬提·凱根是多本矽谷產品專業書籍作者，解析了產品管理轉型的挑戰與方法，幫助企業落實技術驅動的產品開發模式。</p>
+<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><h3 id="1-產品營運模式的重要性"><a href="#1-產品營運模式的重要性" class="headerlink" title="1. 產品營運模式的重要性"></a><strong>1. 產品營運模式的重要性</strong></h3><ul>
+<li>將產品開發從單次專案轉變為<code>持續迭代</code>運行的模式，提升創新與市場適應能力。  </li>
+<li>產品營運模式能夠確保開發的產品符合<code>客戶需求</code>，而非僅憑內部假設與推測。</li>
+</ul>
+<h3 id="2-產品開發的三大變革"><a href="#2-產品開發的三大變革" class="headerlink" title="2. 產品開發的三大變革"></a><strong>2. 產品開發的三大變革</strong></h3><ul>
+<li><strong>改變打造產品的方式</strong>：採用<code>跨職能團隊</code>，<code>提高決策效率</code>。  </li>
+<li><strong>改變解決問題的方式</strong>：讓團隊<code>自主尋找問題</code>並<code>驗證解決方案</code>。  </li>
+<li><strong>改變決定解決什麼問題的方式</strong>：高層<code>提供方向</code>，<code>團隊負責實際策略與執行</code>。</li>
+</ul>
+<h2 id="3-產品職能與風險承擔"><a href="#3-產品職能與風險承擔" class="headerlink" title="3. 產品職能與風險承擔"></a><strong>3. 產品職能與風險承擔</strong></h2><ul>
+<li><strong>產品經理</strong>：負責<code>價值風險</code>與<code>商業可行性</code>。  </li>
+<li><strong>產品設計師</strong>：確保產品<code>可用性與用戶體驗</code>。  </li>
+<li><strong>工程師</strong>：確保<code>技術可行性與開發效率</code>。</li>
+</ul>
+<h2 id="4-團隊領導與組織文化"><a href="#4-團隊領導與組織文化" class="headerlink" title="4. 團隊領導與組織文化"></a><strong>4. 團隊領導與組織文化</strong></h2><ul>
+<li>團隊應該被賦權，為「<code>outcome 結果</code>」負責，而非僅關注「<code>output 產出</code>」。  </li>
+<li>領導者應專注於<code>策略</code>、<code>團隊組成</code>與<code>技術指導</code>，而非細節管理。  </li>
+<li>產品團隊應透過<code>數據</code>與<code>用戶研究</code>來<code>驅動決策</code>，而非僅依賴直覺。</li>
+</ul>
+<h2 id="5-企業轉型的挑戰與策略"><a href="#5-企業轉型的挑戰與策略" class="headerlink" title="5. 企業轉型的挑戰與策略"></a><strong>5. 企業轉型的挑戰與策略</strong></h2><ul>
+<li>轉型過程困難重重，需從企業文化、組織架構到流程全面調整。  </li>
+<li>透過與顧客、銷售、行銷、財務等部門的緊密合作，確保產品策略的一致性。  </li>
+<li>以數據驗證成果，持續改善與優化產品營運模式。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
+]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>產案管理</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>產品營運模式轉型全書</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《川普2.0時代：全球貿易戰、霸權競爭、地緣衝突，如何在經濟動盪的亂局中找到機會？》| 閱讀心得學習筆記</title>
     <url>/2025/03/28/reading-notes-trump-2-0-era-global-trade-war-hegemony-competition/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-trump-2-0-era-global-trade-war-hegemony-competition-1.jpg"></p>
@@ -3645,56 +3736,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》 | 閱讀心得學習筆記</title>
-    <url>/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》</span><br><span class="line">Transformed: Moving to the Product Operating Model</span><br><span class="line">作者： 馬提．凱根  </span><br><span class="line">原文作者： Marty Cagan</span><br><span class="line">譯者： 李芳齡</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「產品營運模式不是流程，而是一種文化與思維的轉變。」<br>「成功的關鍵，不在於開發更多功能，而是打造客戶真正需要的產品。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a><strong>前言</strong></h1><p>本書探討如何透過「產品營運模式」取代傳統 IT 專案管理，讓企業能夠更靈活且高效地打造成功產品。透過矽谷科技公司的實際案例，作者馬提·凱根是多本矽谷產品專業書籍作者，解析了產品管理轉型的挑戰與方法，幫助企業落實技術驅動的產品開發模式。</p>
-<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a><strong>重點摘要</strong></h1><h3 id="1-產品營運模式的重要性"><a href="#1-產品營運模式的重要性" class="headerlink" title="1. 產品營運模式的重要性"></a><strong>1. 產品營運模式的重要性</strong></h3><ul>
-<li>將產品開發從單次專案轉變為<code>持續迭代</code>運行的模式，提升創新與市場適應能力。  </li>
-<li>產品營運模式能夠確保開發的產品符合<code>客戶需求</code>，而非僅憑內部假設與推測。</li>
-</ul>
-<h3 id="2-產品開發的三大變革"><a href="#2-產品開發的三大變革" class="headerlink" title="2. 產品開發的三大變革"></a><strong>2. 產品開發的三大變革</strong></h3><ul>
-<li><strong>改變打造產品的方式</strong>：採用<code>跨職能團隊</code>，<code>提高決策效率</code>。  </li>
-<li><strong>改變解決問題的方式</strong>：讓團隊<code>自主尋找問題</code>並<code>驗證解決方案</code>。  </li>
-<li><strong>改變決定解決什麼問題的方式</strong>：高層<code>提供方向</code>，<code>團隊負責實際策略與執行</code>。</li>
-</ul>
-<h2 id="3-產品職能與風險承擔"><a href="#3-產品職能與風險承擔" class="headerlink" title="3. 產品職能與風險承擔"></a><strong>3. 產品職能與風險承擔</strong></h2><ul>
-<li><strong>產品經理</strong>：負責<code>價值風險</code>與<code>商業可行性</code>。  </li>
-<li><strong>產品設計師</strong>：確保產品<code>可用性與用戶體驗</code>。  </li>
-<li><strong>工程師</strong>：確保<code>技術可行性與開發效率</code>。</li>
-</ul>
-<h2 id="4-團隊領導與組織文化"><a href="#4-團隊領導與組織文化" class="headerlink" title="4. 團隊領導與組織文化"></a><strong>4. 團隊領導與組織文化</strong></h2><ul>
-<li>團隊應該被賦權，為「<code>outcome 結果</code>」負責，而非僅關注「<code>output 產出</code>」。  </li>
-<li>領導者應專注於<code>策略</code>、<code>團隊組成</code>與<code>技術指導</code>，而非細節管理。  </li>
-<li>產品團隊應透過<code>數據</code>與<code>用戶研究</code>來<code>驅動決策</code>，而非僅依賴直覺。</li>
-</ul>
-<h2 id="5-企業轉型的挑戰與策略"><a href="#5-企業轉型的挑戰與策略" class="headerlink" title="5. 企業轉型的挑戰與策略"></a><strong>5. 企業轉型的挑戰與策略</strong></h2><ul>
-<li>轉型過程困難重重，需從企業文化、組織架構到流程全面調整。  </li>
-<li>透過與顧客、銷售、行銷、財務等部門的緊密合作，確保產品策略的一致性。  </li>
-<li>以數據驗證成果，持續改善與優化產品營運模式。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a><strong>總結</strong></h1><p>本書強調成功的產品開發不只是技術創新，更關鍵的是組織如何有效運作與決策。傳統 IT 專案管理模式已無法滿足數位時代的需求，企業應該向矽谷學習，透過產品營運模式打造客戶真正需要的產品，並持續優化企業價值與競爭力。</p>
-]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>產案管理</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>產品營運模式轉型全書</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》| 閱讀心得學習筆記</title>
     <url>/2024/02/29/reading-notes-wait-what-and-lifes-essential-questions/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-1.jpg"></p>
@@ -3726,40 +3767,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>你的人生，真正重要的是什麼？</tag>
         <tag>感動百萬人的5個人生提問，那些比正確答案更關鍵的事</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》 | 閱讀心得學習筆記</title>
-    <url>/2023/04/28/reading-notes-walking-on-wall-street/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-on-wall-street-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》</span><br><span class="line">作者： 墨基爾  </span><br><span class="line">原文作者： Burton G. Malkiel</span><br><span class="line">譯者： 楊美齡, 林麗冠, 蘇鵬元, 陳儀, 林俊宏</span><br><span class="line">出版社：天下文化  </span><br><span class="line">出版日期：2023/04/28</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「愈簡單的策略，愈容易成功。話題愈熱烈愈有可能是投機泡沫。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《漫步華爾街》是一本跨越半世紀仍屹立不搖的經典投資指南。作者墨基爾身兼經濟學者與實務投資人，以平易近人的筆觸傳遞長期投資、分散風險的重要理念，提醒讀者別被市場流行術語與短期熱潮所迷惑。此50週年增訂版則進一步納入ESG、加密貨幣等新興議題，讓本書在新時代仍具實用價值。</p>
-<p><img src="/img/posts/reading-notes-walking-on-wall-street-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>指數型基金為王道：長期投資、廣泛分散，是最穩健的致富之路。</li>
-<li>市場難以預測：技術分析與基本面分析皆有盲點，普通人難以持續打敗市場。</li>
-<li>風險與報酬並存：報酬來自承擔風險，但非所有風險皆值得承擔。</li>
-<li>行為財務學警示：人性常導致投資錯誤，須設計簡單且能堅持的策略。</li>
-<li>新興投資需謹慎：NFT、加密貨幣與ESG投資背後潛藏高風險與資訊不對稱。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你是否曾因熱門話題而進場投資，卻忽略了風險與長期性？</li>
-<li>當市場震盪時，你能否堅守紀律、不輕易調整資產配置？</li>
-<li>面對投資新趨勢，如何保持開放但不盲從的態度？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《漫步華爾街》提醒我們：與其追逐短期獲利，不如選擇一條可持之以恆的簡單道路。對每一位想改善財務狀況的投資人而言，這是一本值得反覆閱讀的實用經典。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>漫步華爾街</tag>
-        <tag>超越股市漲跌的成功投資策略</tag>
       </tags>
   </entry>
   <entry>
@@ -3809,6 +3816,40 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>回味本町摩登老時光</tag>
         <tag>台南老店散步</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》 | 閱讀心得學習筆記</title>
+    <url>/2023/04/28/reading-notes-walking-on-wall-street/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-on-wall-street-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》</span><br><span class="line">作者： 墨基爾  </span><br><span class="line">原文作者： Burton G. Malkiel</span><br><span class="line">譯者： 楊美齡, 林麗冠, 蘇鵬元, 陳儀, 林俊宏</span><br><span class="line">出版社：天下文化  </span><br><span class="line">出版日期：2023/04/28</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「愈簡單的策略，愈容易成功。話題愈熱烈愈有可能是投機泡沫。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《漫步華爾街》是一本跨越半世紀仍屹立不搖的經典投資指南。作者墨基爾身兼經濟學者與實務投資人，以平易近人的筆觸傳遞長期投資、分散風險的重要理念，提醒讀者別被市場流行術語與短期熱潮所迷惑。此50週年增訂版則進一步納入ESG、加密貨幣等新興議題，讓本書在新時代仍具實用價值。</p>
+<p><img src="/img/posts/reading-notes-walking-on-wall-street-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>指數型基金為王道：長期投資、廣泛分散，是最穩健的致富之路。</li>
+<li>市場難以預測：技術分析與基本面分析皆有盲點，普通人難以持續打敗市場。</li>
+<li>風險與報酬並存：報酬來自承擔風險，但非所有風險皆值得承擔。</li>
+<li>行為財務學警示：人性常導致投資錯誤，須設計簡單且能堅持的策略。</li>
+<li>新興投資需謹慎：NFT、加密貨幣與ESG投資背後潛藏高風險與資訊不對稱。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你是否曾因熱門話題而進場投資，卻忽略了風險與長期性？</li>
+<li>當市場震盪時，你能否堅守紀律、不輕易調整資產配置？</li>
+<li>面對投資新趨勢，如何保持開放但不盲從的態度？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《漫步華爾街》提醒我們：與其追逐短期獲利，不如選擇一條可持之以恆的簡單道路。對每一位想改善財務狀況的投資人而言，這是一本值得反覆閱讀的實用經典。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>漫步華爾街</tag>
+        <tag>超越股市漲跌的成功投資策略</tag>
       </tags>
   </entry>
   <entry>
