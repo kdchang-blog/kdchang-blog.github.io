@@ -1,33 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-app-10-keywords/</url>
-    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
-<ol>
-<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
-<li><strong>聊天機器人</strong>（Chatbots）</li>
-<li><strong>文字摘要</strong>（Text Summarization）</li>
-<li><strong>內容生成</strong>（Content Generation）</li>
-<li><strong>情感分析</strong>（Sentiment Analysis）</li>
-<li><strong>語音助手</strong>（Voice Assistants）</li>
-<li><strong>自動翻譯</strong>（Automatic Translation）</li>
-<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
-<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
-<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
-</ol>
-<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
     <url>/2024/05/22/about-llm-tech-10-keywords/</url>
     <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
@@ -47,6 +20,33 @@
 <h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
 <li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
 </ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-app-10-keywords/</url>
+    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
+<ol>
+<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
+<li><strong>聊天機器人</strong>（Chatbots）</li>
+<li><strong>文字摘要</strong>（Text Summarization）</li>
+<li><strong>內容生成</strong>（Content Generation）</li>
+<li><strong>情感分析</strong>（Sentiment Analysis）</li>
+<li><strong>語音助手</strong>（Voice Assistants）</li>
+<li><strong>自動翻譯</strong>（Automatic Translation）</li>
+<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
+<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
+<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
+</ol>
+<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
 ]]></content>
       <tags>
         <tag>生成式 AI</tag>
@@ -529,36 +529,6 @@
       </tags>
   </entry>
   <entry>
-    <title>產品經理（Product Manager, PM）面試學習筆記 - [1] 總覽</title>
-    <url>/2024/05/25/product-manager-interview-notes/</url>
-    <content><![CDATA[<h1 id="PM-面試設計"><a href="#PM-面試設計" class="headerlink" title="PM 面試設計"></a>PM 面試設計</h1><p>隨著工作經驗的累積，漸漸會有機會參與面試成為面試官，如何設計 PM 面試流程也是資深產品經理必須學習的重要課題。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li>
-<li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li>
-<li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li>
-<li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li>
-<li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li>
-<li><a href="https://hahow.in/contents/articles/60a72a1f328ad057e2d9a5c0">老闆：「下班前給我競品分析！」實戰產品經理要會的生存技：快速做出競品分析</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>Project Manager</tag>
-        <tag>Program Manager</tag>
-        <tag>專案經理</tag>
-        <tag>PM</tag>
-        <tag>interview</tag>
-        <tag>PM Interview</tag>
-        <tag>PM 面試</tag>
-        <tag>面試</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>產品經理（Product Manager, PM）課程學習參考清單</title>
     <url>/2024/06/03/product-manager-course-list/</url>
     <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
@@ -656,6 +626,36 @@
         <tag>Project Management</tag>
         <tag>PjM</tag>
         <tag>PdM</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>產品經理（Product Manager, PM）面試學習筆記 - [1] 總覽</title>
+    <url>/2024/05/25/product-manager-interview-notes/</url>
+    <content><![CDATA[<h1 id="PM-面試設計"><a href="#PM-面試設計" class="headerlink" title="PM 面試設計"></a>PM 面試設計</h1><p>隨著工作經驗的累積，漸漸會有機會參與面試成為面試官，如何設計 PM 面試流程也是資深產品經理必須學習的重要課題。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li>
+<li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li>
+<li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li>
+<li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li>
+<li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li>
+<li><a href="https://hahow.in/contents/articles/60a72a1f328ad057e2d9a5c0">老闆：「下班前給我競品分析！」實戰產品經理要會的生存技：快速做出競品分析</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>Project Manager</tag>
+        <tag>Program Manager</tag>
+        <tag>專案經理</tag>
+        <tag>PM</tag>
+        <tag>interview</tag>
+        <tag>PM Interview</tag>
+        <tag>PM 面試</tag>
+        <tag>面試</tag>
       </tags>
   </entry>
   <entry>
@@ -1093,6 +1093,51 @@
       </tags>
   </entry>
   <entry>
+    <title>《破除困境、財富夢想實現的高效率「人生管理筆記」：全方位6大筆記系統、28個神奇工具，做自己的造命師，不再受困境擺佈》| 閱讀心得學習筆記</title>
+    <url>/2024/06/28/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《破除困境、財富夢想實現的高效率「人生管理筆記」：全方位6大筆記系統、28個神奇工具，做自己的造命師，不再受困境擺佈》</span><br><span class="line">作者： 水晶  </span><br><span class="line">出版社：方言文化</span><br><span class="line">出版日期：2024/06/28</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「勞碌辛苦不等於成功，只會陷入平庸。筆記，不是記住過去，而是開啟未來的鑰匙。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸、節奏飛快的時代，我們的學習與工作都倚賴筆記，但真正懂得運用筆記的人卻不多。本書以水晶的「樂寫人生」筆記法為核心，從記錄到提煉，帶領讀者跳脫「抄寫」的框架，進入以思考與實踐為本的筆記新境界。透過「TRAP四步法」，我們不僅能提升學習效率，更能打造個人知識體系。</p>
+<p><img src="/img/posts/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li>筆記有三層級：資訊記錄 → 精華萃取 → 自我成長與實踐。</li>
+<li>筆記的目的應聚焦於「提升自我」而非純粹記錄。</li>
+<li>杜拉克與史隆的例子顯示，透過書寫能深化理解與決策。</li>
+<li>筆記分為兩類：  <ul>
+<li><strong>方案類筆記</strong>：記錄計畫、決策與成果差異，幫助優化行動。  </li>
+<li><strong>知識類筆記</strong>：整合認知，透過重複修訂打造個人知識系統。</li>
+</ul>
+</li>
+<li>「TRAP」筆記法：  <ul>
+<li><strong>T</strong>（Thinking）：思考學習動機、重點與應用。  </li>
+<li><strong>R</strong>（Refine）：總結內容、抓住重點。  </li>
+<li><strong>A</strong>（Arrange）：結構化整理知識。  </li>
+<li><strong>P</strong>（Present）：用自己的語言與方式記錄呈現。</li>
+</ul>
+</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你目前的筆記方式是否僅停留在「抄寫」階段？</li>
+<li>有沒有透過筆記整理思考、釐清決策，甚至改變過某些行為？</li>
+<li>面對資訊過載，你是否已經建立起屬於自己的知識篩選機制？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《破除困境、財富夢想實現的高效率「人生管理筆記」》不僅是一本教你「如何記筆記」的書，更是一趟重新認識自我學習力與思考方式的旅程。它提醒我們：筆記不是輸出內容，而是輸入認知；不是紀錄事實，而是打磨思維。透過持續記錄與反覆修訂，我們能在快速變遷的世界中站穩腳步、持續進化。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>破除困境</tag>
+        <tag>財富夢想實現的高效率</tag>
+        <tag>人生管理筆記</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《每一天練習照顧自己:當我們為自己負起責任, 就能真正放手, 做自己》| 閱讀心得學習筆記</title>
     <url>/2014/07/01/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-1.jpg"></p>
@@ -1175,51 +1220,6 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>蛤蟆先生去看心理師</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《破除困境、財富夢想實現的高效率「人生管理筆記」：全方位6大筆記系統、28個神奇工具，做自己的造命師，不再受困境擺佈》| 閱讀心得學習筆記</title>
-    <url>/2024/06/28/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《破除困境、財富夢想實現的高效率「人生管理筆記」：全方位6大筆記系統、28個神奇工具，做自己的造命師，不再受困境擺佈》</span><br><span class="line">作者： 水晶  </span><br><span class="line">出版社：方言文化</span><br><span class="line">出版日期：2024/06/28</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「勞碌辛苦不等於成功，只會陷入平庸。筆記，不是記住過去，而是開啟未來的鑰匙。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸、節奏飛快的時代，我們的學習與工作都倚賴筆記，但真正懂得運用筆記的人卻不多。本書以水晶的「樂寫人生」筆記法為核心，從記錄到提煉，帶領讀者跳脫「抄寫」的框架，進入以思考與實踐為本的筆記新境界。透過「TRAP四步法」，我們不僅能提升學習效率，更能打造個人知識體系。</p>
-<p><img src="/img/posts/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li>筆記有三層級：資訊記錄 → 精華萃取 → 自我成長與實踐。</li>
-<li>筆記的目的應聚焦於「提升自我」而非純粹記錄。</li>
-<li>杜拉克與史隆的例子顯示，透過書寫能深化理解與決策。</li>
-<li>筆記分為兩類：  <ul>
-<li><strong>方案類筆記</strong>：記錄計畫、決策與成果差異，幫助優化行動。  </li>
-<li><strong>知識類筆記</strong>：整合認知，透過重複修訂打造個人知識系統。</li>
-</ul>
-</li>
-<li>「TRAP」筆記法：  <ul>
-<li><strong>T</strong>（Thinking）：思考學習動機、重點與應用。  </li>
-<li><strong>R</strong>（Refine）：總結內容、抓住重點。  </li>
-<li><strong>A</strong>（Arrange）：結構化整理知識。  </li>
-<li><strong>P</strong>（Present）：用自己的語言與方式記錄呈現。</li>
-</ul>
-</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你目前的筆記方式是否僅停留在「抄寫」階段？</li>
-<li>有沒有透過筆記整理思考、釐清決策，甚至改變過某些行為？</li>
-<li>面對資訊過載，你是否已經建立起屬於自己的知識篩選機制？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《破除困境、財富夢想實現的高效率「人生管理筆記」》不僅是一本教你「如何記筆記」的書，更是一趟重新認識自我學習力與思考方式的旅程。它提醒我們：筆記不是輸出內容，而是輸入認知；不是紀錄事實，而是打磨思維。透過持續記錄與反覆修訂，我們能在快速變遷的世界中站穩腳步、持續進化。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>破除困境</tag>
-        <tag>財富夢想實現的高效率</tag>
-        <tag>人生管理筆記</tag>
       </tags>
   </entry>
   <entry>
@@ -1407,43 +1407,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《童話故事裡的心理學：從榮格心理學解析格林童話（《童話心理學》新修版）》| 閱讀心得學習筆記</title>
-    <url>/2023/08/10/reading-notes-fairy-tale-psychology/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-fairy-tale-psychology-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《童話故事裡的心理學：從榮格心理學解析格林童話（《童話心理學》新修版）》</span><br><span class="line">作者： 河合隼雄</span><br><span class="line">譯者： 林仁惠</span><br><span class="line">出版社：遠流</span><br><span class="line">出版日期：2023/08/30</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「個人的成長經常是死亡與重生的輪迴。所謂的人生，無論再怎樣換句話說，本來就十分駭人。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>河合隼雄這部以榮格心理學解讀格林童話的著作，不只是重新認識童話的契機，更是一次潛意識的深度探索旅程。透過耳熟能詳的故事與角色象徵，他讓我們看見潛藏在靈魂深處的黑暗、矛盾與渴望。</p>
-<p><img src="/img/posts/reading-notes-fairy-tale-psychology-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>母性雙面性</strong>：如〈糖果屋〉與〈特魯德夫人〉所示，母性既能滋養也可能毀滅，是人類情感的深層張力象徵。</li>
-<li><strong>「二」的結構設計</strong>：反映心理對立面（如光明與陰影、善與惡）的辯證過程，是個體化的重要基礎。</li>
-<li><strong>斬首與復活</strong>：代表自我的死亡與重生，是心理轉化與成熟的隱喻。</li>
-<li><strong>神祕房間與禁忌</strong>：象徵內心深處不可觸碰的秘密，背後往往潛藏慾望與恐懼。</li>
-<li><strong>無為中的穩定力量</strong>：〈三個懶人〉中傳遞的不主動反而成就命運，呼應榮格對陰性力量的重視。</li>
-<li><strong>慾望的反作用</strong>：〈忠實的約翰〉揭示「越禁止越想要」的人性矛盾。</li>
-<li><strong>男女關係中的投射與陰影</strong>：〈謎題〉呈現兩性關係中彼此的不理解與潛意識對抗。</li>
-<li><strong>童話為靈魂成長藍圖</strong>：每一則故事皆可對應個體化歷程，是潛意識對我們「如何活下去」的提問與回答。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們對父母角色的不滿，是否其實反映了內在「母性與父性」的衝突？</li>
-<li>當我們渴望成功與肯定時，是否忽略了內在尚未整合的自我？</li>
-<li>我們是否也住著一個無法抵擋誘惑、卻害怕真相的自己？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《童話故事裡的心理學》不是要我們回到童年，而是引導我們認識童話背後真實的自我。它讓我們看見，每個看似荒謬的情節，皆源自人性中亟欲整合的內在對話。河合隼雄用溫柔與洞察的筆觸，讓我們學會與潛意識和解，進而擁抱那個完整又矛盾的自己。這本書，是給願意深入探索內心世界的成人童話。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>童話故事裡的心理學</tag>
-        <tag>從榮格心理學解析格林童話</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀心得學習筆記</title>
     <url>/2024/08/06/reading-notes-forest-wisdom/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-forest-wisdom-1.jpg"></p>
@@ -1530,6 +1493,43 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>人生 4 千個禮拜</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《童話故事裡的心理學：從榮格心理學解析格林童話（《童話心理學》新修版）》| 閱讀心得學習筆記</title>
+    <url>/2023/08/10/reading-notes-fairy-tale-psychology/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-fairy-tale-psychology-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《童話故事裡的心理學：從榮格心理學解析格林童話（《童話心理學》新修版）》</span><br><span class="line">作者： 河合隼雄</span><br><span class="line">譯者： 林仁惠</span><br><span class="line">出版社：遠流</span><br><span class="line">出版日期：2023/08/30</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「個人的成長經常是死亡與重生的輪迴。所謂的人生，無論再怎樣換句話說，本來就十分駭人。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>河合隼雄這部以榮格心理學解讀格林童話的著作，不只是重新認識童話的契機，更是一次潛意識的深度探索旅程。透過耳熟能詳的故事與角色象徵，他讓我們看見潛藏在靈魂深處的黑暗、矛盾與渴望。</p>
+<p><img src="/img/posts/reading-notes-fairy-tale-psychology-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>母性雙面性</strong>：如〈糖果屋〉與〈特魯德夫人〉所示，母性既能滋養也可能毀滅，是人類情感的深層張力象徵。</li>
+<li><strong>「二」的結構設計</strong>：反映心理對立面（如光明與陰影、善與惡）的辯證過程，是個體化的重要基礎。</li>
+<li><strong>斬首與復活</strong>：代表自我的死亡與重生，是心理轉化與成熟的隱喻。</li>
+<li><strong>神祕房間與禁忌</strong>：象徵內心深處不可觸碰的秘密，背後往往潛藏慾望與恐懼。</li>
+<li><strong>無為中的穩定力量</strong>：〈三個懶人〉中傳遞的不主動反而成就命運，呼應榮格對陰性力量的重視。</li>
+<li><strong>慾望的反作用</strong>：〈忠實的約翰〉揭示「越禁止越想要」的人性矛盾。</li>
+<li><strong>男女關係中的投射與陰影</strong>：〈謎題〉呈現兩性關係中彼此的不理解與潛意識對抗。</li>
+<li><strong>童話為靈魂成長藍圖</strong>：每一則故事皆可對應個體化歷程，是潛意識對我們「如何活下去」的提問與回答。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們對父母角色的不滿，是否其實反映了內在「母性與父性」的衝突？</li>
+<li>當我們渴望成功與肯定時，是否忽略了內在尚未整合的自我？</li>
+<li>我們是否也住著一個無法抵擋誘惑、卻害怕真相的自己？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《童話故事裡的心理學》不是要我們回到童年，而是引導我們認識童話背後真實的自我。它讓我們看見，每個看似荒謬的情節，皆源自人性中亟欲整合的內在對話。河合隼雄用溫柔與洞察的筆觸，讓我們學會與潛意識和解，進而擁抱那個完整又矛盾的自己。這本書，是給願意深入探索內心世界的成人童話。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>童話故事裡的心理學</tag>
+        <tag>從榮格心理學解析格林童話</tag>
       </tags>
   </entry>
   <entry>
@@ -1721,41 +1721,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《高敏感是種天賦：肯定自己的獨特，感受更多、想像更多、創造更多》| 閱讀心得學習筆記</title>
-    <url>/2024/08/02/reading-notes-highly-sensitive-people-in-an-insensitive-world-how-to-create-a-happy-life/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-highly-sensitive-people-in-an-insensitive-world-how-to-create-a-happy-life-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《高敏感是種天賦：肯定自己的獨特，感受更多、想像更多、創造更多》</span><br><span class="line">作者： 伊麗絲．桑德  </span><br><span class="line">原文作者： Ilse Sand</span><br><span class="line">譯者： 呂盈璇</span><br><span class="line">出版社：三采  </span><br><span class="line">出版日期：2024/08/02</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「高敏感不是缺陷，而是與生俱來的天賦。你就是你，勇敢享受與眾不同的天生才能。敏感，不一定只會為你帶來限制，也能為你開啟新的可能。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個節奏快速、強調競爭與外向的社會裡，「高敏感」往往被視為一種「不夠堅強」的象徵。丹麥心理治療師伊麗絲‧桑德以自身高敏感族的背景，寫下這本深入淺出的心理療癒書，重新定義了「敏感」的價值。她不僅點出高敏感的優勢，也給予具體的方法，引導讀者認識自我、溫柔前行。</p>
-<p><img src="/img/posts/reading-notes-highly-sensitive-people-in-an-insensitive-world-how-to-create-a-happy-life-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>高敏感族的特質</strong>：五人中就有一人具備天生的高敏感氣質，具有高同理心、責任感強、精神生活豐富等特質。  </li>
-<li><strong>常見困擾與心理議題</strong>：容易陷入罪惡感、自我懷疑、情緒耗損等負面循環。  </li>
-<li><strong>向外溝通的19個方法</strong>：包括表達界線、選擇理解自己的人、避免過度刺激等。  </li>
-<li><strong>向內相處的技巧</strong>：練習仁慈地對待自己、擁抱天賦、勇敢療癒與自我接納。  </li>
-<li><strong>高敏感是種優勢</strong>：這種纖細的感受力，若善加運用，將成為與世界深度連結的力量。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>為什麼高敏感族常被誤解為「玻璃心」？  </li>
-<li>社會是否過度偏好某種人格特質？  </li>
-<li>高敏感族應如何在職場、人際中自處？  </li>
-<li>父母與教育體系該如何正向引導高敏感的孩子？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《高敏感是種天賦》不只是一本心理自助書，更是一封溫柔的情書，獻給所有曾被誤解、壓抑自我的敏感靈魂。透過本書，我們學會不再與自己為敵，而是擁抱那份與生俱來的細膩，讓這份天賦成為人生的力量之源。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>高敏感是種天賦</tag>
-        <tag>肯定自己的獨特，感受更多、想像更多、創造更多</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《高收入的能力，學校沒教：畢業面對的第一個問題，就是賺錢，但沒有教授會教──現在知道，你少奮鬥10年、20年》| 閱讀心得學習筆記</title>
     <url>/2023/07/31/reading-notes-high-income-skills-are-not-taught-in-school/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-high-income-skills-are-not-taught-in-school-1.jpg"></p>
@@ -1833,6 +1798,41 @@
         <tag>不幸的人做情緒的奴隸</tag>
         <tag>理情行為治療</tag>
         <tag>亞伯‧艾里斯</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《高敏感是種天賦：肯定自己的獨特，感受更多、想像更多、創造更多》| 閱讀心得學習筆記</title>
+    <url>/2024/08/02/reading-notes-highly-sensitive-people-in-an-insensitive-world-how-to-create-a-happy-life/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-highly-sensitive-people-in-an-insensitive-world-how-to-create-a-happy-life-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《高敏感是種天賦：肯定自己的獨特，感受更多、想像更多、創造更多》</span><br><span class="line">作者： 伊麗絲．桑德  </span><br><span class="line">原文作者： Ilse Sand</span><br><span class="line">譯者： 呂盈璇</span><br><span class="line">出版社：三采  </span><br><span class="line">出版日期：2024/08/02</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「高敏感不是缺陷，而是與生俱來的天賦。你就是你，勇敢享受與眾不同的天生才能。敏感，不一定只會為你帶來限制，也能為你開啟新的可能。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個節奏快速、強調競爭與外向的社會裡，「高敏感」往往被視為一種「不夠堅強」的象徵。丹麥心理治療師伊麗絲‧桑德以自身高敏感族的背景，寫下這本深入淺出的心理療癒書，重新定義了「敏感」的價值。她不僅點出高敏感的優勢，也給予具體的方法，引導讀者認識自我、溫柔前行。</p>
+<p><img src="/img/posts/reading-notes-highly-sensitive-people-in-an-insensitive-world-how-to-create-a-happy-life-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>高敏感族的特質</strong>：五人中就有一人具備天生的高敏感氣質，具有高同理心、責任感強、精神生活豐富等特質。  </li>
+<li><strong>常見困擾與心理議題</strong>：容易陷入罪惡感、自我懷疑、情緒耗損等負面循環。  </li>
+<li><strong>向外溝通的19個方法</strong>：包括表達界線、選擇理解自己的人、避免過度刺激等。  </li>
+<li><strong>向內相處的技巧</strong>：練習仁慈地對待自己、擁抱天賦、勇敢療癒與自我接納。  </li>
+<li><strong>高敏感是種優勢</strong>：這種纖細的感受力，若善加運用，將成為與世界深度連結的力量。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>為什麼高敏感族常被誤解為「玻璃心」？  </li>
+<li>社會是否過度偏好某種人格特質？  </li>
+<li>高敏感族應如何在職場、人際中自處？  </li>
+<li>父母與教育體系該如何正向引導高敏感的孩子？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《高敏感是種天賦》不只是一本心理自助書，更是一封溫柔的情書，獻給所有曾被誤解、壓抑自我的敏感靈魂。透過本書，我們學會不再與自己為敵，而是擁抱那份與生俱來的細膩，讓這份天賦成為人生的力量之源。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>高敏感是種天賦</tag>
+        <tag>肯定自己的獨特，感受更多、想像更多、創造更多</tag>
       </tags>
   </entry>
   <entry>
@@ -2071,40 +2071,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《人生雖苦，但還是值得活下去》| 閱讀心得學習筆記</title>
-    <url>/2021/08/02/reading-notes-life-is-hard-but-still-worth-living/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-life-is-hard-but-still-worth-living-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《人生雖苦，但還是值得活下去：《被討厭的勇氣》作者集20年所有作品精華於一冊的人生哲學，獻給每一個在生命煩惱中覺得惶惶不安的人！》</span><br><span class="line">作者： 岸見一郎</span><br><span class="line">譯者： 涂紋凰</span><br><span class="line">出版社：平安文化</span><br><span class="line">出版日期：2021/08/02</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「人生不是「有苦就有樂」，而是「活著本來就很苦」。即便如此，還是值得好好活下去，因為只要活著，就有價值。「成功」不應該是人生的目標，而是「幸福」。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活著本來就很苦》是阿德勒心理學推廣者岸見一郎將其二十年人生哲思濃縮於一冊的沉靜告白。這本書不談華麗的成功學，也不灌輸正向思考的毒雞湯，而是以一種溫柔卻堅定的語調，陪伴讀者直視生命的苦與痛，然後找回對「活著」本身的認可與溫度。</p>
-<p><img src="/img/posts/reading-notes-life-is-hard-but-still-worth-living-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>人生的本質是苦</strong>：並非有苦就會有樂，而是「活著本來就很苦」，但不代表人生沒有意義。</li>
-<li><strong>擺脫他人期待</strong>：人不是為了滿足他人而生，不需勉強自己去扮演「理想的自己」。</li>
-<li><strong>幸福不是成功後的結果</strong>：幸福來自當下的自我接納，不是達成什麼目標之後才配得擁有。</li>
-<li><strong>活在當下</strong>：不要執著於過去或擔憂未來。未來尚未到來，甚至可以說「未存在」，因此對未來的恐懼並無意義。</li>
-<li><strong>生命的價值不需證明</strong>：就算什麼也不會，只要活著，就已經足夠珍貴。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>在充滿社會標準與他人期待的環境下，我們真的能「只做自己」嗎？</li>
-<li>如果人生本來就是苦，那我們為什麼還要堅持活著？價值的根源究竟來自何處？</li>
-<li>當失去摯愛之人或遭逢重創，我們如何不陷於虛無，而仍能重拾前行的勇氣？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書像一場內心的對話，引導我們緩慢地放下對於「正確人生劇本」的執念，接納痛苦本身，並在生命的孤獨與不確定中，找到一種真實而溫柔的活法。它提醒我們：「真正的自由，是活出不必被誰認可的自己。」在這個過度焦慮於未來的時代，這樣的聲音，彌足珍貴。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>人生雖苦</tag>
-        <tag>但還是值得活下去</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《萎靡與心盛：增強心理韌性的心盛維生素，有效擺脫空虛消沉與疲憊的惡性迴圈，開啟正向能量新動力》| 閱讀心得學習筆記</title>
     <url>/2024/11/29/reading-notes-listless-and-flourishing-heart/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-listless-and-flourishing-heart-1.jpg"></p>
@@ -2143,6 +2109,76 @@
         <tag>萎靡與心盛</tag>
         <tag>增強心理韌性的心盛維生素</tag>
         <tag>有效擺脫空虛消沉與疲憊的惡性迴圈，開啟正向能量新動力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《人生雖苦，但還是值得活下去》| 閱讀心得學習筆記</title>
+    <url>/2021/08/02/reading-notes-life-is-hard-but-still-worth-living/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-life-is-hard-but-still-worth-living-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《人生雖苦，但還是值得活下去：《被討厭的勇氣》作者集20年所有作品精華於一冊的人生哲學，獻給每一個在生命煩惱中覺得惶惶不安的人！》</span><br><span class="line">作者： 岸見一郎</span><br><span class="line">譯者： 涂紋凰</span><br><span class="line">出版社：平安文化</span><br><span class="line">出版日期：2021/08/02</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「人生不是「有苦就有樂」，而是「活著本來就很苦」。即便如此，還是值得好好活下去，因為只要活著，就有價值。「成功」不應該是人生的目標，而是「幸福」。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活著本來就很苦》是阿德勒心理學推廣者岸見一郎將其二十年人生哲思濃縮於一冊的沉靜告白。這本書不談華麗的成功學，也不灌輸正向思考的毒雞湯，而是以一種溫柔卻堅定的語調，陪伴讀者直視生命的苦與痛，然後找回對「活著」本身的認可與溫度。</p>
+<p><img src="/img/posts/reading-notes-life-is-hard-but-still-worth-living-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>人生的本質是苦</strong>：並非有苦就會有樂，而是「活著本來就很苦」，但不代表人生沒有意義。</li>
+<li><strong>擺脫他人期待</strong>：人不是為了滿足他人而生，不需勉強自己去扮演「理想的自己」。</li>
+<li><strong>幸福不是成功後的結果</strong>：幸福來自當下的自我接納，不是達成什麼目標之後才配得擁有。</li>
+<li><strong>活在當下</strong>：不要執著於過去或擔憂未來。未來尚未到來，甚至可以說「未存在」，因此對未來的恐懼並無意義。</li>
+<li><strong>生命的價值不需證明</strong>：就算什麼也不會，只要活著，就已經足夠珍貴。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>在充滿社會標準與他人期待的環境下，我們真的能「只做自己」嗎？</li>
+<li>如果人生本來就是苦，那我們為什麼還要堅持活著？價值的根源究竟來自何處？</li>
+<li>當失去摯愛之人或遭逢重創，我們如何不陷於虛無，而仍能重拾前行的勇氣？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書像一場內心的對話，引導我們緩慢地放下對於「正確人生劇本」的執念，接納痛苦本身，並在生命的孤獨與不確定中，找到一種真實而溫柔的活法。它提醒我們：「真正的自由，是活出不必被誰認可的自己。」在這個過度焦慮於未來的時代，這樣的聲音，彌足珍貴。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>人生雖苦</tag>
+        <tag>但還是值得活下去</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《活學：終生受用的人生高效能解密》| 閱讀心得學習筆記</title>
+    <url>/2020/06/08/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《活學：終生受用的人生高效能解密》</span><br><span class="line">作者： 金惟純</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「管好你的念頭，就是管好你的人生。面對真實的自己，接受自己的處境。對世界、他人、自己少一些批判，才能換來內在的平靜與快樂。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活學：終生受用的人生高效能解密》由商業周刊創辦人金惟純撰寫，彙集他從人生巔峰退隱後的深刻體悟。從事業成功者到生命探尋者，他捨棄過去的成就與習慣，重新學習如何活得更自在、圓滿。本書以「活學」為核心，強調透過自省、修心與行動，逐步提升生命的品質，並幫助讀者找到真正的快樂與價值。</p>
+<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-人生最重要的事"><a href="#1-人生最重要的事" class="headerlink" title="1. 人生最重要的事"></a><strong>1. 人生最重要的事</strong></h4><ul>
+<li><strong>念頭決定人生</strong>：人一生最常重複的不是呼吸，而是<code>念頭</code>，管理好念頭才能真正改變人生。</li>
+<li><strong>面對真實的自己</strong>：「看不見」自己是人生困境的根源，<code>接受全部的自己</code>，才能真正活得輕鬆。</li>
+<li><strong>「不得不」的半吊子人生</strong>：如果無法<code>接受自己的處境</code>，又無法處理或放下，人生就會充滿掙扎與痛苦。</li>
+</ul>
+<h4 id="2-最高效能的人生"><a href="#2-最高效能的人生" class="headerlink" title="2. 最高效能的人生"></a><strong>2. 最高效能的人生</strong></h4><ul>
+<li><strong>學習「願意」</strong>：提升自我效能的關鍵，是從「不願意」轉變為「<code>願意</code>」，並從小事開始改變。</li>
+<li><strong>順境與逆境皆是修煉</strong>：人生的每個處境都是「<code>事上練心</code>」，重要的是如何面對而非逃避。</li>
+<li><strong>「放下評判心」</strong>：對世界、他人、自己<code>少一些批判</code>，才能換來內在的平靜與快樂。</li>
+</ul>
+<h4 id="3-與人相處的智慧"><a href="#3-與人相處的智慧" class="headerlink" title="3. 與人相處的智慧"></a><strong>3. 與人相處的智慧</strong></h4><ul>
+<li><strong>領導的真諦</strong>：真正的領導者要懂得「<code>事上練心</code>」，不斷在實踐中成長，而非僅靠權力驅動他人。</li>
+<li><strong>組織與人生的共通法則</strong>：「<code>創新</code>」是結果而非起點，唯有紮實的文化與價值觀，才能真正影響世界。</li>
+<li><strong>學習「不計較」</strong>：在人際關係中，計較只會製造摩擦，<code>學會放下</code>，反而能得到更多。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>活學：終生受用的人生高效能解密</tag>
       </tags>
   </entry>
   <entry>
@@ -2201,42 +2237,6 @@
         <tag>marketing</tag>
         <tag>產案行銷</tag>
         <tag>Product Marketing Manager</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《活學：終生受用的人生高效能解密》| 閱讀心得學習筆記</title>
-    <url>/2020/06/08/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《活學：終生受用的人生高效能解密》</span><br><span class="line">作者： 金惟純</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「管好你的念頭，就是管好你的人生。面對真實的自己，接受自己的處境。對世界、他人、自己少一些批判，才能換來內在的平靜與快樂。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活學：終生受用的人生高效能解密》由商業周刊創辦人金惟純撰寫，彙集他從人生巔峰退隱後的深刻體悟。從事業成功者到生命探尋者，他捨棄過去的成就與習慣，重新學習如何活得更自在、圓滿。本書以「活學」為核心，強調透過自省、修心與行動，逐步提升生命的品質，並幫助讀者找到真正的快樂與價值。</p>
-<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-人生最重要的事"><a href="#1-人生最重要的事" class="headerlink" title="1. 人生最重要的事"></a><strong>1. 人生最重要的事</strong></h4><ul>
-<li><strong>念頭決定人生</strong>：人一生最常重複的不是呼吸，而是<code>念頭</code>，管理好念頭才能真正改變人生。</li>
-<li><strong>面對真實的自己</strong>：「看不見」自己是人生困境的根源，<code>接受全部的自己</code>，才能真正活得輕鬆。</li>
-<li><strong>「不得不」的半吊子人生</strong>：如果無法<code>接受自己的處境</code>，又無法處理或放下，人生就會充滿掙扎與痛苦。</li>
-</ul>
-<h4 id="2-最高效能的人生"><a href="#2-最高效能的人生" class="headerlink" title="2. 最高效能的人生"></a><strong>2. 最高效能的人生</strong></h4><ul>
-<li><strong>學習「願意」</strong>：提升自我效能的關鍵，是從「不願意」轉變為「<code>願意</code>」，並從小事開始改變。</li>
-<li><strong>順境與逆境皆是修煉</strong>：人生的每個處境都是「<code>事上練心</code>」，重要的是如何面對而非逃避。</li>
-<li><strong>「放下評判心」</strong>：對世界、他人、自己<code>少一些批判</code>，才能換來內在的平靜與快樂。</li>
-</ul>
-<h4 id="3-與人相處的智慧"><a href="#3-與人相處的智慧" class="headerlink" title="3. 與人相處的智慧"></a><strong>3. 與人相處的智慧</strong></h4><ul>
-<li><strong>領導的真諦</strong>：真正的領導者要懂得「<code>事上練心</code>」，不斷在實踐中成長，而非僅靠權力驅動他人。</li>
-<li><strong>組織與人生的共通法則</strong>：「<code>創新</code>」是結果而非起點，唯有紮實的文化與價值觀，才能真正影響世界。</li>
-<li><strong>學習「不計較」</strong>：在人際關係中，計較只會製造摩擦，<code>學會放下</code>，反而能得到更多。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>活學：終生受用的人生高效能解密</tag>
       </tags>
   </entry>
   <entry>
@@ -2311,50 +2311,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《掌握人心的MBTI職場溝通術：讓你開口說對話、提案一次過、贏得好人緣的16型人職場指南》| 閱讀心得學習筆記</title>
-    <url>/2024/02/01/reading-notes-mbti-communication-techniques-to-win-hearts-at-work/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-mbti-communication-techniques-to-win-hearts-at-work-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《掌握人心的MBTI職場溝通術：讓你開口說對話、提案一次過、贏得好人緣的16型人職場指南》</span><br><span class="line">作者： 白種和  </span><br><span class="line">原文作者： 백종화</span><br><span class="line">譯者： 張雅眉</span><br><span class="line">出版社：境好出版  </span><br><span class="line">出版日期：2024/02/01</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「MBTI 是以榮格理論為基礎，透過四組傾向，將人的性格分成十六種類型的測驗：認識自己、理解他人，就能發揮優勢、獲取最佳成果！」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《掌握人心的MBTI職場溝通術：讓你開口說對話、提案一次過、贏得好人緣的16型人職場指南》不僅介紹了 MBTI 性格測驗，更深入探討如何在職場中運用 MBTI 找到優勢、理解他人並提升溝通效率。這本書讓我體會到：認識自己的性格模式，是職涯成功的重要起點。</p>
-<p><img src="/img/posts/reading-notes-mbti-communication-techniques-to-win-hearts-at-work-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p>MBTI 以榮格理論為基礎，將性格分為 16 型，透過四組傾向（E&#x2F;I、S&#x2F;N、T&#x2F;F、J&#x2F;P）辨識。</p>
-</li>
-<li><p>MBTI 不只是分類，而是幫助我們找到「適合自己的方式」：</p>
-</li>
-<li><p>E 外向型善於社交，I 內向型適合深度溝通。</p>
-</li>
-<li><p>S 實感型注重現實細節，N 直覺型偏好創新構想。</p>
-</li>
-<li><p>T 思考型以邏輯為主，F 情感型強調人際和諧。</p>
-</li>
-<li><p>J 判斷型喜歡計畫，P 感知型偏好彈性。</p>
-</li>
-</ol>
-<p>誤解：性格不是限制，而是找出符合自己特質的行動策略（如內向型業務專注一對一或社群經營）。</p>
-<ol start="7">
-<li>MBTI 可用於：提升自我覺察、理解上司與同事行為模式、找出團隊優缺點、改善溝通與領導。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否太快將「性格分類」視為藉口，而忽略了性格內的潛力與彈性？</li>
-<li>如何避免因過度依賴 MBTI 而標籤自己或他人？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書強調 MBTI 並非一成不變的定義，而是一面鏡子，幫助我們看見自我與他人的差異，進而找到最適合的工作與溝通方式。理解性格多樣性，才能在團隊中發揮彼此的最大價值。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>掌握人心的MBTI職場溝通術</tag>
-        <tag>讓你開口說對話、提案一次過、贏得好人緣的16型人職場指南</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《顯化效應：每天都能做的「注意力鍊金術」，讓你心想事成》| 閱讀心得學習筆記</title>
     <url>/2022/03/30/reading-notes-manifesting/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-manifesting-1.jpg"></p>
@@ -2406,6 +2362,50 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>顯化效應</tag>
         <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《掌握人心的MBTI職場溝通術：讓你開口說對話、提案一次過、贏得好人緣的16型人職場指南》| 閱讀心得學習筆記</title>
+    <url>/2024/02/01/reading-notes-mbti-communication-techniques-to-win-hearts-at-work/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-mbti-communication-techniques-to-win-hearts-at-work-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《掌握人心的MBTI職場溝通術：讓你開口說對話、提案一次過、贏得好人緣的16型人職場指南》</span><br><span class="line">作者： 白種和  </span><br><span class="line">原文作者： 백종화</span><br><span class="line">譯者： 張雅眉</span><br><span class="line">出版社：境好出版  </span><br><span class="line">出版日期：2024/02/01</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「MBTI 是以榮格理論為基礎，透過四組傾向，將人的性格分成十六種類型的測驗：認識自己、理解他人，就能發揮優勢、獲取最佳成果！」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《掌握人心的MBTI職場溝通術：讓你開口說對話、提案一次過、贏得好人緣的16型人職場指南》不僅介紹了 MBTI 性格測驗，更深入探討如何在職場中運用 MBTI 找到優勢、理解他人並提升溝通效率。這本書讓我體會到：認識自己的性格模式，是職涯成功的重要起點。</p>
+<p><img src="/img/posts/reading-notes-mbti-communication-techniques-to-win-hearts-at-work-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p>MBTI 以榮格理論為基礎，將性格分為 16 型，透過四組傾向（E&#x2F;I、S&#x2F;N、T&#x2F;F、J&#x2F;P）辨識。</p>
+</li>
+<li><p>MBTI 不只是分類，而是幫助我們找到「適合自己的方式」：</p>
+</li>
+<li><p>E 外向型善於社交，I 內向型適合深度溝通。</p>
+</li>
+<li><p>S 實感型注重現實細節，N 直覺型偏好創新構想。</p>
+</li>
+<li><p>T 思考型以邏輯為主，F 情感型強調人際和諧。</p>
+</li>
+<li><p>J 判斷型喜歡計畫，P 感知型偏好彈性。</p>
+</li>
+</ol>
+<p>誤解：性格不是限制，而是找出符合自己特質的行動策略（如內向型業務專注一對一或社群經營）。</p>
+<ol start="7">
+<li>MBTI 可用於：提升自我覺察、理解上司與同事行為模式、找出團隊優缺點、改善溝通與領導。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否太快將「性格分類」視為藉口，而忽略了性格內的潛力與彈性？</li>
+<li>如何避免因過度依賴 MBTI 而標籤自己或他人？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書強調 MBTI 並非一成不變的定義，而是一面鏡子，幫助我們看見自我與他人的差異，進而找到最適合的工作與溝通方式。理解性格多樣性，才能在團隊中發揮彼此的最大價值。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>掌握人心的MBTI職場溝通術</tag>
+        <tag>讓你開口說對話、提案一次過、贏得好人緣的16型人職場指南</tag>
       </tags>
   </entry>
   <entry>
@@ -3569,53 +3569,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》| 閱讀心得學習筆記</title>
-    <url>/2025/01/09/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》</span><br><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
-
-
-<blockquote>
-<p>「無論情況多麼絕望，人永遠不會沒有選擇。人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。」  </p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。本書由精神科醫師戈登．李文斯頓博士以自身經歷與診療室故事，萃取出30則人生智慧，幫助讀者正視恐懼、調適情緒、經營關係，並掌握人生主導權。這不只是一本療癒書，更是一場勇敢面對人生挑戰的啟發之旅。</p>
-<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-做自己：勇敢迎接未知"><a href="#1-做自己：勇敢迎接未知" class="headerlink" title="1. 做自己：勇敢迎接未知"></a><strong>1. 做自己：勇敢迎接未知</strong></h4><ul>
-<li><code>人生是一場賭局</code>，我們無法選擇手中的牌，<code>但能決定如何打好這副牌</code>。</li>
-<li><code>冒險</code>是成長的必要條件，害怕改變往往是最大的枷鎖。</li>
-</ul>
-<h4 id="2-勇氣篇：打破內心的牢籠"><a href="#2-勇氣篇：打破內心的牢籠" class="headerlink" title="2. 勇氣篇：打破內心的牢籠"></a><strong>2. 勇氣篇：打破內心的牢籠</strong></h4><ul>
-<li>最堅固的牢房是我們親手打造的，<code>恐懼與焦慮</code>常阻礙我們追尋快樂。</li>
-<li>勇敢不是沒有害怕，而是<code>即使害怕仍然前進</code>。</li>
-</ul>
-<h4 id="3-情緒篇：選擇希望而非絕望"><a href="#3-情緒篇：選擇希望而非絕望" class="headerlink" title="3. 情緒篇：選擇希望而非絕望"></a><strong>3. 情緒篇：選擇希望而非絕望</strong></h4><ul>
-<li><code>人生即使困難，仍有選擇的空間</code>，只要我們願意尋找新的可能。</li>
-<li><code>轉念</code>是關鍵，問題的核心往往不在事件本身，而在我們<code>如何看待它</code>。</li>
-</ul>
-<h4 id="4-關係篇：給孩子最好的禮物"><a href="#4-關係篇：給孩子最好的禮物" class="headerlink" title="4. 關係篇：給孩子最好的禮物"></a><strong>4. 關係篇：給孩子最好的禮物</strong></h4><ul>
-<li>教養的本質是讓孩子相信，<code>在這個世界上仍然能夠快樂生活</code>。</li>
-<li><code>陪伴與支持</code>，<code>比任何說教更能帶來安全感</code>。</li>
-</ul>
-<h4 id="5-愛情篇：如何愛與被愛"><a href="#5-愛情篇：如何愛與被愛" class="headerlink" title="5. 愛情篇：如何愛與被愛"></a><strong>5. 愛情篇：如何愛與被愛</strong></h4><ul>
-<li>婚姻需要<code>雙方共同經營</code>，但<code>只要一方選擇退出，就足以結束一段關係</code>。</li>
-<li>真正的愛不是<code>掌控</code>與<code>依賴</code>，而是<code>尊重</code>與<code>包容</code>。</li>
-</ul>
-<h4 id="6-老去篇：死亡無法抹去愛"><a href="#6-老去篇：死亡無法抹去愛" class="headerlink" title="6. 老去篇：死亡無法抹去愛"></a><strong>6. 老去篇：死亡無法抹去愛</strong></h4><ul>
-<li>失去所愛之人，並不意味著愛的消失，而是提醒我們<code>珍惜擁有的當下</code>。</li>
-<li>生命的意義，不在於逃避死亡，而在於<code>勇敢地活著</code>。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>戈登．李文斯頓博士以親身經歷和臨床觀察，為我們提供了一面人生的鏡子，提醒我們選擇勇敢、擁抱改變、珍惜愛與當下。這本書不只是關於療癒，更是關於活出更有力量的自己。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>這一生，你要體會的30件事</tag>
-        <tag>精神科醫師最犀利的人生告白</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《把生活過成賞心悅目的好日子：身心整理×極簡日常×居家風格，打造閃閃發光的自在質感生活》| 閱讀心得學習筆記</title>
     <url>/2025/02/05/reading-notes-to-live-to-exist/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-to-live-to-exist-1.jpg"></p>
@@ -3721,6 +3674,53 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>產品專案管理專案全書</tag>
         <tag>產品營運模式轉型全書</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》| 閱讀心得學習筆記</title>
+    <url>/2025/01/09/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》</span><br><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+
+<blockquote>
+<p>「無論情況多麼絕望，人永遠不會沒有選擇。人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。」  </p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。本書由精神科醫師戈登．李文斯頓博士以自身經歷與診療室故事，萃取出30則人生智慧，幫助讀者正視恐懼、調適情緒、經營關係，並掌握人生主導權。這不只是一本療癒書，更是一場勇敢面對人生挑戰的啟發之旅。</p>
+<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-做自己：勇敢迎接未知"><a href="#1-做自己：勇敢迎接未知" class="headerlink" title="1. 做自己：勇敢迎接未知"></a><strong>1. 做自己：勇敢迎接未知</strong></h4><ul>
+<li><code>人生是一場賭局</code>，我們無法選擇手中的牌，<code>但能決定如何打好這副牌</code>。</li>
+<li><code>冒險</code>是成長的必要條件，害怕改變往往是最大的枷鎖。</li>
+</ul>
+<h4 id="2-勇氣篇：打破內心的牢籠"><a href="#2-勇氣篇：打破內心的牢籠" class="headerlink" title="2. 勇氣篇：打破內心的牢籠"></a><strong>2. 勇氣篇：打破內心的牢籠</strong></h4><ul>
+<li>最堅固的牢房是我們親手打造的，<code>恐懼與焦慮</code>常阻礙我們追尋快樂。</li>
+<li>勇敢不是沒有害怕，而是<code>即使害怕仍然前進</code>。</li>
+</ul>
+<h4 id="3-情緒篇：選擇希望而非絕望"><a href="#3-情緒篇：選擇希望而非絕望" class="headerlink" title="3. 情緒篇：選擇希望而非絕望"></a><strong>3. 情緒篇：選擇希望而非絕望</strong></h4><ul>
+<li><code>人生即使困難，仍有選擇的空間</code>，只要我們願意尋找新的可能。</li>
+<li><code>轉念</code>是關鍵，問題的核心往往不在事件本身，而在我們<code>如何看待它</code>。</li>
+</ul>
+<h4 id="4-關係篇：給孩子最好的禮物"><a href="#4-關係篇：給孩子最好的禮物" class="headerlink" title="4. 關係篇：給孩子最好的禮物"></a><strong>4. 關係篇：給孩子最好的禮物</strong></h4><ul>
+<li>教養的本質是讓孩子相信，<code>在這個世界上仍然能夠快樂生活</code>。</li>
+<li><code>陪伴與支持</code>，<code>比任何說教更能帶來安全感</code>。</li>
+</ul>
+<h4 id="5-愛情篇：如何愛與被愛"><a href="#5-愛情篇：如何愛與被愛" class="headerlink" title="5. 愛情篇：如何愛與被愛"></a><strong>5. 愛情篇：如何愛與被愛</strong></h4><ul>
+<li>婚姻需要<code>雙方共同經營</code>，但<code>只要一方選擇退出，就足以結束一段關係</code>。</li>
+<li>真正的愛不是<code>掌控</code>與<code>依賴</code>，而是<code>尊重</code>與<code>包容</code>。</li>
+</ul>
+<h4 id="6-老去篇：死亡無法抹去愛"><a href="#6-老去篇：死亡無法抹去愛" class="headerlink" title="6. 老去篇：死亡無法抹去愛"></a><strong>6. 老去篇：死亡無法抹去愛</strong></h4><ul>
+<li>失去所愛之人，並不意味著愛的消失，而是提醒我們<code>珍惜擁有的當下</code>。</li>
+<li>生命的意義，不在於逃避死亡，而在於<code>勇敢地活著</code>。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>戈登．李文斯頓博士以親身經歷和臨床觀察，為我們提供了一面人生的鏡子，提醒我們選擇勇敢、擁抱改變、珍惜愛與當下。這本書不只是關於療癒，更是關於活出更有力量的自己。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>這一生，你要體會的30件事</tag>
+        <tag>精神科醫師最犀利的人生告白</tag>
       </tags>
   </entry>
   <entry>
@@ -4013,45 +4013,6 @@
       </tags>
   </entry>
   <entry>
-    <title>人生推書店：《哈佛醫學院的SMART壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案》| 人生處方箋</title>
-    <url>/2020/12/09/reading-notes-when-stress-knocks-on-your-door-stress-management-and-resiliency-traning-program/</url>
-    <content><![CDATA[<h1 id="人生推書店：給粉絲的人生處方箋"><a href="#人生推書店：給粉絲的人生處方箋" class="headerlink" title="人生推書店：給粉絲的人生處方箋"></a>人生推書店：給粉絲的人生處方箋</h1><blockquote>
-<p>粉絲來信：上班族該如何在日常生活處理情緒管理、工作與生活平衡、管理等議題呢？</p>
-</blockquote>
-<p><img src="/img/posts/reading-notes-when-stress-knocks-on-your-door-stress-management-and-resiliency-traning-program-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《哈佛醫學院的SMART壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案》</span><br><span class="line">作者： 王芳</span><br><span class="line">出版社：方言文化</span><br><span class="line">出版日期：2020/12/09</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「呼吸是你應對壓力最有力的武器，尤其當你發現無法掌控外部環境時。撰寫壓力應對日記、感恩日記。你會發現自己並非一人，你擁有整個社會支援網路。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代生活中，壓力幾乎是無處不在的存在，而本書《哈佛醫學院的 SMART 壓力管理訓練》則以嚴謹的醫學實證與易於實行的方法，提供讀者一條有效的減壓之路。由哈佛醫學院身心權威團隊與作者王芳共同編撰，結合 40 年的臨床研究與心理治療經驗，書中提出一套科學、實用且具可行性的壓力管理訓練方案，幫助讀者不僅認識壓力，更學會與之共處。</p>
-<p><img src="/img/posts/reading-notes-when-stress-knocks-on-your-door-stress-management-and-resiliency-traning-program-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>壓力的本質</strong>：源於生理與心理面臨威脅，並認為自己無法應對的信念。</li>
-<li><strong>壓力的影響</strong>：導致大腦退化、情緒失控、焦慮憂鬱、身體病變等多重負面反應。</li>
-<li><strong>SMART 訓練核心</strong>：包含壓力覺察、放鬆反應訓練、認知調整、情緒釋放、當下專注與行為改變。</li>
-<li><strong>放鬆反應（RR）</strong>：透過每日練習呼吸、正念、冥想，有效抑制杏仁核過度活化。</li>
-<li><strong>六大模組</strong>：壓力覺察、認知提升、情緒釋放、熱情喚醒、當下關注、整合生活。</li>
-<li><strong>自我工具</strong>：壓力日記、感恩書寫、壓力測評、專注練習。</li>
-<li><strong>應用對象廣泛</strong>：從科技巨頭員工、醫護人員到頂尖運動員，皆受益於此訓練。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我是否真正理解自己的壓力來源與反應？</li>
-<li>我有沒有每天為自己預留片刻呼吸與覺察的空間？</li>
-<li>當壓力襲來，我是慣性逃避，還是主動轉化？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅提供理論與知識，更強調行動與實踐。讀者可藉由書中提供的放鬆技巧與生活策略，逐步重建對壓力的理解與應對方式。壓力無法消失，但透過 SMART 訓練，我們可以更有彈性地生活，活出健康與自在。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>顯化效應</tag>
-        <tag>哈佛醫學院的SMART壓力管理訓練</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《為什麼魚不存在：關於失去、愛與生命的本質，踏上追尋人生意義的解答之旅》| 閱讀心得學習筆記</title>
     <url>/2024/03/07/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life-1.jpg"></p>
@@ -4078,6 +4039,48 @@
       <tags>
         <tag>為什麼魚不存在</tag>
         <tag>踏上追尋人生意義的解答之旅</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》 | 閱讀心得學習筆記</title>
+    <url>/2023/05/26/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》</span><br><span class="line">作者： 沃克</span><br><span class="line">原文作者： Matthew Walker</span><br><span class="line">譯者： 姚若潔</span><br><span class="line">出版社：天下文化</span><br><span class="line">出版日期：2023/05/26</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「睡眠是大腦的維修站，沒有它，一切都會崩潰。夢提供虛擬實境，讓過去與現在的知識融合，激發創意。夢還能撫慰痛苦的記憶，幫助我們走出創傷。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>睡眠不只是生理需求，更是影響記憶、健康、創意與壽命的關鍵要素。然而，在快節奏的現代社會，缺乏睡眠已成為全球性流行病。《為什麼要睡覺？》由神經科學家馬修·沃克撰寫，透過科學實證揭示睡眠的必要性，提醒我們重視這項被忽略的生命基礎。</p>
+<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="1-睡眠的神奇功效"><a href="#1-睡眠的神奇功效" class="headerlink" title="1. 睡眠的神奇功效"></a>1. <strong>睡眠的神奇功效</strong></h3><ul>
+<li>幫助記憶形成與學習能力提升。</li>
+<li>夢境能促進創意，並幫助情緒修復。</li>
+<li>深度睡眠可強化免疫力，降低罹癌風險。</li>
+</ul>
+<h3 id="2-睡眠不足的嚴重後果"><a href="#2-睡眠不足的嚴重後果" class="headerlink" title="2. 睡眠不足的嚴重後果"></a>2. <strong>睡眠不足的嚴重後果</strong></h3><ul>
+<li>免疫系統衰弱，癌症風險增加。</li>
+<li>腦部無法清除有害蛋白質，提高失智風險。</li>
+<li>專注力下降，長時間清醒的駕駛狀態等同酒駕。</li>
+</ul>
+<h3 id="3-睡眠對職場與運動的影響"><a href="#3-睡眠對職場與運動的影響" class="headerlink" title="3. 睡眠對職場與運動的影響"></a>3. <strong>睡眠對職場與運動的影響</strong></h3><ul>
+<li>運動員睡得越多，表現越佳。</li>
+<li>短暫午睡能顯著提高專注力與生產力。</li>
+<li>睡眠不足的主管，會影響整個團隊的績效。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們該如何改變現代人的睡眠習慣？</li>
+<li>長期忽視睡眠，會對社會帶來哪些隱患？</li>
+<li>企業是否應將睡眠納入員工健康管理計畫？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《為什麼要睡覺？》以科學數據與案例解析，提醒我們：睡眠是健康與成功的關鍵，而不是時間的浪費。現代社會應正視睡眠危機，重新調整對工作的迷思，才能真正提升生活品質。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>森林智者</tag>
+        <tag>為什麼要睡覺</tag>
       </tags>
   </entry>
   <entry>
@@ -4132,45 +4135,42 @@
       </tags>
   </entry>
   <entry>
-    <title>《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》 | 閱讀心得學習筆記</title>
-    <url>/2023/05/26/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》</span><br><span class="line">作者： 沃克</span><br><span class="line">原文作者： Matthew Walker</span><br><span class="line">譯者： 姚若潔</span><br><span class="line">出版社：天下文化</span><br><span class="line">出版日期：2023/05/26</span><br></pre></td></tr></table></figure>
+    <title>人生推書店：《哈佛醫學院的SMART壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案》| 人生處方箋</title>
+    <url>/2020/12/09/reading-notes-when-stress-knocks-on-your-door-stress-management-and-resiliency-traning-program/</url>
+    <content><![CDATA[<h1 id="人生推書店：給粉絲的人生處方箋"><a href="#人生推書店：給粉絲的人生處方箋" class="headerlink" title="人生推書店：給粉絲的人生處方箋"></a>人生推書店：給粉絲的人生處方箋</h1><blockquote>
+<p>粉絲來信：上班族該如何在日常生活處理情緒管理、工作與生活平衡、管理等議題呢？</p>
+</blockquote>
+<p><img src="/img/posts/reading-notes-when-stress-knocks-on-your-door-stress-management-and-resiliency-traning-program-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《哈佛醫學院的SMART壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案》</span><br><span class="line">作者： 王芳</span><br><span class="line">出版社：方言文化</span><br><span class="line">出版日期：2020/12/09</span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<p>「睡眠是大腦的維修站，沒有它，一切都會崩潰。夢提供虛擬實境，讓過去與現在的知識融合，激發創意。夢還能撫慰痛苦的記憶，幫助我們走出創傷。」</p>
+<p>「呼吸是你應對壓力最有力的武器，尤其當你發現無法掌控外部環境時。撰寫壓力應對日記、感恩日記。你會發現自己並非一人，你擁有整個社會支援網路。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>睡眠不只是生理需求，更是影響記憶、健康、創意與壽命的關鍵要素。然而，在快節奏的現代社會，缺乏睡眠已成為全球性流行病。《為什麼要睡覺？》由神經科學家馬修·沃克撰寫，透過科學實證揭示睡眠的必要性，提醒我們重視這項被忽略的生命基礎。</p>
-<p><img src="/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="1-睡眠的神奇功效"><a href="#1-睡眠的神奇功效" class="headerlink" title="1. 睡眠的神奇功效"></a>1. <strong>睡眠的神奇功效</strong></h3><ul>
-<li>幫助記憶形成與學習能力提升。</li>
-<li>夢境能促進創意，並幫助情緒修復。</li>
-<li>深度睡眠可強化免疫力，降低罹癌風險。</li>
-</ul>
-<h3 id="2-睡眠不足的嚴重後果"><a href="#2-睡眠不足的嚴重後果" class="headerlink" title="2. 睡眠不足的嚴重後果"></a>2. <strong>睡眠不足的嚴重後果</strong></h3><ul>
-<li>免疫系統衰弱，癌症風險增加。</li>
-<li>腦部無法清除有害蛋白質，提高失智風險。</li>
-<li>專注力下降，長時間清醒的駕駛狀態等同酒駕。</li>
-</ul>
-<h3 id="3-睡眠對職場與運動的影響"><a href="#3-睡眠對職場與運動的影響" class="headerlink" title="3. 睡眠對職場與運動的影響"></a>3. <strong>睡眠對職場與運動的影響</strong></h3><ul>
-<li>運動員睡得越多，表現越佳。</li>
-<li>短暫午睡能顯著提高專注力與生產力。</li>
-<li>睡眠不足的主管，會影響整個團隊的績效。</li>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代生活中，壓力幾乎是無處不在的存在，而本書《哈佛醫學院的 SMART 壓力管理訓練》則以嚴謹的醫學實證與易於實行的方法，提供讀者一條有效的減壓之路。由哈佛醫學院身心權威團隊與作者王芳共同編撰，結合 40 年的臨床研究與心理治療經驗，書中提出一套科學、實用且具可行性的壓力管理訓練方案，幫助讀者不僅認識壓力，更學會與之共處。</p>
+<p><img src="/img/posts/reading-notes-when-stress-knocks-on-your-door-stress-management-and-resiliency-traning-program-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>壓力的本質</strong>：源於生理與心理面臨威脅，並認為自己無法應對的信念。</li>
+<li><strong>壓力的影響</strong>：導致大腦退化、情緒失控、焦慮憂鬱、身體病變等多重負面反應。</li>
+<li><strong>SMART 訓練核心</strong>：包含壓力覺察、放鬆反應訓練、認知調整、情緒釋放、當下專注與行為改變。</li>
+<li><strong>放鬆反應（RR）</strong>：透過每日練習呼吸、正念、冥想，有效抑制杏仁核過度活化。</li>
+<li><strong>六大模組</strong>：壓力覺察、認知提升、情緒釋放、熱情喚醒、當下關注、整合生活。</li>
+<li><strong>自我工具</strong>：壓力日記、感恩書寫、壓力測評、專注練習。</li>
+<li><strong>應用對象廣泛</strong>：從科技巨頭員工、醫護人員到頂尖運動員，皆受益於此訓練。</li>
 </ul>
 <h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們該如何改變現代人的睡眠習慣？</li>
-<li>長期忽視睡眠，會對社會帶來哪些隱患？</li>
-<li>企業是否應將睡眠納入員工健康管理計畫？</li>
+<li>我是否真正理解自己的壓力來源與反應？</li>
+<li>我有沒有每天為自己預留片刻呼吸與覺察的空間？</li>
+<li>當壓力襲來，我是慣性逃避，還是主動轉化？</li>
 </ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《為什麼要睡覺？》以科學數據與案例解析，提醒我們：睡眠是健康與成功的關鍵，而不是時間的浪費。現代社會應正視睡眠危機，重新調整對工作的迷思，才能真正提升生活品質。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅提供理論與知識，更強調行動與實踐。讀者可藉由書中提供的放鬆技巧與生活策略，逐步重建對壓力的理解與應對方式。壓力無法消失，但透過 SMART 訓練，我們可以更有彈性地生活，活出健康與自在。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
-        <tag>森林智者</tag>
-        <tag>為什麼要睡覺</tag>
+        <tag>顯化效應</tag>
+        <tag>哈佛醫學院的SMART壓力管理訓練</tag>
       </tags>
   </entry>
   <entry>
@@ -4273,70 +4273,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》| 閱讀心得學習筆記</title>
-    <url>/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-you-do-not-have-to-be-anyone-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》</span><br><span class="line">作者： 朴藝真  </span><br><span class="line">譯者： 劉宛昀</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「只要活著，就會感到自卑。請別和他人比較，專注在自己達成的事情上。鼓起勇氣依照自己的步調過日子並全面肯定和接納努力活到現在的自己。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>阿德勒是現代心理學的三大巨擘（與大名鼎鼎的佛洛依德和榮格齊名），同時也是個體心理學的創始人，奠定了現代諮商心理學的基礎。</p>
-<p>本書以<code>阿德勒</code>心理學為基礎，探討<code>自卑感</code>的成因、影響及轉化方式，幫助讀者理解自我價值，並鼓勵在焦慮與比較中找到自己的步調。書中透過 27 個案例與分析，引導我們將自卑感視為成長的動力，而非阻礙，並提供實際方法來面對人際關係、愛情、職場壓力等議題。本書適合正在迷惘、渴望突破自我的讀者，幫助他們學習如何接納不完美，並活出屬於自己的節奏與價值。</p>
-<p><img src="/img/posts/reading-notes-you-do-not-have-to-be-anyone-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>自卑感：成長的原動力</strong></li>
-</ol>
-<ul>
-<li><code>自卑感</code>無法避免，但可以轉化為提升自己的動力。</li>
-<li><code>與他人比較是焦慮來源</code>，唯有<code>專注自我成長</code>才能獲得真正的自由。</li>
-<li><code>社會期待</code>與<code>個人價值觀</code>常互相拉扯，<code>找到平衡</code>才能獲得<code>內心安定</code>。</li>
-</ul>
-<ol start="2">
-<li><strong>記憶與心理模式</strong></li>
-</ol>
-<ul>
-<li><code>童年經驗</code>塑造了我們的<code>自卑</code>與<code>優越感</code>，影響成年後的人際關係與決策模式。</li>
-<li><code>記憶並非客觀事實</code>，而是我們選擇記住的片段，改變解讀方式可影響當下心態。</li>
-<li><code>心理創傷不等於決定未來</code>，透過<code>重構記憶</code>，我們能超越過去的陰影。</li>
-</ul>
-<ol start="3">
-<li><strong>人際關係與愛情</strong></li>
-</ol>
-<ul>
-<li>過度渴望認可容易陷入依賴，真正的幸福來自<code>自我接納</code>與<code>內在穩定</code>。</li>
-<li>愛情關係需以<code>尊重</code>為基礎，<code>避免透過戀愛來填補內心空虛</code>。</li>
-<li><code>家庭與社會環境</code>影響我們的愛情模式，需<code>覺察</code>並<code>調整</code>不健康的互動模式。</li>
-<li>家庭結構產生的競爭意識、忌妒心和手足之情對於個性有長遠影響</li>
-</ul>
-<ol start="4">
-<li><strong>活出真實自我</strong></li>
-</ol>
-<ul>
-<li>社會價值與自我價值不一定相符，<code>學習擺脫外在期待</code>才能活得自在。</li>
-<li>自尊來自內在認可，而非外界評價，勇敢<code>面對不完美</code>，才能真正成長。</li>
-<li>每個人都有選擇權，可以決定<code>如何詮釋自己的過去</code>，並<code>創造未來</code>。</li>
-<li>這本書鼓勵我們<code>接受自己的不完美</code>，並透過<code>自省</code>與<code>行動</code>，逐步活出自己真正想要的人生。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>每個人對於成功與失敗的判斷標準各不相同，原因在於人們追求的理想中的我有所差異。這本書探討<code>自卑感</code>的成因，鼓勵我們接受自己的不完美，並透過自省與行動，逐步活出自己真正想要的人生。過去是無法改變的，現在能做的就是承認錯誤並且反省，為了改進而持續努力。</p>
-<p>沒有完美的孩子也沒有完美的大人。在這個時時刻刻充滿比較的世界裡，請試著肯定那個從小就在無止盡競爭之中早已疲憊不堪的自己，發現並珍視自己所有擁有的長處，並給曾因自我苛責而受傷的自己一份真摯的鼓勵。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>自卑感</tag>
-        <tag>自卑與超越</tag>
-        <tag>阿德勒心理學</tag>
-        <tag>心理學</tag>
-        <tag>阿德勒</tag>
-        <tag>佛洛依德</tag>
-        <tag>榮格</tag>
-        <tag>你不必成為任何人</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《禪者的初心：賈伯斯的禪學入門聖經，用正念找回內在平靜，踏上靈魂尋覓之旅(二版)》 | 閱讀心得學習筆記</title>
     <url>/2024/05/02/reading-notes-zen-mind-beginners-mind/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-zen-mind-beginners-mind-1.jpg"></p>
@@ -4432,6 +4368,62 @@
         <tag>SketchPrototyping</tag>
         <tag>Wireframe</tag>
         <tag>Mockup</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》| 閱讀心得學習筆記</title>
+    <url>/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-you-do-not-have-to-be-anyone-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你不必成為任何人：給即將或正值 30 世代的你，無條件接納自我的阿德勒心理學》</span><br><span class="line">作者： 朴藝真</span><br><span class="line">譯者： 劉宛昀</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>你是否也曾因為不夠好，而懷疑自己的人生方向？</p>
+</blockquote>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「只要活著，就會感到自卑。請別和他人比較，專注在自己達成的事情上。鼓起勇氣依照自己的步調過日子並全面肯定和接納努力活到現在的自己。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>阿德勒是現代心理學的三大巨擘（與大名鼎鼎的佛洛依德和榮格齊名），同時也是個體心理學的創始人，奠定了現代諮商心理學的基礎。</p>
+<p>本書以<code>阿德勒</code>心理學為基礎，探討<code>自卑感</code>的成因、影響及轉化方式，幫助讀者理解自我價值，並鼓勵在焦慮與比較中找到自己的步調。書中透過 27 個案例與分析，引導我們將自卑感視為成長的動力，而非阻礙，並提供實際方法來面對人際關係、愛情、職場壓力等議題。本書適合正在迷惘、渴望突破自我的讀者，幫助他們學習如何接納不完美，並活出屬於自己的節奏與價值。</p>
+<p><img src="/img/posts/reading-notes-you-do-not-have-to-be-anyone-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>自卑感並非負面，它是促使我們成長的原動力。</li>
+<li>情緒背後總有其目的，需學習觀察並理解。</li>
+<li>童年記憶與家庭背景對成人的情緒與行為模式影響深遠。</li>
+<li>與他人比較只會削弱自我價值，唯有自我認可才能真正自由。</li>
+<li>愛情與家庭中的問題，多半源自內在未解的自卑與依附模式。</li>
+<li>建立社會興趣與歸屬感，是走向成熟的關鍵。</li>
+<li>身心健康是穩定人生的前提。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每當產生自卑感時，提醒自己：這正是轉化與成長的機會。</li>
+<li>練習將「情緒」視為訊號，而非壓力源，試著寫下並解析它。</li>
+<li>回顧童年記憶，理解自己早期信念的形成背景。</li>
+<li>與人互動時，關注是否過度尋求認同，學會放手他人目光。</li>
+<li>每週至少一次，進行身心連結的活動，如冥想或運動。</li>
+<li>當感到失落，重讀本書中最能引發共鳴的案例段落。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>是否曾因「應該三十而立」的壓力，而過度要求自己？</li>
+<li>面對愛情或關係失衡時，你傾向依附、逃避還是重建？</li>
+<li>你過去最深的創傷記憶，現在是否還主導你的行為與決策？</li>
+<li>什麼時候的你，曾真心覺得「自己值得被愛」？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>每個人對於成功與失敗的判斷標準各不相同，原因在於人們追求的理想中的我有所差異。這本書探討自卑感的成因，鼓勵我們接受自己的不完美，並透過自省與行動，逐步活出自己真正想要的人生。過去是無法改變的，現在能做的就是承認錯誤並且反省，為了改進而持續努力。</p>
+<p>沒有完美的孩子也沒有完美的大人。在這個時時刻刻充滿比較的世界裡，請試著肯定那個從小就在無止盡競爭之中早已疲憊不堪的自己，發現並珍視自己所有擁有的長處，並給曾因自我苛責而受傷的自己一份真摯的鼓勵。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>自卑感</tag>
+        <tag>自卑與超越</tag>
+        <tag>阿德勒心理學</tag>
+        <tag>心理學</tag>
+        <tag>阿德勒</tag>
+        <tag>佛洛依德</tag>
+        <tag>榮格</tag>
+        <tag>你不必成為任何人</tag>
       </tags>
   </entry>
   <entry>
