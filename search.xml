@@ -157,61 +157,6 @@
       </tags>
   </entry>
   <entry>
-    <title>關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</title>
-    <url>/2024/05/22/llm-app-in-martech/</url>
-    <content><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p>
-<h3 id="1-內容生成和改善"><a href="#1-內容生成和改善" class="headerlink" title="1. 內容生成和改善"></a>1. <strong>內容生成和改善</strong></h3><ul>
-<li><strong>部落格文章</strong>：LLMs 可以自動生成高質量的部落格文章、新聞稿和長篇內容。</li>
-<li><strong>社交媒體文章</strong>：自動創建引人入勝的社交媒體內容，適應不同平台的風格和受眾。</li>
-<li><strong>電子郵件行銷</strong>：撰寫個性化的 Email 內容，提高打開率和點擊率。</li>
-</ul>
-<h3 id="2-個人化推薦"><a href="#2-個人化推薦" class="headerlink" title="2. 個人化推薦"></a>2. <strong>個人化推薦</strong></h3><ul>
-<li><strong>產品推薦</strong>：根據使用者的歷史行為和偏好，LLMs 可以生成精確的產品推薦，提高轉化率。</li>
-<li><strong>內容推薦</strong>：在網站或應用中，推薦相關的文章、影片或其他內容，增加用戶黏著性。</li>
-</ul>
-<h3 id="3-客戶服務和互動"><a href="#3-客戶服務和互動" class="headerlink" title="3. 客戶服務和互動"></a>3. <strong>客戶服務和互動</strong></h3><ul>
-<li><strong>聊天機器人</strong>：使用自然語言處理技術的聊天機器人可以處理客戶查詢，提供即時支持和建議。</li>
-<li><strong>客服自動化</strong>：分析和回答常見問題，減少人工客服的工作量，提高回應速度。</li>
-</ul>
-<h3 id="4-市場分析和洞察"><a href="#4-市場分析和洞察" class="headerlink" title="4. 市場分析和洞察"></a>4. <strong>市場分析和洞察</strong></h3><ul>
-<li><strong>社群觀測</strong>：分析社群媒體上的用戶評論和趨勢，幫助企業了解市場需求和品牌形象。</li>
-<li><strong>情感分析</strong>：評估用戶評論和回饋的情感，了解用戶的真實感受和意見。</li>
-</ul>
-<h3 id="5-A-x2F-B-測試和優化"><a href="#5-A-x2F-B-測試和優化" class="headerlink" title="5. A&#x2F;B 測試和優化"></a>5. <strong>A&#x2F;B 測試和優化</strong></h3><ul>
-<li><strong>文案和設計測試</strong>：生成多個版本的廣告文案或設計，進行 A&#x2F;B 測試，找到最有效的組合。</li>
-<li><strong>自動化調整</strong>：根據測試結果，自動調整和優化行銷策略。</li>
-</ul>
-<h3 id="6-語音和影音內容生成"><a href="#6-語音和影音內容生成" class="headerlink" title="6. 語音和影音內容生成"></a>6. <strong>語音和影音內容生成</strong></h3><ul>
-<li><strong>語音助理和 Podcast</strong>：創建和管理企業的語音助理內容或自動生成 Podcast 節目。</li>
-<li><strong>影片腳本和字幕</strong>：自動生成影片腳本，新增字幕，提高內容可及性。</li>
-</ul>
-<h3 id="7-資料分析和報告"><a href="#7-資料分析和報告" class="headerlink" title="7. 資料分析和報告"></a>7. <strong>資料分析和報告</strong></h3><ul>
-<li><strong>智慧報告生成</strong>：根據行銷資料自動生成報告，提供深刻的分析和見解，幫助決策制定。</li>
-<li><strong>趨勢預測</strong>：使用歷史資料和機器學習模型，預測市場趨勢和消費者行為。</li>
-</ul>
-<h3 id="8-SEO-優化"><a href="#8-SEO-優化" class="headerlink" title="8. SEO 優化"></a>8. <strong>SEO 優化</strong></h3><ul>
-<li><strong>關鍵詞建議</strong>：根據內容和目標受眾，提供關鍵字建議，提升搜索引擎排名。</li>
-<li><strong>內容改寫</strong>：改善現有內容，使其更具搜索引擎友好性，提高自然有機流量。</li>
-</ul>
-<h3 id="9-自動摘要"><a href="#9-自動摘要" class="headerlink" title="9. 自動摘要"></a>9. <strong>自動摘要</strong></h3><ul>
-<li><strong>商業報告</strong>：自動生成長篇報告的摘要，便於高階主管快速了解重點。</li>
-<li><strong>新聞摘要</strong>：從多篇新聞文章中提取關鍵信息，生成簡短摘要。</li>
-</ul>
-<h3 id="10-語義搜尋"><a href="#10-語義搜尋" class="headerlink" title="10. 語義搜尋"></a>10. <strong>語義搜尋</strong></h3><ul>
-<li><strong>文件管理系統</strong>：提高公司內部文件搜尋的準確性，快速找到所需資料。</li>
-<li><strong>電子商務搜尋</strong>：根據顧客的搜尋意圖（intent）提供更準確的產品推薦。</li>
-</ul>
-<p>LLMs 在 MarTech 領域的應用廣泛且多樣，能夠幫助企業自動化和改善行銷活動，提升效果和效率。隨著技術的不斷進步，LLMs 將在 MarTech 中發揮越來越重要的作用。</p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
     <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
     <content><![CDATA[<blockquote>
@@ -302,6 +247,61 @@
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
         <tag>LangChain</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</title>
+    <url>/2024/05/22/llm-app-in-martech/</url>
+    <content><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p>
+<h3 id="1-內容生成和改善"><a href="#1-內容生成和改善" class="headerlink" title="1. 內容生成和改善"></a>1. <strong>內容生成和改善</strong></h3><ul>
+<li><strong>部落格文章</strong>：LLMs 可以自動生成高質量的部落格文章、新聞稿和長篇內容。</li>
+<li><strong>社交媒體文章</strong>：自動創建引人入勝的社交媒體內容，適應不同平台的風格和受眾。</li>
+<li><strong>電子郵件行銷</strong>：撰寫個性化的 Email 內容，提高打開率和點擊率。</li>
+</ul>
+<h3 id="2-個人化推薦"><a href="#2-個人化推薦" class="headerlink" title="2. 個人化推薦"></a>2. <strong>個人化推薦</strong></h3><ul>
+<li><strong>產品推薦</strong>：根據使用者的歷史行為和偏好，LLMs 可以生成精確的產品推薦，提高轉化率。</li>
+<li><strong>內容推薦</strong>：在網站或應用中，推薦相關的文章、影片或其他內容，增加用戶黏著性。</li>
+</ul>
+<h3 id="3-客戶服務和互動"><a href="#3-客戶服務和互動" class="headerlink" title="3. 客戶服務和互動"></a>3. <strong>客戶服務和互動</strong></h3><ul>
+<li><strong>聊天機器人</strong>：使用自然語言處理技術的聊天機器人可以處理客戶查詢，提供即時支持和建議。</li>
+<li><strong>客服自動化</strong>：分析和回答常見問題，減少人工客服的工作量，提高回應速度。</li>
+</ul>
+<h3 id="4-市場分析和洞察"><a href="#4-市場分析和洞察" class="headerlink" title="4. 市場分析和洞察"></a>4. <strong>市場分析和洞察</strong></h3><ul>
+<li><strong>社群觀測</strong>：分析社群媒體上的用戶評論和趨勢，幫助企業了解市場需求和品牌形象。</li>
+<li><strong>情感分析</strong>：評估用戶評論和回饋的情感，了解用戶的真實感受和意見。</li>
+</ul>
+<h3 id="5-A-x2F-B-測試和優化"><a href="#5-A-x2F-B-測試和優化" class="headerlink" title="5. A&#x2F;B 測試和優化"></a>5. <strong>A&#x2F;B 測試和優化</strong></h3><ul>
+<li><strong>文案和設計測試</strong>：生成多個版本的廣告文案或設計，進行 A&#x2F;B 測試，找到最有效的組合。</li>
+<li><strong>自動化調整</strong>：根據測試結果，自動調整和優化行銷策略。</li>
+</ul>
+<h3 id="6-語音和影音內容生成"><a href="#6-語音和影音內容生成" class="headerlink" title="6. 語音和影音內容生成"></a>6. <strong>語音和影音內容生成</strong></h3><ul>
+<li><strong>語音助理和 Podcast</strong>：創建和管理企業的語音助理內容或自動生成 Podcast 節目。</li>
+<li><strong>影片腳本和字幕</strong>：自動生成影片腳本，新增字幕，提高內容可及性。</li>
+</ul>
+<h3 id="7-資料分析和報告"><a href="#7-資料分析和報告" class="headerlink" title="7. 資料分析和報告"></a>7. <strong>資料分析和報告</strong></h3><ul>
+<li><strong>智慧報告生成</strong>：根據行銷資料自動生成報告，提供深刻的分析和見解，幫助決策制定。</li>
+<li><strong>趨勢預測</strong>：使用歷史資料和機器學習模型，預測市場趨勢和消費者行為。</li>
+</ul>
+<h3 id="8-SEO-優化"><a href="#8-SEO-優化" class="headerlink" title="8. SEO 優化"></a>8. <strong>SEO 優化</strong></h3><ul>
+<li><strong>關鍵詞建議</strong>：根據內容和目標受眾，提供關鍵字建議，提升搜索引擎排名。</li>
+<li><strong>內容改寫</strong>：改善現有內容，使其更具搜索引擎友好性，提高自然有機流量。</li>
+</ul>
+<h3 id="9-自動摘要"><a href="#9-自動摘要" class="headerlink" title="9. 自動摘要"></a>9. <strong>自動摘要</strong></h3><ul>
+<li><strong>商業報告</strong>：自動生成長篇報告的摘要，便於高階主管快速了解重點。</li>
+<li><strong>新聞摘要</strong>：從多篇新聞文章中提取關鍵信息，生成簡短摘要。</li>
+</ul>
+<h3 id="10-語義搜尋"><a href="#10-語義搜尋" class="headerlink" title="10. 語義搜尋"></a>10. <strong>語義搜尋</strong></h3><ul>
+<li><strong>文件管理系統</strong>：提高公司內部文件搜尋的準確性，快速找到所需資料。</li>
+<li><strong>電子商務搜尋</strong>：根據顧客的搜尋意圖（intent）提供更準確的產品推薦。</li>
+</ul>
+<p>LLMs 在 MarTech 領域的應用廣泛且多樣，能夠幫助企業自動化和改善行銷活動，提升效果和效率。隨著技術的不斷進步，LLMs 將在 MarTech 中發揮越來越重要的作用。</p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
       </tags>
   </entry>
   <entry>
@@ -731,8 +731,9 @@
     <content><![CDATA[<p><img src="/img/posts/reading-notes-52-satir-meditation-practices-1.jpg"></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《薩提爾的 52 個冥想練習：覺察內在的冰山，跟自己和解，與他人共好》</span><br><span class="line">作者： 克麗絲‧費拉洛</span><br><span class="line">譯者： 心意</span><br><span class="line">出版社：遠流</span><br><span class="line">出版日期：2023/01/04</span><br></pre></td></tr></table></figure>
 
-<blockquote>
-<p>「 我們需要先看見自己內心的美好，才可能真正看見別人的。我們要先感受到對自己的愛，之後才可能去愛別人。」</p>
+<p>「你多久沒有好好聆聽內在的聲音了？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「我們需要先看見自己內心的美好，才可能真正看見別人的。我們要先感受到對自己的愛，之後才可能去愛別人。」</p>
 </blockquote>
 <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《薩提爾的 52 個冥想練習》是薩提爾嫡傳弟子約翰．貝曼博士，以一生所學所悟，所整理出的溫柔實用之作。書中結合薩提爾模式的核心精神與冥想技巧，引導讀者從靜心中，重新發現與自我和諧共處的可能。它不僅是一部技巧手冊，更是一份與自己深入對話的邀請。</p>
 <p><img src="/img/posts/reading-notes-52-satir-meditation-practices-2.jpg"></p>
@@ -804,45 +805,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《讓這本書抱抱你：每一天練習自我照顧，學會愛自己》| 閱讀心得學習筆記</title>
-    <url>/2023/11/29/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《讓這本書抱抱你：每一天練習自我照顧，學會愛自己》</span><br><span class="line">作者： My Self-Love Supply</span><br><span class="line">譯者： 聽思（林庭儀）</span><br><span class="line">出版社：遠流</span><br><span class="line">出版日期：2023/11/29</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「生命短暫，請忠於自己，照顧好自己。不管人生經歷到哪個階段，學習與自己相處所帶來的正面影響，都會持續影響著你。唯有與自己好好相處了，才能帶自己繼續朝著人生的旅途邁進。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個快節奏、壓力四伏的社會中，我們經常為他人付出，卻忘了把關懷留給自己。《給你最溫暖的擁抱》是一本充滿療癒能量的自我照顧指南，藉由可愛插畫與簡單實用的練習，引導讀者重拾與自己的連結，在繁忙中找回內在的寧靜與幸福。</p>
-<p><img src="/img/posts/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>自我照顧三大領域</li>
-</ol>
-<ul>
-<li>心理：保持條理、寫日記、正念練習、設定目標</li>
-<li>身體：運動、休息、娛樂、基本身體照護</li>
-<li>精神：設立界限、感恩練習、自我對話、建立連結</li>
-</ul>
-<ol start="2">
-<li><p><strong>彈性時間設計</strong>：每項練習依照可投入時間（5&#x2F;15&#x2F;30 分鐘）進行分類，鼓勵在日常中落實自我照顧。</p>
-</li>
-<li><p><strong>工具設計</strong>：每個練習皆附概念說明與操作指引頁，並有檢核表幫助追蹤進度。</p>
-</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>自我照顧是否自私？：書中指出，照顧自己不是自私，而是基礎。唯有內在穩定、情緒健康，我們才能健康地與他人互動。</li>
-<li>怎麼知道哪種練習適合自己？：作者強調自我照顧是個人化的過程，需反覆嘗試與覺察，從中發現最能帶來療癒的方式。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《給你最溫暖的擁抱》以平易近人的語言與設計，傳遞一個簡單卻深刻的訊息：自我照顧不是奢侈，而是必要。透過具體行動重拾生活節奏，是對自己最真誠的溫柔。願你從書中開始練習，成為自己最可靠的避風港。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>讓這本書抱抱你：每一天練習自我照顧，學會愛自己</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》| 閱讀心得學習筆記</title>
     <url>/2024/11/29/reading-notes-adulting-learning-doing-things-being-a-person/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-1.jpg"></p>
@@ -874,6 +836,56 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>大人學做事做人</tag>
         <tag>做事，才是職場做人的根本</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《讓這本書抱抱你：每一天練習自我照顧，學會愛自己》| 閱讀心得學習筆記</title>
+    <url>/2023/11/29/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《讓這本書抱抱你：每一天練習自我照顧，學會愛自己》</span><br><span class="line">作者： My Self-Love Supply</span><br><span class="line">譯者： 聽思（林庭儀）</span><br><span class="line">出版社：遠流</span><br><span class="line">出版日期：2023/11/29</span><br></pre></td></tr></table></figure>
+
+<p>「你多久沒好好照顧自己的心了？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「生命短暫，請忠於自己，照顧好自己。不管人生經歷到哪個階段，學習與自己相處所帶來的正面影響，都會持續影響著你。唯有與自己好好相處了，才能帶自己繼續朝著人生的旅途邁進。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在快節奏的現代生活中，「自我照顧」經常被誤解為奢侈的享受或逃避責任的藉口。然而，本書《讓這本書抱抱你》以可愛溫暖的圖文與實用的引導，提醒我們：自我照顧是一場從內而外的修復，是愛自己的日常實踐。作者以心理學的專業背景與社群力量，將抽象的「自我照顧」轉化為可執行的習慣提案，適合每一個需要重拾內在力量的人閱讀與實踐。</p>
+<p><img src="/img/posts/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>自我照顧三大領域</li>
+</ol>
+<ul>
+<li>心理：保持條理、寫日記、正念練習、設定目標</li>
+<li>身體：運動、休息、娛樂、基本身體照護</li>
+<li>精神：設立界限、感恩練習、自我對話、建立連結</li>
+</ul>
+<ol start="2">
+<li><p>彈性時間設計：每項練習依照可投入時間（5&#x2F;15&#x2F;30 分鐘）進行分類，鼓勵在日常中落實自我照顧。</p>
+</li>
+<li><p>工具設計：每個練習皆附概念說明與操作指引頁，並有檢核表幫助追蹤進度。</p>
+</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每日早晨花 5 分鐘寫一段感恩日記，提升正向情緒。</li>
+<li>睡前關掉手機，進行 15 分鐘的正念呼吸或冥想，提升睡眠品質。</li>
+<li>每週至少安排一次 30 分鐘的無目標散步，釋放壓力。</li>
+<li>為自己訂立「心理界限清單」，明確拒絕不必要的社交壓力。</li>
+<li>嘗試與自己對話，練習用鼓勵語言面對情緒與不安。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我是否太過習慣忽略自己的需求，總是把他人放在前面？</li>
+<li>我對「休息」的定義是否健康？是否只在身體癱瘓時才勉強停下？</li>
+<li>我是否把自我照顧當成「完成任務」而非「陪伴自己」？</li>
+<li>當我感到疲累或心煩時，第一個念頭是壓抑它還是關照它？</li>
+<li>我是否曾將「獨處」視為孤單，而非與自己的深度對話？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《讓這本書抱抱你》不只是一本書，更是一位陪伴者，幫助你在繁忙與疲憊中，重新記起如何善待自己。透過有結構的行動練習，你不再只是「知道要愛自己」，而是開始真正「實踐愛自己」。在自我照顧的路上，沒有人比你更了解你自己。放下追求完美的壓力，從每天一點點開始，與自己建立深厚、穩定的關係，這是你給自己最溫柔的擁抱。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>讓這本書抱抱你：每一天練習自我照顧，學會愛自己</tag>
       </tags>
   </entry>
   <entry>
@@ -1022,6 +1034,48 @@
       </tags>
   </entry>
   <entry>
+    <title>《Be Water , My Friend 似水無形，李小龍的人生哲學：水很柔弱，卻能穿透最堅硬的物質，你感覺它平靜停滯，卻正流進任何可能的地方。》| 閱讀心得學習筆記</title>
+    <url>/2021/03/31/reading-notes-be-water-my-friend-the-teachings-of-bruce-lee/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-be-water-my-friend-the-teachings-of-bruce-lee-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《Be Water , My Friend 似水無形，李小龍的人生哲學：水很柔弱，卻能穿透最堅硬的物質，你感覺它平靜停滯，卻正流進任何可能的地方。》</span><br><span class="line">作者： 李香凝</span><br><span class="line">譯者： 廖桓偉</span><br><span class="line">出版社：大是文化</span><br><span class="line">出版日期：2021/03/31</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「光有知識是不夠的，你得學以致用；光有決心也不夠，你得付諸行動。請記住，我的朋友，杯子何時能發揮用處？只有當它是空著的時候。如果你熱愛人生，那就別浪費時間，因為人生就是由時間構成的。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《Be Water , My Friend 似水無形，李小龍的人生哲學：水很柔弱，卻能穿透最堅硬的物質，你感覺它平靜停滯，卻正流進任何可能的地方。》由李小龍之女李香凝執筆，透過父親的人生哲學，傳遞「像水一樣」的智慧。本書不僅是武術指南，更是一種生活態度。面對壓力、挑戰與不確定性，我們能否如水般柔韌、靈活而不失力量？這是現代人值得深思的課題。</p>
+<p><img src="/img/posts/reading-notes-be-water-my-friend-the-teachings-of-bruce-lee-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p>化為水的哲學：水無固定形狀，能適應環境，遇阻不硬碰，而是繞道而行，象徵隨遇而安、靈活應對。</p>
+</li>
+<li><p>空杯心態：只有放下成見、保持學習，才能持續吸收新知，正如「空杯才能盛水」。</p>
+</li>
+<li><p>持續鍛鍊：無論是武術、心智或生活技能，都需要不斷練習與反覆實踐。李小龍強調「我不怕練過一萬種招式的人，只怕一種招式練一萬遍」。</p>
+</li>
+<li><p>面對阻礙的態度：水會靜待時機，障礙消除後便迅速流過，提醒我們面對挑戰時需放鬆而保持準備。</p>
+</li>
+<li><p>行動力的重要：光有知識與決心不夠，唯有持續行動，才能累積真正的力量。</p>
+</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li><p>在面對突如其來的變局時，我是否能像水一樣適應與轉化？</p>
+</li>
+<li><p>我的學習是否因「滿杯心態」而停滯不前？</p>
+</li>
+<li><p>我對自己的目標是否有足夠的行動力支持？</p>
+</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書以李小龍的「水之道」啟發讀者，在瞬息萬變的世界裡，培養柔韌、靈活與堅定兼具的心態。它不僅是對武術的詮釋，更是一種面對人生的方式，提醒我們「功夫在日常」，行動與修煉從此刻開始。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>水很柔弱，卻能穿透最堅硬的物質，你感覺它平靜停滯，卻正流進任何可能的地方</tag>
+        <tag>Be Water , My Friend 似水無形，李小龍的人生哲學</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《在關係變成傷害之前：為什麼愈相愛愈受傷？停止悔恨、執迷與焦慮的關係修復心理學，療癒內在失控感，重建愛人與被愛的力量》| 閱讀心得學習筆記</title>
     <url>/2025/02/05/reading-notes-before-relationships-become-harmful/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-before-relationships-become-harmful-1.jpg"></p>
@@ -1093,48 +1147,6 @@
         <tag>破除困境</tag>
         <tag>財富夢想實現的高效率</tag>
         <tag>人生管理筆記</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《Be Water , My Friend 似水無形，李小龍的人生哲學：水很柔弱，卻能穿透最堅硬的物質，你感覺它平靜停滯，卻正流進任何可能的地方。》| 閱讀心得學習筆記</title>
-    <url>/2021/03/31/reading-notes-be-water-my-friend-the-teachings-of-bruce-lee/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-be-water-my-friend-the-teachings-of-bruce-lee-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《Be Water , My Friend 似水無形，李小龍的人生哲學：水很柔弱，卻能穿透最堅硬的物質，你感覺它平靜停滯，卻正流進任何可能的地方。》</span><br><span class="line">作者： 李香凝</span><br><span class="line">譯者： 廖桓偉</span><br><span class="line">出版社：大是文化</span><br><span class="line">出版日期：2021/03/31</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「光有知識是不夠的，你得學以致用；光有決心也不夠，你得付諸行動。請記住，我的朋友，杯子何時能發揮用處？只有當它是空著的時候。如果你熱愛人生，那就別浪費時間，因為人生就是由時間構成的。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《Be Water , My Friend 似水無形，李小龍的人生哲學：水很柔弱，卻能穿透最堅硬的物質，你感覺它平靜停滯，卻正流進任何可能的地方。》由李小龍之女李香凝執筆，透過父親的人生哲學，傳遞「像水一樣」的智慧。本書不僅是武術指南，更是一種生活態度。面對壓力、挑戰與不確定性，我們能否如水般柔韌、靈活而不失力量？這是現代人值得深思的課題。</p>
-<p><img src="/img/posts/reading-notes-be-water-my-friend-the-teachings-of-bruce-lee-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p>化為水的哲學：水無固定形狀，能適應環境，遇阻不硬碰，而是繞道而行，象徵隨遇而安、靈活應對。</p>
-</li>
-<li><p>空杯心態：只有放下成見、保持學習，才能持續吸收新知，正如「空杯才能盛水」。</p>
-</li>
-<li><p>持續鍛鍊：無論是武術、心智或生活技能，都需要不斷練習與反覆實踐。李小龍強調「我不怕練過一萬種招式的人，只怕一種招式練一萬遍」。</p>
-</li>
-<li><p>面對阻礙的態度：水會靜待時機，障礙消除後便迅速流過，提醒我們面對挑戰時需放鬆而保持準備。</p>
-</li>
-<li><p>行動力的重要：光有知識與決心不夠，唯有持續行動，才能累積真正的力量。</p>
-</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li><p>在面對突如其來的變局時，我是否能像水一樣適應與轉化？</p>
-</li>
-<li><p>我的學習是否因「滿杯心態」而停滯不前？</p>
-</li>
-<li><p>我對自己的目標是否有足夠的行動力支持？</p>
-</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書以李小龍的「水之道」啟發讀者，在瞬息萬變的世界裡，培養柔韌、靈活與堅定兼具的心態。它不僅是對武術的詮釋，更是一種面對人生的方式，提醒我們「功夫在日常」，行動與修煉從此刻開始。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>水很柔弱，卻能穿透最堅硬的物質，你感覺它平靜停滯，卻正流進任何可能的地方</tag>
-        <tag>Be Water , My Friend 似水無形，李小龍的人生哲學</tag>
       </tags>
   </entry>
   <entry>
@@ -1292,61 +1304,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》| 閱讀心得學習筆記</title>
-    <url>/2024/12/18/reading-notes-do-not-react-to-everything/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-react-to-everything-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》</span><br><span class="line">作者： 枡野俊明</span><br><span class="line">譯者： 黃薇嬪</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「放下，不是逃避，而是給自己自由的機會。不執著於無法控制的事物，專注於當下所能改變的，便能活得更加輕鬆自在。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會中，我們面臨著來自工作、人際關係與生活壓力的各種挑戰。本書由日本知名禪師枡野俊明撰寫，透過99個生活準則，教導我們如何運用禪學的智慧，學會「<code>放下</code>」，<code>讓心靈重獲自由</code>。本書不僅適合對<code>禪學</code>有興趣的讀者，也特別適合正在<code>面臨人生困境</code>、<code>希望減少內心煩惱</code>的人。  </p>
-<p><img src="/img/posts/reading-notes-do-not-react-to-everything-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>人際關係：學會適度距離</strong></li>
-</ol>
-<ul>
-<li><code>不必強求改變他人</code>，學會「<code>懂一半，剛剛好</code>」  </li>
-<li>面對無法理解的人與事，<code>選擇放下而非執著</code>  </li>
-<li>適時<code>淡泊職場關係</code>，<code>避免情緒牽動工作表現</code></li>
-</ul>
-<ol start="2">
-<li><strong>情緒管理：別讓煩惱吞噬自己</strong></li>
-</ol>
-<ul>
-<li><code>停止無謂的焦慮</code>，<code>不懂的事就不要過度思考</code>  </li>
-<li><code>不與過去較勁</code>，<code>將後悔轉化為成長的養分</code>  </li>
-<li><code>遠離過多的社群媒體資訊</code>，減<code>少不必要的心理消耗 </code></li>
-</ul>
-<ol start="3">
-<li><strong>減少內心消耗：不對每件事都有反應</strong></li>
-</ol>
-<ul>
-<li>面對<code>負面評論</code>，<code>保持冷靜</code>，不需急於回應  </li>
-<li>學會「<code>不使用的物品，就應該放手</code>」，清理內外負擔  </li>
-<li><code>培養專注力</code>，<code>減少分心</code>，<code>專注當下</code>的每個時刻</li>
-</ul>
-<ol start="4">
-<li><strong>活得自在：不要強求絕對對錯</strong></li>
-</ol>
-<ul>
-<li><code>人生沒有絕對的幸與不幸</code>，端看<code>個人心態</code></li>
-<li><code>不必事事爭辯是非</code>，學會<code>退一步海闊天空</code>  </li>
-<li><code>對自己的選擇負責</code>，勇敢接受每一步帶來的結果</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>別對每件事都有反應</tag>
-        <tag>淡泊一點也無妨</tag>
-        <tag>活出快意人生的99個禪練習</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課》 | 閱讀心得學習筆記</title>
     <url>/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-empowered-ordinary-people-extraordinary-product-1.jpg"></p>
@@ -1404,6 +1361,61 @@
         <tag>矽谷最夯‧產品專案領導力全書</tag>
         <tag>領導力</tag>
         <tag>leadership</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》| 閱讀心得學習筆記</title>
+    <url>/2024/12/18/reading-notes-do-not-react-to-everything/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-react-to-everything-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》</span><br><span class="line">作者： 枡野俊明</span><br><span class="line">譯者： 黃薇嬪</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「放下，不是逃避，而是給自己自由的機會。不執著於無法控制的事物，專注於當下所能改變的，便能活得更加輕鬆自在。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會中，我們面臨著來自工作、人際關係與生活壓力的各種挑戰。本書由日本知名禪師枡野俊明撰寫，透過99個生活準則，教導我們如何運用禪學的智慧，學會「<code>放下</code>」，<code>讓心靈重獲自由</code>。本書不僅適合對<code>禪學</code>有興趣的讀者，也特別適合正在<code>面臨人生困境</code>、<code>希望減少內心煩惱</code>的人。  </p>
+<p><img src="/img/posts/reading-notes-do-not-react-to-everything-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>人際關係：學會適度距離</strong></li>
+</ol>
+<ul>
+<li><code>不必強求改變他人</code>，學會「<code>懂一半，剛剛好</code>」  </li>
+<li>面對無法理解的人與事，<code>選擇放下而非執著</code>  </li>
+<li>適時<code>淡泊職場關係</code>，<code>避免情緒牽動工作表現</code></li>
+</ul>
+<ol start="2">
+<li><strong>情緒管理：別讓煩惱吞噬自己</strong></li>
+</ol>
+<ul>
+<li><code>停止無謂的焦慮</code>，<code>不懂的事就不要過度思考</code>  </li>
+<li><code>不與過去較勁</code>，<code>將後悔轉化為成長的養分</code>  </li>
+<li><code>遠離過多的社群媒體資訊</code>，減<code>少不必要的心理消耗 </code></li>
+</ul>
+<ol start="3">
+<li><strong>減少內心消耗：不對每件事都有反應</strong></li>
+</ol>
+<ul>
+<li>面對<code>負面評論</code>，<code>保持冷靜</code>，不需急於回應  </li>
+<li>學會「<code>不使用的物品，就應該放手</code>」，清理內外負擔  </li>
+<li><code>培養專注力</code>，<code>減少分心</code>，<code>專注當下</code>的每個時刻</li>
+</ul>
+<ol start="4">
+<li><strong>活得自在：不要強求絕對對錯</strong></li>
+</ol>
+<ul>
+<li><code>人生沒有絕對的幸與不幸</code>，端看<code>個人心態</code></li>
+<li><code>不必事事爭辯是非</code>，學會<code>退一步海闊天空</code>  </li>
+<li><code>對自己的選擇負責</code>，勇敢接受每一步帶來的結果</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>別對每件事都有反應</tag>
+        <tag>淡泊一點也無妨</tag>
+        <tag>活出快意人生的99個禪練習</tag>
       </tags>
   </entry>
   <entry>
@@ -1836,47 +1848,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》| 閱讀心得學習筆記</title>
-    <url>/2020/04/08/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》</span><br><span class="line">作者： 亞伯‧艾里斯  </span><br><span class="line">原文作者： Albert Ellis</span><br><span class="line">譯者： 蘇子堯</span><br><span class="line">出版社：大牌出版</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「如果你能接受不完美，你就能獲得內心的平和。只有真正的接納了你自己，你才能發自內心去愛、去快樂。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>與焦慮和解，克服不安、完美主義、負面思考、情緒陰影。《世界三大心理治療師亞伯‧艾里斯，歷久彌新的溫暖力》是亞伯·艾里斯博士的經典著作，介紹了他的<code>理情行為治療法（REBT</code>），幫助人們克服焦慮、憂鬱及情緒困擾。艾里斯認為，情緒問題大多來自非理性信念，藉由改變這些信念，人們能擺脫負面情緒，過上更加幸福的生活。本書提供了簡單而有效的自助方法，教導如何掌握思維、情感與行為的關聯，並學會如何改變不合理的信念來減少生活中的煩憂。</p>
-<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>REBT理論：</strong> <code>理情行為治療（REBT）</code>是一種以<code>情緒</code>、<code>想法</code>、<code>行為</code>三個層面進行干預的心理治療方法，旨在幫助人們識別和改變負面的非理性信念。</p>
-</li>
-<li><p><strong>A-B-C-D-E模式：</strong> 本書介紹了REBT的A-B-C-D-E模式，通過識別引發情緒的事件（A），認知過程（B），情緒反應（C），挑戰信念（D），以及結果（E），幫助個體改善情緒。</p>
-</li>
-<li><p><strong>非理性信念的挑戰：</strong> 書中強調改變那些讓人陷入困境的非理性信念，如「我必須完美」或「事情必須按我的預期發展」。</p>
-</li>
-<li><p><strong>自我接納：</strong> 提倡無條件接納自我和他人，並學會放下過高的自我要求，學習如何應對生活中的不確定性。</p>
-</li>
-<li><p><strong>行為改變的力量：</strong> 強調通過積極的行動來挑戰和克服情緒困擾，並幫助讀者建立更健康的自我信念。</p>
-</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>為何我們常陷入「應該」與「必須」的信念？</li>
-<li>我們是否願意承認：困擾來自內在的解讀，而非外在事實？</li>
-<li>你是否曾嘗試挑戰內心的負面對話？還是一直默默承受它的傷害？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提出的 REBT 方法不僅對心理治療領域產生了深遠的影響，也提供了每個人自助的寶貴智慧。透過改變不理性的思維模式，我們能夠有效地減少焦慮、憤怒及不安，過上更快樂、無憂的生活。艾里斯的智慧鼓勵我們接納自己與他人，並學會在面對困難時以理性與勇氣應對。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>理情行為治療</tag>
-        <tag>亞伯‧艾里斯</tag>
-        <tag>讓自己快樂</tag>
-        <tag>沒有放不下的情緒，只有不肯放下的你</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《假如孫子是現代上班族》| 閱讀心得學習筆記</title>
     <url>/2020/11/26/reading-notes-if-sunzi-were-a-modern-office-worker/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-1.jpg"></p>
@@ -1951,6 +1922,47 @@
         <tag>Career Development</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>產品專案管理專案全書</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》| 閱讀心得學習筆記</title>
+    <url>/2020/04/08/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》</span><br><span class="line">作者： 亞伯‧艾里斯  </span><br><span class="line">原文作者： Albert Ellis</span><br><span class="line">譯者： 蘇子堯</span><br><span class="line">出版社：大牌出版</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「如果你能接受不完美，你就能獲得內心的平和。只有真正的接納了你自己，你才能發自內心去愛、去快樂。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>與焦慮和解，克服不安、完美主義、負面思考、情緒陰影。《世界三大心理治療師亞伯‧艾里斯，歷久彌新的溫暖力》是亞伯·艾里斯博士的經典著作，介紹了他的<code>理情行為治療法（REBT</code>），幫助人們克服焦慮、憂鬱及情緒困擾。艾里斯認為，情緒問題大多來自非理性信念，藉由改變這些信念，人們能擺脫負面情緒，過上更加幸福的生活。本書提供了簡單而有效的自助方法，教導如何掌握思維、情感與行為的關聯，並學會如何改變不合理的信念來減少生活中的煩憂。</p>
+<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>REBT理論：</strong> <code>理情行為治療（REBT）</code>是一種以<code>情緒</code>、<code>想法</code>、<code>行為</code>三個層面進行干預的心理治療方法，旨在幫助人們識別和改變負面的非理性信念。</p>
+</li>
+<li><p><strong>A-B-C-D-E模式：</strong> 本書介紹了REBT的A-B-C-D-E模式，通過識別引發情緒的事件（A），認知過程（B），情緒反應（C），挑戰信念（D），以及結果（E），幫助個體改善情緒。</p>
+</li>
+<li><p><strong>非理性信念的挑戰：</strong> 書中強調改變那些讓人陷入困境的非理性信念，如「我必須完美」或「事情必須按我的預期發展」。</p>
+</li>
+<li><p><strong>自我接納：</strong> 提倡無條件接納自我和他人，並學會放下過高的自我要求，學習如何應對生活中的不確定性。</p>
+</li>
+<li><p><strong>行為改變的力量：</strong> 強調通過積極的行動來挑戰和克服情緒困擾，並幫助讀者建立更健康的自我信念。</p>
+</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>為何我們常陷入「應該」與「必須」的信念？</li>
+<li>我們是否願意承認：困擾來自內在的解讀，而非外在事實？</li>
+<li>你是否曾嘗試挑戰內心的負面對話？還是一直默默承受它的傷害？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提出的 REBT 方法不僅對心理治療領域產生了深遠的影響，也提供了每個人自助的寶貴智慧。透過改變不理性的思維模式，我們能夠有效地減少焦慮、憤怒及不安，過上更快樂、無憂的生活。艾里斯的智慧鼓勵我們接納自己與他人，並學會在面對困難時以理性與勇氣應對。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>理情行為治療</tag>
+        <tag>亞伯‧艾里斯</tag>
+        <tag>讓自己快樂</tag>
+        <tag>沒有放不下的情緒，只有不肯放下的你</tag>
       </tags>
   </entry>
   <entry>
@@ -2105,42 +2117,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《活學：終生受用的人生高效能解密》| 閱讀心得學習筆記</title>
-    <url>/2020/06/08/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《活學：終生受用的人生高效能解密》</span><br><span class="line">作者： 金惟純</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「管好你的念頭，就是管好你的人生。面對真實的自己，接受自己的處境。對世界、他人、自己少一些批判，才能換來內在的平靜與快樂。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活學：終生受用的人生高效能解密》由商業周刊創辦人金惟純撰寫，彙集他從人生巔峰退隱後的深刻體悟。從事業成功者到生命探尋者，他捨棄過去的成就與習慣，重新學習如何活得更自在、圓滿。本書以「活學」為核心，強調透過自省、修心與行動，逐步提升生命的品質，並幫助讀者找到真正的快樂與價值。</p>
-<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-人生最重要的事"><a href="#1-人生最重要的事" class="headerlink" title="1. 人生最重要的事"></a><strong>1. 人生最重要的事</strong></h4><ul>
-<li><strong>念頭決定人生</strong>：人一生最常重複的不是呼吸，而是<code>念頭</code>，管理好念頭才能真正改變人生。</li>
-<li><strong>面對真實的自己</strong>：「看不見」自己是人生困境的根源，<code>接受全部的自己</code>，才能真正活得輕鬆。</li>
-<li><strong>「不得不」的半吊子人生</strong>：如果無法<code>接受自己的處境</code>，又無法處理或放下，人生就會充滿掙扎與痛苦。</li>
-</ul>
-<h4 id="2-最高效能的人生"><a href="#2-最高效能的人生" class="headerlink" title="2. 最高效能的人生"></a><strong>2. 最高效能的人生</strong></h4><ul>
-<li><strong>學習「願意」</strong>：提升自我效能的關鍵，是從「不願意」轉變為「<code>願意</code>」，並從小事開始改變。</li>
-<li><strong>順境與逆境皆是修煉</strong>：人生的每個處境都是「<code>事上練心</code>」，重要的是如何面對而非逃避。</li>
-<li><strong>「放下評判心」</strong>：對世界、他人、自己<code>少一些批判</code>，才能換來內在的平靜與快樂。</li>
-</ul>
-<h4 id="3-與人相處的智慧"><a href="#3-與人相處的智慧" class="headerlink" title="3. 與人相處的智慧"></a><strong>3. 與人相處的智慧</strong></h4><ul>
-<li><strong>領導的真諦</strong>：真正的領導者要懂得「<code>事上練心</code>」，不斷在實踐中成長，而非僅靠權力驅動他人。</li>
-<li><strong>組織與人生的共通法則</strong>：「<code>創新</code>」是結果而非起點，唯有紮實的文化與價值觀，才能真正影響世界。</li>
-<li><strong>學習「不計較」</strong>：在人際關係中，計較只會製造摩擦，<code>學會放下</code>，反而能得到更多。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>活學：終生受用的人生高效能解密</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《萎靡與心盛：增強心理韌性的心盛維生素，有效擺脫空虛消沉與疲憊的惡性迴圈，開啟正向能量新動力》| 閱讀心得學習筆記</title>
     <url>/2024/11/29/reading-notes-listless-and-flourishing-heart/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-listless-and-flourishing-heart-1.jpg"></p>
@@ -2179,6 +2155,42 @@
         <tag>萎靡與心盛</tag>
         <tag>增強心理韌性的心盛維生素</tag>
         <tag>有效擺脫空虛消沉與疲憊的惡性迴圈，開啟正向能量新動力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《活學：終生受用的人生高效能解密》| 閱讀心得學習筆記</title>
+    <url>/2020/06/08/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《活學：終生受用的人生高效能解密》</span><br><span class="line">作者： 金惟純</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「管好你的念頭，就是管好你的人生。面對真實的自己，接受自己的處境。對世界、他人、自己少一些批判，才能換來內在的平靜與快樂。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活學：終生受用的人生高效能解密》由商業周刊創辦人金惟純撰寫，彙集他從人生巔峰退隱後的深刻體悟。從事業成功者到生命探尋者，他捨棄過去的成就與習慣，重新學習如何活得更自在、圓滿。本書以「活學」為核心，強調透過自省、修心與行動，逐步提升生命的品質，並幫助讀者找到真正的快樂與價值。</p>
+<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-人生最重要的事"><a href="#1-人生最重要的事" class="headerlink" title="1. 人生最重要的事"></a><strong>1. 人生最重要的事</strong></h4><ul>
+<li><strong>念頭決定人生</strong>：人一生最常重複的不是呼吸，而是<code>念頭</code>，管理好念頭才能真正改變人生。</li>
+<li><strong>面對真實的自己</strong>：「看不見」自己是人生困境的根源，<code>接受全部的自己</code>，才能真正活得輕鬆。</li>
+<li><strong>「不得不」的半吊子人生</strong>：如果無法<code>接受自己的處境</code>，又無法處理或放下，人生就會充滿掙扎與痛苦。</li>
+</ul>
+<h4 id="2-最高效能的人生"><a href="#2-最高效能的人生" class="headerlink" title="2. 最高效能的人生"></a><strong>2. 最高效能的人生</strong></h4><ul>
+<li><strong>學習「願意」</strong>：提升自我效能的關鍵，是從「不願意」轉變為「<code>願意</code>」，並從小事開始改變。</li>
+<li><strong>順境與逆境皆是修煉</strong>：人生的每個處境都是「<code>事上練心</code>」，重要的是如何面對而非逃避。</li>
+<li><strong>「放下評判心」</strong>：對世界、他人、自己<code>少一些批判</code>，才能換來內在的平靜與快樂。</li>
+</ul>
+<h4 id="3-與人相處的智慧"><a href="#3-與人相處的智慧" class="headerlink" title="3. 與人相處的智慧"></a><strong>3. 與人相處的智慧</strong></h4><ul>
+<li><strong>領導的真諦</strong>：真正的領導者要懂得「<code>事上練心</code>」，不斷在實踐中成長，而非僅靠權力驅動他人。</li>
+<li><strong>組織與人生的共通法則</strong>：「<code>創新</code>」是結果而非起點，唯有紮實的文化與價值觀，才能真正影響世界。</li>
+<li><strong>學習「不計較」</strong>：在人際關係中，計較只會製造摩擦，<code>學會放下</code>，反而能得到更多。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>活學：終生受用的人生高效能解密</tag>
       </tags>
   </entry>
   <entry>
@@ -2365,42 +2377,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》| 閱讀心得學習筆記</title>
-    <url>/2024/11/14/reading-notes-micro-skills-small-actions-big-impact-notes/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》</span><br><span class="line">作者： 艾黛拉．蘭德瑞, 瑞莎．盧伊斯  </span><br><span class="line">原文作者： Adaira Landry MD , Resa E. Lewiss MD</span><br><span class="line">譯者： 何玉方</span><br><span class="line">出版社：商業周刊</span><br><span class="line">出版日期：2024/11/14</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「職場成敗，不在大事，而是小事的堆疊。職場的每步路，都是由小小的「原子技巧」累積起來。做對小事、避開小錯，持續練習就能累積大成果。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在競爭激烈又變化迅速的現代職場，僅靠努力與熱情，已不足以支撐我們走得長遠。《原子技巧》一書由兩位來自醫界、歷經現實挑戰的女醫師所寫，提出一個關鍵觀念：「成就來自於無數細小技巧的積累與應用」。這本書像是一份實用的職場工具包，幫助我們在不被教導的領域中穩健前進。</p>
-<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>原子技巧的核心概念：小行為積少成多，能影響大結果。每一項技巧都是具體、可練習、可衡量的。</p>
-<p>三大技巧範疇：</p>
-<ol>
-<li>自我照顧與效率提升：包括睡眠、情緒管理、行事曆規劃、精簡瑣事。</li>
-<li>任務與溝通管理：學會與主管對齊目標、設限會議時間、簡明扼要地傳達需求。</li>
-<li>人際與晉升策略：擴展人脈、建立信任、展現專業、避免社交地雷。</li>
-</ol>
-<p>應用方法：<br>將大目標拆解成小任務，對應適合的技巧逐一練習，例如建立人脈時先從內向者的舒適圈突破，再逐步擴張社交網絡。</p>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>為何學校與傳統教育中，鮮少提及這些實用技巧？</li>
-<li>在你目前的工作中，哪一項「原子技巧」最欠缺？</li>
-<li>是否曾因「小錯」而錯過晉升或重要機會？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《原子技巧》並非高談闊論成功學的書，而是一份實戰指南。透過拆解與練習這些細小但關鍵的行為模式，我們不只提升效率，更能在面對壓力與挑戰時，更穩健地應對。這是一本應該反覆翻閱、逐步實踐的職涯夥伴。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>原子技巧</tag>
-        <tag>小練習帶來大改變</tag>
-        <tag>早知道會更好的10種職場組合技</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《掌握人心的MBTI職場溝通術：讓你開口說對話、提案一次過、贏得好人緣的16型人職場指南》| 閱讀心得學習筆記</title>
     <url>/2024/02/01/reading-notes-mbti-communication-techniques-to-win-hearts-at-work/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-mbti-communication-techniques-to-win-hearts-at-work-1.jpg"></p>
@@ -2442,6 +2418,42 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>掌握人心的MBTI職場溝通術</tag>
         <tag>讓你開口說對話、提案一次過、贏得好人緣的16型人職場指南</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》| 閱讀心得學習筆記</title>
+    <url>/2024/11/14/reading-notes-micro-skills-small-actions-big-impact-notes/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》</span><br><span class="line">作者： 艾黛拉．蘭德瑞, 瑞莎．盧伊斯  </span><br><span class="line">原文作者： Adaira Landry MD , Resa E. Lewiss MD</span><br><span class="line">譯者： 何玉方</span><br><span class="line">出版社：商業周刊</span><br><span class="line">出版日期：2024/11/14</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「職場成敗，不在大事，而是小事的堆疊。職場的每步路，都是由小小的「原子技巧」累積起來。做對小事、避開小錯，持續練習就能累積大成果。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在競爭激烈又變化迅速的現代職場，僅靠努力與熱情，已不足以支撐我們走得長遠。《原子技巧》一書由兩位來自醫界、歷經現實挑戰的女醫師所寫，提出一個關鍵觀念：「成就來自於無數細小技巧的積累與應用」。這本書像是一份實用的職場工具包，幫助我們在不被教導的領域中穩健前進。</p>
+<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>原子技巧的核心概念：小行為積少成多，能影響大結果。每一項技巧都是具體、可練習、可衡量的。</p>
+<p>三大技巧範疇：</p>
+<ol>
+<li>自我照顧與效率提升：包括睡眠、情緒管理、行事曆規劃、精簡瑣事。</li>
+<li>任務與溝通管理：學會與主管對齊目標、設限會議時間、簡明扼要地傳達需求。</li>
+<li>人際與晉升策略：擴展人脈、建立信任、展現專業、避免社交地雷。</li>
+</ol>
+<p>應用方法：<br>將大目標拆解成小任務，對應適合的技巧逐一練習，例如建立人脈時先從內向者的舒適圈突破，再逐步擴張社交網絡。</p>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>為何學校與傳統教育中，鮮少提及這些實用技巧？</li>
+<li>在你目前的工作中，哪一項「原子技巧」最欠缺？</li>
+<li>是否曾因「小錯」而錯過晉升或重要機會？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《原子技巧》並非高談闊論成功學的書，而是一份實戰指南。透過拆解與練習這些細小但關鍵的行為模式，我們不只提升效率，更能在面對壓力與挑戰時，更穩健地應對。這是一本應該反覆翻閱、逐步實踐的職涯夥伴。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>原子技巧</tag>
+        <tag>小練習帶來大改變</tag>
+        <tag>早知道會更好的10種職場組合技</tag>
       </tags>
   </entry>
   <entry>
@@ -2716,6 +2728,49 @@
       </tags>
   </entry>
   <entry>
+    <title>人生推書店：《逆襲人生21個底層邏輯：快速做出改變的高效率成長指南》| 人生處方箋</title>
+    <url>/2023/06/07/reading-notes-reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《逆襲人生 21 個底層邏輯：快速做出改變的高效率成長指南》</span><br><span class="line">作者： 呂白</span><br><span class="line">出版社：幸福文化</span><br><span class="line">出版日期：2023/06/07</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>粉絲來信：想投入專案管理、商業管理領域，卻始終不得要領，即便自學相關知識，仍苦於如何落地，職涯高不成、低不就，被迫在不擅長的領域不斷碰撞，缺乏自信、自我懷疑，如今已年過三十，職涯仍未能穩定向前。</p>
+</blockquote>
+<blockquote>
+<p>人生處方箋：職涯轉換需要時間，在高壓和快速變動的環境下上班族變得越來越不容易，每個人都有自己的時區，不需要跟他人比較，多給自己一點寬容和時間。這邊推薦您一本關於職涯規劃管理、工作和學習效率提升的書籍，希望對您會有幫助：）</p>
+</blockquote>
+<blockquote>
+<p>「不管多小的努力，不停地做、使勁做、堅持做，成效會很大！設置一個每天要做的最低量，跑贏人生的馬拉松。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《21 天實現逆風翻盤》是一本寫給在生活與職場中困頓、卻渴望改變的年輕人的行動指南。作者呂白，從一位小鎮青年躍升為職場實力派，以自身經驗提煉出 21 個可立即實踐的底層邏輯，鼓勵讀者在 21 天內培養習慣、翻轉人生。這不是雞湯式的夢想激勵，而是一場結構明確、具體可行的自我提升實驗。</p>
+<p><img src="/img/posts/reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>黃金 1 小時法則</strong>：起床後的第一小時決定一天效率。四段 15 分鐘，分別用於列清單、定優先、想目標、理情緒。</li>
+<li><strong>時間管理三法則</strong>：記錄時間、先完成再完美、提升利用率。</li>
+<li><strong>賺錢思維</strong>：建立認知優勢，學會投資與人脈經營。</li>
+<li><strong>吸引力法則</strong>：目標明確＋心懷感恩＝吸引資源與機會。</li>
+<li><strong>向上社交</strong>：不再「等被看到」，主動出擊創造高價值人脈。</li>
+<li><strong>殺死拖延症</strong>：以「5 分鐘行動法」啟動行動，搭配番茄鐘強化執行力。</li>
+<li><strong>精進表達力</strong>：從鏡子練習到素材輸入，打造清晰表達能力。</li>
+<li><strong>最低量堅持法</strong>：設定每日可執行的小任務，累積習慣。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你是否經常陷入「想做但不開始」的循環？</li>
+<li>是否把「完美」當作拖延的藉口，而錯失改變的時機？</li>
+<li>是否願意給自己 21 天，不追求極致，只求「比昨天好一點點」？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書的核心訊息很簡單卻深具力量：不要等待完美時機，而要從當下的小行動開始。透過 21 個實戰邏輯與每日執行清單，幫助你培養效率、自信與成長思維。若你正處於迷惘、拖延或自我懷疑的階段，這是一本能幫你實際「動起來」的好書，從一點一滴的累積中，走出自己的逆襲之路。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>逆襲人生21個底層邏輯</tag>
+        <tag>快速做出改變的高效率成長指南</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《人類大歷史（增訂版）：從野獸到扮演上帝》 | 閱讀心得學習筆記</title>
     <url>/2022/10/27/reading-notes-sapiens-a-brief-history-of-humankind/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-sapiens-a-brief-history-of-humankind-1.jpg"></p>
@@ -2809,49 +2864,6 @@
       </tags>
   </entry>
   <entry>
-    <title>人生推書店：《逆襲人生21個底層邏輯：快速做出改變的高效率成長指南》| 人生處方箋</title>
-    <url>/2023/06/07/reading-notes-reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《逆襲人生 21 個底層邏輯：快速做出改變的高效率成長指南》</span><br><span class="line">作者： 呂白</span><br><span class="line">出版社：幸福文化</span><br><span class="line">出版日期：2023/06/07</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>粉絲來信：想投入專案管理、商業管理領域，卻始終不得要領，即便自學相關知識，仍苦於如何落地，職涯高不成、低不就，被迫在不擅長的領域不斷碰撞，缺乏自信、自我懷疑，如今已年過三十，職涯仍未能穩定向前。</p>
-</blockquote>
-<blockquote>
-<p>人生處方箋：職涯轉換需要時間，在高壓和快速變動的環境下上班族變得越來越不容易，每個人都有自己的時區，不需要跟他人比較，多給自己一點寬容和時間。這邊推薦您一本關於職涯規劃管理、工作和學習效率提升的書籍，希望對您會有幫助：）</p>
-</blockquote>
-<blockquote>
-<p>「不管多小的努力，不停地做、使勁做、堅持做，成效會很大！設置一個每天要做的最低量，跑贏人生的馬拉松。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《21 天實現逆風翻盤》是一本寫給在生活與職場中困頓、卻渴望改變的年輕人的行動指南。作者呂白，從一位小鎮青年躍升為職場實力派，以自身經驗提煉出 21 個可立即實踐的底層邏輯，鼓勵讀者在 21 天內培養習慣、翻轉人生。這不是雞湯式的夢想激勵，而是一場結構明確、具體可行的自我提升實驗。</p>
-<p><img src="/img/posts/reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>黃金 1 小時法則</strong>：起床後的第一小時決定一天效率。四段 15 分鐘，分別用於列清單、定優先、想目標、理情緒。</li>
-<li><strong>時間管理三法則</strong>：記錄時間、先完成再完美、提升利用率。</li>
-<li><strong>賺錢思維</strong>：建立認知優勢，學會投資與人脈經營。</li>
-<li><strong>吸引力法則</strong>：目標明確＋心懷感恩＝吸引資源與機會。</li>
-<li><strong>向上社交</strong>：不再「等被看到」，主動出擊創造高價值人脈。</li>
-<li><strong>殺死拖延症</strong>：以「5 分鐘行動法」啟動行動，搭配番茄鐘強化執行力。</li>
-<li><strong>精進表達力</strong>：從鏡子練習到素材輸入，打造清晰表達能力。</li>
-<li><strong>最低量堅持法</strong>：設定每日可執行的小任務，累積習慣。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你是否經常陷入「想做但不開始」的循環？</li>
-<li>是否把「完美」當作拖延的藉口，而錯失改變的時機？</li>
-<li>是否願意給自己 21 天，不追求極致，只求「比昨天好一點點」？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書的核心訊息很簡單卻深具力量：不要等待完美時機，而要從當下的小行動開始。透過 21 個實戰邏輯與每日執行清單，幫助你培養效率、自信與成長思維。若你正處於迷惘、拖延或自我懷疑的階段，這是一本能幫你實際「動起來」的好書，從一點一滴的累積中，走出自己的逆襲之路。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>逆襲人生21個底層邏輯</tag>
-        <tag>快速做出改變的高效率成長指南</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《ScrumMaster、敏捷教練及專案經理轉型的最佳指南》| 閱讀心得學習筆記</title>
     <url>/2024/06/06/reading-notes-scrum-master-team/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-scrum-master-team-1.jpg"></p>
@@ -2942,7 +2954,8 @@
     <content><![CDATA[<p><img src="/img/posts/reading-notes-taking-stock-a-hospice-doctors-advice-on-financial-independence-1.jpg"></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《人生最後一堂理財課：見證過無數生死的安寧照護醫生告訴你如何過一個不留遺憾的人生。關於金錢、工作和幸福人生的實用建議》</span><br><span class="line">作者： 喬丹・格鲁米特</span><br><span class="line">原文作者： Jordan Grumet</span><br><span class="line">譯者： 萬靈芝</span><br><span class="line">出版社：春天出版社</span><br><span class="line">出版日期：2025/05/16</span><br></pre></td></tr></table></figure>
 
-<blockquote>
+<p>「你努力賺錢，是為了生活，還是在逃避生活？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
 <p>「沒有什麼比思考死亡更能讓人正視生命與世俗的煩惱。這世上最珍貴的快樂，莫過於在有限的生命裡，做真正想做的事。」</p>
 </blockquote>
 <h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《人生最後一堂理財課》是一本融合財務自由與人生智慧的非典型理財書。作者喬丹・格魯米特身為安寧照護醫師，親身見證無數病人臨終前的遺憾與醒悟。他從死亡的角度切入金錢與生活的關係，提醒我們：人生不是為了「賺夠錢才開始活」，而是每一天都該是我們選擇活出的答案。這本書不談致富秘訣，談的是如何不留遺憾地生活。</p>
@@ -3239,51 +3252,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《別對每件事都有反應2：不執著的練習！》| 閱讀心得學習筆記</title>
-    <url>/2025/01/20/reading-notes-the-practice-of-non-attachment/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-practice-of-non-attachment-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《別對每件事都有反應2：不執著的練習》</span><br><span class="line">作者： 枡野俊明</span><br><span class="line">譯者： 黃薇嬪</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「人生，就是活在當下。過去、現在、未來看似相連，實則各自獨立。別放不下過去，也不擔憂未來，專注凝視現在。全力以赴做好此刻能做的事。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸、情緒起伏劇烈的時代，我們時常被周遭的人事物影響，難以保持內心的平靜。本書延續《別對每件事都有反應》的核心理念，透過禪學智慧，帶領我們學習「不執著」的生活態度。作者枡野俊明提出 99 個禪練習，從人際、工作到身心靈，幫助我們擺脫內心負擔，培養「不反應、不在意、不牽扯」的能力，讓生活更順遂。  </p>
-<p><img src="/img/posts/reading-notes-the-practice-of-non-attachment-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-簡化人際關係"><a href="#1-簡化人際關係" class="headerlink" title="1. 簡化人際關係"></a><strong>1. 簡化人際關係</strong></h4><ul>
-<li><strong>別人是別人，自己是自己</strong>：不勉強討好他人，專注做好自己。  </li>
-<li><strong>遠離被情緒操控的人</strong>：學會適時抽離，不被負能量影響。  </li>
-<li><strong>怒氣應暗自排解</strong>：生氣只會損害自己，保持冷靜才是智慧。  </li>
-<li><strong>競爭要秉持「輸就是贏」的精神</strong>：過度比較只會徒增壓力，反而失去快樂。</li>
-</ul>
-<h4 id="2-轉念看待工作煩惱"><a href="#2-轉念看待工作煩惱" class="headerlink" title="2. 轉念看待工作煩惱"></a><strong>2. 轉念看待工作煩惱</strong></h4><ul>
-<li><strong>「失敗」是挑戰過的證明</strong>：接受不完美，才能真正成長。  </li>
-<li><strong>能幹的人擅長喘口氣</strong>：懂得休息才能長久保持高效能。  </li>
-<li><strong>全力以赴後，聽天命</strong>：盡力做好當下，不糾結結果。  </li>
-<li><strong>人生的痛苦起因於「要得太多」</strong>：適度知足，才能減少煩惱。</li>
-</ul>
-<h4 id="3-身心重置，減少負擔"><a href="#3-身心重置，減少負擔" class="headerlink" title="3. 身心重置，減少負擔"></a><strong>3. 身心重置，減少負擔</strong></h4><ul>
-<li><strong>不被智慧型手機奪心</strong>：與手機保持距離，找回專注與自由。  </li>
-<li><strong>飯吃七分飽，心不過度貪求</strong>：控制物慾，才能真正滿足。  </li>
-<li><strong>坐禪減壓，養成內在穩定</strong>：透過冥想與靜心，讓情緒歸零。</li>
-</ul>
-<h4 id="4-禪學切換力，擺脫執著"><a href="#4-禪學切換力，擺脫執著" class="headerlink" title="4. 禪學切換力，擺脫執著"></a><strong>4. 禪學切換力，擺脫執著</strong></h4><ul>
-<li><strong>「未來是今天的創造」——深知今日事</strong>：把握當下，決定未來的樣貌。  </li>
-<li><strong>「前進的路不只一條」——大道在目前</strong>：停止執著於單一選擇，放眼更多可能。  </li>
-<li><strong>「好事壞事終有盡頭」——諸行無常</strong>：學會接受變化，人生才能自在。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>別對每件事都有反應</tag>
-        <tag>別對每件事都有反應2</tag>
-        <tag>不執著的練習</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《當下的力量：通往靈性開悟的指引》| 閱讀心得學習筆記</title>
     <url>/2023/03/01/reading-notes-the-power-of-now-a-guide-to-spiritual-enlightenment/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-power-of-now-a-guide-to-spiritual-enlightenment-1.jpg"></p>
@@ -3329,6 +3297,51 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>當下的力量：通往靈性開悟的指引</tag>
         <tag>當下的力量</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《別對每件事都有反應2：不執著的練習！》| 閱讀心得學習筆記</title>
+    <url>/2025/01/20/reading-notes-the-practice-of-non-attachment/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-practice-of-non-attachment-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《別對每件事都有反應2：不執著的練習》</span><br><span class="line">作者： 枡野俊明</span><br><span class="line">譯者： 黃薇嬪</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「人生，就是活在當下。過去、現在、未來看似相連，實則各自獨立。別放不下過去，也不擔憂未來，專注凝視現在。全力以赴做好此刻能做的事。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸、情緒起伏劇烈的時代，我們時常被周遭的人事物影響，難以保持內心的平靜。本書延續《別對每件事都有反應》的核心理念，透過禪學智慧，帶領我們學習「不執著」的生活態度。作者枡野俊明提出 99 個禪練習，從人際、工作到身心靈，幫助我們擺脫內心負擔，培養「不反應、不在意、不牽扯」的能力，讓生活更順遂。  </p>
+<p><img src="/img/posts/reading-notes-the-practice-of-non-attachment-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-簡化人際關係"><a href="#1-簡化人際關係" class="headerlink" title="1. 簡化人際關係"></a><strong>1. 簡化人際關係</strong></h4><ul>
+<li><strong>別人是別人，自己是自己</strong>：不勉強討好他人，專注做好自己。  </li>
+<li><strong>遠離被情緒操控的人</strong>：學會適時抽離，不被負能量影響。  </li>
+<li><strong>怒氣應暗自排解</strong>：生氣只會損害自己，保持冷靜才是智慧。  </li>
+<li><strong>競爭要秉持「輸就是贏」的精神</strong>：過度比較只會徒增壓力，反而失去快樂。</li>
+</ul>
+<h4 id="2-轉念看待工作煩惱"><a href="#2-轉念看待工作煩惱" class="headerlink" title="2. 轉念看待工作煩惱"></a><strong>2. 轉念看待工作煩惱</strong></h4><ul>
+<li><strong>「失敗」是挑戰過的證明</strong>：接受不完美，才能真正成長。  </li>
+<li><strong>能幹的人擅長喘口氣</strong>：懂得休息才能長久保持高效能。  </li>
+<li><strong>全力以赴後，聽天命</strong>：盡力做好當下，不糾結結果。  </li>
+<li><strong>人生的痛苦起因於「要得太多」</strong>：適度知足，才能減少煩惱。</li>
+</ul>
+<h4 id="3-身心重置，減少負擔"><a href="#3-身心重置，減少負擔" class="headerlink" title="3. 身心重置，減少負擔"></a><strong>3. 身心重置，減少負擔</strong></h4><ul>
+<li><strong>不被智慧型手機奪心</strong>：與手機保持距離，找回專注與自由。  </li>
+<li><strong>飯吃七分飽，心不過度貪求</strong>：控制物慾，才能真正滿足。  </li>
+<li><strong>坐禪減壓，養成內在穩定</strong>：透過冥想與靜心，讓情緒歸零。</li>
+</ul>
+<h4 id="4-禪學切換力，擺脫執著"><a href="#4-禪學切換力，擺脫執著" class="headerlink" title="4. 禪學切換力，擺脫執著"></a><strong>4. 禪學切換力，擺脫執著</strong></h4><ul>
+<li><strong>「未來是今天的創造」——深知今日事</strong>：把握當下，決定未來的樣貌。  </li>
+<li><strong>「前進的路不只一條」——大道在目前</strong>：停止執著於單一選擇，放眼更多可能。  </li>
+<li><strong>「好事壞事終有盡頭」——諸行無常</strong>：學會接受變化，人生才能自在。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>別對每件事都有反應</tag>
+        <tag>別對每件事都有反應2</tag>
+        <tag>不執著的練習</tag>
       </tags>
   </entry>
   <entry>
