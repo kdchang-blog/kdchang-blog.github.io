@@ -201,55 +201,6 @@
       </tags>
   </entry>
   <entry>
-    <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
-    <url>/2024/05/23/llm-langchain-notes/</url>
-    <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
-<h4 id="1-LangChain-介紹"><a href="#1-LangChain-介紹" class="headerlink" title="1. LangChain 介紹"></a>1. LangChain 介紹</h4><p>LangChain 是一個專為 LLM 設計的開源框架，提供了一系列工具和介面，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用。LangChain 支持多種 LLM，如 OpenAI 的 GPT 系列模型，並提供了豐富的功能來優化模型的性能和用戶體驗。</p>
-<h4 id="2-安裝-LangChain"><a href="#2-安裝-LangChain" class="headerlink" title="2. 安裝 LangChain"></a>2. 安裝 LangChain</h4><p>在開始使用 LangChain 之前，首先需要安裝它。您可以使用以下命令通過 pip 來安裝：</p>
-<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip install langchain</span><br></pre></td></tr></table></figure>
-
-<h4 id="3-基本使用"><a href="#3-基本使用" class="headerlink" title="3. 基本使用"></a>3. 基本使用</h4><p>LangChain 提供了一個簡單且一致的介面來使用各種 LLM。下面是如何使用 LangChain 進行基本文本生成的範例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> LanguageModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化模型</span></span><br><span class="line">model = LanguageModel(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 文字生成</span></span><br><span class="line">prompt = <span class="string">&quot;Write a poem about the sea.&quot;</span></span><br><span class="line">response = model.generate(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們首先導入了 LangChain 的 <code>LanguageModel</code> 類，並使用 <code>model_name</code> 指定我們要使用的模型。接著，我們提供一個提示語 <code>prompt</code>，並使用 <code>generate</code> 方法來生成文本。</p>
-<h4 id="4-高級功能"><a href="#4-高級功能" class="headerlink" title="4. 高級功能"></a>4. 高級功能</h4><p>LangChain 不僅支持基本的文本生成，還提供了許多高級功能，包括檢索增強生成（RAG）、上下文管理和自定義管道等。</p>
-<h5 id="檢索增強生成（RAG）"><a href="#檢索增強生成（RAG）" class="headerlink" title="檢索增強生成（RAG）"></a>檢索增強生成（RAG）</h5><p>RAG 是 LangChain 的一個強大功能，它結合了檢索和生成技術，提供更豐富和上下文相關的回應。以下是一個簡單的 RAG 示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> RAG</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化 RAG 模型</span></span><br><span class="line">rag_model = RAG(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>, retriever=<span class="string">&quot;dense&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 提供查詢</span></span><br><span class="line">query = <span class="string">&quot;What are the latest advancements in AI?&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 檢索並生成回應</span></span><br><span class="line">response = rag_model.generate(query)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們使用 RAG 類初始化了一個 RAG 模型，並指定了檢索器類型。然後，我們提供了一個查詢 <code>query</code>，並使用 <code>generate</code> 方法來檢索相關信息並生成回應。</p>
-<h5 id="上下文管理"><a href="#上下文管理" class="headerlink" title="上下文管理"></a>上下文管理</h5><p>LangChain 支持上下文管理，使模型能夠在會話中保持上下文。這對於構建聊天機器人和問答系統非常有用。</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Conversation</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化會話</span></span><br><span class="line">conversation = Conversation(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Hello, who won the World Series in 2020?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加更多上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Who was the MVP?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們使用 <code>Conversation</code> 類初始化了一個會話，並逐步添加用戶輸入。模型能夠根據上下文生成更相關的回應。</p>
-<h4 id="5-自定義管道"><a href="#5-自定義管道" class="headerlink" title="5. 自定義管道"></a>5. 自定義管道</h4><p>LangChain 允許您創建自定義管道，以滿足特定應用需求。以下是一個自定義管道的簡單示例：</p>
-<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Pipeline</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定義自定義步驟</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">preprocess</span>(<span class="params">text</span>):</span><br><span class="line">    <span class="keyword">return</span> text.lower()</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">postprocess</span>(<span class="params">response</span>):</span><br><span class="line">    <span class="keyword">return</span> response.capitalize()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 創建管道</span></span><br><span class="line">pipeline = Pipeline(steps=[preprocess, <span class="string">&quot;gpt-3.5-turbo&quot;</span>, postprocess])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 使用管道生成文本</span></span><br><span class="line">prompt = <span class="string">&quot;Explain the significance of the moon landing.&quot;</span></span><br><span class="line">response = pipeline.run(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
-
-<p>在這個示例中，我們定義了兩個自定義步驟 <code>preprocess</code> 和 <code>postprocess</code>，並將它們與模型集成到一個管道中。這允許我們在文本生成之前和之後對文本進行處理。</p>
-<h4 id="6-總結"><a href="#6-總結" class="headerlink" title="6. 總結"></a>6. 總結</h4><p>LangChain 是一個強大且靈活的開源框架，專門為 LLM 的使用和管理設計。無論是簡單的文本生成還是複雜的檢索增強生成，LangChain 都提供了豐富的功能來滿足您的需求。希望這篇入門教學能幫助您快速上手 LangChain，開發出強大的應用。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://ithelp.ithome.com.tw/articles/10318758">【Day10】Langchain 教學的簡單中文化</a></li>
-<li><a href="https://engineering.linecorp.com/zh-hant/blog/langchain-llm-linebot">line 透過 LangChain 打造一個股價查詢 LINEBot - 股價小幫手</a></li>
-<li><a href="https://github.com/FlowiseAI/Flowise?tab=readme-ov-file">Flowise - Build LLM Apps Easily</a></li>
-<li><a href="https://github.com/langchain-ai/langchain">LangChain github</a></li>
-<li><a href="https://www.langchain.com/langchain">LangChain’s flexible abstractions and AI-first toolkit make it the #1 choice for developers when building with GenAI.</a></li>
-<li><a href="https://www.langchain.asia/">langchain 教學</a></li>
-<li><a href="https://tw.alphacamp.co/blog/langchain-intro">LangChain是什麼？AI開發者必須了解的LLM開源框架</a></li>
-<li><a href="https://edge.aif.tw/application-langchain-rag/">利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題</a></li>
-<li><a href="https://edge.aif.tw/express-langchain-chatpdf/">利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點</a></li>
-<li><a href="https://aws.amazon.com/tw/what-is/langchain/">何謂 LangChain？</a></li>
-<li><a href="https://ithelp.ithome.com.tw/users/20120030/ironman/7039">全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) 系列</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LangChain</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</title>
     <url>/2024/05/22/llm-app-in-martech/</url>
     <content><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p>
@@ -302,6 +253,55 @@
         <tag>Large Language Model</tag>
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</title>
+    <url>/2024/05/23/llm-langchain-notes/</url>
+    <content><![CDATA[<h3 id="LangChain：LLM-大型語言模型開源框架-Framework-入門教學"><a href="#LangChain：LLM-大型語言模型開源框架-Framework-入門教學" class="headerlink" title="LangChain：LLM 大型語言模型開源框架 Framework 入門教學"></a>LangChain：LLM 大型語言模型開源框架 Framework 入門教學</h3><p>隨著大型語言模型（LLM）的廣泛應用，開發者們需要更靈活、更高效的工具來構建和管理這些模型。LangChain 是一個專為 LLM 設計的開源框架，旨在簡化 LLM 的整合、部署和應用。本文將介紹 LangChain 的基本概念、特性和使用方法，幫助您快速入門。</p>
+<h4 id="1-LangChain-介紹"><a href="#1-LangChain-介紹" class="headerlink" title="1. LangChain 介紹"></a>1. LangChain 介紹</h4><p>LangChain 是一個專為 LLM 設計的開源框架，提供了一系列工具和介面，使開發者能夠更輕鬆地使用 LLM 進行文本生成、問答系統、聊天機器人等應用。LangChain 支持多種 LLM，如 OpenAI 的 GPT 系列模型，並提供了豐富的功能來優化模型的性能和用戶體驗。</p>
+<h4 id="2-安裝-LangChain"><a href="#2-安裝-LangChain" class="headerlink" title="2. 安裝 LangChain"></a>2. 安裝 LangChain</h4><p>在開始使用 LangChain 之前，首先需要安裝它。您可以使用以下命令通過 pip 來安裝：</p>
+<figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">pip install langchain</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-基本使用"><a href="#3-基本使用" class="headerlink" title="3. 基本使用"></a>3. 基本使用</h4><p>LangChain 提供了一個簡單且一致的介面來使用各種 LLM。下面是如何使用 LangChain 進行基本文本生成的範例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> LanguageModel</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化模型</span></span><br><span class="line">model = LanguageModel(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 文字生成</span></span><br><span class="line">prompt = <span class="string">&quot;Write a poem about the sea.&quot;</span></span><br><span class="line">response = model.generate(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們首先導入了 LangChain 的 <code>LanguageModel</code> 類，並使用 <code>model_name</code> 指定我們要使用的模型。接著，我們提供一個提示語 <code>prompt</code>，並使用 <code>generate</code> 方法來生成文本。</p>
+<h4 id="4-高級功能"><a href="#4-高級功能" class="headerlink" title="4. 高級功能"></a>4. 高級功能</h4><p>LangChain 不僅支持基本的文本生成，還提供了許多高級功能，包括檢索增強生成（RAG）、上下文管理和自定義管道等。</p>
+<h5 id="檢索增強生成（RAG）"><a href="#檢索增強生成（RAG）" class="headerlink" title="檢索增強生成（RAG）"></a>檢索增強生成（RAG）</h5><p>RAG 是 LangChain 的一個強大功能，它結合了檢索和生成技術，提供更豐富和上下文相關的回應。以下是一個簡單的 RAG 示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> RAG</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化 RAG 模型</span></span><br><span class="line">rag_model = RAG(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>, retriever=<span class="string">&quot;dense&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 提供查詢</span></span><br><span class="line">query = <span class="string">&quot;What are the latest advancements in AI?&quot;</span></span><br><span class="line"></span><br><span class="line"><span class="comment"># 檢索並生成回應</span></span><br><span class="line">response = rag_model.generate(query)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 RAG 類初始化了一個 RAG 模型，並指定了檢索器類型。然後，我們提供了一個查詢 <code>query</code>，並使用 <code>generate</code> 方法來檢索相關信息並生成回應。</p>
+<h5 id="上下文管理"><a href="#上下文管理" class="headerlink" title="上下文管理"></a>上下文管理</h5><p>LangChain 支持上下文管理，使模型能夠在會話中保持上下文。這對於構建聊天機器人和問答系統非常有用。</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Conversation</span><br><span class="line"></span><br><span class="line"><span class="comment"># 初始化會話</span></span><br><span class="line">conversation = Conversation(model_name=<span class="string">&quot;gpt-3.5-turbo&quot;</span>)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Hello, who won the World Series in 2020?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br><span class="line"></span><br><span class="line"><span class="comment"># 添加更多上下文</span></span><br><span class="line">conversation.add_user_input(<span class="string">&quot;Who was the MVP?&quot;</span>)</span><br><span class="line">response = conversation.get_response()</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們使用 <code>Conversation</code> 類初始化了一個會話，並逐步添加用戶輸入。模型能夠根據上下文生成更相關的回應。</p>
+<h4 id="5-自定義管道"><a href="#5-自定義管道" class="headerlink" title="5. 自定義管道"></a>5. 自定義管道</h4><p>LangChain 允許您創建自定義管道，以滿足特定應用需求。以下是一個自定義管道的簡單示例：</p>
+<figure class="highlight python"><table><tr><td class="code"><pre><span class="line"><span class="keyword">from</span> langchain <span class="keyword">import</span> Pipeline</span><br><span class="line"></span><br><span class="line"><span class="comment"># 定義自定義步驟</span></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">preprocess</span>(<span class="params">text</span>):</span><br><span class="line">    <span class="keyword">return</span> text.lower()</span><br><span class="line"></span><br><span class="line"><span class="keyword">def</span> <span class="title function_">postprocess</span>(<span class="params">response</span>):</span><br><span class="line">    <span class="keyword">return</span> response.capitalize()</span><br><span class="line"></span><br><span class="line"><span class="comment"># 創建管道</span></span><br><span class="line">pipeline = Pipeline(steps=[preprocess, <span class="string">&quot;gpt-3.5-turbo&quot;</span>, postprocess])</span><br><span class="line"></span><br><span class="line"><span class="comment"># 使用管道生成文本</span></span><br><span class="line">prompt = <span class="string">&quot;Explain the significance of the moon landing.&quot;</span></span><br><span class="line">response = pipeline.run(prompt)</span><br><span class="line"></span><br><span class="line"><span class="built_in">print</span>(response)</span><br></pre></td></tr></table></figure>
+
+<p>在這個示例中，我們定義了兩個自定義步驟 <code>preprocess</code> 和 <code>postprocess</code>，並將它們與模型集成到一個管道中。這允許我們在文本生成之前和之後對文本進行處理。</p>
+<h4 id="6-總結"><a href="#6-總結" class="headerlink" title="6. 總結"></a>6. 總結</h4><p>LangChain 是一個強大且靈活的開源框架，專門為 LLM 的使用和管理設計。無論是簡單的文本生成還是複雜的檢索增強生成，LangChain 都提供了豐富的功能來滿足您的需求。希望這篇入門教學能幫助您快速上手 LangChain，開發出強大的應用。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://ithelp.ithome.com.tw/articles/10318758">【Day10】Langchain 教學的簡單中文化</a></li>
+<li><a href="https://engineering.linecorp.com/zh-hant/blog/langchain-llm-linebot">line 透過 LangChain 打造一個股價查詢 LINEBot - 股價小幫手</a></li>
+<li><a href="https://github.com/FlowiseAI/Flowise?tab=readme-ov-file">Flowise - Build LLM Apps Easily</a></li>
+<li><a href="https://github.com/langchain-ai/langchain">LangChain github</a></li>
+<li><a href="https://www.langchain.com/langchain">LangChain’s flexible abstractions and AI-first toolkit make it the #1 choice for developers when building with GenAI.</a></li>
+<li><a href="https://www.langchain.asia/">langchain 教學</a></li>
+<li><a href="https://tw.alphacamp.co/blog/langchain-intro">LangChain是什麼？AI開發者必須了解的LLM開源框架</a></li>
+<li><a href="https://edge.aif.tw/application-langchain-rag/">利用 LangChain 實作多模態模型的 RAG：除了讀文章也能看圖答題</a></li>
+<li><a href="https://edge.aif.tw/express-langchain-chatpdf/">利用LangChain實作ChatPDF：問個問題，輕鬆找出文件重點</a></li>
+<li><a href="https://aws.amazon.com/tw/what-is/langchain/">何謂 LangChain？</a></li>
+<li><a href="https://ithelp.ithome.com.tw/users/20120030/ironman/7039">全端 LLM 應用開發(向量資料庫, Hugging Face, OpenAI, Azure ML, LangChain, FastAPI and more) 系列</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LangChain</tag>
       </tags>
   </entry>
   <entry>
@@ -731,7 +731,7 @@
     <content><![CDATA[<p><img src="/img/posts/reading-notes-52-satir-meditation-practices-1.jpg"></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《薩提爾的 52 個冥想練習：覺察內在的冰山，跟自己和解，與他人共好》</span><br><span class="line">作者： 克麗絲‧費拉洛</span><br><span class="line">譯者： 心意</span><br><span class="line">出版社：遠流</span><br><span class="line">出版日期：2023/01/04</span><br></pre></td></tr></table></figure>
 
-<p>「你多久沒有好好聆聽內在的聲音了？」</p>
+<p>「你有多久沒有好好聆聽內在的聲音了？」</p>
 <h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
 <p>「我們需要先看見自己內心的美好，才可能真正看見別人的。我們要先感受到對自己的愛，之後才可能去愛別人。」</p>
 </blockquote>
@@ -805,46 +805,12 @@
       </tags>
   </entry>
   <entry>
-    <title>《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》| 閱讀心得學習筆記</title>
-    <url>/2024/11/29/reading-notes-adulting-learning-doing-things-being-a-person/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》</span><br><span class="line">作者： 張國洋, 姚詩豪  </span><br><span class="line">出版社：三采  </span><br><span class="line">出版日期：2024/11/29</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「在職場上，很多時候關鍵不在於你有多優秀，而在於不失分。互惠，才是職場人際的底層邏輯。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書由「大人學」共同創辦人張國洋與姚詩豪撰寫，融合多年職場經驗與 Podcast 討論精華，試圖解答一個常見卻困擾無數上班族的問題——「做人重要，還是做事重要？」兩位作者指出，這不應是二選一的問題，而是雙軌並進的職場策略。  </p>
-<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>做事 vs. 做人非零和選擇</strong>：大多數成功者都在這兩者之間取得良好平衡。  </li>
-<li><strong>做事的本質是選擇對的事情做對</strong>：不是一味努力或加班，而是聚焦於有價值的任務。  </li>
-<li><strong>做人不是拍馬屁，而是減少失分</strong>：基本的禮貌與人際界線能讓你不被討厭，就是「做人八十分」的關鍵。  </li>
-<li><strong>極端例子不具代表性</strong>：技術大神或交際高手的成功難以複製，一般人應從實務出發，建立可持續的策略。  </li>
-<li><strong>不失分比得高分更重要</strong>：在團隊協作中，避免讓他人受害比成為明星更實用。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否過度追求被看見，而忽略了「別被討厭」的基本？</li>
-<li>在現實職場中，「能力」和「人際」究竟如何轉換為具體的報酬與發展？</li>
-<li>是否曾誤解「做人」就是迎合？而忽略了「尊重」與「分寸」的真正價值？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅提供職場生存的實用策略，也提醒我們：職涯不只是加薪升職，更是一場長期的人生成長與體驗。與其單打獨鬥，不如練好「做事做人」這門功課，讓你在穩健中突圍，在職場上活得成熟而自在。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>大人學做事做人</tag>
-        <tag>做事，才是職場做人的根本</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《讓這本書抱抱你：每一天練習自我照顧，學會愛自己》| 閱讀心得學習筆記</title>
     <url>/2023/11/29/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals-1.jpg"></p>
 <figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《讓這本書抱抱你：每一天練習自我照顧，學會愛自己》</span><br><span class="line">作者： My Self-Love Supply</span><br><span class="line">譯者： 聽思（林庭儀）</span><br><span class="line">出版社：遠流</span><br><span class="line">出版日期：2023/11/29</span><br></pre></td></tr></table></figure>
 
-<p>「你多久沒好好照顧自己的心了？」</p>
+<p>「你有多久沒好好照顧自己的內心了？」</p>
 <h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
 <p>「生命短暫，請忠於自己，照顧好自己。不管人生經歷到哪個階段，學習與自己相處所帶來的正面影響，都會持續影響著你。唯有與自己好好相處了，才能帶自己繼續朝著人生的旅途邁進。」</p>
 </blockquote>
@@ -886,6 +852,40 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>讓這本書抱抱你：每一天練習自我照顧，學會愛自己</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》| 閱讀心得學習筆記</title>
+    <url>/2024/11/29/reading-notes-adulting-learning-doing-things-being-a-person/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》</span><br><span class="line">作者： 張國洋, 姚詩豪  </span><br><span class="line">出版社：三采  </span><br><span class="line">出版日期：2024/11/29</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「在職場上，很多時候關鍵不在於你有多優秀，而在於不失分。互惠，才是職場人際的底層邏輯。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書由「大人學」共同創辦人張國洋與姚詩豪撰寫，融合多年職場經驗與 Podcast 討論精華，試圖解答一個常見卻困擾無數上班族的問題——「做人重要，還是做事重要？」兩位作者指出，這不應是二選一的問題，而是雙軌並進的職場策略。  </p>
+<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>做事 vs. 做人非零和選擇</strong>：大多數成功者都在這兩者之間取得良好平衡。  </li>
+<li><strong>做事的本質是選擇對的事情做對</strong>：不是一味努力或加班，而是聚焦於有價值的任務。  </li>
+<li><strong>做人不是拍馬屁，而是減少失分</strong>：基本的禮貌與人際界線能讓你不被討厭，就是「做人八十分」的關鍵。  </li>
+<li><strong>極端例子不具代表性</strong>：技術大神或交際高手的成功難以複製，一般人應從實務出發，建立可持續的策略。  </li>
+<li><strong>不失分比得高分更重要</strong>：在團隊協作中，避免讓他人受害比成為明星更實用。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否過度追求被看見，而忽略了「別被討厭」的基本？</li>
+<li>在現實職場中，「能力」和「人際」究竟如何轉換為具體的報酬與發展？</li>
+<li>是否曾誤解「做人」就是迎合？而忽略了「尊重」與「分寸」的真正價值？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅提供職場生存的實用策略，也提醒我們：職涯不只是加薪升職，更是一場長期的人生成長與體驗。與其單打獨鬥，不如練好「做事做人」這門功課，讓你在穩健中突圍，在職場上活得成熟而自在。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>大人學做事做人</tag>
+        <tag>做事，才是職場做人的根本</tag>
       </tags>
   </entry>
   <entry>
@@ -1304,6 +1304,61 @@
       </tags>
   </entry>
   <entry>
+    <title>《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》| 閱讀心得學習筆記</title>
+    <url>/2024/12/18/reading-notes-do-not-react-to-everything/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-react-to-everything-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》</span><br><span class="line">作者： 枡野俊明</span><br><span class="line">譯者： 黃薇嬪</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「放下，不是逃避，而是給自己自由的機會。不執著於無法控制的事物，專注於當下所能改變的，便能活得更加輕鬆自在。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會中，我們面臨著來自工作、人際關係與生活壓力的各種挑戰。本書由日本知名禪師枡野俊明撰寫，透過99個生活準則，教導我們如何運用禪學的智慧，學會「<code>放下</code>」，<code>讓心靈重獲自由</code>。本書不僅適合對<code>禪學</code>有興趣的讀者，也特別適合正在<code>面臨人生困境</code>、<code>希望減少內心煩惱</code>的人。  </p>
+<p><img src="/img/posts/reading-notes-do-not-react-to-everything-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>人際關係：學會適度距離</strong></li>
+</ol>
+<ul>
+<li><code>不必強求改變他人</code>，學會「<code>懂一半，剛剛好</code>」  </li>
+<li>面對無法理解的人與事，<code>選擇放下而非執著</code>  </li>
+<li>適時<code>淡泊職場關係</code>，<code>避免情緒牽動工作表現</code></li>
+</ul>
+<ol start="2">
+<li><strong>情緒管理：別讓煩惱吞噬自己</strong></li>
+</ol>
+<ul>
+<li><code>停止無謂的焦慮</code>，<code>不懂的事就不要過度思考</code>  </li>
+<li><code>不與過去較勁</code>，<code>將後悔轉化為成長的養分</code>  </li>
+<li><code>遠離過多的社群媒體資訊</code>，減<code>少不必要的心理消耗 </code></li>
+</ul>
+<ol start="3">
+<li><strong>減少內心消耗：不對每件事都有反應</strong></li>
+</ol>
+<ul>
+<li>面對<code>負面評論</code>，<code>保持冷靜</code>，不需急於回應  </li>
+<li>學會「<code>不使用的物品，就應該放手</code>」，清理內外負擔  </li>
+<li><code>培養專注力</code>，<code>減少分心</code>，<code>專注當下</code>的每個時刻</li>
+</ul>
+<ol start="4">
+<li><strong>活得自在：不要強求絕對對錯</strong></li>
+</ol>
+<ul>
+<li><code>人生沒有絕對的幸與不幸</code>，端看<code>個人心態</code></li>
+<li><code>不必事事爭辯是非</code>，學會<code>退一步海闊天空</code>  </li>
+<li><code>對自己的選擇負責</code>，勇敢接受每一步帶來的結果</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>別對每件事都有反應</tag>
+        <tag>淡泊一點也無妨</tag>
+        <tag>活出快意人生的99個禪練習</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《矽谷最夯‧產品專案領導力全書：平凡團隊晉升一流團隊的81堂領導實踐課》 | 閱讀心得學習筆記</title>
     <url>/2024/06/06/reading-notes-empowered-ordinary-people-extraordinary-product/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-empowered-ordinary-people-extraordinary-product-1.jpg"></p>
@@ -1364,61 +1419,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》| 閱讀心得學習筆記</title>
-    <url>/2024/12/18/reading-notes-do-not-react-to-everything/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-react-to-everything-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》</span><br><span class="line">作者： 枡野俊明</span><br><span class="line">譯者： 黃薇嬪</span><br><span class="line">出版社：悅知文化</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「放下，不是逃避，而是給自己自由的機會。不執著於無法控制的事物，專注於當下所能改變的，便能活得更加輕鬆自在。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會中，我們面臨著來自工作、人際關係與生活壓力的各種挑戰。本書由日本知名禪師枡野俊明撰寫，透過99個生活準則，教導我們如何運用禪學的智慧，學會「<code>放下</code>」，<code>讓心靈重獲自由</code>。本書不僅適合對<code>禪學</code>有興趣的讀者，也特別適合正在<code>面臨人生困境</code>、<code>希望減少內心煩惱</code>的人。  </p>
-<p><img src="/img/posts/reading-notes-do-not-react-to-everything-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>人際關係：學會適度距離</strong></li>
-</ol>
-<ul>
-<li><code>不必強求改變他人</code>，學會「<code>懂一半，剛剛好</code>」  </li>
-<li>面對無法理解的人與事，<code>選擇放下而非執著</code>  </li>
-<li>適時<code>淡泊職場關係</code>，<code>避免情緒牽動工作表現</code></li>
-</ul>
-<ol start="2">
-<li><strong>情緒管理：別讓煩惱吞噬自己</strong></li>
-</ol>
-<ul>
-<li><code>停止無謂的焦慮</code>，<code>不懂的事就不要過度思考</code>  </li>
-<li><code>不與過去較勁</code>，<code>將後悔轉化為成長的養分</code>  </li>
-<li><code>遠離過多的社群媒體資訊</code>，減<code>少不必要的心理消耗 </code></li>
-</ul>
-<ol start="3">
-<li><strong>減少內心消耗：不對每件事都有反應</strong></li>
-</ol>
-<ul>
-<li>面對<code>負面評論</code>，<code>保持冷靜</code>，不需急於回應  </li>
-<li>學會「<code>不使用的物品，就應該放手</code>」，清理內外負擔  </li>
-<li><code>培養專注力</code>，<code>減少分心</code>，<code>專注當下</code>的每個時刻</li>
-</ul>
-<ol start="4">
-<li><strong>活得自在：不要強求絕對對錯</strong></li>
-</ol>
-<ul>
-<li><code>人生沒有絕對的幸與不幸</code>，端看<code>個人心態</code></li>
-<li><code>不必事事爭辯是非</code>，學會<code>退一步海闊天空</code>  </li>
-<li><code>對自己的選擇負責</code>，勇敢接受每一步帶來的結果</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書強調「<code>放下</code>」並非消極退縮，而是一種智慧的選擇。當我們學會<code>不執著於無法控制的事物</code>，<code>專注於當下所能改變的</code>，便能活得更加輕鬆自在。在這個資訊過載、生活節奏緊湊的時代，學習禪學的放下之道，將有助於我們獲得內心的平靜，真正擁有屬於自己的快意人生。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>別對每件事都有反應</tag>
-        <tag>淡泊一點也無妨</tag>
-        <tag>活出快意人生的99個禪練習</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《童話故事裡的心理學：從榮格心理學解析格林童話（《童話心理學》新修版）》| 閱讀心得學習筆記</title>
     <url>/2023/08/10/reading-notes-fairy-tale-psychology/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-fairy-tale-psychology-1.jpg"></p>
@@ -1453,54 +1453,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>童話故事裡的心理學</tag>
         <tag>從榮格心理學解析格林童話</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀心得學習筆記</title>
-    <url>/2024/08/06/reading-notes-forest-wisdom/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-forest-wisdom-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我可能錯了：森林智者的最後一堂人生課》</span><br><span class="line">作者： 比約恩．納提科．林德布勞, 卡洛琳．班克勒, 納維德．莫迪里</span><br><span class="line">原文作者： Björn Natthiko Lindeblad, Caroline Bankler, Navid Modiri</span><br><span class="line">出版社：先覺</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>你是否曾因執著而痛苦？一句話，或許能讓你找到出口。</p>
-</blockquote>
-<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
-<p>我可能錯了的智慧：過度執著於應該如何會讓人受困，試著鬆開執念，才能真正放下。</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《我可能錯了：森林智者的最後一堂人生課》是一部令人動容的生命智慧書寫。作者比約恩原是瑞典炙手可熱的年輕經濟學家，卻毅然放棄成功人生，遠赴泰國森林寺院修行長達十七年，最終面對罹患漸凍症的生命終章。他將這段旅程的思索與體悟，轉化為本書的每一段字句，深切誠懇，令人省思。</p>
-<p><img src="/img/posts/reading-notes-forest-wisdom-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>我可能錯了是一句放下執念、打開心門的智慧咒語。</li>
-<li>不要相信自己所有的念頭，那些常常是焦慮與苦痛的根源。</li>
-<li>正面思考不是解方，接納陰影與不完美才是真正的自由。</li>
-<li>喜歡他人原本的樣子，是人際相處最重要的修行。</li>
-<li>應該的念頭令人疲憊，學會鬆開緊握的心，就能放下。</li>
-<li>焦慮是一位嚴厲但誠實的導師，教我們活在當下。</li>
-<li>失去與死亡是生命的必經，唯有覺察當下，才能真正活著。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>在日常遇到衝突或煩惱時，對自己重複「我可能錯了」三次，卸下執著</li>
-<li>練習覺察每個「應該」念頭，透過手勢（握拳再張開）練習放下</li>
-<li>不再強求正向思考，轉而練習與負面情緒共處</li>
-<li>接納人性的討厭感，練習欣賞他人原本的模樣</li>
-<li>每日靜心觀察念頭，不急於下判斷，培養內在穩定感</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>面對不被喜歡的情境，我們為何如此在意？是否願意練習承擔被討厭的自由？</li>
-<li>我們能否真的不相信自己的每個念頭？這是否需要長期的訓練？</li>
-<li>正向思考與深層內在覺察的差異是什麼？我們曾混淆過嗎？</li>
-<li>面對衰老與死亡，我們準備好坦然接納了嗎？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這是一本不教你怎麼「成功」，而是教你如何「活著」的書。透過「我可能錯了」的提醒，我們學會不被念頭所奴役，找回與自己真誠相處的自由。當我們學會放下執著、擁抱未知，生命將不再是苦難的糾纏，而是靜謐的陪伴與深刻的體悟。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>我可能錯了</tag>
-        <tag>森林智者</tag>
-        <tag>森林智者的最後一堂人生課</tag>
       </tags>
   </entry>
   <entry>
@@ -1576,6 +1528,54 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>從邊緣到核心</tag>
         <tag>台灣半導體如何成為世界的心臟</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀心得學習筆記</title>
+    <url>/2024/08/06/reading-notes-forest-wisdom/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-forest-wisdom-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我可能錯了：森林智者的最後一堂人生課》</span><br><span class="line">作者： 比約恩．納提科．林德布勞, 卡洛琳．班克勒, 納維德．莫迪里</span><br><span class="line">原文作者： Björn Natthiko Lindeblad, Caroline Bankler, Navid Modiri</span><br><span class="line">出版社：先覺</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>你是否曾因執著而痛苦？一句話，或許能讓你找到出口。</p>
+</blockquote>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>我可能錯了的智慧：過度執著於應該如何會讓人受困，試著鬆開執念，才能真正放下。</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《我可能錯了：森林智者的最後一堂人生課》是一部令人動容的生命智慧書寫。作者比約恩原是瑞典炙手可熱的年輕經濟學家，卻毅然放棄成功人生，遠赴泰國森林寺院修行長達十七年，最終面對罹患漸凍症的生命終章。他將這段旅程的思索與體悟，轉化為本書的每一段字句，深切誠懇，令人省思。</p>
+<p><img src="/img/posts/reading-notes-forest-wisdom-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>我可能錯了是一句放下執念、打開心門的智慧咒語。</li>
+<li>不要相信自己所有的念頭，那些常常是焦慮與苦痛的根源。</li>
+<li>正面思考不是解方，接納陰影與不完美才是真正的自由。</li>
+<li>喜歡他人原本的樣子，是人際相處最重要的修行。</li>
+<li>應該的念頭令人疲憊，學會鬆開緊握的心，就能放下。</li>
+<li>焦慮是一位嚴厲但誠實的導師，教我們活在當下。</li>
+<li>失去與死亡是生命的必經，唯有覺察當下，才能真正活著。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>在日常遇到衝突或煩惱時，對自己重複「我可能錯了」三次，卸下執著</li>
+<li>練習覺察每個「應該」念頭，透過手勢（握拳再張開）練習放下</li>
+<li>不再強求正向思考，轉而練習與負面情緒共處</li>
+<li>接納人性的討厭感，練習欣賞他人原本的模樣</li>
+<li>每日靜心觀察念頭，不急於下判斷，培養內在穩定感</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>面對不被喜歡的情境，我們為何如此在意？是否願意練習承擔被討厭的自由？</li>
+<li>我們能否真的不相信自己的每個念頭？這是否需要長期的訓練？</li>
+<li>正向思考與深層內在覺察的差異是什麼？我們曾混淆過嗎？</li>
+<li>面對衰老與死亡，我們準備好坦然接納了嗎？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這是一本不教你怎麼「成功」，而是教你如何「活著」的書。透過「我可能錯了」的提醒，我們學會不被念頭所奴役，找回與自己真誠相處的自由。當我們學會放下執著、擁抱未知，生命將不再是苦難的糾纏，而是靜謐的陪伴與深刻的體悟。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>我可能錯了</tag>
+        <tag>森林智者</tag>
+        <tag>森林智者的最後一堂人生課</tag>
       </tags>
   </entry>
   <entry>
@@ -1700,39 +1700,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《為什麼你無法真正的快樂（二版）：運用選擇的力量，找出你的人生使命，成就真實的自己》| 閱讀心得學習筆記</title>
-    <url>/2024/03/04/reading-notes-happiness-is-the-way/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-happiness-is-the-way-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼你無法真正的快樂（二版）：運用選擇的力量，找出你的人生使命，成就真實的自己》</span><br><span class="line">作者： 偉恩．戴爾</span><br><span class="line">原文作者： Wayne W. Dyer</span><br><span class="line">譯者： 李寧怡</span><br><span class="line">出版社：如果出版社</span><br><span class="line">出版日期：2024/03/04</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「不快樂，是因為我們覺得快樂必須向外追尋，但外在的環境無法掌控，如果把無法快樂的原因歸咎於別人，那你永遠不會快樂。快樂無法從外部得到，快樂只能來自發自內心的選擇。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>你是否曾經認為快樂得靠外在條件才能實現？偉恩．戴爾博士透過這部未公開著作《為什麼你無法真正的快樂》，引導我們回到內心，從內在找回力量。他以簡潔直指人心的語言，提出一個深刻的觀念：你就是你人生所有選擇的總和，快樂不是他人能給你的，而是你能立即擁有的決定。</p>
-<p><img src="/img/posts/reading-notes-happiness-is-the-way-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>快樂來自選擇</strong>：快樂並非外在成就，而是對現狀的態度與選擇。</li>
-<li><strong>拒絕他人控制你的人生劇本</strong>：他人的評價不等於你的價值。</li>
-<li><strong>劃清責任界線</strong>：辨識哪些是自己的問題，哪些是他人的投射。</li>
-<li><strong>價值不等於成就</strong>：即使失敗，你的本質價值不會減損。</li>
-<li><strong>追隨內心使命與熱情</strong>：勇於冒險，做真正熱愛的事，人生才會發光。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>為何我們習慣將快樂建立在他人與環境之上？</li>
-<li>是什麼讓我們害怕做自己、怕被評價？</li>
-<li>在面對壓力與現實拉扯時，我們如何回到內在選擇？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不只是一場閱讀，更是一場對「自己」的深度回望。偉恩．戴爾博士透過清晰而溫柔的文字提醒我們：快樂不是等著來的結果，而是當下可以選擇的狀態。當我們放下比較、評價與外求，開始對自己的生命負責，我們才能真正成為自己的導演，活出內在安穩而自由的人生。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>為什麼你無法真正的快樂（二版）：運用選擇的力量，找出你的人生使命，成就真實的自己</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《高收入的能力，學校沒教：畢業面對的第一個問題，就是賺錢，但沒有教授會教──現在知道，你少奮鬥10年、20年》| 閱讀心得學習筆記</title>
     <url>/2023/07/31/reading-notes-high-income-skills-are-not-taught-in-school/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-high-income-skills-are-not-taught-in-school-1.jpg"></p>
@@ -1771,6 +1738,39 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>顯化效應</tag>
         <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《為什麼你無法真正的快樂（二版）：運用選擇的力量，找出你的人生使命，成就真實的自己》| 閱讀心得學習筆記</title>
+    <url>/2024/03/04/reading-notes-happiness-is-the-way/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-happiness-is-the-way-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《為什麼你無法真正的快樂（二版）：運用選擇的力量，找出你的人生使命，成就真實的自己》</span><br><span class="line">作者： 偉恩．戴爾</span><br><span class="line">原文作者： Wayne W. Dyer</span><br><span class="line">譯者： 李寧怡</span><br><span class="line">出版社：如果出版社</span><br><span class="line">出版日期：2024/03/04</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「不快樂，是因為我們覺得快樂必須向外追尋，但外在的環境無法掌控，如果把無法快樂的原因歸咎於別人，那你永遠不會快樂。快樂無法從外部得到，快樂只能來自發自內心的選擇。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>你是否曾經認為快樂得靠外在條件才能實現？偉恩．戴爾博士透過這部未公開著作《為什麼你無法真正的快樂》，引導我們回到內心，從內在找回力量。他以簡潔直指人心的語言，提出一個深刻的觀念：你就是你人生所有選擇的總和，快樂不是他人能給你的，而是你能立即擁有的決定。</p>
+<p><img src="/img/posts/reading-notes-happiness-is-the-way-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>快樂來自選擇</strong>：快樂並非外在成就，而是對現狀的態度與選擇。</li>
+<li><strong>拒絕他人控制你的人生劇本</strong>：他人的評價不等於你的價值。</li>
+<li><strong>劃清責任界線</strong>：辨識哪些是自己的問題，哪些是他人的投射。</li>
+<li><strong>價值不等於成就</strong>：即使失敗，你的本質價值不會減損。</li>
+<li><strong>追隨內心使命與熱情</strong>：勇於冒險，做真正熱愛的事，人生才會發光。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>為何我們習慣將快樂建立在他人與環境之上？</li>
+<li>是什麼讓我們害怕做自己、怕被評價？</li>
+<li>在面對壓力與現實拉扯時，我們如何回到內在選擇？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不只是一場閱讀，更是一場對「自己」的深度回望。偉恩．戴爾博士透過清晰而溫柔的文字提醒我們：快樂不是等著來的結果，而是當下可以選擇的狀態。當我們放下比較、評價與外求，開始對自己的生命負責，我們才能真正成為自己的導演，活出內在安穩而自由的人生。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>為什麼你無法真正的快樂（二版）：運用選擇的力量，找出你的人生使命，成就真實的自己</tag>
       </tags>
   </entry>
   <entry>
@@ -1845,6 +1845,47 @@
         <tag>不幸的人做情緒的奴隸</tag>
         <tag>理情行為治療</tag>
         <tag>亞伯‧艾里斯</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》| 閱讀心得學習筆記</title>
+    <url>/2020/04/08/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》</span><br><span class="line">作者： 亞伯‧艾里斯  </span><br><span class="line">原文作者： Albert Ellis</span><br><span class="line">譯者： 蘇子堯</span><br><span class="line">出版社：大牌出版</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「如果你能接受不完美，你就能獲得內心的平和。只有真正的接納了你自己，你才能發自內心去愛、去快樂。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>與焦慮和解，克服不安、完美主義、負面思考、情緒陰影。《世界三大心理治療師亞伯‧艾里斯，歷久彌新的溫暖力》是亞伯·艾里斯博士的經典著作，介紹了他的<code>理情行為治療法（REBT</code>），幫助人們克服焦慮、憂鬱及情緒困擾。艾里斯認為，情緒問題大多來自非理性信念，藉由改變這些信念，人們能擺脫負面情緒，過上更加幸福的生活。本書提供了簡單而有效的自助方法，教導如何掌握思維、情感與行為的關聯，並學會如何改變不合理的信念來減少生活中的煩憂。</p>
+<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>REBT理論：</strong> <code>理情行為治療（REBT）</code>是一種以<code>情緒</code>、<code>想法</code>、<code>行為</code>三個層面進行干預的心理治療方法，旨在幫助人們識別和改變負面的非理性信念。</p>
+</li>
+<li><p><strong>A-B-C-D-E模式：</strong> 本書介紹了REBT的A-B-C-D-E模式，通過識別引發情緒的事件（A），認知過程（B），情緒反應（C），挑戰信念（D），以及結果（E），幫助個體改善情緒。</p>
+</li>
+<li><p><strong>非理性信念的挑戰：</strong> 書中強調改變那些讓人陷入困境的非理性信念，如「我必須完美」或「事情必須按我的預期發展」。</p>
+</li>
+<li><p><strong>自我接納：</strong> 提倡無條件接納自我和他人，並學會放下過高的自我要求，學習如何應對生活中的不確定性。</p>
+</li>
+<li><p><strong>行為改變的力量：</strong> 強調通過積極的行動來挑戰和克服情緒困擾，並幫助讀者建立更健康的自我信念。</p>
+</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>為何我們常陷入「應該」與「必須」的信念？</li>
+<li>我們是否願意承認：困擾來自內在的解讀，而非外在事實？</li>
+<li>你是否曾嘗試挑戰內心的負面對話？還是一直默默承受它的傷害？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提出的 REBT 方法不僅對心理治療領域產生了深遠的影響，也提供了每個人自助的寶貴智慧。透過改變不理性的思維模式，我們能夠有效地減少焦慮、憤怒及不安，過上更快樂、無憂的生活。艾里斯的智慧鼓勵我們接納自己與他人，並學會在面對困難時以理性與勇氣應對。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>理情行為治療</tag>
+        <tag>亞伯‧艾里斯</tag>
+        <tag>讓自己快樂</tag>
+        <tag>沒有放不下的情緒，只有不肯放下的你</tag>
       </tags>
   </entry>
   <entry>
@@ -1925,94 +1966,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》| 閱讀心得學習筆記</title>
-    <url>/2020/04/08/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》</span><br><span class="line">作者： 亞伯‧艾里斯  </span><br><span class="line">原文作者： Albert Ellis</span><br><span class="line">譯者： 蘇子堯</span><br><span class="line">出版社：大牌出版</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「如果你能接受不完美，你就能獲得內心的平和。只有真正的接納了你自己，你才能發自內心去愛、去快樂。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>與焦慮和解，克服不安、完美主義、負面思考、情緒陰影。《世界三大心理治療師亞伯‧艾里斯，歷久彌新的溫暖力》是亞伯·艾里斯博士的經典著作，介紹了他的<code>理情行為治療法（REBT</code>），幫助人們克服焦慮、憂鬱及情緒困擾。艾里斯認為，情緒問題大多來自非理性信念，藉由改變這些信念，人們能擺脫負面情緒，過上更加幸福的生活。本書提供了簡單而有效的自助方法，教導如何掌握思維、情感與行為的關聯，並學會如何改變不合理的信念來減少生活中的煩憂。</p>
-<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>REBT理論：</strong> <code>理情行為治療（REBT）</code>是一種以<code>情緒</code>、<code>想法</code>、<code>行為</code>三個層面進行干預的心理治療方法，旨在幫助人們識別和改變負面的非理性信念。</p>
-</li>
-<li><p><strong>A-B-C-D-E模式：</strong> 本書介紹了REBT的A-B-C-D-E模式，通過識別引發情緒的事件（A），認知過程（B），情緒反應（C），挑戰信念（D），以及結果（E），幫助個體改善情緒。</p>
-</li>
-<li><p><strong>非理性信念的挑戰：</strong> 書中強調改變那些讓人陷入困境的非理性信念，如「我必須完美」或「事情必須按我的預期發展」。</p>
-</li>
-<li><p><strong>自我接納：</strong> 提倡無條件接納自我和他人，並學會放下過高的自我要求，學習如何應對生活中的不確定性。</p>
-</li>
-<li><p><strong>行為改變的力量：</strong> 強調通過積極的行動來挑戰和克服情緒困擾，並幫助讀者建立更健康的自我信念。</p>
-</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>為何我們常陷入「應該」與「必須」的信念？</li>
-<li>我們是否願意承認：困擾來自內在的解讀，而非外在事實？</li>
-<li>你是否曾嘗試挑戰內心的負面對話？還是一直默默承受它的傷害？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提出的 REBT 方法不僅對心理治療領域產生了深遠的影響，也提供了每個人自助的寶貴智慧。透過改變不理性的思維模式，我們能夠有效地減少焦慮、憤怒及不安，過上更快樂、無憂的生活。艾里斯的智慧鼓勵我們接納自己與他人，並學會在面對困難時以理性與勇氣應對。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>理情行為治療</tag>
-        <tag>亞伯‧艾里斯</tag>
-        <tag>讓自己快樂</tag>
-        <tag>沒有放不下的情緒，只有不肯放下的你</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《親密恐懼：為什麼我們無法好好愛人，好好被愛？》| 閱讀心得學習筆記</title>
-    <url>/2023/11/27/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《親密恐懼：為什麼我們無法好好愛人，好好被愛？》</span><br><span class="line">作者： 周慕姿  </span><br><span class="line">出版社：寶瓶文化  </span><br><span class="line">出版日期：2023/11/27</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「我們一起，試著理解，溫柔地討好自己。我們值得在關係裡幸福。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《情緒勒索》作者周慕姿在此書中深入探討了「親密恐懼」這一情感議題，揭示了許多人在親密關係中遭遇的深層恐懼與困惑。親密恐懼源自於童年時期未被足夠關愛或情感創傷，並在成人後的愛情與人際關係中形成不同的應對策略。本書試圖幫助讀者理解自身行為背後的心理根源，並提供實用的建議，讓人們能夠走出親密恐懼的陰影，重獲愛與歸屬。</p>
-<p><img src="/img/posts/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>親密恐懼的六種面貌：</strong></p>
-<ul>
-<li>被遺棄的恐懼：對親密關係中被拋棄的深切擔憂。</li>
-<li>不夠好的恐懼：對自我價值的懷疑，擔心無法配得上愛情。</li>
-<li>被背叛的恐懼：對他人信任的難度，擔心遭遇欺騙或背叛。</li>
-<li>不能拒絕的恐懼：總是順從他人的需求，害怕衝突與拒絕。</li>
-<li>失去自我恐懼：為了維繫關係而丟失自我。</li>
-<li>得不到愛的恐懼：無論如何努力，都感覺無法獲得他人的愛。</li>
-</ul>
-</li>
-<li><p><strong>生存策略的影響：</strong></p>
-<ul>
-<li>人們在親密關係中常採取「戰、逃、僵、討好」的生存策略來應對情感上的焦慮與不安全感，這些策略往往會讓情況惡化，進一步強化親密恐懼的循環。</li>
-</ul>
-</li>
-<li><p><strong>童年創傷與親密恐懼的關聯：</strong></p>
-<ul>
-<li>童年時期的情感忽視或虐待經歷，往往成為成人後親密恐懼的根源。這些創傷會讓個體在情感關係中過度防衛，並難以建立真正的親密感。</li>
-</ul>
-</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>周慕姿在《親密恐懼》中揭示了許多人在愛情中掙扎的內心世界，並呼籲讀者從根本上認識和解決自己的情感問題。書中不僅深入分析了情感恐懼的來源，還提供了重建健康關係的具體步驟。最終，真正的幸福來自於接納自己、理解自己的恐懼並勇敢地面對它。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>讓自己不再焦慮</tag>
-        <tag>幸運的人做情緒的主人</tag>
-        <tag>不幸的人做情緒的奴隸</tag>
-        <tag>理情行為治療</tag>
-        <tag>亞伯‧艾里斯</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《持續買進：資料科學家的投資終極解答，存錢及致富的實證方法》 | 閱讀心得學習筆記</title>
     <url>/2023/05/30/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth-1.jpg"></p>
@@ -2083,37 +2036,50 @@
       </tags>
   </entry>
   <entry>
-    <title>《人生雖苦，但還是值得活下去》| 閱讀心得學習筆記</title>
-    <url>/2021/08/02/reading-notes-life-is-hard-but-still-worth-living/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-life-is-hard-but-still-worth-living-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《人生雖苦，但還是值得活下去：《被討厭的勇氣》作者集20年所有作品精華於一冊的人生哲學，獻給每一個在生命煩惱中覺得惶惶不安的人！》</span><br><span class="line">作者： 岸見一郎</span><br><span class="line">譯者： 涂紋凰</span><br><span class="line">出版社：平安文化</span><br><span class="line">出版日期：2021/08/02</span><br></pre></td></tr></table></figure>
+    <title>《親密恐懼：為什麼我們無法好好愛人，好好被愛？》| 閱讀心得學習筆記</title>
+    <url>/2023/11/27/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《親密恐懼：為什麼我們無法好好愛人，好好被愛？》</span><br><span class="line">作者： 周慕姿  </span><br><span class="line">出版社：寶瓶文化  </span><br><span class="line">出版日期：2023/11/27</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
 
 <blockquote>
-<p>「人生不是「有苦就有樂」，而是「活著本來就很苦」。即便如此，還是值得好好活下去，因為只要活著，就有價值。「成功」不應該是人生的目標，而是「幸福」。」</p>
+<p>「我們一起，試著理解，溫柔地討好自己。我們值得在關係裡幸福。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活著本來就很苦》是阿德勒心理學推廣者岸見一郎將其二十年人生哲思濃縮於一冊的沉靜告白。這本書不談華麗的成功學，也不灌輸正向思考的毒雞湯，而是以一種溫柔卻堅定的語調，陪伴讀者直視生命的苦與痛，然後找回對「活著」本身的認可與溫度。</p>
-<p><img src="/img/posts/reading-notes-life-is-hard-but-still-worth-living-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>人生的本質是苦</strong>：並非有苦就會有樂，而是「活著本來就很苦」，但不代表人生沒有意義。</li>
-<li><strong>擺脫他人期待</strong>：人不是為了滿足他人而生，不需勉強自己去扮演「理想的自己」。</li>
-<li><strong>幸福不是成功後的結果</strong>：幸福來自當下的自我接納，不是達成什麼目標之後才配得擁有。</li>
-<li><strong>活在當下</strong>：不要執著於過去或擔憂未來。未來尚未到來，甚至可以說「未存在」，因此對未來的恐懼並無意義。</li>
-<li><strong>生命的價值不需證明</strong>：就算什麼也不會，只要活著，就已經足夠珍貴。</li>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《情緒勒索》作者周慕姿在此書中深入探討了「親密恐懼」這一情感議題，揭示了許多人在親密關係中遭遇的深層恐懼與困惑。親密恐懼源自於童年時期未被足夠關愛或情感創傷，並在成人後的愛情與人際關係中形成不同的應對策略。本書試圖幫助讀者理解自身行為背後的心理根源，並提供實用的建議，讓人們能夠走出親密恐懼的陰影，重獲愛與歸屬。</p>
+<p><img src="/img/posts/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>親密恐懼的六種面貌：</strong></p>
+<ul>
+<li>被遺棄的恐懼：對親密關係中被拋棄的深切擔憂。</li>
+<li>不夠好的恐懼：對自我價值的懷疑，擔心無法配得上愛情。</li>
+<li>被背叛的恐懼：對他人信任的難度，擔心遭遇欺騙或背叛。</li>
+<li>不能拒絕的恐懼：總是順從他人的需求，害怕衝突與拒絕。</li>
+<li>失去自我恐懼：為了維繫關係而丟失自我。</li>
+<li>得不到愛的恐懼：無論如何努力，都感覺無法獲得他人的愛。</li>
 </ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>在充滿社會標準與他人期待的環境下，我們真的能「只做自己」嗎？</li>
-<li>如果人生本來就是苦，那我們為什麼還要堅持活著？價值的根源究竟來自何處？</li>
-<li>當失去摯愛之人或遭逢重創，我們如何不陷於虛無，而仍能重拾前行的勇氣？</li>
+</li>
+<li><p><strong>生存策略的影響：</strong></p>
+<ul>
+<li>人們在親密關係中常採取「戰、逃、僵、討好」的生存策略來應對情感上的焦慮與不安全感，這些策略往往會讓情況惡化，進一步強化親密恐懼的循環。</li>
 </ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書像一場內心的對話，引導我們緩慢地放下對於「正確人生劇本」的執念，接納痛苦本身，並在生命的孤獨與不確定中，找到一種真實而溫柔的活法。它提醒我們：「真正的自由，是活出不必被誰認可的自己。」在這個過度焦慮於未來的時代，這樣的聲音，彌足珍貴。</p>
+</li>
+<li><p><strong>童年創傷與親密恐懼的關聯：</strong></p>
+<ul>
+<li>童年時期的情感忽視或虐待經歷，往往成為成人後親密恐懼的根源。這些創傷會讓個體在情感關係中過度防衛，並難以建立真正的親密感。</li>
+</ul>
+</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>周慕姿在《親密恐懼》中揭示了許多人在愛情中掙扎的內心世界，並呼籲讀者從根本上認識和解決自己的情感問題。書中不僅深入分析了情感恐懼的來源，還提供了重建健康關係的具體步驟。最終，真正的幸福來自於接納自己、理解自己的恐懼並勇敢地面對它。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
-        <tag>人生雖苦</tag>
-        <tag>但還是值得活下去</tag>
+        <tag>讓自己不再焦慮</tag>
+        <tag>幸運的人做情緒的主人</tag>
+        <tag>不幸的人做情緒的奴隸</tag>
+        <tag>理情行為治療</tag>
+        <tag>亞伯‧艾里斯</tag>
       </tags>
   </entry>
   <entry>
@@ -2155,6 +2121,40 @@
         <tag>萎靡與心盛</tag>
         <tag>增強心理韌性的心盛維生素</tag>
         <tag>有效擺脫空虛消沉與疲憊的惡性迴圈，開啟正向能量新動力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《人生雖苦，但還是值得活下去》| 閱讀心得學習筆記</title>
+    <url>/2021/08/02/reading-notes-life-is-hard-but-still-worth-living/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-life-is-hard-but-still-worth-living-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《人生雖苦，但還是值得活下去：《被討厭的勇氣》作者集20年所有作品精華於一冊的人生哲學，獻給每一個在生命煩惱中覺得惶惶不安的人！》</span><br><span class="line">作者： 岸見一郎</span><br><span class="line">譯者： 涂紋凰</span><br><span class="line">出版社：平安文化</span><br><span class="line">出版日期：2021/08/02</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「人生不是「有苦就有樂」，而是「活著本來就很苦」。即便如此，還是值得好好活下去，因為只要活著，就有價值。「成功」不應該是人生的目標，而是「幸福」。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活著本來就很苦》是阿德勒心理學推廣者岸見一郎將其二十年人生哲思濃縮於一冊的沉靜告白。這本書不談華麗的成功學，也不灌輸正向思考的毒雞湯，而是以一種溫柔卻堅定的語調，陪伴讀者直視生命的苦與痛，然後找回對「活著」本身的認可與溫度。</p>
+<p><img src="/img/posts/reading-notes-life-is-hard-but-still-worth-living-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>人生的本質是苦</strong>：並非有苦就會有樂，而是「活著本來就很苦」，但不代表人生沒有意義。</li>
+<li><strong>擺脫他人期待</strong>：人不是為了滿足他人而生，不需勉強自己去扮演「理想的自己」。</li>
+<li><strong>幸福不是成功後的結果</strong>：幸福來自當下的自我接納，不是達成什麼目標之後才配得擁有。</li>
+<li><strong>活在當下</strong>：不要執著於過去或擔憂未來。未來尚未到來，甚至可以說「未存在」，因此對未來的恐懼並無意義。</li>
+<li><strong>生命的價值不需證明</strong>：就算什麼也不會，只要活著，就已經足夠珍貴。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>在充滿社會標準與他人期待的環境下，我們真的能「只做自己」嗎？</li>
+<li>如果人生本來就是苦，那我們為什麼還要堅持活著？價值的根源究竟來自何處？</li>
+<li>當失去摯愛之人或遭逢重創，我們如何不陷於虛無，而仍能重拾前行的勇氣？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書像一場內心的對話，引導我們緩慢地放下對於「正確人生劇本」的執念，接納痛苦本身，並在生命的孤獨與不確定中，找到一種真實而溫柔的活法。它提醒我們：「真正的自由，是活出不必被誰認可的自己。」在這個過度焦慮於未來的時代，這樣的聲音，彌足珍貴。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>人生雖苦</tag>
+        <tag>但還是值得活下去</tag>
       </tags>
   </entry>
   <entry>
@@ -2688,46 +2688,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《幽默：面對人生與工作，你最需要的軟實力》| 閱讀心得學習筆記</title>
-    <url>/2023/11/01/reading-notes-reading-notes-humor-seriously-why-humor-is-a-secret-weapon-in-business-and-life/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-humor-seriously-why-humor-is-a-secret-weapon-in-business-and-life-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《幽默：面對人生與工作，你最需要的軟實力》</span><br><span class="line">作者： 珍妮佛・艾克, 娜歐米・拜格多納斯</span><br><span class="line">原文作者： Jennifer Aaker, Naomi Bagdonas</span><br><span class="line">譯者： 洪慧芳</span><br><span class="line">出版社：星出版</span><br><span class="line">出版日期：2023/11/01</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「幽默感是領導力、人際互動、完成任務的必備要件。是正統課綱上不會教、現實世界關鍵時刻極度需要的軟實力。想讓別人看重你，最好的方法，就是別把自己看得太重。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《幽默：面對人生與工作，你最需要的軟實力》不僅顛覆了職場必須嚴肅以對的刻板印象，也教我們如何在現實挑戰中，以幽默為槓桿創造更強大的影響力。這門來自史丹佛商學院的熱門課程，將看似輕鬆的「幽默感」，轉化為領導、溝通、創意、抗壓與建立信任的核心能力。透過心理學、行為科學與世界級領導者的實例，作者示範了幽默如何成為我們面對現實的祕密武器。</p>
-<p><img src="/img/posts/reading-notes-humor-seriously-why-humor-is-a-secret-weapon-in-business-and-life-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>幽默是一種社交勇氣，可強化人際關係與建立領導力。</li>
-<li>擁有幽默感的員工，常被認為更稱職、受歡迎且具創意。</li>
-<li>成功的幽默來自觀察日常、不怕自嘲、掌握節奏與語境。</li>
-<li>幽默能化解衝突、提升說服力，並幫助人們從挫折中恢復。</li>
-<li>幽默不是天賦，而是可訓練的能力，有明確技巧與方法。</li>
-<li>理解幽默的灰色地帶，學會拿捏尺度、適時補救。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ul>
-<li>每週練習觀察生活中的荒謬處，寫成三則幽默筆記。</li>
-<li>與同事互動時，嘗試用輕鬆語氣化解緊張或批評。</li>
-<li>演講、簡報時加入一個真實小趣事作為開場破冰。</li>
-<li>若玩笑過火，學會主動修正語氣並坦誠道歉。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你的職場文化容許幽默嗎？若不容許，是什麼造成的？</li>
-<li>你認為幽默與「不專業」的界線在哪裡？能否被打破？</li>
-<li>你上一次用幽默讓一場對話變得更有效，是什麼時候？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《幽默：面對人生與工作，你最需要的軟實力》證明了：幽默不是逃避現實，而是面對挑戰的一種成熟姿態。在高度緊繃的工作環境中，懂得用笑聲與溫暖連結他人，將成為我們面對未來不確定性的關鍵力量。幽默，不只是搞笑，更是一種深刻的力量。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>幽默：面對人生與工作，你最需要的軟實力</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>人生推書店：《逆襲人生21個底層邏輯：快速做出改變的高效率成長指南》| 人生處方箋</title>
     <url>/2023/06/07/reading-notes-reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast-1.jpg"></p>
@@ -2827,6 +2787,46 @@
         <tag>我可能錯了</tag>
         <tag>森林智者</tag>
         <tag>森林智者的最後一堂人生課</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《幽默：面對人生與工作，你最需要的軟實力》| 閱讀心得學習筆記</title>
+    <url>/2023/11/01/reading-notes-reading-notes-humor-seriously-why-humor-is-a-secret-weapon-in-business-and-life/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-humor-seriously-why-humor-is-a-secret-weapon-in-business-and-life-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《幽默：面對人生與工作，你最需要的軟實力》</span><br><span class="line">作者： 珍妮佛・艾克, 娜歐米・拜格多納斯</span><br><span class="line">原文作者： Jennifer Aaker, Naomi Bagdonas</span><br><span class="line">譯者： 洪慧芳</span><br><span class="line">出版社：星出版</span><br><span class="line">出版日期：2023/11/01</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「幽默感是領導力、人際互動、完成任務的必備要件。是正統課綱上不會教、現實世界關鍵時刻極度需要的軟實力。想讓別人看重你，最好的方法，就是別把自己看得太重。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《幽默：面對人生與工作，你最需要的軟實力》不僅顛覆了職場必須嚴肅以對的刻板印象，也教我們如何在現實挑戰中，以幽默為槓桿創造更強大的影響力。這門來自史丹佛商學院的熱門課程，將看似輕鬆的「幽默感」，轉化為領導、溝通、創意、抗壓與建立信任的核心能力。透過心理學、行為科學與世界級領導者的實例，作者示範了幽默如何成為我們面對現實的祕密武器。</p>
+<p><img src="/img/posts/reading-notes-humor-seriously-why-humor-is-a-secret-weapon-in-business-and-life-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>幽默是一種社交勇氣，可強化人際關係與建立領導力。</li>
+<li>擁有幽默感的員工，常被認為更稱職、受歡迎且具創意。</li>
+<li>成功的幽默來自觀察日常、不怕自嘲、掌握節奏與語境。</li>
+<li>幽默能化解衝突、提升說服力，並幫助人們從挫折中恢復。</li>
+<li>幽默不是天賦，而是可訓練的能力，有明確技巧與方法。</li>
+<li>理解幽默的灰色地帶，學會拿捏尺度、適時補救。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ul>
+<li>每週練習觀察生活中的荒謬處，寫成三則幽默筆記。</li>
+<li>與同事互動時，嘗試用輕鬆語氣化解緊張或批評。</li>
+<li>演講、簡報時加入一個真實小趣事作為開場破冰。</li>
+<li>若玩笑過火，學會主動修正語氣並坦誠道歉。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你的職場文化容許幽默嗎？若不容許，是什麼造成的？</li>
+<li>你認為幽默與「不專業」的界線在哪裡？能否被打破？</li>
+<li>你上一次用幽默讓一場對話變得更有效，是什麼時候？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《幽默：面對人生與工作，你最需要的軟實力》證明了：幽默不是逃避現實，而是面對挑戰的一種成熟姿態。在高度緊繃的工作環境中，懂得用笑聲與溫暖連結他人，將成為我們面對未來不確定性的關鍵力量。幽默，不只是搞笑，更是一種深刻的力量。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>幽默：面對人生與工作，你最需要的軟實力</tag>
       </tags>
   </entry>
   <entry>
