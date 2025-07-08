@@ -201,44 +201,6 @@
       </tags>
   </entry>
   <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字</title>
     <url>/2024/05/22/llm-app-in-martech/</url>
     <content><![CDATA[<p>大型語言模型（LLMs，如 OpenAI 的 GPT-4）在 MarTech（行銷科技）領域有許多應用，能夠幫助企業提高行銷效率、個性化用戶體驗以及改善客戶參與度。以下是一些主要商業上的應用：</p>
@@ -340,6 +302,44 @@
         <tag>LLMs</tag>
         <tag>大型語言模型</tag>
         <tag>LangChain</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -726,6 +726,43 @@
       </tags>
   </entry>
   <entry>
+    <title>《愛的 8 法則【《僧人心態》作者愛的力作】：如何找到愛、維繫愛、放下愛》| 閱讀心得學習筆記</title>
+    <url>/2024/01/01/reading-notes-8-rules-of-love-how-to-find-it-keep-it-and-let-it-go/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-8-rules-of-love-how-to-find-it-keep-it-and-let-it-go-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《愛的 8 法則【《僧人心態》作者愛的力作】：如何找到愛、維繫愛、放下愛》</span><br><span class="line">作者： 傑．謝帝</span><br><span class="line">原文作者： Jay Shetty</span><br><span class="line">譯者： 祁怡瑋</span><br><span class="line">出版社：方智</span><br><span class="line">出版日期：2024/01/01</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「藉由獨處學習愛自己，學會慈悲心、同理心及耐心。將愛擴展到每一個人及人生的每一刻，學習一再去愛。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們總以為愛是一種感覺，但傑・謝帝透過僧人的視角提醒我們：愛，其實是一種可以學習與實踐的能力。這本書結合古老的吠陀智慧與現代心理學，為我們打開了一條有方法、有步驟的愛之修行之路。</p>
+<p><img src="/img/posts/reading-notes-8-rules-of-love-how-to-find-it-keep-it-and-let-it-go-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>法則一：愛從獨處開始</strong><br>愛人前，先學會和自己相處，培養慈悲、同理與耐心。</li>
+<li><strong>法則二：重新定義愛的概念</strong><br>拋開電影與文化灌輸的浪漫幻想，回到愛的本質——尊重、理解與承諾。</li>
+<li><strong>法則三：以「清明」眼光檢視感情</strong><br>檢討過去關係，認識自我行為與選擇的模式。</li>
+<li><strong>法則四：一起成長才是愛的長久之道</strong><br>健康的關係，是兩人共同成長的旅程，不是一方拯救另一方。</li>
+<li><strong>法則五：設定愛的界線與優先順序</strong><br>在親密中保有界線，才能維持關係中的尊重與空間。</li>
+<li><strong>法則六：衝突是練習愛的機會</strong><br>藉由正向溝通、同理與傾聽來深化彼此連結。</li>
+<li><strong>法則七：學會放手，讓愛更圓滿</strong><br>有時分開也是一種愛，善終關係比強留更成熟。</li>
+<li><strong>法則八：讓愛無限延伸</strong><br>愛不該侷限於伴侶，也可以擴及朋友、社會與全人類。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>為何我們常在感情中重蹈覆轍？</li>
+<li>如何分辨「愛」與「依附」？</li>
+<li>當感情無法繼續時，如何優雅地放下？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《愛的 8 法則》不是情場技巧書，而是人生修行的指引。它教我們，真正的愛不是擁有對方，而是先擁有自己，然後練習在理解、尊重與成長中持續地去愛。對任何關係感到迷惘的人，這是一本值得靜下心細讀的指南。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>僧人心態</tag>
+        <tag>愛的 8 法則</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《薩提爾的 52 個冥想練習：覺察內在的冰山，跟自己和解，與他人共好》| 閱讀心得學習筆記</title>
     <url>/2023/01/04/reading-notes-52-satir-meditation-practices/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-52-satir-meditation-practices-1.jpg"></p>
@@ -765,43 +802,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>薩提爾</tag>
         <tag>薩提爾的 52 個冥想練習</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《愛的 8 法則【《僧人心態》作者愛的力作】：如何找到愛、維繫愛、放下愛》| 閱讀心得學習筆記</title>
-    <url>/2024/01/01/reading-notes-8-rules-of-love-how-to-find-it-keep-it-and-let-it-go/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-8-rules-of-love-how-to-find-it-keep-it-and-let-it-go-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《愛的 8 法則【《僧人心態》作者愛的力作】：如何找到愛、維繫愛、放下愛》</span><br><span class="line">作者： 傑．謝帝</span><br><span class="line">原文作者： Jay Shetty</span><br><span class="line">譯者： 祁怡瑋</span><br><span class="line">出版社：方智</span><br><span class="line">出版日期：2024/01/01</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「藉由獨處學習愛自己，學會慈悲心、同理心及耐心。將愛擴展到每一個人及人生的每一刻，學習一再去愛。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們總以為愛是一種感覺，但傑・謝帝透過僧人的視角提醒我們：愛，其實是一種可以學習與實踐的能力。這本書結合古老的吠陀智慧與現代心理學，為我們打開了一條有方法、有步驟的愛之修行之路。</p>
-<p><img src="/img/posts/reading-notes-8-rules-of-love-how-to-find-it-keep-it-and-let-it-go-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>法則一：愛從獨處開始</strong><br>愛人前，先學會和自己相處，培養慈悲、同理與耐心。</li>
-<li><strong>法則二：重新定義愛的概念</strong><br>拋開電影與文化灌輸的浪漫幻想，回到愛的本質——尊重、理解與承諾。</li>
-<li><strong>法則三：以「清明」眼光檢視感情</strong><br>檢討過去關係，認識自我行為與選擇的模式。</li>
-<li><strong>法則四：一起成長才是愛的長久之道</strong><br>健康的關係，是兩人共同成長的旅程，不是一方拯救另一方。</li>
-<li><strong>法則五：設定愛的界線與優先順序</strong><br>在親密中保有界線，才能維持關係中的尊重與空間。</li>
-<li><strong>法則六：衝突是練習愛的機會</strong><br>藉由正向溝通、同理與傾聽來深化彼此連結。</li>
-<li><strong>法則七：學會放手，讓愛更圓滿</strong><br>有時分開也是一種愛，善終關係比強留更成熟。</li>
-<li><strong>法則八：讓愛無限延伸</strong><br>愛不該侷限於伴侶，也可以擴及朋友、社會與全人類。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>為何我們常在感情中重蹈覆轍？</li>
-<li>如何分辨「愛」與「依附」？</li>
-<li>當感情無法繼續時，如何優雅地放下？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《愛的 8 法則》不是情場技巧書，而是人生修行的指引。它教我們，真正的愛不是擁有對方，而是先擁有自己，然後練習在理解、尊重與成長中持續地去愛。對任何關係感到迷惘的人，這是一本值得靜下心細讀的指南。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>僧人心態</tag>
-        <tag>愛的 8 法則</tag>
       </tags>
   </entry>
   <entry>
@@ -1269,41 +1269,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《不要只顧著努力，也要過得幸福：給認真生活卻不安的你58個幸福清單》| 閱讀心得學習筆記</title>
-    <url>/2023/03/31/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《不要只顧著努力，也要過得幸福：給認真生活卻不安的你58個幸福清單》</span><br><span class="line">作者： 跳舞蝸牛  </span><br><span class="line">原文作者： Dancing Snail</span><br><span class="line">譯者： 王品涵</span><br><span class="line">出版社：大好書屋  </span><br><span class="line">出版日期：2023/03/31</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「停止虛假的自我開發！聚焦當下、安頓身心，累積一點一滴的幸福。生命不是等待暴風雨過去，而是要學會在雨中跳舞！只要創造了比昨天稍好的一天，你的一切努力就已足夠。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>當努力成為習慣，疲憊也悄悄變成常態。跳舞蝸牛以插畫與療癒短文，為在焦慮與倦怠中掙扎的你我，開出58帖關於「幸福」的溫柔處方。本書不談艱深道理，而是從日常切入，引導我們重新感受當下、照顧內在。</p>
-<p><img src="/img/posts/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>當下價值</strong>：別為了虛構的「未來理想」犧牲今日，學習在當下找到幸福感。</li>
-<li><strong>自我友善</strong>：溫柔看待自己，即使不是完美的人，也值得被好好對待。</li>
-<li><strong>轉念練習</strong>：透過正向思考及「自我合理化」，將焦慮與自責轉化為行動力。</li>
-<li><strong>接受不完美</strong>：允許自己偶爾脆弱、不積極，這些「看似沒用」的時間正是恢復力的來源。</li>
-<li><strong>情緒正視</strong>：不是逃避或壓抑，而是學習與焦慮共處，從中找回生活的平衡。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否太在意「他人眼中的努力」而忽略「自己內心的感受」？</li>
-<li>是否將「幸福」與「效率」綁定，錯失了真正放鬆的機會？</li>
-<li>在追求自我成長的過程中，我們是否反而對自己越來越苛刻？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書就像一本溫柔的枕邊書，提醒我們：幸福不在遠方，而在於是否允許自己放慢腳步、誠實面對內在。本書適合每一位努力生活卻常感疲憊的人——學會「在雨中跳舞」，也是一種成長的勇氣。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>不要只顧著努力</tag>
-        <tag>也要過得幸福</tag>
-        <tag>給認真生活卻不安的你58個幸福清單</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》| 閱讀心得學習筆記</title>
     <url>/2024/12/18/reading-notes-do-not-react-to-everything/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-react-to-everything-1.jpg"></p>
@@ -1356,6 +1321,41 @@
         <tag>別對每件事都有反應</tag>
         <tag>淡泊一點也無妨</tag>
         <tag>活出快意人生的99個禪練習</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《不要只顧著努力，也要過得幸福：給認真生活卻不安的你58個幸福清單》| 閱讀心得學習筆記</title>
+    <url>/2023/03/31/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《不要只顧著努力，也要過得幸福：給認真生活卻不安的你58個幸福清單》</span><br><span class="line">作者： 跳舞蝸牛  </span><br><span class="line">原文作者： Dancing Snail</span><br><span class="line">譯者： 王品涵</span><br><span class="line">出版社：大好書屋  </span><br><span class="line">出版日期：2023/03/31</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「停止虛假的自我開發！聚焦當下、安頓身心，累積一點一滴的幸福。生命不是等待暴風雨過去，而是要學會在雨中跳舞！只要創造了比昨天稍好的一天，你的一切努力就已足夠。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>當努力成為習慣，疲憊也悄悄變成常態。跳舞蝸牛以插畫與療癒短文，為在焦慮與倦怠中掙扎的你我，開出58帖關於「幸福」的溫柔處方。本書不談艱深道理，而是從日常切入，引導我們重新感受當下、照顧內在。</p>
+<p><img src="/img/posts/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>當下價值</strong>：別為了虛構的「未來理想」犧牲今日，學習在當下找到幸福感。</li>
+<li><strong>自我友善</strong>：溫柔看待自己，即使不是完美的人，也值得被好好對待。</li>
+<li><strong>轉念練習</strong>：透過正向思考及「自我合理化」，將焦慮與自責轉化為行動力。</li>
+<li><strong>接受不完美</strong>：允許自己偶爾脆弱、不積極，這些「看似沒用」的時間正是恢復力的來源。</li>
+<li><strong>情緒正視</strong>：不是逃避或壓抑，而是學習與焦慮共處，從中找回生活的平衡。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否太在意「他人眼中的努力」而忽略「自己內心的感受」？</li>
+<li>是否將「幸福」與「效率」綁定，錯失了真正放鬆的機會？</li>
+<li>在追求自我成長的過程中，我們是否反而對自己越來越苛刻？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書就像一本溫柔的枕邊書，提醒我們：幸福不在遠方，而在於是否允許自己放慢腳步、誠實面對內在。本書適合每一位努力生活卻常感疲憊的人——學會「在雨中跳舞」，也是一種成長的勇氣。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>不要只顧著努力</tag>
+        <tag>也要過得幸福</tag>
+        <tag>給認真生活卻不安的你58個幸福清單</tag>
       </tags>
   </entry>
   <entry>
@@ -1848,38 +1848,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《假如孫子是現代上班族》| 閱讀心得學習筆記</title>
-    <url>/2020/11/26/reading-notes-if-sunzi-were-a-modern-office-worker/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《假如孫子是現代上班族》</span><br><span class="line">作者： 安恒理（Osamu Yasutsune）  </span><br><span class="line">譯者： 沈俊傑</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2020/11/26</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「知彼知己，百戰不殆。《孫子兵法》不僅是一部軍書，更能應用在商場、戀愛、運動、博弈等含有競爭要素的領域，因為一切競爭行為都來自於人，而《孫子兵法》精準剖析了人類細微的心理。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《假如孫子是現代上班族》是一本將《孫子兵法》現代化應用於職場的實戰指南。作者安恒理以現代職場的五大情境問題為核心，搭配32條兵法守則與38則實務案例，引導讀者如何透過「情報」與「策略」，在混亂不明的職場中脫穎而出，打造不敗的生存之道。</p>
-<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>情報為先</strong>：孫子強調「多算勝，少算不勝」，蒐集與分析情報才是致勝關鍵。</li>
-<li><strong>攻心為上</strong>：掌握上司、客戶的習慣與喜好，在對方鬆懈時出擊最有效。</li>
-<li><strong>順勢而為</strong>：與其硬碰硬，不如借力使力、利用敵方資源達成目的。</li>
-<li><strong>靈活應變</strong>：比起強者思維，「生存智慧」與適應變化的能力才是長遠之計。</li>
-<li><strong>職場戰略</strong>：離職糾紛、客訴危機、公關風暴皆可借由兵法中的「守」、「攻」、「變」對應解法。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否過於強調績效與努力，卻忽略了背後的資訊戰與心理戰？</li>
-<li>在講求效率的現代職場，「等待最佳時機」是否會被視為消極？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提醒我們，職場如戰場，面對豬隊友、奧客、雷主管時，光靠努力不夠，更要懂得策略與情報運用。透過孫子的智慧，我們能更有系統地拆解問題、預判風險，化解難關。現代問題，有時真的需要古代手段解決。這本書，正是寫給在職場中載浮載沉的你。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>假如孫子是現代上班族</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》| 閱讀心得學習筆記</title>
     <url>/2020/04/08/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-1.jpg"></p>
@@ -1918,6 +1886,86 @@
         <tag>亞伯‧艾里斯</tag>
         <tag>讓自己快樂</tag>
         <tag>沒有放不下的情緒，只有不肯放下的你</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《我只想好好上班！：新鮮人求職、就職、升職、離職的應對解答之書》| 閱讀心得學習筆記</title>
+    <url>/2020/04/01/reading-notes-i-just-want-to-work-well-a-guidebook/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-i-just-want-to-work-well-a-guidebook-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我只想好好上班！：新鮮人求職、就職、升職、離職的應對解答之書》</span><br><span class="line">作者： 雅莉珊卓 ・賴維特</span><br><span class="line">原文作者： Alexandra Levit</span><br><span class="line">譯者： 陳琇玲</span><br><span class="line">出版社：天下雜誌</span><br><span class="line">出版日期：2020/04/01</span><br></pre></td></tr></table></figure>
+
+<p>「為什麼別人畢業就進大公司，我卻還在投履歷？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「在職場，沒有人有義務要了解你。想好好上班不該靠運氣。在第一次工作就犯規之前，先學好處理問題的本事，讓恐懼成為在職場存活的動力！」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《我只想好好上班！》是一本為即將進入或剛踏入職場的新鮮人量身打造的職場生存指南。作者雅莉珊卓・賴維特以 20 年的顧問經驗與真實案例，揭示職場潛規則與溝通眉角，讓讀者能夠在第一份工作中建立職涯自信，避免無謂碰撞與迷惘。</p>
+<p><img src="/img/posts/reading-notes-manifei-just-want-to-work-well-a-guidebooksting-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>職場生存仰賴的是策略與細節，而非僅靠努力。</li>
+<li>書寫與表達是最被低估卻關鍵的能力。</li>
+<li>新鮮人最易犯錯在於忽略企業文化與溝通方式。</li>
+<li>零經驗不等於無價值，需善用故事打造個人履歷。</li>
+<li>學會安排優先順序、拒絕不合理請求，建立工作界線。</li>
+<li>情緒管理與同理心，是升遷與團隊合作的核心。</li>
+<li>換工作前要評估風險與策略，避免留下不佳職場紀錄。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每週練習精簡書寫與主動式語句表達</li>
+<li>為每份文件進行二次以上校對，確保專業形象</li>
+<li>利用零散經驗建立履歷故事線，彰顯成長軌跡</li>
+<li>主動請益主管與導師，建立職場支持系統</li>
+<li>定期自我檢視目標與職涯方向，提早規劃轉職節點</li>
+<li>練習情緒覺察與壓力轉化技巧，維持穩定表現</li>
+<li>參與辦公室活動、貢獻想法，累積可見績效</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你有沒有在報到第一天就失分的經驗？</li>
+<li>為什麼好工作總是輪不到自己？是能力還是表達？</li>
+<li>難搞同事與主管的評論，該如何轉化為成長助力？</li>
+<li>如何讓自己即使沒有職權，也能帶動團隊協作？</li>
+<li>情緒低落時，你的「職場生存儀表板」是什麼？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《我只想好好上班！》不是教你如何當職場好人，而是教你如何在複雜的工作環境中，用正確方式活出專業價值。書中融合真實職場案例、具體行動指南與情緒管理技巧，適合所有職涯起點的工作者。它提醒我們：工作的價值不在職稱或薪資，而是你能否穩定成長並留下影響力。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>顯化效應</tag>
+        <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《假如孫子是現代上班族》| 閱讀心得學習筆記</title>
+    <url>/2020/11/26/reading-notes-if-sunzi-were-a-modern-office-worker/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《假如孫子是現代上班族》</span><br><span class="line">作者： 安恒理（Osamu Yasutsune）  </span><br><span class="line">譯者： 沈俊傑</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2020/11/26</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「知彼知己，百戰不殆。《孫子兵法》不僅是一部軍書，更能應用在商場、戀愛、運動、博弈等含有競爭要素的領域，因為一切競爭行為都來自於人，而《孫子兵法》精準剖析了人類細微的心理。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《假如孫子是現代上班族》是一本將《孫子兵法》現代化應用於職場的實戰指南。作者安恒理以現代職場的五大情境問題為核心，搭配32條兵法守則與38則實務案例，引導讀者如何透過「情報」與「策略」，在混亂不明的職場中脫穎而出，打造不敗的生存之道。</p>
+<p><img src="/img/posts/reading-notes-if-sunzi-were-a-modern-office-worker-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>情報為先</strong>：孫子強調「多算勝，少算不勝」，蒐集與分析情報才是致勝關鍵。</li>
+<li><strong>攻心為上</strong>：掌握上司、客戶的習慣與喜好，在對方鬆懈時出擊最有效。</li>
+<li><strong>順勢而為</strong>：與其硬碰硬，不如借力使力、利用敵方資源達成目的。</li>
+<li><strong>靈活應變</strong>：比起強者思維，「生存智慧」與適應變化的能力才是長遠之計。</li>
+<li><strong>職場戰略</strong>：離職糾紛、客訴危機、公關風暴皆可借由兵法中的「守」、「攻」、「變」對應解法。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否過於強調績效與努力，卻忽略了背後的資訊戰與心理戰？</li>
+<li>在講求效率的現代職場，「等待最佳時機」是否會被視為消極？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提醒我們，職場如戰場，面對豬隊友、奧客、雷主管時，光靠努力不夠，更要懂得策略與情報運用。透過孫子的智慧，我們能更有系統地拆解問題、預判風險，化解難關。現代問題，有時真的需要古代手段解決。這本書，正是寫給在職場中載浮載沉的你。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>假如孫子是現代上班族</tag>
       </tags>
   </entry>
   <entry>
@@ -3024,6 +3072,39 @@
       </tags>
   </entry>
   <entry>
+    <title>《打造強韌內在的少林精神：歐洲掌門人給你的 13 個日常練習》| 閱讀心得學習筆記</title>
+    <url>/2025/05/01/reading-notes-shaolin-spirit-meistere-dein-leben/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-shaolin-spirit-meistere-dein-leben-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《打造強韌內在的少林精神：歐洲掌門人給你的13個日常練習》</span><br><span class="line">作者： 釋恆義</span><br><span class="line">原文作者： Shi Heng Yi</span><br><span class="line">譯者： 洪清怡（Ching-Yi Hung-Breunig）</span><br><span class="line">出版社：方智</span><br><span class="line">出版日期：2025/05/01</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「人生充滿健康與疾病、獲得與失去等高峰與低谷，能夠學會在其中保持和諧與平衡，你將穩若泰山、堅不可摧。而這個沉靜心靈、壯大自己的最佳捷徑，就是擁有「少林精神」！」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《你的人生需要少林精神》這本書，是少林寺第 35 代武僧、歐洲少林寺掌門人釋恆義的首度著作。他將千年少林智慧轉化為現代人可實踐的 13 個身心修練方法，引導讀者從身體訓練走向心靈修煉，重拾內在主宰權與生命的平衡。在這個步調紊亂、資訊氾濫的時代，釋恆義以自身傳奇人生為底蘊，融合武學、佛學與心理學，傳遞一種內外兼修的生活哲學：少林精神不是神秘的武功，而是一種活出真正自己的方法。</p>
+<p><img src="/img/posts/reading-notes-shaolin-spirit-meistere-dein-leben-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>少林精神核心是「自我掌控」，包括心念、呼吸、行為與情緒。</li>
+<li>書中提出 13 道身心練習，如正念呼吸、動中禪、靜坐觀心等，有助於穩定情緒、強化專注。</li>
+<li>武術練習並非為了格鬥，而是鍛鍊心智、調合身心的工具。</li>
+<li>作者以親身經歷說明：遠離本心、追求外在成功，終將導致迷失；唯有內觀，方能重拾方向。</li>
+<li>書中強調「正見」的重要，鼓勵讀者超越對人事物的成見與二元對立。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否也像作者年輕時一樣，誤以為「力量」來自外在的控制與防衛？</li>
+<li>當人生遭遇動盪時，我們能否靜下心來，觀察自己的內在反應？</li>
+<li>現代人失去平靜與專注，是因為從未學習如何駕馭自己的心嗎？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這不只是一本修行書，更是一部關於人如何從混亂、失控中，找回內在平靜與力量的生命指南。釋恆義以平實卻深刻的語言，引導讀者一步步探索內在、整合自我。無論是否練武，這本書都能讓人找回與自己連結的能力，並在混沌世界中找到不動的心。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>打造強韌內在的少林精神：歐洲掌門人給你的13個日常練習</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《軟技能：soft skills，讓你不過時、不貶值、不消失，工作與人生的升級說明書》| 閱讀心得學習筆記</title>
     <url>/2025/01/03/reading-notes-soft-skills-let-you-stay-relevant-retain-value/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-soft-skills-let-you-stay-relevant-retain-value-1.jpg"></p>
@@ -3063,39 +3144,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>顯化效應</tag>
         <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《打造強韌內在的少林精神：歐洲掌門人給你的 13 個日常練習》| 閱讀心得學習筆記</title>
-    <url>/2025/05/01/reading-notes-shaolin-spirit-meistere-dein-leben/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-shaolin-spirit-meistere-dein-leben-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《打造強韌內在的少林精神：歐洲掌門人給你的13個日常練習》</span><br><span class="line">作者： 釋恆義</span><br><span class="line">原文作者： Shi Heng Yi</span><br><span class="line">譯者： 洪清怡（Ching-Yi Hung-Breunig）</span><br><span class="line">出版社：方智</span><br><span class="line">出版日期：2025/05/01</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「人生充滿健康與疾病、獲得與失去等高峰與低谷，能夠學會在其中保持和諧與平衡，你將穩若泰山、堅不可摧。而這個沉靜心靈、壯大自己的最佳捷徑，就是擁有「少林精神」！」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《你的人生需要少林精神》這本書，是少林寺第 35 代武僧、歐洲少林寺掌門人釋恆義的首度著作。他將千年少林智慧轉化為現代人可實踐的 13 個身心修練方法，引導讀者從身體訓練走向心靈修煉，重拾內在主宰權與生命的平衡。在這個步調紊亂、資訊氾濫的時代，釋恆義以自身傳奇人生為底蘊，融合武學、佛學與心理學，傳遞一種內外兼修的生活哲學：少林精神不是神秘的武功，而是一種活出真正自己的方法。</p>
-<p><img src="/img/posts/reading-notes-shaolin-spirit-meistere-dein-leben-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>少林精神核心是「自我掌控」，包括心念、呼吸、行為與情緒。</li>
-<li>書中提出 13 道身心練習，如正念呼吸、動中禪、靜坐觀心等，有助於穩定情緒、強化專注。</li>
-<li>武術練習並非為了格鬥，而是鍛鍊心智、調合身心的工具。</li>
-<li>作者以親身經歷說明：遠離本心、追求外在成功，終將導致迷失；唯有內觀，方能重拾方向。</li>
-<li>書中強調「正見」的重要，鼓勵讀者超越對人事物的成見與二元對立。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否也像作者年輕時一樣，誤以為「力量」來自外在的控制與防衛？</li>
-<li>當人生遭遇動盪時，我們能否靜下心來，觀察自己的內在反應？</li>
-<li>現代人失去平靜與專注，是因為從未學習如何駕馭自己的心嗎？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這不只是一本修行書，更是一部關於人如何從混亂、失控中，找回內在平靜與力量的生命指南。釋恆義以平實卻深刻的語言，引導讀者一步步探索內在、整合自我。無論是否練武，這本書都能讓人找回與自己連結的能力，並在混沌世界中找到不動的心。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>打造強韌內在的少林精神：歐洲掌門人給你的13個日常練習</tag>
       </tags>
   </entry>
   <entry>
@@ -3919,6 +3967,53 @@
       </tags>
   </entry>
   <entry>
+    <title>《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》| 閱讀心得學習筆記</title>
+    <url>/2025/01/09/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》</span><br><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+
+<blockquote>
+<p>「無論情況多麼絕望，人永遠不會沒有選擇。人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。」  </p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。本書由精神科醫師戈登．李文斯頓博士以自身經歷與診療室故事，萃取出30則人生智慧，幫助讀者正視恐懼、調適情緒、經營關係，並掌握人生主導權。這不只是一本療癒書，更是一場勇敢面對人生挑戰的啟發之旅。</p>
+<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-做自己：勇敢迎接未知"><a href="#1-做自己：勇敢迎接未知" class="headerlink" title="1. 做自己：勇敢迎接未知"></a><strong>1. 做自己：勇敢迎接未知</strong></h4><ul>
+<li><code>人生是一場賭局</code>，我們無法選擇手中的牌，<code>但能決定如何打好這副牌</code>。</li>
+<li><code>冒險</code>是成長的必要條件，害怕改變往往是最大的枷鎖。</li>
+</ul>
+<h4 id="2-勇氣篇：打破內心的牢籠"><a href="#2-勇氣篇：打破內心的牢籠" class="headerlink" title="2. 勇氣篇：打破內心的牢籠"></a><strong>2. 勇氣篇：打破內心的牢籠</strong></h4><ul>
+<li>最堅固的牢房是我們親手打造的，<code>恐懼與焦慮</code>常阻礙我們追尋快樂。</li>
+<li>勇敢不是沒有害怕，而是<code>即使害怕仍然前進</code>。</li>
+</ul>
+<h4 id="3-情緒篇：選擇希望而非絕望"><a href="#3-情緒篇：選擇希望而非絕望" class="headerlink" title="3. 情緒篇：選擇希望而非絕望"></a><strong>3. 情緒篇：選擇希望而非絕望</strong></h4><ul>
+<li><code>人生即使困難，仍有選擇的空間</code>，只要我們願意尋找新的可能。</li>
+<li><code>轉念</code>是關鍵，問題的核心往往不在事件本身，而在我們<code>如何看待它</code>。</li>
+</ul>
+<h4 id="4-關係篇：給孩子最好的禮物"><a href="#4-關係篇：給孩子最好的禮物" class="headerlink" title="4. 關係篇：給孩子最好的禮物"></a><strong>4. 關係篇：給孩子最好的禮物</strong></h4><ul>
+<li>教養的本質是讓孩子相信，<code>在這個世界上仍然能夠快樂生活</code>。</li>
+<li><code>陪伴與支持</code>，<code>比任何說教更能帶來安全感</code>。</li>
+</ul>
+<h4 id="5-愛情篇：如何愛與被愛"><a href="#5-愛情篇：如何愛與被愛" class="headerlink" title="5. 愛情篇：如何愛與被愛"></a><strong>5. 愛情篇：如何愛與被愛</strong></h4><ul>
+<li>婚姻需要<code>雙方共同經營</code>，但<code>只要一方選擇退出，就足以結束一段關係</code>。</li>
+<li>真正的愛不是<code>掌控</code>與<code>依賴</code>，而是<code>尊重</code>與<code>包容</code>。</li>
+</ul>
+<h4 id="6-老去篇：死亡無法抹去愛"><a href="#6-老去篇：死亡無法抹去愛" class="headerlink" title="6. 老去篇：死亡無法抹去愛"></a><strong>6. 老去篇：死亡無法抹去愛</strong></h4><ul>
+<li>失去所愛之人，並不意味著愛的消失，而是提醒我們<code>珍惜擁有的當下</code>。</li>
+<li>生命的意義，不在於逃避死亡，而在於<code>勇敢地活著</code>。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>戈登．李文斯頓博士以親身經歷和臨床觀察，為我們提供了一面人生的鏡子，提醒我們選擇勇敢、擁抱改變、珍惜愛與當下。這本書不只是關於療癒，更是關於活出更有力量的自己。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>這一生，你要體會的30件事</tag>
+        <tag>精神科醫師最犀利的人生告白</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《把生活過成賞心悅目的好日子：身心整理×極簡日常×居家風格，打造閃閃發光的自在質感生活》| 閱讀心得學習筆記</title>
     <url>/2025/02/05/reading-notes-to-live-to-exist/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-to-live-to-exist-1.jpg"></p>
@@ -3974,53 +4069,6 @@
         <tag>把生活過成賞心悅目的好日子</tag>
         <tag>身心整理×極簡日常×居家風格</tag>
         <tag>打造閃閃發光的自在質感生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》| 閱讀心得學習筆記</title>
-    <url>/2025/01/09/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》</span><br><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
-
-
-<blockquote>
-<p>「無論情況多麼絕望，人永遠不會沒有選擇。人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。」  </p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。本書由精神科醫師戈登．李文斯頓博士以自身經歷與診療室故事，萃取出30則人生智慧，幫助讀者正視恐懼、調適情緒、經營關係，並掌握人生主導權。這不只是一本療癒書，更是一場勇敢面對人生挑戰的啟發之旅。</p>
-<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-做自己：勇敢迎接未知"><a href="#1-做自己：勇敢迎接未知" class="headerlink" title="1. 做自己：勇敢迎接未知"></a><strong>1. 做自己：勇敢迎接未知</strong></h4><ul>
-<li><code>人生是一場賭局</code>，我們無法選擇手中的牌，<code>但能決定如何打好這副牌</code>。</li>
-<li><code>冒險</code>是成長的必要條件，害怕改變往往是最大的枷鎖。</li>
-</ul>
-<h4 id="2-勇氣篇：打破內心的牢籠"><a href="#2-勇氣篇：打破內心的牢籠" class="headerlink" title="2. 勇氣篇：打破內心的牢籠"></a><strong>2. 勇氣篇：打破內心的牢籠</strong></h4><ul>
-<li>最堅固的牢房是我們親手打造的，<code>恐懼與焦慮</code>常阻礙我們追尋快樂。</li>
-<li>勇敢不是沒有害怕，而是<code>即使害怕仍然前進</code>。</li>
-</ul>
-<h4 id="3-情緒篇：選擇希望而非絕望"><a href="#3-情緒篇：選擇希望而非絕望" class="headerlink" title="3. 情緒篇：選擇希望而非絕望"></a><strong>3. 情緒篇：選擇希望而非絕望</strong></h4><ul>
-<li><code>人生即使困難，仍有選擇的空間</code>，只要我們願意尋找新的可能。</li>
-<li><code>轉念</code>是關鍵，問題的核心往往不在事件本身，而在我們<code>如何看待它</code>。</li>
-</ul>
-<h4 id="4-關係篇：給孩子最好的禮物"><a href="#4-關係篇：給孩子最好的禮物" class="headerlink" title="4. 關係篇：給孩子最好的禮物"></a><strong>4. 關係篇：給孩子最好的禮物</strong></h4><ul>
-<li>教養的本質是讓孩子相信，<code>在這個世界上仍然能夠快樂生活</code>。</li>
-<li><code>陪伴與支持</code>，<code>比任何說教更能帶來安全感</code>。</li>
-</ul>
-<h4 id="5-愛情篇：如何愛與被愛"><a href="#5-愛情篇：如何愛與被愛" class="headerlink" title="5. 愛情篇：如何愛與被愛"></a><strong>5. 愛情篇：如何愛與被愛</strong></h4><ul>
-<li>婚姻需要<code>雙方共同經營</code>，但<code>只要一方選擇退出，就足以結束一段關係</code>。</li>
-<li>真正的愛不是<code>掌控</code>與<code>依賴</code>，而是<code>尊重</code>與<code>包容</code>。</li>
-</ul>
-<h4 id="6-老去篇：死亡無法抹去愛"><a href="#6-老去篇：死亡無法抹去愛" class="headerlink" title="6. 老去篇：死亡無法抹去愛"></a><strong>6. 老去篇：死亡無法抹去愛</strong></h4><ul>
-<li>失去所愛之人，並不意味著愛的消失，而是提醒我們<code>珍惜擁有的當下</code>。</li>
-<li>生命的意義，不在於逃避死亡，而在於<code>勇敢地活著</code>。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>戈登．李文斯頓博士以親身經歷和臨床觀察，為我們提供了一面人生的鏡子，提醒我們選擇勇敢、擁抱改變、珍惜愛與當下。這本書不只是關於療癒，更是關於活出更有力量的自己。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>這一生，你要體會的30件事</tag>
-        <tag>精神科醫師最犀利的人生告白</tag>
       </tags>
   </entry>
   <entry>
