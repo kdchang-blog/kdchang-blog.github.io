@@ -2,7 +2,7 @@
 layout: "about"
 title: "Bookstores"
 header-img: "img/books-bg.jpg"
-description: "Welcome Life Bookstore."
+description: "Welcome to Life Bookstore."
 ---
 
 <br>
