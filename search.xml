@@ -343,97 +343,6 @@
       </tags>
   </entry>
   <entry>
-    <title>產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽</title>
-    <url>/2024/05/27/product-manager-career-development-notes-01-overview/</url>
-    <content><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><p>Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 <code>outcome</code> 而非 <code>output</code> 並管理整個產品生命週期（<code>發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現</code>）。在目前許多數位科技公司（網路軟體公司）：設計師、工程師和產品經理三人合稱產品三劍客。</p>
-<h2 id="PM-新人入職-90-天"><a href="#PM-新人入職-90-天" class="headerlink" title="PM 新人入職 90 天"></a>PM 新人入職 90 天</h2><blockquote>
-<p>偉大和優秀的 PM 取決於你規劃和發表的產品是否偉大，是否有解決市場問題的能力。</p>
-</blockquote>
-<p>Product Manager 產品經理新人入職 90 天代表著是試用期，同時也是考驗著 PM 是否能融入公司和團隊的文化和工作流程並贏得其他同事的信任以及學習的黃金期。</p>
-<ol>
-<li>花點時間了解公司、團隊和文化</li>
-<li>了解你的產品和客戶</li>
-<li>符合別人對你角色的期望</li>
-<li>與主管和同事一起擬定你的入職計畫和時間表</li>
-<li>與主管和同事建立牢固的人際關係</li>
-<li>贏得聲望和認可</li>
-<li>把握新手時間多詢問</li>
-</ol>
-<h1 id="PM-技能樹"><a href="#PM-技能樹" class="headerlink" title="PM 技能樹"></a>PM 技能樹</h1><h2 id="一、產品技能"><a href="#一、產品技能" class="headerlink" title="一、產品技能"></a>一、產品技能</h2><h3 id="1-User-使用者見解和洞察"><a href="#1-User-使用者見解和洞察" class="headerlink" title="1. User 使用者見解和洞察"></a>1. User 使用者見解和洞察</h3><p>理解使用者需求，了解想要用產品來解決的問題。如何蒐集使用者資料並往下挖掘最佳見解。</p>
-<p>常見的概念與框架：</p>
-<p>(1) Jobs To Be Done（JTBD）待辦工作框架</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">當我 &lt;情況&gt; 時，我想要 &lt;動機&gt;。如此一來，我就可以 &lt;期待結果&gt;</span><br></pre></td></tr></table></figure>
-
-<p>(2) 客戶旅程（Customer Journey）：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">覺察（Awareness）、考慮（Consideration）、購買（Purchase）、持有（Retention）、推廣（Advocacy）</span><br></pre></td></tr></table></figure>
-
-<p>(3) 使用者故事 User Story：</p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">As a ______, I want to ______, so that ______.</span><br><span class="line">身為 ___&lt;使用者角色&gt;___，我需要 ___&lt;做某件事情&gt;___，因為 ___&lt;想解決某個問題&gt;___。</span><br></pre></td></tr></table></figure>
-
-<h3 id="2-Data-資料洞察見解和決策"><a href="#2-Data-資料洞察見解和決策" class="headerlink" title="2. Data 資料洞察見解和決策"></a>2. Data 資料洞察見解和決策</h3><p>如何審核資料、設定產品北極星（North Star）、分析資料並運資料做出更好的決策。同時檢視公司指標、A&#x2F;B 測試和統計資料並在產品上線後建立指標（metrics）進行監控（monitor）。</p>
-<h3 id="3-Analytics-分析性問題解決問題能力"><a href="#3-Analytics-分析性問題解決問題能力" class="headerlink" title="3. Analytics 分析性問題解決問題能力"></a>3. Analytics 分析性問題解決問題能力</h3><p>透過系統框架，幫助做出更好的決策，系統性分析並解決複雜的問題。</p>
-<h3 id="4-Design-產品設計與技能"><a href="#4-Design-產品設計與技能" class="headerlink" title="4. Design 產品設計與技能"></a>4. Design 產品設計與技能</h3><p>發展產品思維，以及推動產品決策的能力。學習 protoptype、Brainstorming 以及決定產品優先順序（Prioritization）。</p>
-<h3 id="5-Tech-技術技能"><a href="#5-Tech-技術技能" class="headerlink" title="5. Tech 技術技能"></a>5. Tech 技術技能</h3><p>學習如何與工程師合作，估計開發成本，技術專有名詞：API、部屬、SQL 和演算法。</p>
-<h3 id="6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件"><a href="#6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件" class="headerlink" title="6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件"></a>6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件</h3><p>學習如何撰寫 spec、BRD&#x2F;MRD&#x2F;PRD 等文件，將需求轉換成文件。</p>
-<h2 id="二、執行技能"><a href="#二、執行技能" class="headerlink" title="二、執行技能"></a>二、執行技能</h2><h3 id="1-Project-Management-專案管理技能"><a href="#1-Project-Management-專案管理技能" class="headerlink" title="1. Project Management 專案管理技能"></a>1. Project Management 專案管理技能</h3><p>如何規劃專案並讓它保持在正軌上，學習 Agile 敏捷開發、Lean、Scrum、Kanban，提高團隊的速度的最佳實踐。</p>
-<h3 id="2-界定範圍和漸進式開發"><a href="#2-界定範圍和漸進式開發" class="headerlink" title="2. 界定範圍和漸進式開發"></a>2. 界定範圍和漸進式開發</h3><p>如何將工作拆分為多個發行版本，從而更快速且更成功地發行（launch）。學習最簡單可行性產品（MVP），以及真正讓使用者使用的產品。</p>
-<h3 id="3-產品發表"><a href="#3-產品發表" class="headerlink" title="3. 產品發表"></a>3. 產品發表</h3><p>如何準備發表日，你將學習如何選擇發表日期並將發表檢查清單納入細節並討論各種發表策略。</p>
-<h3 id="4-把事情做完"><a href="#4-把事情做完" class="headerlink" title="4. 把事情做完"></a>4. 把事情做完</h3><p>管理時間和克服障礙，學習 4D 框架，以及如何與遠端團隊高效地工作。</p>
-<h2 id="三、策略技能"><a href="#三、策略技能" class="headerlink" title="三、策略技能"></a>三、策略技能</h2><h3 id="產品策略概述"><a href="#產品策略概述" class="headerlink" title="產品策略概述"></a>產品策略概述</h3><p>學習了解什麼是策略，以及策略的涵義。包含策略三元素和制定策略的框架。</p>
-<h3 id="願景"><a href="#願景" class="headerlink" title="願景"></a>願景</h3><p>如何為產品建立一個令人嚮往的願景。學習如何逆向工作框架，看看遠大的願景如何協助團隊成功。</p>
-<h3 id="策略框架"><a href="#策略框架" class="headerlink" title="策略框架"></a>策略框架</h3><p>學習將願景和市場連結起來，創造成功的產品。學習 4P、5C 和 Porter 五力分析等框架。</p>
-<h3 id="路線圖和優先順序"><a href="#路線圖和優先順序" class="headerlink" title="路線圖和優先順序"></a>路線圖和優先順序</h3><h3 id="團隊目標"><a href="#團隊目標" class="headerlink" title="團隊目標"></a>團隊目標</h3><p>建立有效目標來激勵團隊。學習 OKR 等指標以及設定目標。</p>
-<h2 id="四、領導技能"><a href="#四、領導技能" class="headerlink" title="四、領導技能"></a>四、領導技能</h2><h3 id="個人心態"><a href="#個人心態" class="headerlink" title="個人心態"></a>個人心態</h3><p>學習克服阻礙成為偉大 PM 的心理陷阱，我們將學習成長心態、成熟度、無我和冒牌者症候群。</p>
-<h3 id="協作"><a href="#協作" class="headerlink" title="協作"></a>協作</h3><p>學習如何和夥伴共事，我們將學習如何化解衝突、心理安全感和個性差異。</p>
-<h3 id="不動用權威的影響力"><a href="#不動用權威的影響力" class="headerlink" title="不動用權威的影響力"></a>不動用權威的影響力</h3><p>學習利害關係人管理以及如何推動決策。</p>
-<h3 id="溝通"><a href="#溝通" class="headerlink" title="溝通"></a>溝通</h3><p>學習如何書面對話、現場對話以及如何推動決策。</p>
-<h3 id="激勵與啟發"><a href="#激勵與啟發" class="headerlink" title="激勵與啟發"></a>激勵與啟發</h3><p>如何保持團隊積極度，學習內在動機和外在動機，以及在關鍵時刻該怎麼做。</p>
-<h3 id="所有權心態"><a href="#所有權心態" class="headerlink" title="所有權心態"></a>所有權心態</h3><p>學習如何為團隊和產品負全責。學習如何填補空白，並在產品團隊外做出貢獻。</p>
-<h3 id="輔導"><a href="#輔導" class="headerlink" title="輔導"></a>輔導</h3><p>教我們輔導他人。學習學徒制、支持學員以及給予回饋。</p>
-<h3 id="與其他部門的共事"><a href="#與其他部門的共事" class="headerlink" title="與其他部門的共事"></a>與其他部門的共事</h3><p>深入討論如何與設計師、工程師和高層共事，學習如何建立信任關係。</p>
-<h2 id="五、人事管理技能"><a href="#五、人事管理技能" class="headerlink" title="五、人事管理技能"></a>五、人事管理技能</h2><h3 id="成為人事經理"><a href="#成為人事經理" class="headerlink" title="成為人事經理"></a>成為人事經理</h3><p>將幫助你了解是否要進入管理層，如何邁出第一步，以及公司如何選擇新的經理。</p>
-<h3 id="PM-經理的新領導技能"><a href="#PM-經理的新領導技能" class="headerlink" title="PM 經理的新領導技能"></a>PM 經理的新領導技能</h3><p>如何成為領導團隊一員。負起責任、學習溝通。</p>
-<h3 id="教導和培養"><a href="#教導和培養" class="headerlink" title="教導和培養"></a>教導和培養</h3><p>學習如何幫助團隊成員成長和發展技能，學習個人發展計畫，指派專案和評估績效。</p>
-<h3 id="建立團隊"><a href="#建立團隊" class="headerlink" title="建立團隊"></a>建立團隊</h3><p>如何招募優秀的 PM，學習設計面試流程、說服吸引人選，如何尋找人選。</p>
-<h3 id="組織卓越"><a href="#組織卓越" class="headerlink" title="組織卓越"></a>組織卓越</h3><p>設計一個良好運作的產品組織，學習產品流程、團隊文化和組織設計。</p>
-<h1 id="常見-PM-技能"><a href="#常見-PM-技能" class="headerlink" title="常見 PM 技能"></a>常見 PM 技能</h1><ol>
-<li>Communication</li>
-<li>Execution</li>
-<li>Product sense</li>
-<li>Strategic thinking</li>
-<li>Collaboration</li>
-<li>Data acumen</li>
-<li>Technical</li>
-<li>Business acumen</li>
-<li>Raw intelligence</li>
-<li>Empathy</li>
-<li>Design&#x2F;UX</li>
-</ol>
-<h1 id="提升-Product-sense-方法"><a href="#提升-Product-sense-方法" class="headerlink" title="提升 Product sense 方法"></a>提升 Product sense 方法</h1><p>一、Observe People Interaction with Products<br>二、 Deconstructing Everyday product</p>
-<h1 id="市場推論"><a href="#市場推論" class="headerlink" title="市場推論"></a>市場推論</h1><p>費米推論的思考五步驟：「定義問題、思考解法、列出算式、計算檢果、檢驗數據」，當您面對無處著力的問題時，就可以借助這五個步驟，像剝洋蔥一般層層思考。學會這五個步驟，就能培養把大問題分解為小問題的「費米化」能力，不僅能提升職場的問題解決力，還會讓主管覺得你的簡報、數據很有道理。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li>
-<li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li>
-<li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li>
-<li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li>
-<li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li>
-<li><a href="https://hahow.in/contents/articles/60a72a1f328ad057e2d9a5c0">老闆：「下班前給我競品分析！」實戰產品經理要會的生存技：快速做出競品分析</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>Project Manager</tag>
-        <tag>Program Manager</tag>
-        <tag>專案經理</tag>
-        <tag>PM</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學</title>
     <url>/2024/05/23/llm-rag-app-notes/</url>
     <content><![CDATA[<p>擷取擴增產生&#x2F;檢索增強生成（Retrieval-Augmented Generation, RAG）是一種結合檢索和生成技術的混合模型，用於改善文本生成任務的性能。這種方法能夠在生成文本時引入外部知識，從而生成更準確和上下文相關的內容。以下是對 RAG 的詳細介紹：</p>
@@ -526,6 +435,97 @@
         <tag>Retrieval-Augmented Generation</tag>
         <tag>擷取擴增產生</tag>
         <tag>檢索增強生成</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽</title>
+    <url>/2024/05/27/product-manager-career-development-notes-01-overview/</url>
+    <content><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><p>Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 <code>outcome</code> 而非 <code>output</code> 並管理整個產品生命週期（<code>發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現</code>）。在目前許多數位科技公司（網路軟體公司）：設計師、工程師和產品經理三人合稱產品三劍客。</p>
+<h2 id="PM-新人入職-90-天"><a href="#PM-新人入職-90-天" class="headerlink" title="PM 新人入職 90 天"></a>PM 新人入職 90 天</h2><blockquote>
+<p>偉大和優秀的 PM 取決於你規劃和發表的產品是否偉大，是否有解決市場問題的能力。</p>
+</blockquote>
+<p>Product Manager 產品經理新人入職 90 天代表著是試用期，同時也是考驗著 PM 是否能融入公司和團隊的文化和工作流程並贏得其他同事的信任以及學習的黃金期。</p>
+<ol>
+<li>花點時間了解公司、團隊和文化</li>
+<li>了解你的產品和客戶</li>
+<li>符合別人對你角色的期望</li>
+<li>與主管和同事一起擬定你的入職計畫和時間表</li>
+<li>與主管和同事建立牢固的人際關係</li>
+<li>贏得聲望和認可</li>
+<li>把握新手時間多詢問</li>
+</ol>
+<h1 id="PM-技能樹"><a href="#PM-技能樹" class="headerlink" title="PM 技能樹"></a>PM 技能樹</h1><h2 id="一、產品技能"><a href="#一、產品技能" class="headerlink" title="一、產品技能"></a>一、產品技能</h2><h3 id="1-User-使用者見解和洞察"><a href="#1-User-使用者見解和洞察" class="headerlink" title="1. User 使用者見解和洞察"></a>1. User 使用者見解和洞察</h3><p>理解使用者需求，了解想要用產品來解決的問題。如何蒐集使用者資料並往下挖掘最佳見解。</p>
+<p>常見的概念與框架：</p>
+<p>(1) Jobs To Be Done（JTBD）待辦工作框架</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">當我 &lt;情況&gt; 時，我想要 &lt;動機&gt;。如此一來，我就可以 &lt;期待結果&gt;</span><br></pre></td></tr></table></figure>
+
+<p>(2) 客戶旅程（Customer Journey）：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">覺察（Awareness）、考慮（Consideration）、購買（Purchase）、持有（Retention）、推廣（Advocacy）</span><br></pre></td></tr></table></figure>
+
+<p>(3) 使用者故事 User Story：</p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">As a ______, I want to ______, so that ______.</span><br><span class="line">身為 ___&lt;使用者角色&gt;___，我需要 ___&lt;做某件事情&gt;___，因為 ___&lt;想解決某個問題&gt;___。</span><br></pre></td></tr></table></figure>
+
+<h3 id="2-Data-資料洞察見解和決策"><a href="#2-Data-資料洞察見解和決策" class="headerlink" title="2. Data 資料洞察見解和決策"></a>2. Data 資料洞察見解和決策</h3><p>如何審核資料、設定產品北極星（North Star）、分析資料並運資料做出更好的決策。同時檢視公司指標、A&#x2F;B 測試和統計資料並在產品上線後建立指標（metrics）進行監控（monitor）。</p>
+<h3 id="3-Analytics-分析性問題解決問題能力"><a href="#3-Analytics-分析性問題解決問題能力" class="headerlink" title="3. Analytics 分析性問題解決問題能力"></a>3. Analytics 分析性問題解決問題能力</h3><p>透過系統框架，幫助做出更好的決策，系統性分析並解決複雜的問題。</p>
+<h3 id="4-Design-產品設計與技能"><a href="#4-Design-產品設計與技能" class="headerlink" title="4. Design 產品設計與技能"></a>4. Design 產品設計與技能</h3><p>發展產品思維，以及推動產品決策的能力。學習 protoptype、Brainstorming 以及決定產品優先順序（Prioritization）。</p>
+<h3 id="5-Tech-技術技能"><a href="#5-Tech-技術技能" class="headerlink" title="5. Tech 技術技能"></a>5. Tech 技術技能</h3><p>學習如何與工程師合作，估計開發成本，技術專有名詞：API、部屬、SQL 和演算法。</p>
+<h3 id="6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件"><a href="#6-BRD-x2F-MRD-x2F-PRD-撰寫產品文件" class="headerlink" title="6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件"></a>6. BRD&#x2F;MRD&#x2F;PRD 撰寫產品文件</h3><p>學習如何撰寫 spec、BRD&#x2F;MRD&#x2F;PRD 等文件，將需求轉換成文件。</p>
+<h2 id="二、執行技能"><a href="#二、執行技能" class="headerlink" title="二、執行技能"></a>二、執行技能</h2><h3 id="1-Project-Management-專案管理技能"><a href="#1-Project-Management-專案管理技能" class="headerlink" title="1. Project Management 專案管理技能"></a>1. Project Management 專案管理技能</h3><p>如何規劃專案並讓它保持在正軌上，學習 Agile 敏捷開發、Lean、Scrum、Kanban，提高團隊的速度的最佳實踐。</p>
+<h3 id="2-界定範圍和漸進式開發"><a href="#2-界定範圍和漸進式開發" class="headerlink" title="2. 界定範圍和漸進式開發"></a>2. 界定範圍和漸進式開發</h3><p>如何將工作拆分為多個發行版本，從而更快速且更成功地發行（launch）。學習最簡單可行性產品（MVP），以及真正讓使用者使用的產品。</p>
+<h3 id="3-產品發表"><a href="#3-產品發表" class="headerlink" title="3. 產品發表"></a>3. 產品發表</h3><p>如何準備發表日，你將學習如何選擇發表日期並將發表檢查清單納入細節並討論各種發表策略。</p>
+<h3 id="4-把事情做完"><a href="#4-把事情做完" class="headerlink" title="4. 把事情做完"></a>4. 把事情做完</h3><p>管理時間和克服障礙，學習 4D 框架，以及如何與遠端團隊高效地工作。</p>
+<h2 id="三、策略技能"><a href="#三、策略技能" class="headerlink" title="三、策略技能"></a>三、策略技能</h2><h3 id="產品策略概述"><a href="#產品策略概述" class="headerlink" title="產品策略概述"></a>產品策略概述</h3><p>學習了解什麼是策略，以及策略的涵義。包含策略三元素和制定策略的框架。</p>
+<h3 id="願景"><a href="#願景" class="headerlink" title="願景"></a>願景</h3><p>如何為產品建立一個令人嚮往的願景。學習如何逆向工作框架，看看遠大的願景如何協助團隊成功。</p>
+<h3 id="策略框架"><a href="#策略框架" class="headerlink" title="策略框架"></a>策略框架</h3><p>學習將願景和市場連結起來，創造成功的產品。學習 4P、5C 和 Porter 五力分析等框架。</p>
+<h3 id="路線圖和優先順序"><a href="#路線圖和優先順序" class="headerlink" title="路線圖和優先順序"></a>路線圖和優先順序</h3><h3 id="團隊目標"><a href="#團隊目標" class="headerlink" title="團隊目標"></a>團隊目標</h3><p>建立有效目標來激勵團隊。學習 OKR 等指標以及設定目標。</p>
+<h2 id="四、領導技能"><a href="#四、領導技能" class="headerlink" title="四、領導技能"></a>四、領導技能</h2><h3 id="個人心態"><a href="#個人心態" class="headerlink" title="個人心態"></a>個人心態</h3><p>學習克服阻礙成為偉大 PM 的心理陷阱，我們將學習成長心態、成熟度、無我和冒牌者症候群。</p>
+<h3 id="協作"><a href="#協作" class="headerlink" title="協作"></a>協作</h3><p>學習如何和夥伴共事，我們將學習如何化解衝突、心理安全感和個性差異。</p>
+<h3 id="不動用權威的影響力"><a href="#不動用權威的影響力" class="headerlink" title="不動用權威的影響力"></a>不動用權威的影響力</h3><p>學習利害關係人管理以及如何推動決策。</p>
+<h3 id="溝通"><a href="#溝通" class="headerlink" title="溝通"></a>溝通</h3><p>學習如何書面對話、現場對話以及如何推動決策。</p>
+<h3 id="激勵與啟發"><a href="#激勵與啟發" class="headerlink" title="激勵與啟發"></a>激勵與啟發</h3><p>如何保持團隊積極度，學習內在動機和外在動機，以及在關鍵時刻該怎麼做。</p>
+<h3 id="所有權心態"><a href="#所有權心態" class="headerlink" title="所有權心態"></a>所有權心態</h3><p>學習如何為團隊和產品負全責。學習如何填補空白，並在產品團隊外做出貢獻。</p>
+<h3 id="輔導"><a href="#輔導" class="headerlink" title="輔導"></a>輔導</h3><p>教我們輔導他人。學習學徒制、支持學員以及給予回饋。</p>
+<h3 id="與其他部門的共事"><a href="#與其他部門的共事" class="headerlink" title="與其他部門的共事"></a>與其他部門的共事</h3><p>深入討論如何與設計師、工程師和高層共事，學習如何建立信任關係。</p>
+<h2 id="五、人事管理技能"><a href="#五、人事管理技能" class="headerlink" title="五、人事管理技能"></a>五、人事管理技能</h2><h3 id="成為人事經理"><a href="#成為人事經理" class="headerlink" title="成為人事經理"></a>成為人事經理</h3><p>將幫助你了解是否要進入管理層，如何邁出第一步，以及公司如何選擇新的經理。</p>
+<h3 id="PM-經理的新領導技能"><a href="#PM-經理的新領導技能" class="headerlink" title="PM 經理的新領導技能"></a>PM 經理的新領導技能</h3><p>如何成為領導團隊一員。負起責任、學習溝通。</p>
+<h3 id="教導和培養"><a href="#教導和培養" class="headerlink" title="教導和培養"></a>教導和培養</h3><p>學習如何幫助團隊成員成長和發展技能，學習個人發展計畫，指派專案和評估績效。</p>
+<h3 id="建立團隊"><a href="#建立團隊" class="headerlink" title="建立團隊"></a>建立團隊</h3><p>如何招募優秀的 PM，學習設計面試流程、說服吸引人選，如何尋找人選。</p>
+<h3 id="組織卓越"><a href="#組織卓越" class="headerlink" title="組織卓越"></a>組織卓越</h3><p>設計一個良好運作的產品組織，學習產品流程、團隊文化和組織設計。</p>
+<h1 id="常見-PM-技能"><a href="#常見-PM-技能" class="headerlink" title="常見 PM 技能"></a>常見 PM 技能</h1><ol>
+<li>Communication</li>
+<li>Execution</li>
+<li>Product sense</li>
+<li>Strategic thinking</li>
+<li>Collaboration</li>
+<li>Data acumen</li>
+<li>Technical</li>
+<li>Business acumen</li>
+<li>Raw intelligence</li>
+<li>Empathy</li>
+<li>Design&#x2F;UX</li>
+</ol>
+<h1 id="提升-Product-sense-方法"><a href="#提升-Product-sense-方法" class="headerlink" title="提升 Product sense 方法"></a>提升 Product sense 方法</h1><p>一、Observe People Interaction with Products<br>二、 Deconstructing Everyday product</p>
+<h1 id="市場推論"><a href="#市場推論" class="headerlink" title="市場推論"></a>市場推論</h1><p>費米推論的思考五步驟：「定義問題、思考解法、列出算式、計算檢果、檢驗數據」，當您面對無處著力的問題時，就可以借助這五個步驟，像剝洋蔥一般層層思考。學會這五個步驟，就能培養把大問題分解為小問題的「費米化」能力，不僅能提升職場的問題解決力，還會讓主管覺得你的簡報、數據很有道理。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://www.productplan.com/learn/product-manager-first-30-days/">12 Things Every Product Manager Should Do in Their First 30 Days at a New Company</a></li>
+<li><a href="https://www.productplan.com/learn/product-manager-interview-questions/">11 Revealing Product Manager Interview Questions</a></li>
+<li><a href="https://productschool.com/blog/job-search/the-ultimate-list-product-manager-interview-questions">The Ultimate List of 72 Product Manager Interview Questions</a></li>
+<li><a href="https://www.coursera.org/articles/product-manager-interview-questions">15 Product Manager Interview Questions to Help You Prepare</a></li>
+<li><a href="https://www.atlassian.com/agile/product-management">Atlassian Agile Product Management</a></li>
+<li><a href="https://hahow.in/contents/articles/60a72a1f328ad057e2d9a5c0">老闆：「下班前給我競品分析！」實戰產品經理要會的生存技：快速做出競品分析</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>Project Manager</tag>
+        <tag>Program Manager</tag>
+        <tag>專案經理</tag>
+        <tag>PM</tag>
       </tags>
   </entry>
   <entry>
@@ -693,39 +693,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》| 閱讀心得學習筆記</title>
-    <url>/2017/09/26/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》</span><br><span class="line">作者： 莎拉‧古柏  </span><br><span class="line">原文作者： Sarah Cooper</span><br><span class="line">譯者： 陳重亨</span><br><span class="line">出版社：時報出版  </span><br><span class="line">出版日期：2017/09/26</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「開會是讓你展示領導才能、軟實力和大腦分析創造思考能力的好機會，你在開會的時候表現得越聰明，就會有越多人找你去開會，那麼你表現出聰明的機會也就越多。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代職場中，開會幾乎是每日必經的儀式。面對冗長、空洞又充滿競爭氣味的會議，新人往往束手無策，而老鳥也未必能掌控全場。前 Yahoo! 與 Google 主管莎拉．古柏的《這樣開會，最聰明！》以幽默諷刺的手法，揭露那些表面「看起來很聰明」的行為，實則是職場生存的潛規則。本書不僅是一本工具書，更像是一本職場生存手冊，讓讀者在會議中看起來「比實際聰明三倍」。</p>
-<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>進入會議室的第一印象策略</strong>：包括帶著筆記本、坐在適當位置、適時點頭等看似微不足道卻效果驚人的舉動。  </li>
-<li><strong>白板技巧與圖表魔法</strong>：善用毫無意義但看起來很「複雜」的圖形，展現邏輯與思考能力。  </li>
-<li><strong>電話與遠距會議密技</strong>：透過問候語與檔案確認等語言小技巧，在聲音中塑造專業感。  </li>
-<li><strong>跨文化會議指南</strong>：各國開會文化不同，美國偏行動、日本偏委婉、英國愛抱怨制度，理解這些差異可避免文化衝突。  </li>
-<li><strong>臨場應變絕招</strong>：例如臨時發言時，善用「我補充一下」或「讓我們回到原始目標」等話術來顯得有貢獻。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否太過依賴形式來衡量一個人的「專業度」？</li>
-<li>看起來「聰明」是否比實際「聰明」更容易在職場中獲得信任與晉升？</li>
-<li>書中所揭示的行為，究竟是諷刺還是反映真實？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《這樣開會，最聰明！》不只是一本搞笑的開會指南，而是對職場文化的精準觀察與反思。透過作者的幽默筆觸，我們得以重新審視那些「看起來很努力」的假象與潛藏的生存智慧。無論你是新鮮人還是資深主管，都能從書中找到自嘲與提升的空間。這是一本用笑聲包裝的職場真言書，教你在會議中「看起來像個專家」，也許就是你職涯邁向 A 咖的第一步。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《薩提爾的 52 個冥想練習：覺察內在的冰山，跟自己和解，與他人共好》| 閱讀心得學習筆記</title>
     <url>/2023/01/04/reading-notes-52-satir-meditation-practices/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-52-satir-meditation-practices-1.jpg"></p>
@@ -765,6 +732,39 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>薩提爾</tag>
         <tag>薩提爾的 52 個冥想練習</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》| 閱讀心得學習筆記</title>
+    <url>/2017/09/26/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》</span><br><span class="line">作者： 莎拉‧古柏  </span><br><span class="line">原文作者： Sarah Cooper</span><br><span class="line">譯者： 陳重亨</span><br><span class="line">出版社：時報出版  </span><br><span class="line">出版日期：2017/09/26</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「開會是讓你展示領導才能、軟實力和大腦分析創造思考能力的好機會，你在開會的時候表現得越聰明，就會有越多人找你去開會，那麼你表現出聰明的機會也就越多。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代職場中，開會幾乎是每日必經的儀式。面對冗長、空洞又充滿競爭氣味的會議，新人往往束手無策，而老鳥也未必能掌控全場。前 Yahoo! 與 Google 主管莎拉．古柏的《這樣開會，最聰明！》以幽默諷刺的手法，揭露那些表面「看起來很聰明」的行為，實則是職場生存的潛規則。本書不僅是一本工具書，更像是一本職場生存手冊，讓讀者在會議中看起來「比實際聰明三倍」。</p>
+<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>進入會議室的第一印象策略</strong>：包括帶著筆記本、坐在適當位置、適時點頭等看似微不足道卻效果驚人的舉動。  </li>
+<li><strong>白板技巧與圖表魔法</strong>：善用毫無意義但看起來很「複雜」的圖形，展現邏輯與思考能力。  </li>
+<li><strong>電話與遠距會議密技</strong>：透過問候語與檔案確認等語言小技巧，在聲音中塑造專業感。  </li>
+<li><strong>跨文化會議指南</strong>：各國開會文化不同，美國偏行動、日本偏委婉、英國愛抱怨制度，理解這些差異可避免文化衝突。  </li>
+<li><strong>臨場應變絕招</strong>：例如臨時發言時，善用「我補充一下」或「讓我們回到原始目標」等話術來顯得有貢獻。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否太過依賴形式來衡量一個人的「專業度」？</li>
+<li>看起來「聰明」是否比實際「聰明」更容易在職場中獲得信任與晉升？</li>
+<li>書中所揭示的行為，究竟是諷刺還是反映真實？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《這樣開會，最聰明！》不只是一本搞笑的開會指南，而是對職場文化的精準觀察與反思。透過作者的幽默筆觸，我們得以重新審視那些「看起來很努力」的假象與潛藏的生存智慧。無論你是新鮮人還是資深主管，都能從書中找到自嘲與提升的空間。這是一本用笑聲包裝的職場真言書，教你在會議中「看起來像個專家」，也許就是你職涯邁向 A 咖的第一步。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！</tag>
       </tags>
   </entry>
   <entry>
@@ -2014,37 +2014,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《持續買進：資料科學家的投資終極解答，存錢及致富的實證方法》 | 閱讀心得學習筆記</title>
-    <url>/2023/05/30/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《持續買進：資料科學家的投資終極解答，存錢及致富的實證方法》</span><br><span class="line">Just Keep Buying: Proven Ways to Save Money And Build Your Wealth</span><br><span class="line">作者： 尼克．馬朱利  </span><br><span class="line">原文作者： Nick Maggiulli</span><br><span class="line">譯者： 李芳齡</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「持續買進，才能持續致富。持續買進的力量，就像原子習慣一樣強大。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書持續買進，由資料科學家尼克·馬朱利撰寫，以數據分析顛覆傳統投資觀念，指出「逢低買進」並非致富捷徑，反而「持續買進」才是長期累積財富的不敗法則。作者以數據證據破解常見投資迷思，提供務實可行的理財建議，適合新手及有經驗的投資者閱讀。</p>
-<p><img src="/img/posts/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>持續買進（DCA）</strong>：不論牛市或熊市，穩定投入資金參與市場，讓複利發揮最大效益。  </li>
-<li><strong>抄底風險</strong>：等待低點可能錯失市場上漲良機，長期績效落後於持續投資。  </li>
-<li><strong>大盤 ETF 勝於個股</strong>：歷史數據顯示，僅 4% 個股長期表現優於國債，分散風險才是王道。</li>
-<li><strong>大跌是機會</strong>：市場大幅修正後，長期報酬率反而更佳，不須恐慌。</li>
-<li><strong>買房不一定是好投資</strong>：長期投入股市指數基金，報酬率遠勝房地產。</li>
-<li><strong>財務自由不等於幸福</strong>：FIRE 雖可實現，但退休後仍需找到生活意義。</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>持續買進強調數據為本，以簡單可行的「持續投資」策略，幫助普通人穩健累積財富，戰勝市場不確定性，是理財路上的實用指南。</p>
-]]></content>
-      <tags>
-        <tag>finance</tag>
-        <tag>持續買進</tag>
-        <tag>資料科學家的投資終極解答</tag>
-        <tag>存錢及致富的實證方法</tag>
-        <tag>投資理財</tag>
-        <tag>investment</tag>
-        <tag>money</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《親密恐懼：為什麼我們無法好好愛人，好好被愛？》| 閱讀心得學習筆記</title>
     <url>/2023/11/27/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly-1.jpg"></p>
@@ -2089,6 +2058,37 @@
         <tag>不幸的人做情緒的奴隸</tag>
         <tag>理情行為治療</tag>
         <tag>亞伯‧艾里斯</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《持續買進：資料科學家的投資終極解答，存錢及致富的實證方法》 | 閱讀心得學習筆記</title>
+    <url>/2023/05/30/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《持續買進：資料科學家的投資終極解答，存錢及致富的實證方法》</span><br><span class="line">Just Keep Buying: Proven Ways to Save Money And Build Your Wealth</span><br><span class="line">作者： 尼克．馬朱利  </span><br><span class="line">原文作者： Nick Maggiulli</span><br><span class="line">譯者： 李芳齡</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「持續買進，才能持續致富。持續買進的力量，就像原子習慣一樣強大。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書持續買進，由資料科學家尼克·馬朱利撰寫，以數據分析顛覆傳統投資觀念，指出「逢低買進」並非致富捷徑，反而「持續買進」才是長期累積財富的不敗法則。作者以數據證據破解常見投資迷思，提供務實可行的理財建議，適合新手及有經驗的投資者閱讀。</p>
+<p><img src="/img/posts/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>持續買進（DCA）</strong>：不論牛市或熊市，穩定投入資金參與市場，讓複利發揮最大效益。  </li>
+<li><strong>抄底風險</strong>：等待低點可能錯失市場上漲良機，長期績效落後於持續投資。  </li>
+<li><strong>大盤 ETF 勝於個股</strong>：歷史數據顯示，僅 4% 個股長期表現優於國債，分散風險才是王道。</li>
+<li><strong>大跌是機會</strong>：市場大幅修正後，長期報酬率反而更佳，不須恐慌。</li>
+<li><strong>買房不一定是好投資</strong>：長期投入股市指數基金，報酬率遠勝房地產。</li>
+<li><strong>財務自由不等於幸福</strong>：FIRE 雖可實現，但退休後仍需找到生活意義。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>持續買進強調數據為本，以簡單可行的「持續投資」策略，幫助普通人穩健累積財富，戰勝市場不確定性，是理財路上的實用指南。</p>
+]]></content>
+      <tags>
+        <tag>finance</tag>
+        <tag>持續買進</tag>
+        <tag>資料科學家的投資終極解答</tag>
+        <tag>存錢及致富的實證方法</tag>
+        <tag>投資理財</tag>
+        <tag>investment</tag>
+        <tag>money</tag>
       </tags>
   </entry>
   <entry>
@@ -2876,6 +2876,57 @@
       </tags>
   </entry>
   <entry>
+    <title>《蓋洛威教授的人生經濟學：掌握機會成本與市場法則，明智選擇職涯與發展關係，人生不焦慮、不匱乏》| 閱讀心得學習筆記</title>
+    <url>/2025/06/04/reading-notes-reading-notes-the-algebra-of-happiness/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-algebra-of-happiness-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《蓋洛威教授的人生經濟學：掌握機會成本與市場法則，明智選擇職涯與發展關係，人生不焦慮、不匱乏》</span><br><span class="line">作者： 史考特・蓋洛威</span><br><span class="line">原文作者： Scott Galloway</span><br><span class="line">譯者： 吳芠</span><br><span class="line">出版社：天下雜誌</span><br><span class="line">出版日期：2025/06/04</span><br></pre></td></tr></table></figure>
+
+<p>「你是否曾因選擇太多，而感到人生失去了方向？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「每一次選擇，你都在投資自己的未來。成功的第一步，就是認清現實：你不會成為巴菲特，也不會有以你為名的香水。人生最終極的成就，就是懂得為你愛的人付出，也有能力照顧你愛的人。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個選項爆炸的時代，做決策不再只是選好與壞，而是「選最值得投資的選擇」。史考特・蓋洛威教授以自身創業與教學經驗，將資源配置的概念落實到職涯、財富、關係等面向，給予讀者一套現實、實用且深具啟發性的人生導航指南。</p>
+<p><img src="/img/posts/reading-notes-the-algebra-of-happiness-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>人生的困難來自資源有限與選項無限，選擇即投資。</li>
+<li>成功的第一步是認清現實與限制，不要盲目追隨熱情。</li>
+<li>學歷與地點對未來收入有顯著影響，年輕時要主動選擇高潛力環境。</li>
+<li>好的伴侶關係比工作選擇更能左右人生走向。</li>
+<li>真正的財富來自「被動收入大於花費」，而非高收入。</li>
+<li>追求「經驗」而非「物質」，快樂來自與人共享的回憶。</li>
+<li>把握每一次機會的同時，也要懂得計算看不見的成本。</li>
+<li>健康與自律，是長期人生投資報酬的保證。</li>
+<li>成為對他人有意義的人，是人生最終的成就。</li>
+<li>懂得放棄、懂得分配、懂得等待，是資源配置的成熟表現。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>重新盤點自己的時間與金錢花費，是否符合長期目標。</li>
+<li>避免將熱情當作職涯指引，選擇具報酬潛力的產業或技能領域。</li>
+<li>移居到更多機會集中之地（如大城市），累積關鍵人脈與經驗。</li>
+<li>優先投資於健康與家庭關係，而非追求炫耀性消費。</li>
+<li>制定可衡量的個人績效指標（如儲蓄率、專案完成度、運動次數）。</li>
+<li>用簡單但一致的行動累積信任：準時赴約、定期回報、主動關心。</li>
+<li>每週檢視一次當週資源配置是否與人生目標一致。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我現在的職涯選擇，真的是為長期報酬做出的配置嗎？</li>
+<li>是否曾因「怕錯過」就不假思索地答應某些機會？</li>
+<li>自己是否常因比較心態而忽略了內在真正重視的事？</li>
+<li>當時間與精力有限時，我如何判斷什麼是「值得」？</li>
+<li>我是否仍在尋找肯定他人期待的角色，而非自己真正想成為的人？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《蓋洛威教授的人生經濟學：掌握機會成本與市場法則，明智選擇職涯與發展關係，人生不焦慮、不匱乏》不是教你避開錯誤，而是教你如何用最少的成本，從錯誤中找出資源配置的黃金路徑。它揭示了「現實世界的成功」並非來自熱情洋溢的選擇，而是經過計算、規劃與放棄後所留下的智慧選擇。這是一本適合所有對人生感到迷惘，或渴望重新配置自己人生資源的讀者閱讀的作品。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>蓋洛威教授的人生經濟學</tag>
+        <tag>掌握機會成本與市場法則，明智選擇職涯與發展關係，人生不焦慮、不匱乏</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《人類大歷史（增訂版）：從野獸到扮演上帝》 | 閱讀心得學習筆記</title>
     <url>/2022/10/27/reading-notes-sapiens-a-brief-history-of-humankind/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-sapiens-a-brief-history-of-humankind-1.jpg"></p>
@@ -2932,57 +2983,6 @@
         <tag>我可能錯了</tag>
         <tag>森林智者</tag>
         <tag>森林智者的最後一堂人生課</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《蓋洛威教授的人生經濟學：掌握機會成本與市場法則，明智選擇職涯與發展關係，人生不焦慮、不匱乏》| 閱讀心得學習筆記</title>
-    <url>/2025/06/04/reading-notes-reading-notes-the-algebra-of-happiness/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-algebra-of-happiness-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《蓋洛威教授的人生經濟學：掌握機會成本與市場法則，明智選擇職涯與發展關係，人生不焦慮、不匱乏》</span><br><span class="line">作者： 史考特・蓋洛威</span><br><span class="line">原文作者： Scott Galloway</span><br><span class="line">譯者： 吳芠</span><br><span class="line">出版社：天下雜誌</span><br><span class="line">出版日期：2025/06/04</span><br></pre></td></tr></table></figure>
-
-<p>「你是否曾因選擇太多，而感到人生失去了方向？」</p>
-<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
-<p>「每一次選擇，你都在投資自己的未來。成功的第一步，就是認清現實：你不會成為巴菲特，也不會有以你為名的香水。人生最終極的成就，就是懂得為你愛的人付出，也有能力照顧你愛的人。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個選項爆炸的時代，做決策不再只是選好與壞，而是「選最值得投資的選擇」。史考特・蓋洛威教授以自身創業與教學經驗，將資源配置的概念落實到職涯、財富、關係等面向，給予讀者一套現實、實用且深具啟發性的人生導航指南。</p>
-<p><img src="/img/posts/reading-notes-the-algebra-of-happiness-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>人生的困難來自資源有限與選項無限，選擇即投資。</li>
-<li>成功的第一步是認清現實與限制，不要盲目追隨熱情。</li>
-<li>學歷與地點對未來收入有顯著影響，年輕時要主動選擇高潛力環境。</li>
-<li>好的伴侶關係比工作選擇更能左右人生走向。</li>
-<li>真正的財富來自「被動收入大於花費」，而非高收入。</li>
-<li>追求「經驗」而非「物質」，快樂來自與人共享的回憶。</li>
-<li>把握每一次機會的同時，也要懂得計算看不見的成本。</li>
-<li>健康與自律，是長期人生投資報酬的保證。</li>
-<li>成為對他人有意義的人，是人生最終的成就。</li>
-<li>懂得放棄、懂得分配、懂得等待，是資源配置的成熟表現。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>重新盤點自己的時間與金錢花費，是否符合長期目標。</li>
-<li>避免將熱情當作職涯指引，選擇具報酬潛力的產業或技能領域。</li>
-<li>移居到更多機會集中之地（如大城市），累積關鍵人脈與經驗。</li>
-<li>優先投資於健康與家庭關係，而非追求炫耀性消費。</li>
-<li>制定可衡量的個人績效指標（如儲蓄率、專案完成度、運動次數）。</li>
-<li>用簡單但一致的行動累積信任：準時赴約、定期回報、主動關心。</li>
-<li>每週檢視一次當週資源配置是否與人生目標一致。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我現在的職涯選擇，真的是為長期報酬做出的配置嗎？</li>
-<li>是否曾因「怕錯過」就不假思索地答應某些機會？</li>
-<li>自己是否常因比較心態而忽略了內在真正重視的事？</li>
-<li>當時間與精力有限時，我如何判斷什麼是「值得」？</li>
-<li>我是否仍在尋找肯定他人期待的角色，而非自己真正想成為的人？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《蓋洛威教授的人生經濟學：掌握機會成本與市場法則，明智選擇職涯與發展關係，人生不焦慮、不匱乏》不是教你避開錯誤，而是教你如何用最少的成本，從錯誤中找出資源配置的黃金路徑。它揭示了「現實世界的成功」並非來自熱情洋溢的選擇，而是經過計算、規劃與放棄後所留下的智慧選擇。這是一本適合所有對人生感到迷惘，或渴望重新配置自己人生資源的讀者閱讀的作品。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>蓋洛威教授的人生經濟學</tag>
-        <tag>掌握機會成本與市場法則，明智選擇職涯與發展關係，人生不焦慮、不匱乏</tag>
       </tags>
   </entry>
   <entry>
@@ -3454,41 +3454,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》| 閱讀心得學習筆記</title>
-    <url>/2024/06/05/reading-notes-the-middle-passage/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-middle-passage-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》</span><br><span class="line">作者： 詹姆斯．霍利斯</span><br><span class="line">原文作者： James Hollis</span><br><span class="line">譯者： 鐘穎（愛智者）</span><br><span class="line">出版社：楓樹林出版社</span><br><span class="line">出版日期：2024/06/05</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「除了我的過往，以及我所扮演的角色之外，我到底是誰？從現在開始，你要練習不再討好任何人，只需清醒地活出更大的自己。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《中年之路》由詹姆斯・霍利斯撰寫，是一本以榮格心理學為基礎，深入探討中年階段心理轉折與個體化歷程的重要著作。中年不再只是人生的下坡期，而是一場重新覺醒與蛻變的契機。作者指出，當人們在中年感受到內外衝突與空虛，便揭開了通往「第二個成年期」的序幕。</p>
-<p><img src="/img/posts/reading-notes-the-middle-passage-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>暫時性人格</strong>：我們在第一成年期形成的身分，常為討好、角色或責任所驅動，並不是真我。</li>
-<li><strong>中年之路的預兆</strong>：內部壓力、失望、投射破裂、神經症等症狀，暗示我們與內在真我失聯。</li>
-<li><strong>轉向內在的旅程</strong>：個體化過程要求我們直視陰影、自我矛盾與童年創傷，重新界定生命意義。</li>
-<li><strong>從孤單到孤獨</strong>：學會與自己相處，接受失落與分離，將恐懼轉化為精神成長的資源。</li>
-<li><strong>重新定位人我關係</strong>：個體化並非自我中心，而是與他人真誠連結、承擔責任的成熟表現。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否曾經用外在成就掩蓋內在空虛？</li>
-<li>面對中年危機，我們是逃避還是選擇面對與成長？</li>
-<li>如何判斷現在的「我」，是真正的我，還是扮演出來的角色？</li>
-<li>當人生的「上半場」劇本無法繼續套用，我們是否願意重寫新的劇本？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《中年之路》不只是一本心理學書籍，更是一面鏡子，照見我們潛藏已久的焦慮、夢想與渴望。霍利斯以榮格的視角邀請我們，不再被過往角色所束縛，勇敢穿越中年的黑暗森林，找回與生命本質的連結。這是一場屬於每個人的深層心靈旅程。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>顯化效應</tag>
-        <tag>中年之路：穿越幽暗，迎向完整的內在鍊金之旅</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《時間最短化，成果最大化的法則：１天安裝１個成功人士的「思維演算法」45天（約1.5月）腦袋將徹底更新！》| 閱讀心得學習筆記</title>
     <url>/2023/12/05/reading-notes-the-law-of-time-minimization-and-result-maximization/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-law-of-time-minimization-and-result-maximization-1.jpg"></p>
@@ -3536,6 +3501,41 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>時間最短化，成果最大化的法則</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》| 閱讀心得學習筆記</title>
+    <url>/2024/06/05/reading-notes-the-middle-passage/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-middle-passage-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》</span><br><span class="line">作者： 詹姆斯．霍利斯</span><br><span class="line">原文作者： James Hollis</span><br><span class="line">譯者： 鐘穎（愛智者）</span><br><span class="line">出版社：楓樹林出版社</span><br><span class="line">出版日期：2024/06/05</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「除了我的過往，以及我所扮演的角色之外，我到底是誰？從現在開始，你要練習不再討好任何人，只需清醒地活出更大的自己。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《中年之路》由詹姆斯・霍利斯撰寫，是一本以榮格心理學為基礎，深入探討中年階段心理轉折與個體化歷程的重要著作。中年不再只是人生的下坡期，而是一場重新覺醒與蛻變的契機。作者指出，當人們在中年感受到內外衝突與空虛，便揭開了通往「第二個成年期」的序幕。</p>
+<p><img src="/img/posts/reading-notes-the-middle-passage-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>暫時性人格</strong>：我們在第一成年期形成的身分，常為討好、角色或責任所驅動，並不是真我。</li>
+<li><strong>中年之路的預兆</strong>：內部壓力、失望、投射破裂、神經症等症狀，暗示我們與內在真我失聯。</li>
+<li><strong>轉向內在的旅程</strong>：個體化過程要求我們直視陰影、自我矛盾與童年創傷，重新界定生命意義。</li>
+<li><strong>從孤單到孤獨</strong>：學會與自己相處，接受失落與分離，將恐懼轉化為精神成長的資源。</li>
+<li><strong>重新定位人我關係</strong>：個體化並非自我中心，而是與他人真誠連結、承擔責任的成熟表現。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否曾經用外在成就掩蓋內在空虛？</li>
+<li>面對中年危機，我們是逃避還是選擇面對與成長？</li>
+<li>如何判斷現在的「我」，是真正的我，還是扮演出來的角色？</li>
+<li>當人生的「上半場」劇本無法繼續套用，我們是否願意重寫新的劇本？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《中年之路》不只是一本心理學書籍，更是一面鏡子，照見我們潛藏已久的焦慮、夢想與渴望。霍利斯以榮格的視角邀請我們，不再被過往角色所束縛，勇敢穿越中年的黑暗森林，找回與生命本質的連結。這是一場屬於每個人的深層心靈旅程。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>顯化效應</tag>
+        <tag>中年之路：穿越幽暗，迎向完整的內在鍊金之旅</tag>
       </tags>
   </entry>
   <entry>
@@ -3674,40 +3674,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《感恩計畫：一次一封感謝函，養成你的幸福感》| 閱讀心得學習筆記</title>
-    <url>/2024/12/23/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《感恩計畫：一次一封感謝函，養成你的幸福感》</span><br><span class="line">作者： 南西．戴維斯．郭  </span><br><span class="line">原文作者： Nancy Davis Kho</span><br><span class="line">譯者： 林琳</span><br><span class="line">出版社：春天出版社  </span><br><span class="line">出版日期：2024/12/23</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「一次一封感謝函，養成你的幸福感。感謝是一種選擇，也是一種力量。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《感恩計畫：一次一封感謝函，養成你的幸福感》是一本溫柔卻力量十足的書。作者南西．戴維斯．郭用真實故事示範，感恩不僅是情感的表達，更是一種持續建構幸福的日常行動。書中透過她一年的「每週一封感謝信」計畫，啟發我們重新審視與他人之間的連結與影響。</p>
-<p><img src="/img/posts/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>每週一信，書寫感恩</strong>：作者於50歲生日展開計畫，連續50週寫下感謝信，致贈給曾深刻影響她的人。  </li>
-<li><strong>觸動內心的回饋與療癒</strong>：不論信是否寄出，書寫本身即是一種自我療癒與正向能量的累積。  </li>
-<li><strong>實用的感恩指南</strong>：書中提供具體步驟與撰寫提示，協助讀者啟動屬於自己的感恩行動。  </li>
-<li><strong>支持網絡的再發現</strong>：將信件裝訂成冊，成為她在困難時期重拾力量的重要象徵。  </li>
-<li><strong>感恩的擴散效應</strong>：這些信件不只是單向的致謝，也激發了收信人的回應與感動。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們有多久沒真誠地感謝那些成就我們的人了？  </li>
-<li>在數位時代，紙本書寫是否更具情感傳遞的力量？  </li>
-<li>若你要開始這樣的感恩計畫，你會從誰開始？為什麼？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅是一場關於感謝的書寫計畫，更是一場靈魂的覺醒與連結之旅。透過親筆信重拾與人之間真摯的互動，也讓我們重新發現，被感謝的幸福與感謝他人的療癒。日復一日的小小行動，能累積出一段無比溫暖的人生軌跡。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>感恩計畫</tag>
-        <tag>一次一封感謝函，養成你的幸福感</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《底層邏輯：看清這個世界的底牌》| 閱讀心得學習筆記</title>
     <url>/2022/03/30/reading-notes-the-underlying-logic-see-through-the-true-face-of-the-world/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-underlying-logic-see-through-the-true-face-of-the-world-1.jpg"></p>
@@ -3741,6 +3707,40 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>底層邏輯</tag>
         <tag>看清這個世界的底牌</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《感恩計畫：一次一封感謝函，養成你的幸福感》| 閱讀心得學習筆記</title>
+    <url>/2024/12/23/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《感恩計畫：一次一封感謝函，養成你的幸福感》</span><br><span class="line">作者： 南西．戴維斯．郭  </span><br><span class="line">原文作者： Nancy Davis Kho</span><br><span class="line">譯者： 林琳</span><br><span class="line">出版社：春天出版社  </span><br><span class="line">出版日期：2024/12/23</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「一次一封感謝函，養成你的幸福感。感謝是一種選擇，也是一種力量。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《感恩計畫：一次一封感謝函，養成你的幸福感》是一本溫柔卻力量十足的書。作者南西．戴維斯．郭用真實故事示範，感恩不僅是情感的表達，更是一種持續建構幸福的日常行動。書中透過她一年的「每週一封感謝信」計畫，啟發我們重新審視與他人之間的連結與影響。</p>
+<p><img src="/img/posts/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>每週一信，書寫感恩</strong>：作者於50歲生日展開計畫，連續50週寫下感謝信，致贈給曾深刻影響她的人。  </li>
+<li><strong>觸動內心的回饋與療癒</strong>：不論信是否寄出，書寫本身即是一種自我療癒與正向能量的累積。  </li>
+<li><strong>實用的感恩指南</strong>：書中提供具體步驟與撰寫提示，協助讀者啟動屬於自己的感恩行動。  </li>
+<li><strong>支持網絡的再發現</strong>：將信件裝訂成冊，成為她在困難時期重拾力量的重要象徵。  </li>
+<li><strong>感恩的擴散效應</strong>：這些信件不只是單向的致謝，也激發了收信人的回應與感動。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們有多久沒真誠地感謝那些成就我們的人了？  </li>
+<li>在數位時代，紙本書寫是否更具情感傳遞的力量？  </li>
+<li>若你要開始這樣的感恩計畫，你會從誰開始？為什麼？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅是一場關於感謝的書寫計畫，更是一場靈魂的覺醒與連結之旅。透過親筆信重拾與人之間真摯的互動，也讓我們重新發現，被感謝的幸福與感謝他人的療癒。日復一日的小小行動，能累積出一段無比溫暖的人生軌跡。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>感恩計畫</tag>
+        <tag>一次一封感謝函，養成你的幸福感</tag>
       </tags>
   </entry>
   <entry>
@@ -4913,6 +4913,51 @@
       </tags>
   </entry>
   <entry>
+    <title>在注意力稀缺的時代重新找回深度工作力（Deep Work）</title>
+    <url>/2017/09/10/stay-focus-and-keep-deep-working/</url>
+    <content><![CDATA[<p><img src="/img/posts/deep-work.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>隨著網際網路和科技產品的發展，人們除了時間外，注意力、專注力和深度工作力也成為十分稀缺的資產。現代人號稱一天工作八小時甚至更長，但我們往往在開會、被打斷、逛網站、滑手機、處理私人事務和在茶水間討論公司組織裡的八卦中切換我們的思緒，實際上真正有生產力和進入心流專注狀態可能不過幾個小時。</p>
+<p>或許是希望在日常工作之餘多一點自我時間，在生活瑣事襲來時能保有自我的追求，我很喜歡閱讀各類型有關提高工作生產力和自我學習的書籍並在生活中實踐。最近看的這本由 Cal Newport 撰寫的 <a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692">Deep Work: Rules for Focused Success in a Distracted World Hardcover</a>（<a href="http://www.books.com.tw/products/0010758381">中文書名：深度工作力</a>）討論了最近幾年在工作生產力書籍中時常被談到的議題：專注力和工作效率，並明確定義了深度工作力和淺薄工作力的區別。書中沒有複雜的理論，取而代之的是淺顯的範例和建議，蠻適合希望在競爭激烈的知識經濟時代保有核心工作力的朋友當做入門的概論書來看。</p>
+<h1 id="在新經濟社會需要具備的深度工作力"><a href="#在新經濟社會需要具備的深度工作力" class="headerlink" title="在新經濟社會需要具備的深度工作力"></a>在新經濟社會需要具備的深度工作力</h1><p>本書一開始定義了什麼是<code>深度工作</code>，什麼是<code>淺薄工作</code>。所謂的深度工作是在一段充分專注的情況下所從事的職業活動。在深度工作的狀態下你可以將你的認知能力發揮到極限，進而改善並學習困難的專業技術，創造新的價值並建立他人難以模仿的專業能力和思考洞察。相對而言，淺薄工作主要是不需要高認知需求，偏向回覆性、協調性工作，通常不太需要太多專注力就可以執行，通常這類型工作創造價值有限，且容易被模仿。</p>
+<p>當然書中也提到了一些比較特別的例子，包括身兼 Twitter 執行長和 Squard CEO 的 Jack Dorsey，工作上確實花很多時間在做淺薄工作，例如：擔任主管開各種會議、不斷被打斷、收發 Email 等。然而這類主管、業務員和網路行銷企劃人員隨時保持社會連線是很重要的事情，因為這些淺薄工作就是驅動他們工作的重要因子。</p>
+<p>儘管如此，若能在這類工作中適度的融入深度工作或許也有機會發揮意想不到的成果，例如：微軟共同創辦人 Bill Gates 就以一年兩次的沉思週而聞名。在沉思期間他會離群索居於湖濱小屋中思考未來的趨勢發展，也是在沉思期間 Gates 寫下來網際網路浪潮的備忘錄，將注意力轉往當時才剛發展不久的全球第一個商用瀏覽器 Netscape（網景），進而揭開了第一次瀏覽器大戰。</p>
+<h1 id="在注意力稀缺的時代重新找回深度工作力"><a href="#在注意力稀缺的時代重新找回深度工作力" class="headerlink" title="在注意力稀缺的時代重新找回深度工作力"></a>在注意力稀缺的時代重新找回深度工作力</h1><p>對於一般沒有初始化繼承衣缽的經濟資本的人來說，透過深度工作力的培養是達成職涯目標的一個可以嘗試的方式。尤其在世界公民的時代，現在是人類歷史上工作力流動最頻繁的年代，擁有無可取代的技術和專業能力的超級明星比起從前任何時候所能發揮的影響力更大更深遠。</p>
+<p>讀到這裡，如果你認同深度工作力，在這邊我融合了書中一些方法建議和我個人的經驗整理和大家分享，也歡迎讀者們補充：</p>
+<h3 id="1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"><a href="#1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容" class="headerlink" title="1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"></a>1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容</h3><p>這邊推薦使用 <a href="http://wiki.mbalib.com/zh-tw/OKR">Objectives and Key Results，OKR</a> 來定義一年和每季需要完成的目標並使用 <a href="http://blog.idonethis.com/google-snippets-internal-tool/">Google Snippets template</a>（感謝一位朋友推薦使用）追蹤記錄每天的工作內容。另外，雖不用到古人吾日三省吾身的狀態，但可以參考 <a href="https://zh.wikipedia.org/zh-tw/Scrum">Scrum</a> 敏捷開發方法中的 Stand up meeting 每天自問自己昨天做了什麼，今天打算做什麼，有沒有遇到哪些困難。</p>
+<p><img src="/img/posts/snippet.png" alt="在注意力稀缺的時代重新找回深度工作力"></p>
+<h3 id="2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"><a href="#2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏" class="headerlink" title="2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"></a>2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏</h3><p>在記錄完自己一到兩週的工作內容後，便可以利用這些 data 進行資料分析，找到自己最具生產力的時段。有的人習慣早上工作，像我一般習慣在一大早起來頭腦清楚時進行思考和需要專注度的工作，而有的人習慣在深夜夜深人靜時工作，沒什麼對錯，就是充分了解自己就好。</p>
+<h3 id="3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"><a href="#3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式" class="headerlink" title="3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"></a>3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式</h3><p>拜智慧型手機所賜，現代人使用網路的時間遠遠大於過去，然而我們常常在使用網路過程中有意無意浪費了許多寶貴時間和專注力。建議可以從中篩選合適自己的社群網站和媒體以及使用方式。</p>
+<h3 id="4-定義自己回覆訊息和電子郵件的方法和原則"><a href="#4-定義自己回覆訊息和電子郵件的方法和原則" class="headerlink" title="4. 定義自己回覆訊息和電子郵件的方法和原則"></a>4. 定義自己回覆訊息和電子郵件的方法和原則</h3><p>現在人上網很多時間是在回覆訊息和電子郵件，有些工作者每天甚至被數百封電子郵件給淹沒。若能掌握幾個原則則有機會可以提高自己的工作效率：例如：公告了自己的電子信箱同時就明確定義發信的範本和收信規則讓發信過來的人可以具體化自己的問題，一方面也篩選掉了沒有準備好的聯絡者。定義好收信、回信時間和回信規則，不需要時時刻刻 context switch 去收發電子信箱。</p>
+<h3 id="5-打造屬於自己的工作環境和工作儀式"><a href="#5-打造屬於自己的工作環境和工作儀式" class="headerlink" title="5. 打造屬於自己的工作環境和工作儀式"></a>5. 打造屬於自己的工作環境和工作儀式</h3><p>人會因為服裝和環境而改變自己的行為，建立起自己的高效率工作環境和工作儀式，例如有的人喜歡在咖啡廳工作，在來杯拿鐵咖啡或是聽一首熟悉的歌後開啟自己的工作模式，所以找到自己的那杯咖啡吧！</p>
+<h3 id="6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"><a href="#6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者" class="headerlink" title="6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"></a>6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者</h3><p>隨著科技的指數性成長，各種科技工具推陳出新（例如：追蹤上網時間的 <a href="https://toggl.com/">toggl</a>、todo 工具：<a href="https://pomotodo.com/">番茄土豆</a>、<a href="https://zhtw.todoist.com/">todoist</a>），如何善用不同的工作技巧和生產力工具並培養自己快速學習各種跨領域技術的能力將可以讓自己持續保有專業活力。</p>
+<h3 id="7-定期運動、規律飲食和作息，保持身心靈健康"><a href="#7-定期運動、規律飲食和作息，保持身心靈健康" class="headerlink" title="7. 定期運動、規律飲食和作息，保持身心靈健康"></a>7. 定期運動、規律飲食和作息，保持身心靈健康</h3><p>雖然是老生常談，但定期運動、規律飲食和作息可以讓自己在忙碌的工作中儲備好能力，迎接生活中的每一個挑戰！</p>
+<p><img src="/img/posts/book.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>以上分享了幾個我覺得蠻實用的工作生產力技巧和深度工作力這本書的一些讀後心得，在這個專注力稀缺的年代，注意力和深度工作力是除了時間外珍貴的稀缺資源。把握幾個核心原則並刻意練習，相信你也可以在注意力稀缺的時代重新找回深度工作力，也歡迎讀者若有覺得不錯的提高工作生產力技巧補充分享！</p>
+<h1 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h1><ol>
+<li><a href="http://blog.idonethis.com/silicon-valleys-productivity-secret/">Silicon Valley’s Productivity Secret</a></li>
+<li><a href="http://dannyimages.com/2012/06/05/2106-smart-working-with-snippets/">敏捷工作術(1) — snippet</a></li>
+<li><a href="https://www.zhihu.com/question/22471467">谷歌内部考核制度 OKR 是怎样的？</a></li>
+<li><a href="http://www.cheers.com.tw/article/article.action?id=5083664">【每日熱門網摘】別再多工了！「深度工作法」才能讓你提早下班</a></li>
+</ol>
+<p>（image via <a href="https://associatesmind.com/wp-content/uploads/2016/01/Cal-Newport-Deep-Work.jpg">associatesmind</a>、<a href="https://cdn.kingstone.com.tw/book/images/product/20149/2014941495564/2014941495564b.jpg">kingstone</a>）</p>
+]]></content>
+      <tags>
+        <tag>財務</tag>
+        <tag>職場</tag>
+        <tag>商業管理</tag>
+        <tag>人生</tag>
+        <tag>溝通</tag>
+        <tag>專注力</tag>
+        <tag>focus</tag>
+        <tag>deep work</tag>
+        <tag>深度工作力</tag>
+        <tag>工作力</tag>
+        <tag>career</tag>
+        <tag>work</tag>
+        <tag>生產力工具</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>產品開發現場：當一個 Scrum Master 是一個怎樣的體驗？</title>
     <url>/2019/01/04/what-is-the-experience-of-be-a-scrum-master/</url>
     <content><![CDATA[<p><img src="/img/posts/i-am-scrum-master.png" alt="當一個 Scrum Master 是一個怎樣的體驗？"></p>
@@ -4995,6 +5040,8 @@
         <tag>scrum</tag>
         <tag>敏捷開發</tag>
         <tag>agile</tag>
+        <tag>職場</tag>
+        <tag>career</tag>
         <tag>scrum master</tag>
         <tag>product owner</tag>
         <tag>dev team</tag>
@@ -5002,53 +5049,6 @@
         <tag>軟體工程</tag>
         <tag>software engineering</tag>
         <tag>產品開發現場</tag>
-        <tag>職場</tag>
-        <tag>career</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>在注意力稀缺的時代重新找回深度工作力（Deep Work）</title>
-    <url>/2017/09/10/stay-focus-and-keep-deep-working/</url>
-    <content><![CDATA[<p><img src="/img/posts/deep-work.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>隨著網際網路和科技產品的發展，人們除了時間外，注意力、專注力和深度工作力也成為十分稀缺的資產。現代人號稱一天工作八小時甚至更長，但我們往往在開會、被打斷、逛網站、滑手機、處理私人事務和在茶水間討論公司組織裡的八卦中切換我們的思緒，實際上真正有生產力和進入心流專注狀態可能不過幾個小時。</p>
-<p>或許是希望在日常工作之餘多一點自我時間，在生活瑣事襲來時能保有自我的追求，我很喜歡閱讀各類型有關提高工作生產力和自我學習的書籍並在生活中實踐。最近看的這本由 Cal Newport 撰寫的 <a href="https://www.amazon.com/Deep-Work-Focused-Success-Distracted/dp/1455586692">Deep Work: Rules for Focused Success in a Distracted World Hardcover</a>（<a href="http://www.books.com.tw/products/0010758381">中文書名：深度工作力</a>）討論了最近幾年在工作生產力書籍中時常被談到的議題：專注力和工作效率，並明確定義了深度工作力和淺薄工作力的區別。書中沒有複雜的理論，取而代之的是淺顯的範例和建議，蠻適合希望在競爭激烈的知識經濟時代保有核心工作力的朋友當做入門的概論書來看。</p>
-<h1 id="在新經濟社會需要具備的深度工作力"><a href="#在新經濟社會需要具備的深度工作力" class="headerlink" title="在新經濟社會需要具備的深度工作力"></a>在新經濟社會需要具備的深度工作力</h1><p>本書一開始定義了什麼是<code>深度工作</code>，什麼是<code>淺薄工作</code>。所謂的深度工作是在一段充分專注的情況下所從事的職業活動。在深度工作的狀態下你可以將你的認知能力發揮到極限，進而改善並學習困難的專業技術，創造新的價值並建立他人難以模仿的專業能力和思考洞察。相對而言，淺薄工作主要是不需要高認知需求，偏向回覆性、協調性工作，通常不太需要太多專注力就可以執行，通常這類型工作創造價值有限，且容易被模仿。</p>
-<p>當然書中也提到了一些比較特別的例子，包括身兼 Twitter 執行長和 Squard CEO 的 Jack Dorsey，工作上確實花很多時間在做淺薄工作，例如：擔任主管開各種會議、不斷被打斷、收發 Email 等。然而這類主管、業務員和網路行銷企劃人員隨時保持社會連線是很重要的事情，因為這些淺薄工作就是驅動他們工作的重要因子。</p>
-<p>儘管如此，若能在這類工作中適度的融入深度工作或許也有機會發揮意想不到的成果，例如：微軟共同創辦人 Bill Gates 就以一年兩次的沉思週而聞名。在沉思期間他會離群索居於湖濱小屋中思考未來的趨勢發展，也是在沉思期間 Gates 寫下來網際網路浪潮的備忘錄，將注意力轉往當時才剛發展不久的全球第一個商用瀏覽器 Netscape（網景），進而揭開了第一次瀏覽器大戰。</p>
-<h1 id="在注意力稀缺的時代重新找回深度工作力"><a href="#在注意力稀缺的時代重新找回深度工作力" class="headerlink" title="在注意力稀缺的時代重新找回深度工作力"></a>在注意力稀缺的時代重新找回深度工作力</h1><p>對於一般沒有初始化繼承衣缽的經濟資本的人來說，透過深度工作力的培養是達成職涯目標的一個可以嘗試的方式。尤其在世界公民的時代，現在是人類歷史上工作力流動最頻繁的年代，擁有無可取代的技術和專業能力的超級明星比起從前任何時候所能發揮的影響力更大更深遠。</p>
-<p>讀到這裡，如果你認同深度工作力，在這邊我融合了書中一些方法建議和我個人的經驗整理和大家分享，也歡迎讀者們補充：</p>
-<h3 id="1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"><a href="#1-忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容" class="headerlink" title="1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容"></a>1. 忙碌不代表有生產力，很有可能是瞎忙，具體量化做的工作內容</h3><p>這邊推薦使用 <a href="http://wiki.mbalib.com/zh-tw/OKR">Objectives and Key Results，OKR</a> 來定義一年和每季需要完成的目標並使用 <a href="http://blog.idonethis.com/google-snippets-internal-tool/">Google Snippets template</a>（感謝一位朋友推薦使用）追蹤記錄每天的工作內容。另外，雖不用到古人吾日三省吾身的狀態，但可以參考 <a href="https://zh.wikipedia.org/zh-tw/Scrum">Scrum</a> 敏捷開發方法中的 Stand up meeting 每天自問自己昨天做了什麼，今天打算做什麼，有沒有遇到哪些困難。</p>
-<p><img src="/img/posts/snippet.png" alt="在注意力稀缺的時代重新找回深度工作力"></p>
-<h3 id="2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"><a href="#2-記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏" class="headerlink" title="2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏"></a>2. 記錄自己一天中什麼時間最有生產力並定期檢討，找到適合自己工作和生活的節奏</h3><p>在記錄完自己一到兩週的工作內容後，便可以利用這些 data 進行資料分析，找到自己最具生產力的時段。有的人習慣早上工作，像我一般習慣在一大早起來頭腦清楚時進行思考和需要專注度的工作，而有的人習慣在深夜夜深人靜時工作，沒什麼對錯，就是充分了解自己就好。</p>
-<h3 id="3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"><a href="#3-練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式" class="headerlink" title="3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式"></a>3. 練習斷網一天，放天無網路假，不用手機和電腦，從中篩選合適自己的使用方式</h3><p>拜智慧型手機所賜，現代人使用網路的時間遠遠大於過去，然而我們常常在使用網路過程中有意無意浪費了許多寶貴時間和專注力。建議可以從中篩選合適自己的社群網站和媒體以及使用方式。</p>
-<h3 id="4-定義自己回覆訊息和電子郵件的方法和原則"><a href="#4-定義自己回覆訊息和電子郵件的方法和原則" class="headerlink" title="4. 定義自己回覆訊息和電子郵件的方法和原則"></a>4. 定義自己回覆訊息和電子郵件的方法和原則</h3><p>現在人上網很多時間是在回覆訊息和電子郵件，有些工作者每天甚至被數百封電子郵件給淹沒。若能掌握幾個原則則有機會可以提高自己的工作效率：例如：公告了自己的電子信箱同時就明確定義發信的範本和收信規則讓發信過來的人可以具體化自己的問題，一方面也篩選掉了沒有準備好的聯絡者。定義好收信、回信時間和回信規則，不需要時時刻刻 context switch 去收發電子信箱。</p>
-<h3 id="5-打造屬於自己的工作環境和工作儀式"><a href="#5-打造屬於自己的工作環境和工作儀式" class="headerlink" title="5. 打造屬於自己的工作環境和工作儀式"></a>5. 打造屬於自己的工作環境和工作儀式</h3><p>人會因為服裝和環境而改變自己的行為，建立起自己的高效率工作環境和工作儀式，例如有的人喜歡在咖啡廳工作，在來杯拿鐵咖啡或是聽一首熟悉的歌後開啟自己的工作模式，所以找到自己的那杯咖啡吧！</p>
-<h3 id="6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"><a href="#6-不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者" class="headerlink" title="6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者"></a>6. 不斷累積相關知識和技巧，成為擁有具有深度工作力和快速學習能力的專業工作者</h3><p>隨著科技的指數性成長，各種科技工具推陳出新（例如：追蹤上網時間的 <a href="https://toggl.com/">toggl</a>、todo 工具：<a href="https://pomotodo.com/">番茄土豆</a>、<a href="https://zhtw.todoist.com/">todoist</a>），如何善用不同的工作技巧和生產力工具並培養自己快速學習各種跨領域技術的能力將可以讓自己持續保有專業活力。</p>
-<h3 id="7-定期運動、規律飲食和作息，保持身心靈健康"><a href="#7-定期運動、規律飲食和作息，保持身心靈健康" class="headerlink" title="7. 定期運動、規律飲食和作息，保持身心靈健康"></a>7. 定期運動、規律飲食和作息，保持身心靈健康</h3><p>雖然是老生常談，但定期運動、規律飲食和作息可以讓自己在忙碌的工作中儲備好能力，迎接生活中的每一個挑戰！</p>
-<p><img src="/img/posts/book.jpg" alt="在注意力稀缺的時代重新找回深度工作力"></p>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>以上分享了幾個我覺得蠻實用的工作生產力技巧和深度工作力這本書的一些讀後心得，在這個專注力稀缺的年代，注意力和深度工作力是除了時間外珍貴的稀缺資源。把握幾個核心原則並刻意練習，相信你也可以在注意力稀缺的時代重新找回深度工作力，也歡迎讀者若有覺得不錯的提高工作生產力技巧補充分享！</p>
-<h1 id="延伸閱讀"><a href="#延伸閱讀" class="headerlink" title="延伸閱讀"></a>延伸閱讀</h1><ol>
-<li><a href="http://blog.idonethis.com/silicon-valleys-productivity-secret/">Silicon Valley’s Productivity Secret</a></li>
-<li><a href="http://dannyimages.com/2012/06/05/2106-smart-working-with-snippets/">敏捷工作術(1) — snippet</a></li>
-<li><a href="https://www.zhihu.com/question/22471467">谷歌内部考核制度 OKR 是怎样的？</a></li>
-<li><a href="http://www.cheers.com.tw/article/article.action?id=5083664">【每日熱門網摘】別再多工了！「深度工作法」才能讓你提早下班</a></li>
-</ol>
-<p>（image via <a href="https://associatesmind.com/wp-content/uploads/2016/01/Cal-Newport-Deep-Work.jpg">associatesmind</a>、<a href="https://cdn.kingstone.com.tw/book/images/product/20149/2014941495564/2014941495564b.jpg">kingstone</a>）</p>
-]]></content>
-      <tags>
-        <tag>財務</tag>
-        <tag>職場</tag>
-        <tag>career</tag>
-        <tag>商業管理</tag>
-        <tag>人生</tag>
-        <tag>溝通</tag>
-        <tag>專注力</tag>
-        <tag>focus</tag>
-        <tag>deep work</tag>
-        <tag>深度工作力</tag>
-        <tag>工作力</tag>
-        <tag>work</tag>
-        <tag>生產力工具</tag>
       </tags>
   </entry>
 </search>
