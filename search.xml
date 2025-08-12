@@ -1,33 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-app-10-keywords/</url>
-    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
-<ol>
-<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
-<li><strong>聊天機器人</strong>（Chatbots）</li>
-<li><strong>文字摘要</strong>（Text Summarization）</li>
-<li><strong>內容生成</strong>（Content Generation）</li>
-<li><strong>情感分析</strong>（Sentiment Analysis）</li>
-<li><strong>語音助手</strong>（Voice Assistants）</li>
-<li><strong>自動翻譯</strong>（Automatic Translation）</li>
-<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
-<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
-<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
-</ol>
-<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
     <url>/2024/05/22/about-llm-tech-10-keywords/</url>
     <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
@@ -47,6 +20,33 @@
 <h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
 <li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
 </ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-app-10-keywords/</url>
+    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
+<ol>
+<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
+<li><strong>聊天機器人</strong>（Chatbots）</li>
+<li><strong>文字摘要</strong>（Text Summarization）</li>
+<li><strong>內容生成</strong>（Content Generation）</li>
+<li><strong>情感分析</strong>（Sentiment Analysis）</li>
+<li><strong>語音助手</strong>（Voice Assistants）</li>
+<li><strong>自動翻譯</strong>（Automatic Translation）</li>
+<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
+<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
+<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
+</ol>
+<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
 ]]></content>
       <tags>
         <tag>生成式 AI</tag>
@@ -693,6 +693,39 @@
       </tags>
   </entry>
   <entry>
+    <title>《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》| 閱讀心得學習筆記</title>
+    <url>/2017/09/26/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》</span><br><span class="line">作者： 莎拉‧古柏  </span><br><span class="line">原文作者： Sarah Cooper</span><br><span class="line">譯者： 陳重亨</span><br><span class="line">出版社：時報出版  </span><br><span class="line">出版日期：2017/09/26</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「開會是讓你展示領導才能、軟實力和大腦分析創造思考能力的好機會，你在開會的時候表現得越聰明，就會有越多人找你去開會，那麼你表現出聰明的機會也就越多。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代職場中，開會幾乎是每日必經的儀式。面對冗長、空洞又充滿競爭氣味的會議，新人往往束手無策，而老鳥也未必能掌控全場。前 Yahoo! 與 Google 主管莎拉．古柏的《這樣開會，最聰明！》以幽默諷刺的手法，揭露那些表面「看起來很聰明」的行為，實則是職場生存的潛規則。本書不僅是一本工具書，更像是一本職場生存手冊，讓讀者在會議中看起來「比實際聰明三倍」。</p>
+<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>進入會議室的第一印象策略</strong>：包括帶著筆記本、坐在適當位置、適時點頭等看似微不足道卻效果驚人的舉動。  </li>
+<li><strong>白板技巧與圖表魔法</strong>：善用毫無意義但看起來很「複雜」的圖形，展現邏輯與思考能力。  </li>
+<li><strong>電話與遠距會議密技</strong>：透過問候語與檔案確認等語言小技巧，在聲音中塑造專業感。  </li>
+<li><strong>跨文化會議指南</strong>：各國開會文化不同，美國偏行動、日本偏委婉、英國愛抱怨制度，理解這些差異可避免文化衝突。  </li>
+<li><strong>臨場應變絕招</strong>：例如臨時發言時，善用「我補充一下」或「讓我們回到原始目標」等話術來顯得有貢獻。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否太過依賴形式來衡量一個人的「專業度」？</li>
+<li>看起來「聰明」是否比實際「聰明」更容易在職場中獲得信任與晉升？</li>
+<li>書中所揭示的行為，究竟是諷刺還是反映真實？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《這樣開會，最聰明！》不只是一本搞笑的開會指南，而是對職場文化的精準觀察與反思。透過作者的幽默筆觸，我們得以重新審視那些「看起來很努力」的假象與潛藏的生存智慧。無論你是新鮮人還是資深主管，都能從書中找到自嘲與提升的空間。這是一本用笑聲包裝的職場真言書，教你在會議中「看起來像個專家」，也許就是你職涯邁向 A 咖的第一步。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《薩提爾的 52 個冥想練習：覺察內在的冰山，跟自己和解，與他人共好》| 閱讀心得學習筆記</title>
     <url>/2023/01/04/reading-notes-52-satir-meditation-practices/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-52-satir-meditation-practices-1.jpg"></p>
@@ -732,39 +765,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>薩提爾</tag>
         <tag>薩提爾的 52 個冥想練習</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》| 閱讀心得學習筆記</title>
-    <url>/2017/09/26/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》</span><br><span class="line">作者： 莎拉‧古柏  </span><br><span class="line">原文作者： Sarah Cooper</span><br><span class="line">譯者： 陳重亨</span><br><span class="line">出版社：時報出版  </span><br><span class="line">出版日期：2017/09/26</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「開會是讓你展示領導才能、軟實力和大腦分析創造思考能力的好機會，你在開會的時候表現得越聰明，就會有越多人找你去開會，那麼你表現出聰明的機會也就越多。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代職場中，開會幾乎是每日必經的儀式。面對冗長、空洞又充滿競爭氣味的會議，新人往往束手無策，而老鳥也未必能掌控全場。前 Yahoo! 與 Google 主管莎拉．古柏的《這樣開會，最聰明！》以幽默諷刺的手法，揭露那些表面「看起來很聰明」的行為，實則是職場生存的潛規則。本書不僅是一本工具書，更像是一本職場生存手冊，讓讀者在會議中看起來「比實際聰明三倍」。</p>
-<p><img src="/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>進入會議室的第一印象策略</strong>：包括帶著筆記本、坐在適當位置、適時點頭等看似微不足道卻效果驚人的舉動。  </li>
-<li><strong>白板技巧與圖表魔法</strong>：善用毫無意義但看起來很「複雜」的圖形，展現邏輯與思考能力。  </li>
-<li><strong>電話與遠距會議密技</strong>：透過問候語與檔案確認等語言小技巧，在聲音中塑造專業感。  </li>
-<li><strong>跨文化會議指南</strong>：各國開會文化不同，美國偏行動、日本偏委婉、英國愛抱怨制度，理解這些差異可避免文化衝突。  </li>
-<li><strong>臨場應變絕招</strong>：例如臨時發言時，善用「我補充一下」或「讓我們回到原始目標」等話術來顯得有貢獻。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否太過依賴形式來衡量一個人的「專業度」？</li>
-<li>看起來「聰明」是否比實際「聰明」更容易在職場中獲得信任與晉升？</li>
-<li>書中所揭示的行為，究竟是諷刺還是反映真實？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《這樣開會，最聰明！》不只是一本搞笑的開會指南，而是對職場文化的精準觀察與反思。透過作者的幽默筆觸，我們得以重新審視那些「看起來很努力」的假象與潛藏的生存智慧。無論你是新鮮人還是資深主管，都能從書中找到自嘲與提升的空間。這是一本用笑聲包裝的職場真言書，教你在會議中「看起來像個專家」，也許就是你職涯邁向 A 咖的第一步。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！</tag>
       </tags>
   </entry>
   <entry>
@@ -1546,47 +1546,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《人生 4 千個禮拜：時間不是用來掌控的，直面「生命的有限」，打造游刃有餘的時間運用觀》| 閱讀心得學習筆記</title>
-    <url>/2022/01/22/reading-notes-four-thousand-weeks-time-management-for-mortals/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-four-thousand-weeks-time-management-for-mortals-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《人生 4 千個禮拜：時間不是用來掌控的，直面「生命的有限」，打造游刃有餘的時間運用觀》</span><br><span class="line">作者： 奧利佛‧柏克曼</span><br><span class="line">原文作者： Oliver Burkeman</span><br><span class="line">譯者： 許恬寧</span><br><span class="line">出版社：大塊文化</span><br><span class="line">出版日期：2022/01/22</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「我們假設生命最有意義的部分就在未來的某一刻，卻永遠不是現在這個當下。然而，最終的時間管理，就是承認並擁抱自己的有限。所謂終級的時間管理就是生命的管理。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《人生 4 千個禮拜》是一部對現代時間焦慮深度反思的哲學性著作。作者奧利佛・柏克曼不試圖再教你如何變得更有效率，而是帶領讀者重新理解時間的本質，並學會在有限中找回選擇的自由。這不是一本教你如何完成更多事情的時間管理書，而是一本教你如何活得更有意義的生命指南。</p>
-<p><img src="/img/posts/reading-notes-four-thousand-weeks-time-management-for-mortals-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>一生僅有約四千個禮拜，時間的稀缺才是真正的問題核心。</li>
-<li>傳統時間管理技巧常製造更多焦慮與分心，無法真正解決問題。</li>
-<li>人類的自由來自於擁抱限制，而非追求無限可能。</li>
-<li>建立屬於自己的「深層時間」，遠離生產力的崇拜。</li>
-<li>擁抱當下，而非一直等待「未來的某一刻」才開始真正生活。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>使用「定額生產力」策略，設定每日可完成的上限，避免過勞。</li>
-<li>使用「單功能科技」取代分心多功裝置，提升注意力品質。</li>
-<li>使用「關注已完成事項」取代無止盡的待辦清單，建立正向循環。</li>
-<li>使用「策略性不及格」取代完美主義，集中能量於真正重要的事。</li>
-<li>使用「儀式建立深層時間」取代隨機時間切割，創造專注與沉浸感。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>使用「面對現實的限制」取代「逃避有限生命的焦慮」，是否能帶來更深的自由？</li>
-<li>使用「當下即目的」取代「未來才是目標」的邏輯，生活是否會變得更有意義？</li>
-<li>使用「生活節奏」取代「效率壓力」，是否會被視為懶惰或低成就？</li>
-<li>使用「深層時間儀式」取代「碎片式進度追蹤」，如何評估其產出與價值？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《人生 4 千個禮拜》是一部結合哲學、心理學與生活實踐的反直覺時間指南，挑戰我們對「效率」與「生產力」的迷思。它不教你如何做更多，而是幫助你思考什麼才值得去做。在短暫的人生中，我們不可能掌握所有時間，但可以重新定義何為「值得」花時間的事。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>人生 4 千個禮拜</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀心得學習筆記</title>
     <url>/2024/08/06/reading-notes-forest-wisdom/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-forest-wisdom-1.jpg"></p>
@@ -1632,6 +1591,47 @@
         <tag>我可能錯了</tag>
         <tag>森林智者</tag>
         <tag>森林智者的最後一堂人生課</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《人生 4 千個禮拜：時間不是用來掌控的，直面「生命的有限」，打造游刃有餘的時間運用觀》| 閱讀心得學習筆記</title>
+    <url>/2022/01/22/reading-notes-four-thousand-weeks-time-management-for-mortals/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-four-thousand-weeks-time-management-for-mortals-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《人生 4 千個禮拜：時間不是用來掌控的，直面「生命的有限」，打造游刃有餘的時間運用觀》</span><br><span class="line">作者： 奧利佛‧柏克曼</span><br><span class="line">原文作者： Oliver Burkeman</span><br><span class="line">譯者： 許恬寧</span><br><span class="line">出版社：大塊文化</span><br><span class="line">出版日期：2022/01/22</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「我們假設生命最有意義的部分就在未來的某一刻，卻永遠不是現在這個當下。然而，最終的時間管理，就是承認並擁抱自己的有限。所謂終級的時間管理就是生命的管理。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《人生 4 千個禮拜》是一部對現代時間焦慮深度反思的哲學性著作。作者奧利佛・柏克曼不試圖再教你如何變得更有效率，而是帶領讀者重新理解時間的本質，並學會在有限中找回選擇的自由。這不是一本教你如何完成更多事情的時間管理書，而是一本教你如何活得更有意義的生命指南。</p>
+<p><img src="/img/posts/reading-notes-four-thousand-weeks-time-management-for-mortals-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>一生僅有約四千個禮拜，時間的稀缺才是真正的問題核心。</li>
+<li>傳統時間管理技巧常製造更多焦慮與分心，無法真正解決問題。</li>
+<li>人類的自由來自於擁抱限制，而非追求無限可能。</li>
+<li>建立屬於自己的「深層時間」，遠離生產力的崇拜。</li>
+<li>擁抱當下，而非一直等待「未來的某一刻」才開始真正生活。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>使用「定額生產力」策略，設定每日可完成的上限，避免過勞。</li>
+<li>使用「單功能科技」取代分心多功裝置，提升注意力品質。</li>
+<li>使用「關注已完成事項」取代無止盡的待辦清單，建立正向循環。</li>
+<li>使用「策略性不及格」取代完美主義，集中能量於真正重要的事。</li>
+<li>使用「儀式建立深層時間」取代隨機時間切割，創造專注與沉浸感。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>使用「面對現實的限制」取代「逃避有限生命的焦慮」，是否能帶來更深的自由？</li>
+<li>使用「當下即目的」取代「未來才是目標」的邏輯，生活是否會變得更有意義？</li>
+<li>使用「生活節奏」取代「效率壓力」，是否會被視為懶惰或低成就？</li>
+<li>使用「深層時間儀式」取代「碎片式進度追蹤」，如何評估其產出與價值？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《人生 4 千個禮拜》是一部結合哲學、心理學與生活實踐的反直覺時間指南，挑戰我們對「效率」與「生產力」的迷思。它不教你如何做更多，而是幫助你思考什麼才值得去做。在短暫的人生中，我們不可能掌握所有時間，但可以重新定義何為「值得」花時間的事。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>人生 4 千個禮拜</tag>
       </tags>
   </entry>
   <entry>
@@ -1938,6 +1938,47 @@
       </tags>
   </entry>
   <entry>
+    <title>《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》| 閱讀心得學習筆記</title>
+    <url>/2020/04/08/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》</span><br><span class="line">作者： 亞伯‧艾里斯  </span><br><span class="line">原文作者： Albert Ellis</span><br><span class="line">譯者： 蘇子堯</span><br><span class="line">出版社：大牌出版</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「如果你能接受不完美，你就能獲得內心的平和。只有真正的接納了你自己，你才能發自內心去愛、去快樂。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>與焦慮和解，克服不安、完美主義、負面思考、情緒陰影。《世界三大心理治療師亞伯‧艾里斯，歷久彌新的溫暖力》是亞伯·艾里斯博士的經典著作，介紹了他的<code>理情行為治療法（REBT</code>），幫助人們克服焦慮、憂鬱及情緒困擾。艾里斯認為，情緒問題大多來自非理性信念，藉由改變這些信念，人們能擺脫負面情緒，過上更加幸福的生活。本書提供了簡單而有效的自助方法，教導如何掌握思維、情感與行為的關聯，並學會如何改變不合理的信念來減少生活中的煩憂。</p>
+<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>REBT理論：</strong> <code>理情行為治療（REBT）</code>是一種以<code>情緒</code>、<code>想法</code>、<code>行為</code>三個層面進行干預的心理治療方法，旨在幫助人們識別和改變負面的非理性信念。</p>
+</li>
+<li><p><strong>A-B-C-D-E模式：</strong> 本書介紹了REBT的A-B-C-D-E模式，通過識別引發情緒的事件（A），認知過程（B），情緒反應（C），挑戰信念（D），以及結果（E），幫助個體改善情緒。</p>
+</li>
+<li><p><strong>非理性信念的挑戰：</strong> 書中強調改變那些讓人陷入困境的非理性信念，如「我必須完美」或「事情必須按我的預期發展」。</p>
+</li>
+<li><p><strong>自我接納：</strong> 提倡無條件接納自我和他人，並學會放下過高的自我要求，學習如何應對生活中的不確定性。</p>
+</li>
+<li><p><strong>行為改變的力量：</strong> 強調通過積極的行動來挑戰和克服情緒困擾，並幫助讀者建立更健康的自我信念。</p>
+</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>為何我們常陷入「應該」與「必須」的信念？</li>
+<li>我們是否願意承認：困擾來自內在的解讀，而非外在事實？</li>
+<li>你是否曾嘗試挑戰內心的負面對話？還是一直默默承受它的傷害？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提出的 REBT 方法不僅對心理治療領域產生了深遠的影響，也提供了每個人自助的寶貴智慧。透過改變不理性的思維模式，我們能夠有效地減少焦慮、憤怒及不安，過上更快樂、無憂的生活。艾里斯的智慧鼓勵我們接納自己與他人，並學會在面對困難時以理性與勇氣應對。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>理情行為治療</tag>
+        <tag>亞伯‧艾里斯</tag>
+        <tag>讓自己快樂</tag>
+        <tag>沒有放不下的情緒，只有不肯放下的你</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《如何閱讀一本書》| 閱讀心得學習筆記</title>
     <url>/2022/03/30/reading-notes-how-to-read-book/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-how-to-read-book-1.jpg"></p>
@@ -2026,47 +2067,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>顯化效應</tag>
         <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》| 閱讀心得學習筆記</title>
-    <url>/2020/04/08/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》</span><br><span class="line">作者： 亞伯‧艾里斯  </span><br><span class="line">原文作者： Albert Ellis</span><br><span class="line">譯者： 蘇子堯</span><br><span class="line">出版社：大牌出版</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「如果你能接受不完美，你就能獲得內心的平和。只有真正的接納了你自己，你才能發自內心去愛、去快樂。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>與焦慮和解，克服不安、完美主義、負面思考、情緒陰影。《世界三大心理治療師亞伯‧艾里斯，歷久彌新的溫暖力》是亞伯·艾里斯博士的經典著作，介紹了他的<code>理情行為治療法（REBT</code>），幫助人們克服焦慮、憂鬱及情緒困擾。艾里斯認為，情緒問題大多來自非理性信念，藉由改變這些信念，人們能擺脫負面情緒，過上更加幸福的生活。本書提供了簡單而有效的自助方法，教導如何掌握思維、情感與行為的關聯，並學會如何改變不合理的信念來減少生活中的煩憂。</p>
-<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>REBT理論：</strong> <code>理情行為治療（REBT）</code>是一種以<code>情緒</code>、<code>想法</code>、<code>行為</code>三個層面進行干預的心理治療方法，旨在幫助人們識別和改變負面的非理性信念。</p>
-</li>
-<li><p><strong>A-B-C-D-E模式：</strong> 本書介紹了REBT的A-B-C-D-E模式，通過識別引發情緒的事件（A），認知過程（B），情緒反應（C），挑戰信念（D），以及結果（E），幫助個體改善情緒。</p>
-</li>
-<li><p><strong>非理性信念的挑戰：</strong> 書中強調改變那些讓人陷入困境的非理性信念，如「我必須完美」或「事情必須按我的預期發展」。</p>
-</li>
-<li><p><strong>自我接納：</strong> 提倡無條件接納自我和他人，並學會放下過高的自我要求，學習如何應對生活中的不確定性。</p>
-</li>
-<li><p><strong>行為改變的力量：</strong> 強調通過積極的行動來挑戰和克服情緒困擾，並幫助讀者建立更健康的自我信念。</p>
-</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>為何我們常陷入「應該」與「必須」的信念？</li>
-<li>我們是否願意承認：困擾來自內在的解讀，而非外在事實？</li>
-<li>你是否曾嘗試挑戰內心的負面對話？還是一直默默承受它的傷害？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提出的 REBT 方法不僅對心理治療領域產生了深遠的影響，也提供了每個人自助的寶貴智慧。透過改變不理性的思維模式，我們能夠有效地減少焦慮、憤怒及不安，過上更快樂、無憂的生活。艾里斯的智慧鼓勵我們接納自己與他人，並學會在面對困難時以理性與勇氣應對。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>理情行為治療</tag>
-        <tag>亞伯‧艾里斯</tag>
-        <tag>讓自己快樂</tag>
-        <tag>沒有放不下的情緒，只有不肯放下的你</tag>
       </tags>
   </entry>
   <entry>
@@ -2213,37 +2213,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《持續買進：資料科學家的投資終極解答，存錢及致富的實證方法》 | 閱讀心得學習筆記</title>
-    <url>/2023/05/30/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《持續買進：資料科學家的投資終極解答，存錢及致富的實證方法》</span><br><span class="line">Just Keep Buying: Proven Ways to Save Money And Build Your Wealth</span><br><span class="line">作者： 尼克．馬朱利  </span><br><span class="line">原文作者： Nick Maggiulli</span><br><span class="line">譯者： 李芳齡</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「持續買進，才能持續致富。持續買進的力量，就像原子習慣一樣強大。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書持續買進，由資料科學家尼克·馬朱利撰寫，以數據分析顛覆傳統投資觀念，指出「逢低買進」並非致富捷徑，反而「持續買進」才是長期累積財富的不敗法則。作者以數據證據破解常見投資迷思，提供務實可行的理財建議，適合新手及有經驗的投資者閱讀。</p>
-<p><img src="/img/posts/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>持續買進（DCA）</strong>：不論牛市或熊市，穩定投入資金參與市場，讓複利發揮最大效益。  </li>
-<li><strong>抄底風險</strong>：等待低點可能錯失市場上漲良機，長期績效落後於持續投資。  </li>
-<li><strong>大盤 ETF 勝於個股</strong>：歷史數據顯示，僅 4% 個股長期表現優於國債，分散風險才是王道。</li>
-<li><strong>大跌是機會</strong>：市場大幅修正後，長期報酬率反而更佳，不須恐慌。</li>
-<li><strong>買房不一定是好投資</strong>：長期投入股市指數基金，報酬率遠勝房地產。</li>
-<li><strong>財務自由不等於幸福</strong>：FIRE 雖可實現，但退休後仍需找到生活意義。</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>持續買進強調數據為本，以簡單可行的「持續投資」策略，幫助普通人穩健累積財富，戰勝市場不確定性，是理財路上的實用指南。</p>
-]]></content>
-      <tags>
-        <tag>finance</tag>
-        <tag>持續買進</tag>
-        <tag>資料科學家的投資終極解答</tag>
-        <tag>存錢及致富的實證方法</tag>
-        <tag>投資理財</tag>
-        <tag>investment</tag>
-        <tag>money</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《親密恐懼：為什麼我們無法好好愛人，好好被愛？》| 閱讀心得學習筆記</title>
     <url>/2023/11/27/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly-1.jpg"></p>
@@ -2288,6 +2257,37 @@
         <tag>不幸的人做情緒的奴隸</tag>
         <tag>理情行為治療</tag>
         <tag>亞伯‧艾里斯</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《持續買進：資料科學家的投資終極解答，存錢及致富的實證方法》 | 閱讀心得學習筆記</title>
+    <url>/2023/05/30/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《持續買進：資料科學家的投資終極解答，存錢及致富的實證方法》</span><br><span class="line">Just Keep Buying: Proven Ways to Save Money And Build Your Wealth</span><br><span class="line">作者： 尼克．馬朱利  </span><br><span class="line">原文作者： Nick Maggiulli</span><br><span class="line">譯者： 李芳齡</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「持續買進，才能持續致富。持續買進的力量，就像原子習慣一樣強大。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書持續買進，由資料科學家尼克·馬朱利撰寫，以數據分析顛覆傳統投資觀念，指出「逢低買進」並非致富捷徑，反而「持續買進」才是長期累積財富的不敗法則。作者以數據證據破解常見投資迷思，提供務實可行的理財建議，適合新手及有經驗的投資者閱讀。</p>
+<p><img src="/img/posts/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>持續買進（DCA）</strong>：不論牛市或熊市，穩定投入資金參與市場，讓複利發揮最大效益。  </li>
+<li><strong>抄底風險</strong>：等待低點可能錯失市場上漲良機，長期績效落後於持續投資。  </li>
+<li><strong>大盤 ETF 勝於個股</strong>：歷史數據顯示，僅 4% 個股長期表現優於國債，分散風險才是王道。</li>
+<li><strong>大跌是機會</strong>：市場大幅修正後，長期報酬率反而更佳，不須恐慌。</li>
+<li><strong>買房不一定是好投資</strong>：長期投入股市指數基金，報酬率遠勝房地產。</li>
+<li><strong>財務自由不等於幸福</strong>：FIRE 雖可實現，但退休後仍需找到生活意義。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>持續買進強調數據為本，以簡單可行的「持續投資」策略，幫助普通人穩健累積財富，戰勝市場不確定性，是理財路上的實用指南。</p>
+]]></content>
+      <tags>
+        <tag>finance</tag>
+        <tag>持續買進</tag>
+        <tag>資料科學家的投資終極解答</tag>
+        <tag>存錢及致富的實證方法</tag>
+        <tag>投資理財</tag>
+        <tag>investment</tag>
+        <tag>money</tag>
       </tags>
   </entry>
   <entry>
@@ -3454,48 +3454,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《軟技能：soft skills，讓你不過時、不貶值、不消失，工作與人生的升級說明書》| 閱讀心得學習筆記</title>
-    <url>/2025/01/03/reading-notes-soft-skills-let-you-stay-relevant-retain-value/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-soft-skills-let-you-stay-relevant-retain-value-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《軟技能：soft skills，讓你不過時、不貶值、不消失，工作與人生的升級說明書》</span><br><span class="line">作者： 劉潤, 李笑來, 萬維綱, 吳軍, 劉擎, 薛兆豐</span><br><span class="line">出版社：漫遊者文化</span><br><span class="line">出版日期：2025/01/03</span><br></pre></td></tr></table></figure>
-
-<p>「為什麼努力學習各種技能，卻還是無法脫穎而出？」</p>
-<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
-<p>「你的人生卡關，其實是軟技能不足？上場靠硬技能，升級靠軟實力。技能是點，影響是力，人一生是由點成網的旅程。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>當我們以為只要技能夠硬，職場就能一路順遂，現實卻給了另一種答案：三十五歲後，能不能留在場上、走得更遠，關鍵往往是你是否具備影響他人的「軟實力」。《軟技能：soft skills，讓你不過時、不貶值、不消失，工作與人生的升級說明書》由羅振宇、脫不花策劃，邀請 30 位橫跨科技、教育、經濟、心理等領域的大師，寫給職場人的 30 封信，帶你拆解什麼是軟技能、如何修練，以及如何讓這些能力成為你長期發光的內在引擎。</p>
-<p><img src="/img/posts/reading-notes-soft-skills-let-you-stay-relevant-retain-value-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>軟技能不是態度，而是影響他人的能力：包含溝通、情緒管理、創造力、自律等。</li>
-<li>四大象限模型：底層邏輯、刻意練習、跨界借鑑、競爭影響力。</li>
-<li>軟技能是「無限遊戲」，無明確終點，需長期實踐與反覆修煉。</li>
-<li>本書透過 30 位大師的書信經驗傳承，提供跨視角、多場域實戰建議。</li>
-<li>軟技能處理「人」與「局」，比起知識本身，更需場景感與變通力。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>每週選擇一封信，設立小練習並實作於日常溝通或工作場域</li>
-<li>建立屬於自己的軟技能筆記，記錄情緒管理、人際互動成功與失敗案例</li>
-<li>模仿學習一位作者的表達方式，運用於簡報或寫作中</li>
-<li>每月挑一主題（如抗壓、說服、領導）進行深入閱讀與反思</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你的職場困境，是缺乏什麼樣的軟技能所導致？</li>
-<li>在面對人際衝突時，你採取了什麼應對策略？是否有效？</li>
-<li>是否過度依賴硬技能來證明價值？忽略了「被需要」與「被信任」的力量？</li>
-<li>哪位作者的信件內容讓你最有共鳴？為什麼？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這不是一本速成書，而是一本軟實力的啟蒙之書。它強調：不是你不夠努力，而是你努力的方向需要轉彎。在 AI 與變動加劇的時代，硬技能幫你進門，軟技能決定你能否留下、躍升。與其單打獨鬥，不如學習影響、連結、創造變化，讓自己成為更全面、更立體的職場選手。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>顯化效應</tag>
-        <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《人生最後一堂理財課：見證過無數生死的安寧照護醫生告訴你如何過一個不留遺憾的人生。關於金錢、工作和幸福人生的實用建議》| 閱讀心得學習筆記</title>
     <url>/2025/05/16/reading-notes-taking-stock-a-hospice-doctors-advice-on-financial-independence/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-taking-stock-a-hospice-doctors-advice-on-financial-independence-1.jpg"></p>
@@ -3630,6 +3588,48 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>蓋洛威教授的人生財富課</tag>
         <tag>觀念x紀律x工作x配置</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《軟技能：soft skills，讓你不過時、不貶值、不消失，工作與人生的升級說明書》| 閱讀心得學習筆記</title>
+    <url>/2025/01/03/reading-notes-soft-skills-let-you-stay-relevant-retain-value/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-soft-skills-let-you-stay-relevant-retain-value-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《軟技能：soft skills，讓你不過時、不貶值、不消失，工作與人生的升級說明書》</span><br><span class="line">作者： 劉潤, 李笑來, 萬維綱, 吳軍, 劉擎, 薛兆豐</span><br><span class="line">出版社：漫遊者文化</span><br><span class="line">出版日期：2025/01/03</span><br></pre></td></tr></table></figure>
+
+<p>「為什麼努力學習各種技能，卻還是無法脫穎而出？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「你的人生卡關，其實是軟技能不足？上場靠硬技能，升級靠軟實力。技能是點，影響是力，人一生是由點成網的旅程。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>當我們以為只要技能夠硬，職場就能一路順遂，現實卻給了另一種答案：三十五歲後，能不能留在場上、走得更遠，關鍵往往是你是否具備影響他人的「軟實力」。《軟技能：soft skills，讓你不過時、不貶值、不消失，工作與人生的升級說明書》由羅振宇、脫不花策劃，邀請 30 位橫跨科技、教育、經濟、心理等領域的大師，寫給職場人的 30 封信，帶你拆解什麼是軟技能、如何修練，以及如何讓這些能力成為你長期發光的內在引擎。</p>
+<p><img src="/img/posts/reading-notes-soft-skills-let-you-stay-relevant-retain-value-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>軟技能不是態度，而是影響他人的能力：包含溝通、情緒管理、創造力、自律等。</li>
+<li>四大象限模型：底層邏輯、刻意練習、跨界借鑑、競爭影響力。</li>
+<li>軟技能是「無限遊戲」，無明確終點，需長期實踐與反覆修煉。</li>
+<li>本書透過 30 位大師的書信經驗傳承，提供跨視角、多場域實戰建議。</li>
+<li>軟技能處理「人」與「局」，比起知識本身，更需場景感與變通力。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每週選擇一封信，設立小練習並實作於日常溝通或工作場域</li>
+<li>建立屬於自己的軟技能筆記，記錄情緒管理、人際互動成功與失敗案例</li>
+<li>模仿學習一位作者的表達方式，運用於簡報或寫作中</li>
+<li>每月挑一主題（如抗壓、說服、領導）進行深入閱讀與反思</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你的職場困境，是缺乏什麼樣的軟技能所導致？</li>
+<li>在面對人際衝突時，你採取了什麼應對策略？是否有效？</li>
+<li>是否過度依賴硬技能來證明價值？忽略了「被需要」與「被信任」的力量？</li>
+<li>哪位作者的信件內容讓你最有共鳴？為什麼？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這不是一本速成書，而是一本軟實力的啟蒙之書。它強調：不是你不夠努力，而是你努力的方向需要轉彎。在 AI 與變動加劇的時代，硬技能幫你進門，軟技能決定你能否留下、躍升。與其單打獨鬥，不如學習影響、連結、創造變化，讓自己成為更全面、更立體的職場選手。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>顯化效應</tag>
+        <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
       </tags>
   </entry>
   <entry>
@@ -3781,6 +3781,41 @@
       </tags>
   </entry>
   <entry>
+    <title>《我得了不想上班的病：倦怠的5大解藥，從有毒工作中奪回你的人生》| 閱讀心得學習筆記</title>
+    <url>/2025/02/25/reading-notes-the-cure-for-burnout-how-to-find-balance-and-reclaim-your-life/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-cure-for-burnout-how-to-find-balance-and-reclaim-your-life-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我得了不想上班的病：倦怠的5大解藥，從有毒工作中奪回你的人生》</span><br><span class="line">作者： 艾米莉．巴列斯特羅斯  </span><br><span class="line">原文作者： Emily Ballesteros</span><br><span class="line">譯者： 洪慧芳</span><br><span class="line">出版社：時報出版</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「倦怠不是你的錯，而是你需要學會管理的課題。從今天起，為生活而工作，不再為工作而活。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會，我們時常被高壓工作與無止境的責任感推著走，逐漸遺忘了生活的真正意義。《我得了不想上班的病：倦怠的5大解藥，從有毒工作中奪回你的人生》這本書，正是針對這種普遍的職場倦怠現象，提供了清晰的分類與實用的方法，幫助讀者擺脫長期疲憊，重拾對生活的掌控權。</p>
+<p><img src="/img/posts/reading-notes-the-cure-for-burnout-how-to-find-balance-and-reclaim-your-life-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="三種類型的倦怠"><a href="#三種類型的倦怠" class="headerlink" title="三種類型的倦怠"></a>三種類型的倦怠</h3><ol>
+<li><strong>過勞型倦怠</strong>：習慣討好他人、總覺得成就比休息更重要，無法擺脫高壓工作。</li>
+<li><strong>社交倦怠</strong>：人際關係需求超過自身承受範圍，導致精力透支，對社交產生排斥感。</li>
+<li><strong>無聊型倦怠</strong>：長期對事物失去興趣，缺乏參與感，無法提起動力做出改變。</li>
+</ol>
+<h3 id="擺脫倦怠的五大解方"><a href="#擺脫倦怠的五大解方" class="headerlink" title="擺脫倦怠的五大解方"></a>擺脫倦怠的五大解方</h3><ol>
+<li><strong>心態調整</strong>：明確個人價值觀，讓時間運用與自身目標對齊。</li>
+<li><strong>個人關懷</strong>：學會關注自身需求，而非一味滿足他人。</li>
+<li><strong>時間管理</strong>：優先處理真正重要的事，避免低效耗能。</li>
+<li><strong>設立界線</strong>：明確劃分個人時間與工作責任，避免過度消耗。</li>
+<li><strong>壓力管理</strong>：以理性方式面對壓力，透過「覺察力三角」重塑健康心態。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅幫助我們識別倦怠的來源，還提供了一套可行的策略來改善生活品質。當我們學會管理自身的精力與界限，就能真正為生活而工作，而不是讓工作吞噬生活。這不僅是職場生存指南，更是一堂自我成長的必修課。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>我得了不想上班的病</tag>
+        <tag>倦怠的5大解藥</tag>
+        <tag>從有毒工作中奪回你的人生</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《被討厭的勇氣：自我啟發之父「阿德勒」的教導》| 閱讀心得學習筆記</title>
     <url>/2014/10/30/reading-notes-the-courage-to-be-disliked-1/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-courage-to-be-disliked-1-1.jpg"></p>
@@ -3814,41 +3849,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>被討厭的勇氣</tag>
         <tag>阿德勒</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《我得了不想上班的病：倦怠的5大解藥，從有毒工作中奪回你的人生》| 閱讀心得學習筆記</title>
-    <url>/2025/02/25/reading-notes-the-cure-for-burnout-how-to-find-balance-and-reclaim-your-life/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-cure-for-burnout-how-to-find-balance-and-reclaim-your-life-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我得了不想上班的病：倦怠的5大解藥，從有毒工作中奪回你的人生》</span><br><span class="line">作者： 艾米莉．巴列斯特羅斯  </span><br><span class="line">原文作者： Emily Ballesteros</span><br><span class="line">譯者： 洪慧芳</span><br><span class="line">出版社：時報出版</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「倦怠不是你的錯，而是你需要學會管理的課題。從今天起，為生活而工作，不再為工作而活。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代社會，我們時常被高壓工作與無止境的責任感推著走，逐漸遺忘了生活的真正意義。《我得了不想上班的病：倦怠的5大解藥，從有毒工作中奪回你的人生》這本書，正是針對這種普遍的職場倦怠現象，提供了清晰的分類與實用的方法，幫助讀者擺脫長期疲憊，重拾對生活的掌控權。</p>
-<p><img src="/img/posts/reading-notes-the-cure-for-burnout-how-to-find-balance-and-reclaim-your-life-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="三種類型的倦怠"><a href="#三種類型的倦怠" class="headerlink" title="三種類型的倦怠"></a>三種類型的倦怠</h3><ol>
-<li><strong>過勞型倦怠</strong>：習慣討好他人、總覺得成就比休息更重要，無法擺脫高壓工作。</li>
-<li><strong>社交倦怠</strong>：人際關係需求超過自身承受範圍，導致精力透支，對社交產生排斥感。</li>
-<li><strong>無聊型倦怠</strong>：長期對事物失去興趣，缺乏參與感，無法提起動力做出改變。</li>
-</ol>
-<h3 id="擺脫倦怠的五大解方"><a href="#擺脫倦怠的五大解方" class="headerlink" title="擺脫倦怠的五大解方"></a>擺脫倦怠的五大解方</h3><ol>
-<li><strong>心態調整</strong>：明確個人價值觀，讓時間運用與自身目標對齊。</li>
-<li><strong>個人關懷</strong>：學會關注自身需求，而非一味滿足他人。</li>
-<li><strong>時間管理</strong>：優先處理真正重要的事，避免低效耗能。</li>
-<li><strong>設立界線</strong>：明確劃分個人時間與工作責任，避免過度消耗。</li>
-<li><strong>壓力管理</strong>：以理性方式面對壓力，透過「覺察力三角」重塑健康心態。</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅幫助我們識別倦怠的來源，還提供了一套可行的策略來改善生活品質。當我們學會管理自身的精力與界限，就能真正為生活而工作，而不是讓工作吞噬生活。這不僅是職場生存指南，更是一堂自我成長的必修課。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>我得了不想上班的病</tag>
-        <tag>倦怠的5大解藥</tag>
-        <tag>從有毒工作中奪回你的人生</tag>
       </tags>
   </entry>
   <entry>
@@ -3892,6 +3892,46 @@
       </tags>
   </entry>
   <entry>
+    <title>《生命如此富有：活出天賦潛能的心靈密碼》| 閱讀心得學習筆記</title>
+    <url>/2012/08/07/reading-notes-the-four-purposes-of-life/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-four-purposes-of-life-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《生命如此富有：活出天賦潛能的心靈密碼》</span><br><span class="line">作者： 丹．米爾曼</span><br><span class="line">原文作者： Dan Millman</span><br><span class="line">譯者： 陳芳誼</span><br><span class="line">出版社：心靈工坊</span><br><span class="line">出版日期：2012/08/07</span><br></pre></td></tr></table></figure>
+
+<p>「你的生命目的，是等別人告訴你，還是自己找出來？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「生命的價值，在於清楚活出你的目的。學會好好生活，找到事業與志業。追尋靈魂成長，專注當下。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《生命如此富有》由丹·米爾曼以運動員的紀律與心靈導師的洞察，歸納出四大人生目的：學習生命課題、找到事業與志業、發現靈魂道路、專注於當下。作者強調，我們每個人都有無限潛能，關鍵在於釐清目標並全心投入，讓生活富足且有意義。</p>
+<p><img src="/img/posts/reading-notes-the-four-purposes-of-life-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>學會好好生活：十二項核心課程涵蓋關係、健康、財務、情緒與工作。</li>
+<li>找到事業與志業：事業提供收入與服務，志業則源自熱情與使命感。</li>
+<li>追尋靈魂成長：以生命靈數探索內在召喚與高層次潛能。</li>
+<li>專注當下：將所學整合於每一瞬間，帶著覺察活出最好的自己。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>列出生活十二領域現況，檢視需加強之處。</li>
+<li>分析個人天賦、興趣、價值觀，找出事業與志業交集。</li>
+<li>透過靜心或書寫探索內在召喚。</li>
+<li>每日設定「當下行動目標」，練習全神貫注。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>如何平衡事業帶來的收入與志業帶來的滿足感？</li>
+<li>在壓力與雜務中，專注當下是否可持續？</li>
+<li>若生命目的仍不清晰，該從哪一步開始探索？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《生命如此富有》本書提供清晰的人生四大方向，並以實用步驟協助讀者釐清目標、整合資源，讓生命不只是生存，而是充滿意義與成長的旅程。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>生命如此富有</tag>
+        <tag>活出天賦潛能的心靈密碼</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《美好人生：史上最長期的哈佛跨世代幸福研究，解答影響一生最重要的關鍵》| 閱讀心得學習筆記</title>
     <url>/2023/06/28/reading-notes-the-good-life-lessons-from-the-worlds-longest-scientific-study-of-happiness/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-good-life-lessons-from-the-worlds-longest-scientific-study-of-happiness-1.jpg"></p>
@@ -3930,6 +3970,51 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>美好人生</tag>
         <tag>史上最長期的哈佛跨世代幸福研究，解答影響一生最重要的關鍵</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《系統之鬼：頂尖駭客CEO戰勝系統的6大原則，帶你突破常規，收穫人生選擇自由》| 閱讀心得學習筆記</title>
+    <url>/2025/05/29/reading-notes-the-hacker-mindset-a-5-step-methodology/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-hacker-mindset-a-5-step-methodology-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《系統之鬼：頂尖駭客CEO戰勝系統的6大原則，帶你突破常規，收穫人生選擇自由》</span><br><span class="line">作者： 加勒特．吉</span><br><span class="line">原文作者： Garrett Gee</span><br><span class="line">譯者： 姚怡平</span><br><span class="line">出版社：三采</span><br><span class="line">出版日期：2025/05/29</span><br></pre></td></tr></table></figure>
+
+<p>「你的人生是否也像機器中的一顆小齒輪？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「所謂的「駭」，就是找出你和目標之間有什麼阻礙，然後快速又有效地克服那些阻礙，取得想要的東西。運用駭客心態，你也能突破現況，實現成功和自由。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《系統之鬼》是一本結合駭客思維與人生策略的實用指南。作者加勒特．吉透過自身駭客與創業經歷，揭示如何以系統破解的方式，重塑職涯、財務與生活。從十五歲婉拒 Google，到短短五年創業達成財務自由，他不只是駭入網站，更駭入體制與現實，找出屬於自己的高效路徑。</p>
+<p><img src="/img/posts/reading-notes-the-hacker-mindset-a-5-step-methodology-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>世界是由系統構成，而系統皆可被解析、操控。</li>
+<li>駭客心態強調效率、敏捷與創意，非僅靠蠻力努力。</li>
+<li>六大駭客原則可應用於職涯、創業與理財情境。</li>
+<li>傳統制度多為封閉系統，但思維轉換可找出捷徑。</li>
+<li>任何「成功模式」背後皆有一套可複製的「程式碼」。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>重新審視你的職涯或生活目標，分析其背後的「系統結構」。</li>
+<li>運用逆向工程，觀察他人成功的三要素：人、流程、科技。</li>
+<li>每週挑戰一次主動進攻：發問、提案、試錯而非等待。</li>
+<li>評估機會與風險的期望值，不再被模糊的「安全感」困住。</li>
+<li>練習觀察人性弱點（社交工程），提升溝通與影響力。</li>
+<li>面對變局，保持「軸轉」彈性而非執著既定計畫。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>為何我們總被動等待機會，而非主動創造？</li>
+<li>當系統讓你迷失方向時，你是否有能力「駭出來」？</li>
+<li>在穩定與突破之間，哪一個才是你真正渴望的？</li>
+<li>如果人生本就是一套遊戲規則，你是否學會寫新的規則？</li>
+<li>真正的自由，是不被系統限制，還是能操控系統？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《系統之鬼》不只是一部關於駭客的傳記，它是一份現代人的生存攻略。在這個系統密佈的社會中，唯有掌握系統運作邏輯，才能在職涯、財務與生活中脫穎而出。這本書適合對現狀感到窒息，渴望突破、尋找自由與自我價值的人。駭客的不是電腦，而是整個既定框架。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>系統之鬼</tag>
+        <tag>頂尖駭客CEO戰勝系統的6大原則，帶你突破常規，收穫人生選擇自由</tag>
       </tags>
   </entry>
   <entry>
@@ -3976,51 +4061,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>顯化效應</tag>
         <tag>你快樂，所以你成功</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《系統之鬼：頂尖駭客CEO戰勝系統的6大原則，帶你突破常規，收穫人生選擇自由》| 閱讀心得學習筆記</title>
-    <url>/2025/05/29/reading-notes-the-hacker-mindset-a-5-step-methodology/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-hacker-mindset-a-5-step-methodology-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《系統之鬼：頂尖駭客CEO戰勝系統的6大原則，帶你突破常規，收穫人生選擇自由》</span><br><span class="line">作者： 加勒特．吉</span><br><span class="line">原文作者： Garrett Gee</span><br><span class="line">譯者： 姚怡平</span><br><span class="line">出版社：三采</span><br><span class="line">出版日期：2025/05/29</span><br></pre></td></tr></table></figure>
-
-<p>「你的人生是否也像機器中的一顆小齒輪？」</p>
-<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
-<p>「所謂的「駭」，就是找出你和目標之間有什麼阻礙，然後快速又有效地克服那些阻礙，取得想要的東西。運用駭客心態，你也能突破現況，實現成功和自由。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《系統之鬼》是一本結合駭客思維與人生策略的實用指南。作者加勒特．吉透過自身駭客與創業經歷，揭示如何以系統破解的方式，重塑職涯、財務與生活。從十五歲婉拒 Google，到短短五年創業達成財務自由，他不只是駭入網站，更駭入體制與現實，找出屬於自己的高效路徑。</p>
-<p><img src="/img/posts/reading-notes-the-hacker-mindset-a-5-step-methodology-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>世界是由系統構成，而系統皆可被解析、操控。</li>
-<li>駭客心態強調效率、敏捷與創意，非僅靠蠻力努力。</li>
-<li>六大駭客原則可應用於職涯、創業與理財情境。</li>
-<li>傳統制度多為封閉系統，但思維轉換可找出捷徑。</li>
-<li>任何「成功模式」背後皆有一套可複製的「程式碼」。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>重新審視你的職涯或生活目標，分析其背後的「系統結構」。</li>
-<li>運用逆向工程，觀察他人成功的三要素：人、流程、科技。</li>
-<li>每週挑戰一次主動進攻：發問、提案、試錯而非等待。</li>
-<li>評估機會與風險的期望值，不再被模糊的「安全感」困住。</li>
-<li>練習觀察人性弱點（社交工程），提升溝通與影響力。</li>
-<li>面對變局，保持「軸轉」彈性而非執著既定計畫。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>為何我們總被動等待機會，而非主動創造？</li>
-<li>當系統讓你迷失方向時，你是否有能力「駭出來」？</li>
-<li>在穩定與突破之間，哪一個才是你真正渴望的？</li>
-<li>如果人生本就是一套遊戲規則，你是否學會寫新的規則？</li>
-<li>真正的自由，是不被系統限制，還是能操控系統？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《系統之鬼》不只是一部關於駭客的傳記，它是一份現代人的生存攻略。在這個系統密佈的社會中，唯有掌握系統運作邏輯，才能在職涯、財務與生活中脫穎而出。這本書適合對現狀感到窒息，渴望突破、尋找自由與自我價值的人。駭客的不是電腦，而是整個既定框架。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>系統之鬼</tag>
-        <tag>頂尖駭客CEO戰勝系統的6大原則，帶你突破常規，收穫人生選擇自由</tag>
       </tags>
   </entry>
   <entry>
@@ -4074,41 +4114,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》| 閱讀心得學習筆記</title>
-    <url>/2024/06/05/reading-notes-the-middle-passage/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-middle-passage-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》</span><br><span class="line">作者： 詹姆斯．霍利斯</span><br><span class="line">原文作者： James Hollis</span><br><span class="line">譯者： 鐘穎（愛智者）</span><br><span class="line">出版社：楓樹林出版社</span><br><span class="line">出版日期：2024/06/05</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「除了我的過往，以及我所扮演的角色之外，我到底是誰？從現在開始，你要練習不再討好任何人，只需清醒地活出更大的自己。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《中年之路》由詹姆斯・霍利斯撰寫，是一本以榮格心理學為基礎，深入探討中年階段心理轉折與個體化歷程的重要著作。中年不再只是人生的下坡期，而是一場重新覺醒與蛻變的契機。作者指出，當人們在中年感受到內外衝突與空虛，便揭開了通往「第二個成年期」的序幕。</p>
-<p><img src="/img/posts/reading-notes-the-middle-passage-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>暫時性人格</strong>：我們在第一成年期形成的身分，常為討好、角色或責任所驅動，並不是真我。</li>
-<li><strong>中年之路的預兆</strong>：內部壓力、失望、投射破裂、神經症等症狀，暗示我們與內在真我失聯。</li>
-<li><strong>轉向內在的旅程</strong>：個體化過程要求我們直視陰影、自我矛盾與童年創傷，重新界定生命意義。</li>
-<li><strong>從孤單到孤獨</strong>：學會與自己相處，接受失落與分離，將恐懼轉化為精神成長的資源。</li>
-<li><strong>重新定位人我關係</strong>：個體化並非自我中心，而是與他人真誠連結、承擔責任的成熟表現。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否曾經用外在成就掩蓋內在空虛？</li>
-<li>面對中年危機，我們是逃避還是選擇面對與成長？</li>
-<li>如何判斷現在的「我」，是真正的我，還是扮演出來的角色？</li>
-<li>當人生的「上半場」劇本無法繼續套用，我們是否願意重寫新的劇本？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《中年之路》不只是一本心理學書籍，更是一面鏡子，照見我們潛藏已久的焦慮、夢想與渴望。霍利斯以榮格的視角邀請我們，不再被過往角色所束縛，勇敢穿越中年的黑暗森林，找回與生命本質的連結。這是一場屬於每個人的深層心靈旅程。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>顯化效應</tag>
-        <tag>中年之路：穿越幽暗，迎向完整的內在鍊金之旅</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《被財神爺喜歡到怕的方法：淨化金毒、史上最簡單的開運增財術》| 閱讀心得學習筆記</title>
     <url>/2025/06/01/reading-notes-the-method-to-be-liked-by-the-god-of-wealth/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-method-to-be-liked-by-the-god-of-wealth-1.jpg"></p>
@@ -4149,6 +4154,41 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>被財神爺喜歡到怕的方法：淨化金毒、史上最簡單的開運增財術</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》| 閱讀心得學習筆記</title>
+    <url>/2024/06/05/reading-notes-the-middle-passage/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-middle-passage-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》</span><br><span class="line">作者： 詹姆斯．霍利斯</span><br><span class="line">原文作者： James Hollis</span><br><span class="line">譯者： 鐘穎（愛智者）</span><br><span class="line">出版社：楓樹林出版社</span><br><span class="line">出版日期：2024/06/05</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「除了我的過往，以及我所扮演的角色之外，我到底是誰？從現在開始，你要練習不再討好任何人，只需清醒地活出更大的自己。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《中年之路》由詹姆斯・霍利斯撰寫，是一本以榮格心理學為基礎，深入探討中年階段心理轉折與個體化歷程的重要著作。中年不再只是人生的下坡期，而是一場重新覺醒與蛻變的契機。作者指出，當人們在中年感受到內外衝突與空虛，便揭開了通往「第二個成年期」的序幕。</p>
+<p><img src="/img/posts/reading-notes-the-middle-passage-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>暫時性人格</strong>：我們在第一成年期形成的身分，常為討好、角色或責任所驅動，並不是真我。</li>
+<li><strong>中年之路的預兆</strong>：內部壓力、失望、投射破裂、神經症等症狀，暗示我們與內在真我失聯。</li>
+<li><strong>轉向內在的旅程</strong>：個體化過程要求我們直視陰影、自我矛盾與童年創傷，重新界定生命意義。</li>
+<li><strong>從孤單到孤獨</strong>：學會與自己相處，接受失落與分離，將恐懼轉化為精神成長的資源。</li>
+<li><strong>重新定位人我關係</strong>：個體化並非自我中心，而是與他人真誠連結、承擔責任的成熟表現。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否曾經用外在成就掩蓋內在空虛？</li>
+<li>面對中年危機，我們是逃避還是選擇面對與成長？</li>
+<li>如何判斷現在的「我」，是真正的我，還是扮演出來的角色？</li>
+<li>當人生的「上半場」劇本無法繼續套用，我們是否願意重寫新的劇本？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《中年之路》不只是一本心理學書籍，更是一面鏡子，照見我們潛藏已久的焦慮、夢想與渴望。霍利斯以榮格的視角邀請我們，不再被過往角色所束縛，勇敢穿越中年的黑暗森林，找回與生命本質的連結。這是一場屬於每個人的深層心靈旅程。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>顯化效應</tag>
+        <tag>中年之路：穿越幽暗，迎向完整的內在鍊金之旅</tag>
       </tags>
   </entry>
   <entry>
@@ -4449,51 +4489,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《不需要做的人生清單：從超高壓社會中生存、輕鬆工作的 40 個技巧，「全世界最簡單」的人生規劃學》| 閱讀心得學習筆記</title>
-    <url>/2023/12/29/reading-notes-things-you-dont-need-to-do-in-life/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-things-you-dont-need-to-do-in-life-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《不需要做的人生清單：從超高壓社會中生存、輕鬆工作的 40 個技巧，「全世界最簡單」的人生規劃學》</span><br><span class="line">作者： 四角大輔</span><br><span class="line">譯者： 賴郁婷</span><br><span class="line">出版社：春天出版社</span><br><span class="line">出版日期：2023/12/29</span><br></pre></td></tr></table></figure>
-
-<p>「你是否總想每件事都做到最好，卻感到越做越累？」</p>
-<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
-<p>「因為想對每一件事都投注心力，所以每一件事都只能做到半吊子。與其如此，不如找一件可以全心全意投入，或是可以做到最好的事情去做。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《不需要做的人生清單》是生活設計師四角大輔的真實轉變故事，從公司吊車尾員工到百萬銷售唱片製作人，他提出的不是更努力，而是更減法的工作與生活方式。本書旨在幫助讀者從高壓的社會節奏中抽身，重新定義什麼才是值得投入的「自己人生」。</p>
-<p><img src="/img/posts/reading-notes-things-you-dont-need-to-do-in-life-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>社會不再需要萬能的人，而是專注做對事的人。</li>
-<li>拋開「待辦清單」與「應該要」，聽見自己內心的聲音。</li>
-<li>逃避、辦不到、沒勝算也沒關係，重點是「辦得到的事」。</li>
-<li>別再迎合他人期待，人生該為自己而活。</li>
-<li>成功的關鍵不是加法，而是減法，去除不必要的努力。</li>
-<li>與其半吊子做很多，不如專注做一件可全力以赴的事。</li>
-<li>現代求的是獨創性與彈性，而非盲從與一致。</li>
-<li>你的工作與生活，可以遵循自然節奏與內心的直覺。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>每週檢視一次：目前投入的事哪些其實可以「不做」。</li>
-<li>練習說「不」：對那些內心無法認同的期待或要求。</li>
-<li>設立「我辦得到」清單，聚焦三件最有感、能完成的事。</li>
-<li>實驗「專心致志日」：只做一件重要的小事直到完成。</li>
-<li>每月安排時間遠離社群與壓力源，傾聽自己的聲音。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你有哪些事，是「別人說應該做」，但你其實不認同的？</li>
-<li>你是否曾為了符合社會期待，違背了自己的直覺？</li>
-<li>現在的你，有沒有願意全心投入的「那一件事」？</li>
-<li>如果可以少做三件事，你會捨棄哪些？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不是要我們逃避，而是邀請我們思考：到底什麼才值得花時間去努力？透過「什麼都不用做到」的理念，重新擁抱內心的熱情與方向。四角大輔用他的轉變證明，人生可以不一樣。不是更努力，而是更誠實、更簡約、更自由。專注你能做的，不必迎合全世界。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>不需要做的人生清單</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《那些旅行教我的事：用一趟旅行重啟生活的初心，我們終將在路上，和理想的自己相遇》| 閱讀心得學習筆記</title>
     <url>/2023/06/01/reading-notes-those-travels-taught-me-use-a-trip-to-restart-the-original-intention-of-life/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-those-travels-taught-me-use-a-trip-to-restart-the-original-intention-of-life-1.jpg"></p>
@@ -4550,6 +4545,51 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>那些旅行教我的事</tag>
         <tag>用一趟旅行重啟生活的初心</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《不需要做的人生清單：從超高壓社會中生存、輕鬆工作的 40 個技巧，「全世界最簡單」的人生規劃學》| 閱讀心得學習筆記</title>
+    <url>/2023/12/29/reading-notes-things-you-dont-need-to-do-in-life/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-things-you-dont-need-to-do-in-life-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《不需要做的人生清單：從超高壓社會中生存、輕鬆工作的 40 個技巧，「全世界最簡單」的人生規劃學》</span><br><span class="line">作者： 四角大輔</span><br><span class="line">譯者： 賴郁婷</span><br><span class="line">出版社：春天出版社</span><br><span class="line">出版日期：2023/12/29</span><br></pre></td></tr></table></figure>
+
+<p>「你是否總想每件事都做到最好，卻感到越做越累？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「因為想對每一件事都投注心力，所以每一件事都只能做到半吊子。與其如此，不如找一件可以全心全意投入，或是可以做到最好的事情去做。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《不需要做的人生清單》是生活設計師四角大輔的真實轉變故事，從公司吊車尾員工到百萬銷售唱片製作人，他提出的不是更努力，而是更減法的工作與生活方式。本書旨在幫助讀者從高壓的社會節奏中抽身，重新定義什麼才是值得投入的「自己人生」。</p>
+<p><img src="/img/posts/reading-notes-things-you-dont-need-to-do-in-life-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>社會不再需要萬能的人，而是專注做對事的人。</li>
+<li>拋開「待辦清單」與「應該要」，聽見自己內心的聲音。</li>
+<li>逃避、辦不到、沒勝算也沒關係，重點是「辦得到的事」。</li>
+<li>別再迎合他人期待，人生該為自己而活。</li>
+<li>成功的關鍵不是加法，而是減法，去除不必要的努力。</li>
+<li>與其半吊子做很多，不如專注做一件可全力以赴的事。</li>
+<li>現代求的是獨創性與彈性，而非盲從與一致。</li>
+<li>你的工作與生活，可以遵循自然節奏與內心的直覺。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每週檢視一次：目前投入的事哪些其實可以「不做」。</li>
+<li>練習說「不」：對那些內心無法認同的期待或要求。</li>
+<li>設立「我辦得到」清單，聚焦三件最有感、能完成的事。</li>
+<li>實驗「專心致志日」：只做一件重要的小事直到完成。</li>
+<li>每月安排時間遠離社群與壓力源，傾聽自己的聲音。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你有哪些事，是「別人說應該做」，但你其實不認同的？</li>
+<li>你是否曾為了符合社會期待，違背了自己的直覺？</li>
+<li>現在的你，有沒有願意全心投入的「那一件事」？</li>
+<li>如果可以少做三件事，你會捨棄哪些？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不是要我們逃避，而是邀請我們思考：到底什麼才值得花時間去努力？透過「什麼都不用做到」的理念，重新擁抱內心的熱情與方向。四角大輔用他的轉變證明，人生可以不一樣。不是更努力，而是更誠實、更簡約、更自由。專注你能做的，不必迎合全世界。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>不需要做的人生清單</tag>
       </tags>
   </entry>
   <entry>
@@ -4683,6 +4723,53 @@
       </tags>
   </entry>
   <entry>
+    <title>《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》| 閱讀心得學習筆記</title>
+    <url>/2025/01/09/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》</span><br><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+
+<blockquote>
+<p>「無論情況多麼絕望，人永遠不會沒有選擇。人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。」  </p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。本書由精神科醫師戈登．李文斯頓博士以自身經歷與診療室故事，萃取出30則人生智慧，幫助讀者正視恐懼、調適情緒、經營關係，並掌握人生主導權。這不只是一本療癒書，更是一場勇敢面對人生挑戰的啟發之旅。</p>
+<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-做自己：勇敢迎接未知"><a href="#1-做自己：勇敢迎接未知" class="headerlink" title="1. 做自己：勇敢迎接未知"></a><strong>1. 做自己：勇敢迎接未知</strong></h4><ul>
+<li><code>人生是一場賭局</code>，我們無法選擇手中的牌，<code>但能決定如何打好這副牌</code>。</li>
+<li><code>冒險</code>是成長的必要條件，害怕改變往往是最大的枷鎖。</li>
+</ul>
+<h4 id="2-勇氣篇：打破內心的牢籠"><a href="#2-勇氣篇：打破內心的牢籠" class="headerlink" title="2. 勇氣篇：打破內心的牢籠"></a><strong>2. 勇氣篇：打破內心的牢籠</strong></h4><ul>
+<li>最堅固的牢房是我們親手打造的，<code>恐懼與焦慮</code>常阻礙我們追尋快樂。</li>
+<li>勇敢不是沒有害怕，而是<code>即使害怕仍然前進</code>。</li>
+</ul>
+<h4 id="3-情緒篇：選擇希望而非絕望"><a href="#3-情緒篇：選擇希望而非絕望" class="headerlink" title="3. 情緒篇：選擇希望而非絕望"></a><strong>3. 情緒篇：選擇希望而非絕望</strong></h4><ul>
+<li><code>人生即使困難，仍有選擇的空間</code>，只要我們願意尋找新的可能。</li>
+<li><code>轉念</code>是關鍵，問題的核心往往不在事件本身，而在我們<code>如何看待它</code>。</li>
+</ul>
+<h4 id="4-關係篇：給孩子最好的禮物"><a href="#4-關係篇：給孩子最好的禮物" class="headerlink" title="4. 關係篇：給孩子最好的禮物"></a><strong>4. 關係篇：給孩子最好的禮物</strong></h4><ul>
+<li>教養的本質是讓孩子相信，<code>在這個世界上仍然能夠快樂生活</code>。</li>
+<li><code>陪伴與支持</code>，<code>比任何說教更能帶來安全感</code>。</li>
+</ul>
+<h4 id="5-愛情篇：如何愛與被愛"><a href="#5-愛情篇：如何愛與被愛" class="headerlink" title="5. 愛情篇：如何愛與被愛"></a><strong>5. 愛情篇：如何愛與被愛</strong></h4><ul>
+<li>婚姻需要<code>雙方共同經營</code>，但<code>只要一方選擇退出，就足以結束一段關係</code>。</li>
+<li>真正的愛不是<code>掌控</code>與<code>依賴</code>，而是<code>尊重</code>與<code>包容</code>。</li>
+</ul>
+<h4 id="6-老去篇：死亡無法抹去愛"><a href="#6-老去篇：死亡無法抹去愛" class="headerlink" title="6. 老去篇：死亡無法抹去愛"></a><strong>6. 老去篇：死亡無法抹去愛</strong></h4><ul>
+<li>失去所愛之人，並不意味著愛的消失，而是提醒我們<code>珍惜擁有的當下</code>。</li>
+<li>生命的意義，不在於逃避死亡，而在於<code>勇敢地活著</code>。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>戈登．李文斯頓博士以親身經歷和臨床觀察，為我們提供了一面人生的鏡子，提醒我們選擇勇敢、擁抱改變、珍惜愛與當下。這本書不只是關於療癒，更是關於活出更有力量的自己。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>這一生，你要體會的30件事</tag>
+        <tag>精神科醫師最犀利的人生告白</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《矽谷最夯‧產品營運模式轉型全書：像世界頂尖科技公司那樣運作，更快推出更有價值產品》 | 閱讀心得學習筆記</title>
     <url>/2024/11/10/reading-notes-transformed-moving-to-the-product-operating-model/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-transformed-moving-to-the-product-operating-model-1.jpg"></p>
@@ -4764,53 +4851,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>川普2.0時代</tag>
         <tag>全球貿易戰、霸權競爭、地緣衝突，如何在經濟動盪的亂局中找到機會</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》| 閱讀心得學習筆記</title>
-    <url>/2025/01/09/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》</span><br><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
-
-
-<blockquote>
-<p>「無論情況多麼絕望，人永遠不會沒有選擇。人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。」  </p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。本書由精神科醫師戈登．李文斯頓博士以自身經歷與診療室故事，萃取出30則人生智慧，幫助讀者正視恐懼、調適情緒、經營關係，並掌握人生主導權。這不只是一本療癒書，更是一場勇敢面對人生挑戰的啟發之旅。</p>
-<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-做自己：勇敢迎接未知"><a href="#1-做自己：勇敢迎接未知" class="headerlink" title="1. 做自己：勇敢迎接未知"></a><strong>1. 做自己：勇敢迎接未知</strong></h4><ul>
-<li><code>人生是一場賭局</code>，我們無法選擇手中的牌，<code>但能決定如何打好這副牌</code>。</li>
-<li><code>冒險</code>是成長的必要條件，害怕改變往往是最大的枷鎖。</li>
-</ul>
-<h4 id="2-勇氣篇：打破內心的牢籠"><a href="#2-勇氣篇：打破內心的牢籠" class="headerlink" title="2. 勇氣篇：打破內心的牢籠"></a><strong>2. 勇氣篇：打破內心的牢籠</strong></h4><ul>
-<li>最堅固的牢房是我們親手打造的，<code>恐懼與焦慮</code>常阻礙我們追尋快樂。</li>
-<li>勇敢不是沒有害怕，而是<code>即使害怕仍然前進</code>。</li>
-</ul>
-<h4 id="3-情緒篇：選擇希望而非絕望"><a href="#3-情緒篇：選擇希望而非絕望" class="headerlink" title="3. 情緒篇：選擇希望而非絕望"></a><strong>3. 情緒篇：選擇希望而非絕望</strong></h4><ul>
-<li><code>人生即使困難，仍有選擇的空間</code>，只要我們願意尋找新的可能。</li>
-<li><code>轉念</code>是關鍵，問題的核心往往不在事件本身，而在我們<code>如何看待它</code>。</li>
-</ul>
-<h4 id="4-關係篇：給孩子最好的禮物"><a href="#4-關係篇：給孩子最好的禮物" class="headerlink" title="4. 關係篇：給孩子最好的禮物"></a><strong>4. 關係篇：給孩子最好的禮物</strong></h4><ul>
-<li>教養的本質是讓孩子相信，<code>在這個世界上仍然能夠快樂生活</code>。</li>
-<li><code>陪伴與支持</code>，<code>比任何說教更能帶來安全感</code>。</li>
-</ul>
-<h4 id="5-愛情篇：如何愛與被愛"><a href="#5-愛情篇：如何愛與被愛" class="headerlink" title="5. 愛情篇：如何愛與被愛"></a><strong>5. 愛情篇：如何愛與被愛</strong></h4><ul>
-<li>婚姻需要<code>雙方共同經營</code>，但<code>只要一方選擇退出，就足以結束一段關係</code>。</li>
-<li>真正的愛不是<code>掌控</code>與<code>依賴</code>，而是<code>尊重</code>與<code>包容</code>。</li>
-</ul>
-<h4 id="6-老去篇：死亡無法抹去愛"><a href="#6-老去篇：死亡無法抹去愛" class="headerlink" title="6. 老去篇：死亡無法抹去愛"></a><strong>6. 老去篇：死亡無法抹去愛</strong></h4><ul>
-<li>失去所愛之人，並不意味著愛的消失，而是提醒我們<code>珍惜擁有的當下</code>。</li>
-<li>生命的意義，不在於逃避死亡，而在於<code>勇敢地活著</code>。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>戈登．李文斯頓博士以親身經歷和臨床觀察，為我們提供了一面人生的鏡子，提醒我們選擇勇敢、擁抱改變、珍惜愛與當下。這本書不只是關於療癒，更是關於活出更有力量的自己。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>這一生，你要體會的30件事</tag>
-        <tag>精神科醫師最犀利的人生告白</tag>
       </tags>
   </entry>
   <entry>
@@ -5373,6 +5413,53 @@
       </tags>
   </entry>
   <entry>
+    <title>《你也可以延緩衰老的速度：不變老、不發胖、不生病、不焦慮， 4 個健康習慣，重設你的身體》| 閱讀心得學習筆記</title>
+    <url>/2025/07/03/reading-notes-you-can-also-slow-down-the-speed-of-aging/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-you-can-also-slow-down-the-speed-of-aging-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你也可以延緩衰老的速度：不變老、不發胖、不生病、不焦慮， 4 個健康習慣，重設你的身體》</span><br><span class="line">作者： 鄭熙元</span><br><span class="line">原文作者： 정희원</span><br><span class="line">譯者： 林育帆</span><br><span class="line">出版社：天下雜誌</span><br><span class="line">出版日期：2025/07/03</span><br></pre></td></tr></table></figure>
+
+<p>「你知道為什麼同齡人中，有些人看起來比實際年齡年輕嗎？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「不想年紀未到，就被叫大叔、大嬸，慢性病纏身？擔心平日不明的身體不適，哪天會爆發變重症？四合一的延緩衰老法，幫你及早跳脫加速衰老的惡性循環，重啟健康人生。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書由韓國知名老年醫學專家鄭熙元所著，深入揭示現代生活習慣如何加速我們的老化過程，尤其提醒 30 至 49 歲的青壯世代正成為「加速老化的一代」。作者以醫學、社會學及心理學等多角度，說明「老化不只是基因決定，而是生活方式累積的結果」，並提出 4M 管理法幫助讀者重新掌控健康節奏。這本書不僅解答了當代人面對的健康焦慮，也提供具體可行的延緩老化方案，是現代人不可或缺的健康指南。</p>
+<p><img src="/img/posts/reading-notes-you-can-also-slow-down-the-speed-of-aging-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>年輕一代因長期熬夜、過度使用數位設備、高熱量飲食與壓力過大，正面臨比父母輩更早出現慢性病與代謝異常的危機。</li>
+<li>老化速度並非 DNA 唯一決定，心理健康與生活型態如飲食、運動、睡眠等，對基因表現有深遠影響。</li>
+<li>「4M 延緩老化管理」核心包括：行動能力（Mobility）、心理健康（Mentation）、醫療與保健（Medical issues）、做重要的事（What Matters）。</li>
+<li>心理狀態是啟動或延緩老化的關鍵，透過正念和心流練習，可降低體內發炎與減少失智風險。</li>
+<li>身體動作如正確坐姿、站姿與肌力鍛鍊，是增強行動能力、預防肌少症的重要方法。</li>
+<li>延緩老化需從日常生活中的小改變做起，非一味自律，而是溫柔地重設生活節奏。</li>
+<li>及早預防慢性病與社交衰弱，有助提升生活質量及延長健康壽命。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每日規律進行結構化運動，包含深蹲、快走，融入日常生活動作中。</li>
+<li>練習正念冥想與專注力訓練，減緩心理壓力，促進大腦健康。</li>
+<li>均衡飲食，避免高熱量加工食品，增加抗氧化食物攝取。</li>
+<li>睡眠品質管理，建立固定作息，避免長時間使用 3C 產品。</li>
+<li>及時就醫，識別與管理早期慢性病風險。</li>
+<li>設定人生目標，維持良好社交關係，防止心理與社交退化。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>現代生活中，哪些習慣最容易被忽視卻加速老化？</li>
+<li>如何在忙碌的工作與生活中，找到持續落實 4M 管理的動力？</li>
+<li>心理健康在延緩老化中扮演何種角色？是否有具體有效的練習方法？</li>
+<li>早期慢性病的預防與延緩衰老，應該如何整合醫療與生活管理？</li>
+<li>面對快速老化的社會趨勢，個人及政府應如何共同因應？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《你也可以延緩衰老的速度：不變老、不發胖、不生病、不焦慮， 4 個健康習慣，重設你的身體》不僅是一部科學且實用的抗老指南，更是一場關於自我覺察與生活態度的革命。作者透過深入淺出的解說與跨領域的證據，提醒我們從心理、行動、醫療與人生價值四大面向著手，才能真正延長健康壽命，逆轉衰老。面對百歲時代，唯有及早做好健康管理，才能活出有品質且有尊嚴的人生。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>你也可以延緩衰老的速度</tag>
+        <tag>不變老、不發胖、不生病、不焦慮， 4 個健康習慣，重設你的身體</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《你不必成為任何人：給即將或正值30世代的你，無條件接納自我的阿德勒心理學》| 閱讀心得學習筆記</title>
     <url>/2025/01/31/reading-notes-you-do-not-have-to-be-anyone/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-you-do-not-have-to-be-anyone-1.jpg"></p>
@@ -5426,53 +5513,6 @@
         <tag>佛洛依德</tag>
         <tag>榮格</tag>
         <tag>你不必成為任何人</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《你也可以延緩衰老的速度：不變老、不發胖、不生病、不焦慮， 4 個健康習慣，重設你的身體》| 閱讀心得學習筆記</title>
-    <url>/2025/07/03/reading-notes-you-can-also-slow-down-the-speed-of-aging/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-you-can-also-slow-down-the-speed-of-aging-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你也可以延緩衰老的速度：不變老、不發胖、不生病、不焦慮， 4 個健康習慣，重設你的身體》</span><br><span class="line">作者： 鄭熙元</span><br><span class="line">原文作者： 정희원</span><br><span class="line">譯者： 林育帆</span><br><span class="line">出版社：天下雜誌</span><br><span class="line">出版日期：2025/07/03</span><br></pre></td></tr></table></figure>
-
-<p>「你知道為什麼同齡人中，有些人看起來比實際年齡年輕嗎？」</p>
-<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
-<p>「不想年紀未到，就被叫大叔、大嬸，慢性病纏身？擔心平日不明的身體不適，哪天會爆發變重症？四合一的延緩衰老法，幫你及早跳脫加速衰老的惡性循環，重啟健康人生。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書由韓國知名老年醫學專家鄭熙元所著，深入揭示現代生活習慣如何加速我們的老化過程，尤其提醒 30 至 49 歲的青壯世代正成為「加速老化的一代」。作者以醫學、社會學及心理學等多角度，說明「老化不只是基因決定，而是生活方式累積的結果」，並提出 4M 管理法幫助讀者重新掌控健康節奏。這本書不僅解答了當代人面對的健康焦慮，也提供具體可行的延緩老化方案，是現代人不可或缺的健康指南。</p>
-<p><img src="/img/posts/reading-notes-you-can-also-slow-down-the-speed-of-aging-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>年輕一代因長期熬夜、過度使用數位設備、高熱量飲食與壓力過大，正面臨比父母輩更早出現慢性病與代謝異常的危機。</li>
-<li>老化速度並非 DNA 唯一決定，心理健康與生活型態如飲食、運動、睡眠等，對基因表現有深遠影響。</li>
-<li>「4M 延緩老化管理」核心包括：行動能力（Mobility）、心理健康（Mentation）、醫療與保健（Medical issues）、做重要的事（What Matters）。</li>
-<li>心理狀態是啟動或延緩老化的關鍵，透過正念和心流練習，可降低體內發炎與減少失智風險。</li>
-<li>身體動作如正確坐姿、站姿與肌力鍛鍊，是增強行動能力、預防肌少症的重要方法。</li>
-<li>延緩老化需從日常生活中的小改變做起，非一味自律，而是溫柔地重設生活節奏。</li>
-<li>及早預防慢性病與社交衰弱，有助提升生活質量及延長健康壽命。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>每日規律進行結構化運動，包含深蹲、快走，融入日常生活動作中。</li>
-<li>練習正念冥想與專注力訓練，減緩心理壓力，促進大腦健康。</li>
-<li>均衡飲食，避免高熱量加工食品，增加抗氧化食物攝取。</li>
-<li>睡眠品質管理，建立固定作息，避免長時間使用 3C 產品。</li>
-<li>及時就醫，識別與管理早期慢性病風險。</li>
-<li>設定人生目標，維持良好社交關係，防止心理與社交退化。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>現代生活中，哪些習慣最容易被忽視卻加速老化？</li>
-<li>如何在忙碌的工作與生活中，找到持續落實 4M 管理的動力？</li>
-<li>心理健康在延緩老化中扮演何種角色？是否有具體有效的練習方法？</li>
-<li>早期慢性病的預防與延緩衰老，應該如何整合醫療與生活管理？</li>
-<li>面對快速老化的社會趨勢，個人及政府應如何共同因應？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《你也可以延緩衰老的速度：不變老、不發胖、不生病、不焦慮， 4 個健康習慣，重設你的身體》不僅是一部科學且實用的抗老指南，更是一場關於自我覺察與生活態度的革命。作者透過深入淺出的解說與跨領域的證據，提醒我們從心理、行動、醫療與人生價值四大面向著手，才能真正延長健康壽命，逆轉衰老。面對百歲時代，唯有及早做好健康管理，才能活出有品質且有尊嚴的人生。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>你也可以延緩衰老的速度</tag>
-        <tag>不變老、不發胖、不生病、不焦慮， 4 個健康習慣，重設你的身體</tag>
       </tags>
   </entry>
   <entry>
