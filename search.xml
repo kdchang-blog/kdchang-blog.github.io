@@ -305,6 +305,44 @@
       </tags>
   </entry>
   <entry>
+    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
+    <url>/2024/05/26/llm-model-fine-turning/</url>
+    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
+<ol>
+<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
+</li>
+<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
+</li>
+<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
+</li>
+<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
+</li>
+<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
+</li>
+</ol>
+<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
+<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
+<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
+<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
+<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
+<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
+<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
+<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+        <tag>fine-tuning</tag>
+        <tag>微調</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學</title>
     <url>/2024/05/23/llm-rag-app-notes/</url>
     <content><![CDATA[<p>擷取擴增產生&#x2F;檢索增強生成（Retrieval-Augmented Generation, RAG）是一種結合檢索和生成技術的混合模型，用於改善文本生成任務的性能。這種方法能夠在生成文本時引入外部知識，從而生成更準確和上下文相關的內容。以下是對 RAG 的詳細介紹：</p>
@@ -397,44 +435,6 @@
         <tag>Retrieval-Augmented Generation</tag>
         <tag>擷取擴增產生</tag>
         <tag>檢索增強生成</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型微調（Fine-tuning）入門教學</title>
-    <url>/2024/05/26/llm-model-fine-turning/</url>
-    <content><![CDATA[<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>大語言模型（LLM）微調（fine-tuning）是一個讓現有的 AI 模型更符合特定領域需求的過程。我們這裡用簡單的例子來說明這個概念：</p>
-<ol>
-<li><p><strong>原始模型</strong>：假設你有一個已經訓練好的 AI 模型，這個模型可以理解和生成很多不同主題的文本，就像一個知識廣博但通用型的助手，對於領域知識就容易瞎掰或是有幻覺的產生。</p>
-</li>
-<li><p><strong>特定任務需求</strong>：你希望這個模型能夠在特定領域（例如：教育、醫療、法律或客服）更精通。此時，你需要讓模型「學習」這個領域的專門知識。</p>
-</li>
-<li><p><strong>收集資料</strong>：你收集了一些這個領域的專門資料，例如：考試題目、醫療報告、法律文件或客服對話記錄。這些資料是模型需要學習的內容。</p>
-</li>
-<li><p><strong>微調過程</strong>：你用收集到的專門資料對模型進行再訓練。這個過程叫做「微調（fine-tuning）」。模型會根據新的數據進一步調整自己的內部參數，從而在特定領域上變得更加精通。</p>
-</li>
-<li><p><strong>結果</strong>：經過微調後，模型現在不僅能夠處理一般的文本，還能在特定領域內提供更準確、更有幫助的回應。例如：一個微調過的醫療模型可以更準確地回答健康問題。</p>
-</li>
-</ol>
-<h1 id="參考文件"><a href="#參考文件" class="headerlink" title="參考文件"></a>參考文件</h1><ol>
-<li><a href="https://learn.microsoft.com/en-us/ai/playbook/technology-guidance/generative-ai/working-with-llms/fine-tuning">Getting started with LLM fine-tuning</a></li>
-<li><a href="https://www.datacamp.com/tutorial/fine-tuning-large-language-models">An Introductory Guide to Fine-Tuning LLMs</a></li>
-<li><a href="https://etax.nat.gov.tw/etwmain/etw103w">【LLM 10大觀念-3】快速建造自己個instruction tuning dataset</a></li>
-<li><a href="https://www.superannotate.com/blog/llm-fine-tuning">Fine-tuning large language models (LLMs) in 2024</a></li>
-<li><a href="https://hackmd.io/@YungHuiHsu/HJ6AT8XG6">AI &#x2F; ML領域相關學習筆記入口頁面</a></li>
-<li><a href="https://ithelp.ithome.com.tw/articles/10336323">LLM Note Day 24 - 語言模型微調 LLM Finetuning</a></li>
-<li><a href="https://hackmd.io/@ejc/2024gaiconf">2024 Generative AI年會活動筆記</a></li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>LLM 微調（fine-tuning）就是將一個通用的 AI模型進一步訓練，使其在某個特定領域表現得更好，更有可以應用性。 </p>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-        <tag>fine-tuning</tag>
-        <tag>微調</tag>
       </tags>
   </entry>
   <entry>
@@ -2646,6 +2646,48 @@
       </tags>
   </entry>
   <entry>
+    <title>《先放手，再放心：我從心經學到的人生智慧》| 閱讀心得學習筆記</title>
+    <url>/2021/08/02/reading-notes-let-go-first-then-feel-at-ease/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-let-go-first-then-feel-at-ease-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《先放手，再放心：我從心經學到的人生智慧》</span><br><span class="line">作者： 吳若權</span><br><span class="line">出版社：悅知文化</span><br><span class="line">出版日期：2021/08/02</span><br></pre></td></tr></table></figure>
+
+<p>「人生的困境，會不會只是愛的鍛鍊？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「當外在變動不安，安頓自己，是給世界最好的祝福。無論遭遇多麼糟的困境，都可以努力找到突破難關的方法；只要心存善念，就能吸引更多的好運上門。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《先放手，再放心：我從心經學到的人生智慧》向來被視為佛學經典，但本書透過淺白文字，將其智慧轉化為日常可應用的心靈指南。作者吳若權以療癒、企管與創作背景，結合生命經驗，帶領讀者在動盪時代中學會安頓內心，將慈悲與智慧落實於生活細節。閱讀此書，不僅是經典的再認識，更是一場心靈的實修旅程。</p>
+<p><img src="/img/posts/reading-notes-let-go-first-then-feel-at-ease-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>安頓自己是面對動盪世界的根本力量。</li>
+<li>《心經》智慧並非抽象哲理，而是貼近日常的行動指南。</li>
+<li>放下對二元對立的批判與論斷，才能獲得心靈平靜。</li>
+<li>困境不是懲罰，而是愛的鍛鍊。</li>
+<li>接納與臣服能減少恐懼，帶來自由與慈悲。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每天花 10 分鐘靜坐，專注呼吸，安頓心緒。</li>
+<li>在困境中，先練習接納現況，再尋找行動方向。</li>
+<li>寫下三件每天值得感恩的小事，培養內心安穩。</li>
+<li>與人互動時，減少批判，多練習傾聽與理解。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>面對壓力時，我們如何區分「放下」與「逃避」？</li>
+<li>如何將慈悲轉化為實際行動，而非空洞概念？</li>
+<li>在追求成就與內心平靜之間，應如何取得平衡？</li>
+<li>當恐懼升起時，有哪些方法能幫助我們快速回到安定？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書將《先放手，再放心：我從心經學到的人生智慧》的深奧智慧轉化為生活語言，提醒我們：外在世界難以掌控，但內心是否安穩，卻由自己決定。學會放下執著、接納無常，人生將更自由，也更勇敢。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>先放手，再放心：我從心經學到的人生智慧</tag>
+        <tag>心經</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《生命是長期而持續的累積：彭明輝談困境與抉擇》| 閱讀心得學習筆記</title>
     <url>/2022/03/30/reading-notes-life-is-a-long-term-and-continuous-accumulation/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-life-is-a-long-term-and-continuous-accumulation-1.jpg"></p>
@@ -4195,6 +4237,49 @@
       </tags>
   </entry>
   <entry>
+    <title>《造光者：晶片戰爭中最神秘的關鍵企業，微影巨人 ASML 制霸未來科技賽局的崛起之路》| 閱讀心得學習筆記</title>
+    <url>/2025/09/03/reading-notes-the-chip-war-light-maker/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-chip-war-light-maker-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《造光者：晶片戰爭中最神秘的關鍵企業，微影巨人 ASML 制霸未來科技賽局的崛起之路》</span><br><span class="line">作者： 馬克・海因克</span><br><span class="line">原文作者： Marc Hijink</span><br><span class="line">譯者： 洪慧芳</span><br><span class="line">出版社：天下雜誌</span><br><span class="line">出版日期：2025/09/03</span><br></pre></td></tr></table></figure>
+
+<p>「你知道全球晶片的命脈，掌握在誰手裡嗎？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「如果晶片是新石油，那麼 ASML 不只是壟斷開採權的技術奇蹟，更是晶片霸權賽局中，最昂貴的戰略籌碼。現代科技的每一次突破，都無法繞過它。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《造光者：晶片戰爭中最神秘的關鍵企業，微影巨人 ASML 制霸未來科技賽局的崛起之路》帶領讀者深入了解全球半導體供應鏈中最神祕卻舉足輕重的企業：荷蘭 ASML。它從飛利浦實驗室的小型新創，成長為掌控全球 90％晶片製造的極紫外光（EUV）微影設備霸主。疫情爆發後，晶片荒暴露了 ASML 的戰略重要性，彰顯科技、經濟與地緣政治交織的現實。</p>
+<p><img src="/img/posts/reading-notes-the-chip-war-light-maker-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>ASML 是全球唯一能製造 EUV 微影設備的公司，主宰全球晶片供應鏈。</li>
+<li>公司歷經技術困境與倒閉危機，憑藉專注文化與創新突破成為市場霸主。</li>
+<li>技術整合光學、物理、化學與複雜演算法，打造全球最精密機器。</li>
+<li>ASML 的崛起直接影響 AI、5G、國防與太空科技發展。</li>
+<li>全球政治與貿易風險對其營運造成挑戰，美中科技戰尤為明顯。</li>
+<li>公司建立競爭對手難以複製的供應商生態系，形成無形壟斷。</li>
+<li>荷蘭 ASML 對台灣與全球科技安全具有關鍵戰略影響力。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>深入理解關鍵技術供應鏈的重要性，評估產業風險。</li>
+<li>學習 ASML 專注文化與跨領域協作模式，應用於企業或團隊創新。</li>
+<li>關注全球科技政策與地緣政治動向，作出策略調整。</li>
+<li>掌握技術突破與市場壟斷的相互關係，提升戰略規劃能力。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>如何平衡技術突破與地緣政治風險？</li>
+<li>小型創新企業如何成為全球關鍵技術的制定者？</li>
+<li>ASML 的成功經驗是否可複製至其他產業？</li>
+<li>全球晶片依賴度是否對國家安全構成潛在威脅？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《造光者》不僅揭示了半導體技術的極致創新，也映射全球科技權力的重組。透過理解 ASML 發展歷史，就是洞察未來十年科技霸權與國際競爭的核心。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>造光者：晶片戰爭中最神秘的關鍵企業，微影巨人 ASML 制霸未來科技賽局的崛起之路</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《他的地板是你的天花板：特權階級怎樣自我複製並阻礙社會流動機會？我們如何打破社會不平等？》| 閱讀心得學習筆記</title>
     <url>/2022/06/04/reading-notes-the-class-ceiling-why-it-pays-to-be-privileged/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-class-ceiling-why-it-pays-to-be-privileged-1.jpg"></p>
@@ -5301,6 +5386,40 @@
       </tags>
   </entry>
   <entry>
+    <title>《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》| 閱讀心得學習筆記</title>
+    <url>/2024/02/29/reading-notes-wait-what-and-lifes-essential-questions/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》</span><br><span class="line">作者： 詹姆斯．萊恩</span><br><span class="line">原文作者： James E. Ryan</span><br><span class="line">譯者： 廖月娟</span><br><span class="line">出版社：天下文化 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「不論你所處的領域為何，提出好問題都是生涯成功的關鍵。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書《你的人生，真正重要的是什麼？》由維吉尼亞大學校長詹姆斯．萊恩所著，深入探討了人生中最重要的五個問題，並提供了對應的思維方式來幫助讀者突破生涯中的障礙。這些問題並非尋常的答案，而是能引發深刻思考、促進自我成長並改善人際關係的提問。透過幽默的小故事和實際的生活例子，萊恩向我們展示了思考的力量，並告訴我們如何用問題來開創一個充滿智慧的未來。</p>
+<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>「等等，你說什麼？」</strong><br>這是深入了解的根源。<code>學會傾聽</code>和<code>確保你理解對方的話語</code>，可以讓你從根本上把握對話的方向。</p>
+</li>
+<li><p><strong>「我想知道……？」</strong><br><code>好奇心</code>是學習的驅動力。提出這個問題能夠激發探索精神，開啟思考的邊界。</p>
+</li>
+<li><p><strong>「至少，我們是不是能夠……？」</strong><br>這個問題啟動了<code>行動的開始</code>，幫助我們從理論轉向實踐，尋找進步的途徑。</p>
+</li>
+<li><p><strong>「我能夠幫什麼忙？」</strong><br>這是建立關係的基礎。透過詢問自己能為他人做什麼，我們能夠創造<code>良好的互動與合作</code>。</p>
+</li>
+<li><p><strong>「真正重要的是什麼？」</strong><br>這個問題幫助我們<code>回歸生命的核心</code>，<code>找出真正值得追求的目標</code>。</p>
+</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《你的人生，真正重要的是什麼？》提醒我們，提出好問題能夠塑造出一個更加充實和有意義的人生。萊恩的五個關鍵問題，不僅能夠解答人生的迷茫，還能幫助我們在職業生涯和人際關係中走得更遠。這本書是一本指引我們反思並實踐智慧的寶典，值得每一位渴望成長的讀者閱讀。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>你的人生，真正重要的是什麼？</tag>
+        <tag>感動百萬人的5個人生提問，那些比正確答案更關鍵的事</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《一本書讀懂匯率： 44個匯率關鍵概念，看懂全球經濟脈動，做對投資理財決策》| 閱讀心得學習筆記</title>
     <url>/2025/04/24/reading-notes-understand-exchange-rates-with-a-book/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-understand-exchange-rates-with-a-book-1.jpg"></p>
@@ -5334,40 +5453,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>顯化效應</tag>
         <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》| 閱讀心得學習筆記</title>
-    <url>/2024/02/29/reading-notes-wait-what-and-lifes-essential-questions/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》</span><br><span class="line">作者： 詹姆斯．萊恩</span><br><span class="line">原文作者： James E. Ryan</span><br><span class="line">譯者： 廖月娟</span><br><span class="line">出版社：天下文化 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「不論你所處的領域為何，提出好問題都是生涯成功的關鍵。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書《你的人生，真正重要的是什麼？》由維吉尼亞大學校長詹姆斯．萊恩所著，深入探討了人生中最重要的五個問題，並提供了對應的思維方式來幫助讀者突破生涯中的障礙。這些問題並非尋常的答案，而是能引發深刻思考、促進自我成長並改善人際關係的提問。透過幽默的小故事和實際的生活例子，萊恩向我們展示了思考的力量，並告訴我們如何用問題來開創一個充滿智慧的未來。</p>
-<p><img src="/img/posts/reading-notes-wait-what-and-lifes-essential-questions-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>「等等，你說什麼？」</strong><br>這是深入了解的根源。<code>學會傾聽</code>和<code>確保你理解對方的話語</code>，可以讓你從根本上把握對話的方向。</p>
-</li>
-<li><p><strong>「我想知道……？」</strong><br><code>好奇心</code>是學習的驅動力。提出這個問題能夠激發探索精神，開啟思考的邊界。</p>
-</li>
-<li><p><strong>「至少，我們是不是能夠……？」</strong><br>這個問題啟動了<code>行動的開始</code>，幫助我們從理論轉向實踐，尋找進步的途徑。</p>
-</li>
-<li><p><strong>「我能夠幫什麼忙？」</strong><br>這是建立關係的基礎。透過詢問自己能為他人做什麼，我們能夠創造<code>良好的互動與合作</code>。</p>
-</li>
-<li><p><strong>「真正重要的是什麼？」</strong><br>這個問題幫助我們<code>回歸生命的核心</code>，<code>找出真正值得追求的目標</code>。</p>
-</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《你的人生，真正重要的是什麼？》提醒我們，提出好問題能夠塑造出一個更加充實和有意義的人生。萊恩的五個關鍵問題，不僅能夠解答人生的迷茫，還能幫助我們在職業生涯和人際關係中走得更遠。這本書是一本指引我們反思並實踐智慧的寶典，值得每一位渴望成長的讀者閱讀。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>你的人生，真正重要的是什麼？</tag>
-        <tag>感動百萬人的5個人生提問，那些比正確答案更關鍵的事</tag>
       </tags>
   </entry>
   <entry>
@@ -5710,54 +5795,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《你不是懶，而是能量低：人生開外掛的精力管理術》| 閱讀心得學習筆記</title>
-    <url>/2024/10/22/reading-notes-you-are-not-lazy-but-low-energy/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-you-are-not-lazy-but-low-energy-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你不是懶，而是能量低：人生開外掛的精力管理術》</span><br><span class="line">作者： 林揚程</span><br><span class="line">出版社：時報出版</span><br><span class="line">出版日期：2024/10/22</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「管理精力，而非時間，才能真正掌控人生。能量是你最好的底牌，在關鍵時刻展現你的最佳狀態，毫不費力地打造你渴望的生活樣貌。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個講求效率的時代，許多人追求時間管理，卻忽略了真正驅動行動的「精力」。林揚程的《你不是懶，而是能量低：人生開外掛的精力管理術》以自身經歷為例，提醒我們唯有從體能、情緒、思維與精神四大層面著手，才能打造持久且有品質的人生狀態。</p>
-<p><img src="/img/posts/reading-notes-you-are-not-lazy-but-low-energy-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>體能維度</strong><ul>
-<li>採用「咖啡鐘午休法」提振精神。</li>
-<li>選擇低GI食物與211餐盤法，維持穩定血糖以避免能量低落。</li>
-</ul>
-</li>
-<li><strong>情緒維度</strong><ul>
-<li>想像「穿上防護衣」，隔絕負面情緒干擾。</li>
-<li>將壓力轉化為動力，善用適度壓力提升表現。</li>
-</ul>
-</li>
-<li><strong>思維維度</strong><ul>
-<li>練習「放空的技術」，幫助大腦恢復專注與創造力。</li>
-<li>進入心流需具備熱情、專業、明確目標與即時回饋。</li>
-</ul>
-</li>
-<li><strong>精神維度</strong><ul>
-<li>用夢想板書寫所有夢想，找出真正重要的目標。</li>
-<li>發掘使命感，從解決問題中找到人生的意義與動力。</li>
-</ul>
-</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否過度專注「做更多」，而忽略了「如何有力地做」？</li>
-<li>當壓力來襲時，你的第一反應是逃避還是轉化？</li>
-<li>目前你的夢想清單中，有哪些是真正屬於自己的渴望？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《你不是懶，而是能量低：人生開外掛的精力管理術》提醒我們，唯有從四大維度全面補足能量，才能面對生活與職場的挑戰，真正過上高效而快樂的人生。與其拚命追時間，不如先把「精力電池」充飽，讓每一刻都能全力以赴。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>你不是懶，而是能量低：人生開外掛的精力管理術</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》| 閱讀心得學習筆記</title>
     <url>/2021/08/05/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-1.jpg"></p>
@@ -5806,6 +5843,54 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>思維的良率</tag>
         <tag>台積電教我的高效工作法，像經營者一樣思考、解題</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《你不是懶，而是能量低：人生開外掛的精力管理術》| 閱讀心得學習筆記</title>
+    <url>/2024/10/22/reading-notes-you-are-not-lazy-but-low-energy/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-you-are-not-lazy-but-low-energy-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你不是懶，而是能量低：人生開外掛的精力管理術》</span><br><span class="line">作者： 林揚程</span><br><span class="line">出版社：時報出版</span><br><span class="line">出版日期：2024/10/22</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「管理精力，而非時間，才能真正掌控人生。能量是你最好的底牌，在關鍵時刻展現你的最佳狀態，毫不費力地打造你渴望的生活樣貌。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個講求效率的時代，許多人追求時間管理，卻忽略了真正驅動行動的「精力」。林揚程的《你不是懶，而是能量低：人生開外掛的精力管理術》以自身經歷為例，提醒我們唯有從體能、情緒、思維與精神四大層面著手，才能打造持久且有品質的人生狀態。</p>
+<p><img src="/img/posts/reading-notes-you-are-not-lazy-but-low-energy-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>體能維度</strong><ul>
+<li>採用「咖啡鐘午休法」提振精神。</li>
+<li>選擇低GI食物與211餐盤法，維持穩定血糖以避免能量低落。</li>
+</ul>
+</li>
+<li><strong>情緒維度</strong><ul>
+<li>想像「穿上防護衣」，隔絕負面情緒干擾。</li>
+<li>將壓力轉化為動力，善用適度壓力提升表現。</li>
+</ul>
+</li>
+<li><strong>思維維度</strong><ul>
+<li>練習「放空的技術」，幫助大腦恢復專注與創造力。</li>
+<li>進入心流需具備熱情、專業、明確目標與即時回饋。</li>
+</ul>
+</li>
+<li><strong>精神維度</strong><ul>
+<li>用夢想板書寫所有夢想，找出真正重要的目標。</li>
+<li>發掘使命感，從解決問題中找到人生的意義與動力。</li>
+</ul>
+</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否過度專注「做更多」，而忽略了「如何有力地做」？</li>
+<li>當壓力來襲時，你的第一反應是逃避還是轉化？</li>
+<li>目前你的夢想清單中，有哪些是真正屬於自己的渴望？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《你不是懶，而是能量低：人生開外掛的精力管理術》提醒我們，唯有從四大維度全面補足能量，才能面對生活與職場的挑戰，真正過上高效而快樂的人生。與其拚命追時間，不如先把「精力電池」充飽，讓每一刻都能全力以赴。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>你不是懶，而是能量低：人生開外掛的精力管理術</tag>
       </tags>
   </entry>
   <entry>
