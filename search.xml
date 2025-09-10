@@ -1,6 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-app-10-keywords/</url>
+    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
+<ol>
+<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
+<li><strong>聊天機器人</strong>（Chatbots）</li>
+<li><strong>文字摘要</strong>（Text Summarization）</li>
+<li><strong>內容生成</strong>（Content Generation）</li>
+<li><strong>情感分析</strong>（Sentiment Analysis）</li>
+<li><strong>語音助手</strong>（Voice Assistants）</li>
+<li><strong>自動翻譯</strong>（Automatic Translation）</li>
+<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
+<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
+<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
+</ol>
+<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
     <url>/2024/05/22/about-llm-tech-10-keywords/</url>
     <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
@@ -20,33 +47,6 @@
 <h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
 <li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
 </ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型技術應用的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-app-10-keywords/</url>
-    <content><![CDATA[<p>當前大型語言模型（LLMs）在各種應用領域中的應用不斷增多，整理了包含具體應用（例如 RAG 等）的 10 個關鍵字：</p>
-<ol>
-<li><strong>檢索增強生成</strong>（Retrieval-Augmented Generation, RAG）</li>
-<li><strong>聊天機器人</strong>（Chatbots）</li>
-<li><strong>文字摘要</strong>（Text Summarization）</li>
-<li><strong>內容生成</strong>（Content Generation）</li>
-<li><strong>情感分析</strong>（Sentiment Analysis）</li>
-<li><strong>語音助手</strong>（Voice Assistants）</li>
-<li><strong>自動翻譯</strong>（Automatic Translation）</li>
-<li><strong>智慧搜尋</strong>（Intelligent Search）</li>
-<li><strong>知識圖譜</strong>（Knowledge Graphs）</li>
-<li><strong>個性化推薦</strong>（Personalized Recommendations）</li>
-</ol>
-<p>這些關鍵字不僅涵蓋了 LLMs 的核心應用，還包括一些具體的應用實例，如 RAG 和智慧搜尋，展示了 LLMs 在實際業務場景中的廣泛用途。</p>
 ]]></content>
       <tags>
         <tag>生成式 AI</tag>
@@ -438,36 +438,6 @@
       </tags>
   </entry>
   <entry>
-    <title>產品經理（Product Manager, PM）課程學習參考清單</title>
-    <url>/2024/06/03/product-manager-course-list/</url>
-    <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
-<li><a href="https://www.pressplay.cc/project/D7BB1024574FB1E143B45A933009E02C/about">產品經理學習營第六屆</a></li>
-<li><a href="https://hahow.in/courses/5d3583687f99a20021f7ebaf">產品思維：Spotify 產品經理帶你快速入門</a></li>
-<li><a href="https://hahow.in/courses/5e689828e612310028027876">產品數據分析 - 打造網路產品的決策引擎</a></li>
-<li><a href="https://hahow.in/courses/5c8e0a0a8d1cc80020951f1a">產品經理職場學：PM 必修的職涯指南！</a></li>
-<li><a href="https://www.pressplay.cc/project/E4C9F63270ADB7ECA54C1D6B1BB84905/about">產品思維－像產品經理一樣思考</a></li>
-<li><a href="https://sat.cool/course/89">產品思維養成術｜從觀念到實踐，矽谷產品經理帶你掌握產品全貌觀</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>產案管理</tag>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>Career</tag>
-        <tag>Career Development</tag>
-        <tag>產品專案管理專案全書</tag>
-        <tag>書籍</tag>
-        <tag>清單</tag>
-        <tag>課程</tag>
-        <tag>course</tag>
-        <tag>Online Course</tag>
-        <tag>線上課程</tag>
-        <tag>PM</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽</title>
     <url>/2024/05/27/product-manager-career-development-notes-01-overview/</url>
     <content><![CDATA[<h1 id="PM-角色定位"><a href="#PM-角色定位" class="headerlink" title="PM 角色定位"></a>PM 角色定位</h1><h2 id="PM-是什麼？"><a href="#PM-是什麼？" class="headerlink" title="PM 是什麼？"></a>PM 是什麼？</h2><p>Product Manager 產品經理是在產品團隊中，負責選擇正確問題來解決、定義成功為何並引導團隊獲得成功結果的人，重點在於產生有影響力的 <code>outcome</code> 而非 <code>output</code> 並管理整個產品生命週期（<code>發現 -&gt; 定義 -&gt; 設計 -&gt; 開發 -&gt; 交付 -&gt; 報告 =&gt; 發現</code>）。在目前許多數位科技公司（網路軟體公司）：設計師、工程師和產品經理三人合稱產品三劍客。</p>
@@ -552,10 +522,40 @@
         <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
-        <tag>PM</tag>
         <tag>Project Manager</tag>
         <tag>Program Manager</tag>
         <tag>專案經理</tag>
+        <tag>PM</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>產品經理（Product Manager, PM）課程學習參考清單</title>
+    <url>/2024/06/03/product-manager-course-list/</url>
+    <content><![CDATA[<h1 id="Online-Courses"><a href="#Online-Courses" class="headerlink" title="Online Courses"></a>Online Courses</h1><ol>
+<li><a href="https://www.pressplay.cc/project/D7BB1024574FB1E143B45A933009E02C/about">產品經理學習營第六屆</a></li>
+<li><a href="https://hahow.in/courses/5d3583687f99a20021f7ebaf">產品思維：Spotify 產品經理帶你快速入門</a></li>
+<li><a href="https://hahow.in/courses/5e689828e612310028027876">產品數據分析 - 打造網路產品的決策引擎</a></li>
+<li><a href="https://hahow.in/courses/5c8e0a0a8d1cc80020951f1a">產品經理職場學：PM 必修的職涯指南！</a></li>
+<li><a href="https://www.pressplay.cc/project/E4C9F63270ADB7ECA54C1D6B1BB84905/about">產品思維－像產品經理一樣思考</a></li>
+<li><a href="https://sat.cool/course/89">產品思維養成術｜從觀念到實踐，矽谷產品經理帶你掌握產品全貌觀</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>產案管理</tag>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>Career</tag>
+        <tag>Career Development</tag>
+        <tag>PM</tag>
+        <tag>產品專案管理專案全書</tag>
+        <tag>書籍</tag>
+        <tag>清單</tag>
+        <tag>課程</tag>
+        <tag>course</tag>
+        <tag>Online Course</tag>
+        <tag>線上課程</tag>
       </tags>
   </entry>
   <entry>
@@ -578,10 +578,10 @@
         <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
-        <tag>PM</tag>
         <tag>Project Manager</tag>
         <tag>Program Manager</tag>
         <tag>專案經理</tag>
+        <tag>PM</tag>
         <tag>interview</tag>
         <tag>PM Interview</tag>
         <tag>PM 面試</tag>
@@ -646,11 +646,11 @@
         <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
+        <tag>Project Manager</tag>
+        <tag>PM</tag>
         <tag>產品專案管理專案全書</tag>
         <tag>書籍</tag>
         <tag>清單</tag>
-        <tag>PM</tag>
-        <tag>Project Manager</tag>
         <tag>書單</tag>
         <tag>推薦書單</tag>
         <tag>Project Management</tag>
@@ -678,10 +678,10 @@
         <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
+        <tag>PM</tag>
         <tag>產品專案管理專案全書</tag>
         <tag>書籍</tag>
         <tag>清單</tag>
-        <tag>PM</tag>
         <tag>書單</tag>
         <tag>證照</tag>
         <tag>scrum</tag>
@@ -898,40 +898,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》| 閱讀心得學習筆記</title>
-    <url>/2024/11/29/reading-notes-adulting-learning-doing-things-being-a-person/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》</span><br><span class="line">作者： 張國洋, 姚詩豪  </span><br><span class="line">出版社：三采  </span><br><span class="line">出版日期：2024/11/29</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「在職場上，很多時候關鍵不在於你有多優秀，而在於不失分。互惠，才是職場人際的底層邏輯。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書由「大人學」共同創辦人張國洋與姚詩豪撰寫，融合多年職場經驗與 Podcast 討論精華，試圖解答一個常見卻困擾無數上班族的問題——「做人重要，還是做事重要？」兩位作者指出，這不應是二選一的問題，而是雙軌並進的職場策略。  </p>
-<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>做事 vs. 做人非零和選擇</strong>：大多數成功者都在這兩者之間取得良好平衡。  </li>
-<li><strong>做事的本質是選擇對的事情做對</strong>：不是一味努力或加班，而是聚焦於有價值的任務。  </li>
-<li><strong>做人不是拍馬屁，而是減少失分</strong>：基本的禮貌與人際界線能讓你不被討厭，就是「做人八十分」的關鍵。  </li>
-<li><strong>極端例子不具代表性</strong>：技術大神或交際高手的成功難以複製，一般人應從實務出發，建立可持續的策略。  </li>
-<li><strong>不失分比得高分更重要</strong>：在團隊協作中，避免讓他人受害比成為明星更實用。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否過度追求被看見，而忽略了「別被討厭」的基本？</li>
-<li>在現實職場中，「能力」和「人際」究竟如何轉換為具體的報酬與發展？</li>
-<li>是否曾誤解「做人」就是迎合？而忽略了「尊重」與「分寸」的真正價值？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅提供職場生存的實用策略，也提醒我們：職涯不只是加薪升職，更是一場長期的人生成長與體驗。與其單打獨鬥，不如練好「做事做人」這門功課，讓你在穩健中突圍，在職場上活得成熟而自在。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>大人學做事做人</tag>
-        <tag>做事，才是職場做人的根本</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《讓這本書抱抱你：每一天練習自我照顧，學會愛自己》| 閱讀心得學習筆記</title>
     <url>/2023/11/29/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals-1.jpg"></p>
@@ -979,6 +945,40 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>讓這本書抱抱你：每一天練習自我照顧，學會愛自己</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》| 閱讀心得學習筆記</title>
+    <url>/2024/11/29/reading-notes-adulting-learning-doing-things-being-a-person/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》</span><br><span class="line">作者： 張國洋, 姚詩豪  </span><br><span class="line">出版社：三采  </span><br><span class="line">出版日期：2024/11/29</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「在職場上，很多時候關鍵不在於你有多優秀，而在於不失分。互惠，才是職場人際的底層邏輯。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書由「大人學」共同創辦人張國洋與姚詩豪撰寫，融合多年職場經驗與 Podcast 討論精華，試圖解答一個常見卻困擾無數上班族的問題——「做人重要，還是做事重要？」兩位作者指出，這不應是二選一的問題，而是雙軌並進的職場策略。  </p>
+<p><img src="/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>做事 vs. 做人非零和選擇</strong>：大多數成功者都在這兩者之間取得良好平衡。  </li>
+<li><strong>做事的本質是選擇對的事情做對</strong>：不是一味努力或加班，而是聚焦於有價值的任務。  </li>
+<li><strong>做人不是拍馬屁，而是減少失分</strong>：基本的禮貌與人際界線能讓你不被討厭，就是「做人八十分」的關鍵。  </li>
+<li><strong>極端例子不具代表性</strong>：技術大神或交際高手的成功難以複製，一般人應從實務出發，建立可持續的策略。  </li>
+<li><strong>不失分比得高分更重要</strong>：在團隊協作中，避免讓他人受害比成為明星更實用。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否過度追求被看見，而忽略了「別被討厭」的基本？</li>
+<li>在現實職場中，「能力」和「人際」究竟如何轉換為具體的報酬與發展？</li>
+<li>是否曾誤解「做人」就是迎合？而忽略了「尊重」與「分寸」的真正價值？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書不僅提供職場生存的實用策略，也提醒我們：職涯不只是加薪升職，更是一場長期的人生成長與體驗。與其單打獨鬥，不如練好「做事做人」這門功課，讓你在穩健中突圍，在職場上活得成熟而自在。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>大人學做事做人</tag>
+        <tag>做事，才是職場做人的根本</tag>
       </tags>
   </entry>
   <entry>
@@ -1445,6 +1445,41 @@
       </tags>
   </entry>
   <entry>
+    <title>《不要只顧著努力，也要過得幸福：給認真生活卻不安的你58個幸福清單》| 閱讀心得學習筆記</title>
+    <url>/2023/03/31/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《不要只顧著努力，也要過得幸福：給認真生活卻不安的你58個幸福清單》</span><br><span class="line">作者： 跳舞蝸牛  </span><br><span class="line">原文作者： Dancing Snail</span><br><span class="line">譯者： 王品涵</span><br><span class="line">出版社：大好書屋  </span><br><span class="line">出版日期：2023/03/31</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「停止虛假的自我開發！聚焦當下、安頓身心，累積一點一滴的幸福。生命不是等待暴風雨過去，而是要學會在雨中跳舞！只要創造了比昨天稍好的一天，你的一切努力就已足夠。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>當努力成為習慣，疲憊也悄悄變成常態。跳舞蝸牛以插畫與療癒短文，為在焦慮與倦怠中掙扎的你我，開出58帖關於「幸福」的溫柔處方。本書不談艱深道理，而是從日常切入，引導我們重新感受當下、照顧內在。</p>
+<p><img src="/img/posts/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>當下價值</strong>：別為了虛構的「未來理想」犧牲今日，學習在當下找到幸福感。</li>
+<li><strong>自我友善</strong>：溫柔看待自己，即使不是完美的人，也值得被好好對待。</li>
+<li><strong>轉念練習</strong>：透過正向思考及「自我合理化」，將焦慮與自責轉化為行動力。</li>
+<li><strong>接受不完美</strong>：允許自己偶爾脆弱、不積極，這些「看似沒用」的時間正是恢復力的來源。</li>
+<li><strong>情緒正視</strong>：不是逃避或壓抑，而是學習與焦慮共處，從中找回生活的平衡。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否太在意「他人眼中的努力」而忽略「自己內心的感受」？</li>
+<li>是否將「幸福」與「效率」綁定，錯失了真正放鬆的機會？</li>
+<li>在追求自我成長的過程中，我們是否反而對自己越來越苛刻？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書就像一本溫柔的枕邊書，提醒我們：幸福不在遠方，而在於是否允許自己放慢腳步、誠實面對內在。本書適合每一位努力生活卻常感疲憊的人——學會「在雨中跳舞」，也是一種成長的勇氣。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>不要只顧著努力</tag>
+        <tag>也要過得幸福</tag>
+        <tag>給認真生活卻不安的你58個幸福清單</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《別對每件事都有反應：淡泊一點也無妨，活出快意人生的99個禪練習！》| 閱讀心得學習筆記</title>
     <url>/2024/12/18/reading-notes-do-not-react-to-everything/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-react-to-everything-1.jpg"></p>
@@ -1497,41 +1532,6 @@
         <tag>別對每件事都有反應</tag>
         <tag>淡泊一點也無妨</tag>
         <tag>活出快意人生的99個禪練習</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《不要只顧著努力，也要過得幸福：給認真生活卻不安的你58個幸福清單》| 閱讀心得學習筆記</title>
-    <url>/2023/03/31/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《不要只顧著努力，也要過得幸福：給認真生活卻不安的你58個幸福清單》</span><br><span class="line">作者： 跳舞蝸牛  </span><br><span class="line">原文作者： Dancing Snail</span><br><span class="line">譯者： 王品涵</span><br><span class="line">出版社：大好書屋  </span><br><span class="line">出版日期：2023/03/31</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「停止虛假的自我開發！聚焦當下、安頓身心，累積一點一滴的幸福。生命不是等待暴風雨過去，而是要學會在雨中跳舞！只要創造了比昨天稍好的一天，你的一切努力就已足夠。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>當努力成為習慣，疲憊也悄悄變成常態。跳舞蝸牛以插畫與療癒短文，為在焦慮與倦怠中掙扎的你我，開出58帖關於「幸福」的溫柔處方。本書不談艱深道理，而是從日常切入，引導我們重新感受當下、照顧內在。</p>
-<p><img src="/img/posts/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>當下價值</strong>：別為了虛構的「未來理想」犧牲今日，學習在當下找到幸福感。</li>
-<li><strong>自我友善</strong>：溫柔看待自己，即使不是完美的人，也值得被好好對待。</li>
-<li><strong>轉念練習</strong>：透過正向思考及「自我合理化」，將焦慮與自責轉化為行動力。</li>
-<li><strong>接受不完美</strong>：允許自己偶爾脆弱、不積極，這些「看似沒用」的時間正是恢復力的來源。</li>
-<li><strong>情緒正視</strong>：不是逃避或壓抑，而是學習與焦慮共處，從中找回生活的平衡。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否太在意「他人眼中的努力」而忽略「自己內心的感受」？</li>
-<li>是否將「幸福」與「效率」綁定，錯失了真正放鬆的機會？</li>
-<li>在追求自我成長的過程中，我們是否反而對自己越來越苛刻？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書就像一本溫柔的枕邊書，提醒我們：幸福不在遠方，而在於是否允許自己放慢腳步、誠實面對內在。本書適合每一位努力生活卻常感疲憊的人——學會「在雨中跳舞」，也是一種成長的勇氣。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>不要只顧著努力</tag>
-        <tag>也要過得幸福</tag>
-        <tag>給認真生活卻不安的你58個幸福清單</tag>
       </tags>
   </entry>
   <entry>
@@ -2899,6 +2899,36 @@
       </tags>
   </entry>
   <entry>
+    <title>《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》| 閱讀心得學習筆記</title>
+    <url>/2024/08/19/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》</span><br><span class="line">作者： 中野信子</span><br><span class="line">譯者： 陳亦苓</span><br><span class="line">出版社：悅知文化</span><br><span class="line">出版日期：2024/08/19</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「運氣並非與生俱來，而是會隨著「思維」及「行為模式」而改變的。運氣，100% 事在人為。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>運氣是許多人認為無法控制的因素，但在中野信子的著作中，他揭示了<code>運氣其實是可以透過思維</code>與<code>行為的模式來改變</code>的。書中指出，幸運並非天賦，而是可以透過<code>對大腦的訓練</code>與調整，從而讓自己成為「<code>運氣好的人</code>」。本書從腦科學的角度出發，為讀者提供了實踐「幸運腦」的具體方法，讓每個人都能夠掌控自己的人生，並提升自己的運氣。</p>
+<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>運氣的改變</strong>：運氣不是天生的，透過<code>改變思維</code>和<code>行為模式</code>，<code>運氣是可以被控制的</code>。</li>
+<li><strong>幸福標準</strong>：運氣好的人擁有自己的<code>幸福標準</code>，並依此來決定目標與夢想。</li>
+<li><strong>正向思維</strong>：<code>保持正面的自我形象</code>，並大聲說出「<code>我好幸運</code>」，能激發大腦的積極反應，促使好運降臨。</li>
+<li><strong>行為模式</strong>：<code>採取利他行為</code>，讓大腦的「<code>內側前額葉皮質</code>」活躍，帶來更多愉悅感。</li>
+<li><strong>祈禱與幻想</strong>：<code>積極的祈禱</code>和<code>積極幻想</code>能激活大腦中的快樂神經，促進運氣的提升。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅從腦科學的角度解析運氣的科學，還為讀者提供了 36 個能讓大腦轉變成「幸運腦」的具體方法。無論在職場、人際關係，還是戀愛中，運氣都可以被創造出來。透過這些方法，每個人都可以掌控自己的命運，迎接更多的好運與機會。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>運氣好的人</tag>
+        <tag>運氣</tag>
+        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《讓全世界愛上我推：用自己的話，寫出人人追蹤的社群爆文術》| 閱讀心得學習筆記</title>
     <url>/2025/04/30/reading-notes-make-the-world-fall-in-love-with-my-post/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-make-the-world-fall-in-love-with-my-post-1.jpg"></p>
@@ -2937,36 +2967,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>讓全世界愛上我推</tag>
         <tag>寫出人人追蹤的社群爆文術</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》| 閱讀心得學習筆記</title>
-    <url>/2024/08/19/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》</span><br><span class="line">作者： 中野信子</span><br><span class="line">譯者： 陳亦苓</span><br><span class="line">出版社：悅知文化</span><br><span class="line">出版日期：2024/08/19</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「運氣並非與生俱來，而是會隨著「思維」及「行為模式」而改變的。運氣，100% 事在人為。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>運氣是許多人認為無法控制的因素，但在中野信子的著作中，他揭示了<code>運氣其實是可以透過思維</code>與<code>行為的模式來改變</code>的。書中指出，幸運並非天賦，而是可以透過<code>對大腦的訓練</code>與調整，從而讓自己成為「<code>運氣好的人</code>」。本書從腦科學的角度出發，為讀者提供了實踐「幸運腦」的具體方法，讓每個人都能夠掌控自己的人生，並提升自己的運氣。</p>
-<p><img src="/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>運氣的改變</strong>：運氣不是天生的，透過<code>改變思維</code>和<code>行為模式</code>，<code>運氣是可以被控制的</code>。</li>
-<li><strong>幸福標準</strong>：運氣好的人擁有自己的<code>幸福標準</code>，並依此來決定目標與夢想。</li>
-<li><strong>正向思維</strong>：<code>保持正面的自我形象</code>，並大聲說出「<code>我好幸運</code>」，能激發大腦的積極反應，促使好運降臨。</li>
-<li><strong>行為模式</strong>：<code>採取利他行為</code>，讓大腦的「<code>內側前額葉皮質</code>」活躍，帶來更多愉悅感。</li>
-<li><strong>祈禱與幻想</strong>：<code>積極的祈禱</code>和<code>積極幻想</code>能激活大腦中的快樂神經，促進運氣的提升。</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅從腦科學的角度解析運氣的科學，還為讀者提供了 36 個能讓大腦轉變成「幸運腦」的具體方法。無論在職場、人際關係，還是戀愛中，運氣都可以被創造出來。透過這些方法，每個人都可以掌控自己的命運，迎接更多的好運與機會。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>運氣好的人</tag>
-        <tag>運氣</tag>
-        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
       </tags>
   </entry>
   <entry>
@@ -3111,42 +3111,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》| 閱讀心得學習筆記</title>
-    <url>/2024/11/14/reading-notes-micro-skills-small-actions-big-impact-notes/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》</span><br><span class="line">作者： 艾黛拉．蘭德瑞, 瑞莎．盧伊斯  </span><br><span class="line">原文作者： Adaira Landry MD , Resa E. Lewiss MD</span><br><span class="line">譯者： 何玉方</span><br><span class="line">出版社：商業周刊</span><br><span class="line">出版日期：2024/11/14</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「職場成敗，不在大事，而是小事的堆疊。職場的每步路，都是由小小的「原子技巧」累積起來。做對小事、避開小錯，持續練習就能累積大成果。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在競爭激烈又變化迅速的現代職場，僅靠努力與熱情，已不足以支撐我們走得長遠。《原子技巧》一書由兩位來自醫界、歷經現實挑戰的女醫師所寫，提出一個關鍵觀念：「成就來自於無數細小技巧的積累與應用」。這本書像是一份實用的職場工具包，幫助我們在不被教導的領域中穩健前進。</p>
-<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>原子技巧的核心概念：小行為積少成多，能影響大結果。每一項技巧都是具體、可練習、可衡量的。</p>
-<p>三大技巧範疇：</p>
-<ol>
-<li>自我照顧與效率提升：包括睡眠、情緒管理、行事曆規劃、精簡瑣事。</li>
-<li>任務與溝通管理：學會與主管對齊目標、設限會議時間、簡明扼要地傳達需求。</li>
-<li>人際與晉升策略：擴展人脈、建立信任、展現專業、避免社交地雷。</li>
-</ol>
-<p>應用方法：<br>將大目標拆解成小任務，對應適合的技巧逐一練習，例如建立人脈時先從內向者的舒適圈突破，再逐步擴張社交網絡。</p>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>為何學校與傳統教育中，鮮少提及這些實用技巧？</li>
-<li>在你目前的工作中，哪一項「原子技巧」最欠缺？</li>
-<li>是否曾因「小錯」而錯過晉升或重要機會？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《原子技巧》並非高談闊論成功學的書，而是一份實戰指南。透過拆解與練習這些細小但關鍵的行為模式，我們不只提升效率，更能在面對壓力與挑戰時，更穩健地應對。這是一本應該反覆翻閱、逐步實踐的職涯夥伴。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>原子技巧</tag>
-        <tag>小練習帶來大改變</tag>
-        <tag>早知道會更好的10種職場組合技</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《心態致勝：全新成功心理學》| 閱讀心得學習筆記</title>
     <url>/2022/03/30/reading-notes-mindset-the-new-psychology-of-success/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-mindset-the-new-psychology-of-success-1.jpg"></p>
@@ -3233,6 +3197,42 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>人脈帳本</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》| 閱讀心得學習筆記</title>
+    <url>/2024/11/14/reading-notes-micro-skills-small-actions-big-impact-notes/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》</span><br><span class="line">作者： 艾黛拉．蘭德瑞, 瑞莎．盧伊斯  </span><br><span class="line">原文作者： Adaira Landry MD , Resa E. Lewiss MD</span><br><span class="line">譯者： 何玉方</span><br><span class="line">出版社：商業周刊</span><br><span class="line">出版日期：2024/11/14</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「職場成敗，不在大事，而是小事的堆疊。職場的每步路，都是由小小的「原子技巧」累積起來。做對小事、避開小錯，持續練習就能累積大成果。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在競爭激烈又變化迅速的現代職場，僅靠努力與熱情，已不足以支撐我們走得長遠。《原子技巧》一書由兩位來自醫界、歷經現實挑戰的女醫師所寫，提出一個關鍵觀念：「成就來自於無數細小技巧的積累與應用」。這本書像是一份實用的職場工具包，幫助我們在不被教導的領域中穩健前進。</p>
+<p><img src="/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><p>原子技巧的核心概念：小行為積少成多，能影響大結果。每一項技巧都是具體、可練習、可衡量的。</p>
+<p>三大技巧範疇：</p>
+<ol>
+<li>自我照顧與效率提升：包括睡眠、情緒管理、行事曆規劃、精簡瑣事。</li>
+<li>任務與溝通管理：學會與主管對齊目標、設限會議時間、簡明扼要地傳達需求。</li>
+<li>人際與晉升策略：擴展人脈、建立信任、展現專業、避免社交地雷。</li>
+</ol>
+<p>應用方法：<br>將大目標拆解成小任務，對應適合的技巧逐一練習，例如建立人脈時先從內向者的舒適圈突破，再逐步擴張社交網絡。</p>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>為何學校與傳統教育中，鮮少提及這些實用技巧？</li>
+<li>在你目前的工作中，哪一項「原子技巧」最欠缺？</li>
+<li>是否曾因「小錯」而錯過晉升或重要機會？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《原子技巧》並非高談闊論成功學的書，而是一份實戰指南。透過拆解與練習這些細小但關鍵的行為模式，我們不只提升效率，更能在面對壓力與挑戰時，更穩健地應對。這是一本應該反覆翻閱、逐步實踐的職涯夥伴。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>原子技巧</tag>
+        <tag>小練習帶來大改變</tag>
+        <tag>早知道會更好的10種職場組合技</tag>
       </tags>
   </entry>
   <entry>
@@ -3764,51 +3764,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《向下扎根！德國教育的公民思辨課1─「一個人值多少錢，誰是現代奴隸？」：捍衛權利的基本知識》| 閱讀心得學習筆記</title>
-    <url>/2017/04/29/reading-notes-rooting-down-germanys-civic-thinking-class-1/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-rooting-down-germanys-civic-thinking-class-1-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《向下扎根！德國教育的公民思辨課1─「一個人值多少錢，誰是現代奴隸？」：捍衛權利的基本知識》</span><br><span class="line">作者： 克莉絲汀．舒茲—萊斯</span><br><span class="line">原文作者： Christine Schulz-Reiss</span><br><span class="line">譯者： 陳中芷</span><br><span class="line">繪者： 薇瑞娜・巴浩斯</span><br><span class="line">出版社：麥田</span><br><span class="line">出版日期：2017/04/29</span><br></pre></td></tr></table></figure>
-
-<p>「我們真的了解人權與民主嗎？」</p>
-<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
-<p>「人權並非理所當然，而是歷史長期抗爭的結果。人性中的殘忍與貪婪，正在你我的身邊上演。學習有原則的使用你的權利，同時捍衛他人的權利。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《向下扎根！德國教育的公民思辨課 1》是一本專為青少年設計的思辨讀本，卻也極適合所有成年人重新認識人權與民主的根本價值。作者克莉絲汀．舒茲－萊斯以淺顯卻犀利的語言，帶領讀者探問：什麼是人的尊嚴？什麼是公民勇氣？我們又如何在現實中實踐人權？透過真實案例與歷史脈絡，喚醒對當代社會議題的覺察。</p>
-<p><img src="/img/posts/reading-notes-rooting-down-germanys-civic-thinking-class-1-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>人權並非理所當然，而是歷史長期抗爭的結果。</li>
-<li>民主制度若缺乏反省與監督，也會演變成壓迫的工具。</li>
-<li>仇外與歧視源自恐懼與無知，須從教育與對話根除。</li>
-<li>每項權利皆依附於他人權利，無法孤立存在。</li>
-<li>我們對貧窮、剝削、難民等全球議題無法置身事外。</li>
-<li>市民勇氣與日常選擇（如消費行為）即是實踐人權的起點。</li>
-<li>沒有人可倖免於結構性不正義，沉默即是共犯。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>每週與孩子進行一場關於「尊嚴與人權」的對話</li>
-<li>選擇公平貿易商品，關注其生產與勞動背景</li>
-<li>當目睹歧視與不公時，學習溫和堅定地出聲反對</li>
-<li>自我檢視消費與網路言論是否間接助長剝削與偏見</li>
-<li>閱讀並推廣《世界人權宣言》，將其內化為行動準則</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>「尊嚴」是否真的平等地存在於每個社會階層？</li>
-<li>為何在民主制度下，仍有這麼多壓迫現象發生？</li>
-<li>我們是否對自身權利太過熟悉，卻忽略他人的處境？</li>
-<li>如果我們對制度的不公習以為常，是否就等同於默許？</li>
-<li>我們能否在維護自身權益時，也尊重他人的權利？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅是德國教育中向下扎根的成果，更是全球每位公民必讀的現代人權手冊。它強調：「民主的核心不在於多數決，而在於少數人權的保障。」閱讀本書，是對「我如何成為一個更好的人」的具體回應。當我們對世界有更多理解，也就多了一分責任去改變它。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>向下扎根！德國教育的公民思辨課1─「一個人值多少錢，誰是現代奴隸？」：捍衛權利的基本知識</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《人類大歷史（增訂版）：從野獸到扮演上帝》 | 閱讀心得學習筆記</title>
     <url>/2022/10/27/reading-notes-sapiens-a-brief-history-of-humankind/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-sapiens-a-brief-history-of-humankind-1.jpg"></p>
@@ -3902,6 +3857,51 @@
       </tags>
   </entry>
   <entry>
+    <title>《向下扎根！德國教育的公民思辨課1─「一個人值多少錢，誰是現代奴隸？」：捍衛權利的基本知識》| 閱讀心得學習筆記</title>
+    <url>/2017/04/29/reading-notes-rooting-down-germanys-civic-thinking-class-1/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-rooting-down-germanys-civic-thinking-class-1-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《向下扎根！德國教育的公民思辨課1─「一個人值多少錢，誰是現代奴隸？」：捍衛權利的基本知識》</span><br><span class="line">作者： 克莉絲汀．舒茲—萊斯</span><br><span class="line">原文作者： Christine Schulz-Reiss</span><br><span class="line">譯者： 陳中芷</span><br><span class="line">繪者： 薇瑞娜・巴浩斯</span><br><span class="line">出版社：麥田</span><br><span class="line">出版日期：2017/04/29</span><br></pre></td></tr></table></figure>
+
+<p>「我們真的了解人權與民主嗎？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「人權並非理所當然，而是歷史長期抗爭的結果。人性中的殘忍與貪婪，正在你我的身邊上演。學習有原則的使用你的權利，同時捍衛他人的權利。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《向下扎根！德國教育的公民思辨課 1》是一本專為青少年設計的思辨讀本，卻也極適合所有成年人重新認識人權與民主的根本價值。作者克莉絲汀．舒茲－萊斯以淺顯卻犀利的語言，帶領讀者探問：什麼是人的尊嚴？什麼是公民勇氣？我們又如何在現實中實踐人權？透過真實案例與歷史脈絡，喚醒對當代社會議題的覺察。</p>
+<p><img src="/img/posts/reading-notes-rooting-down-germanys-civic-thinking-class-1-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>人權並非理所當然，而是歷史長期抗爭的結果。</li>
+<li>民主制度若缺乏反省與監督，也會演變成壓迫的工具。</li>
+<li>仇外與歧視源自恐懼與無知，須從教育與對話根除。</li>
+<li>每項權利皆依附於他人權利，無法孤立存在。</li>
+<li>我們對貧窮、剝削、難民等全球議題無法置身事外。</li>
+<li>市民勇氣與日常選擇（如消費行為）即是實踐人權的起點。</li>
+<li>沒有人可倖免於結構性不正義，沉默即是共犯。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每週與孩子進行一場關於「尊嚴與人權」的對話</li>
+<li>選擇公平貿易商品，關注其生產與勞動背景</li>
+<li>當目睹歧視與不公時，學習溫和堅定地出聲反對</li>
+<li>自我檢視消費與網路言論是否間接助長剝削與偏見</li>
+<li>閱讀並推廣《世界人權宣言》，將其內化為行動準則</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>「尊嚴」是否真的平等地存在於每個社會階層？</li>
+<li>為何在民主制度下，仍有這麼多壓迫現象發生？</li>
+<li>我們是否對自身權利太過熟悉，卻忽略他人的處境？</li>
+<li>如果我們對制度的不公習以為常，是否就等同於默許？</li>
+<li>我們能否在維護自身權益時，也尊重他人的權利？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅是德國教育中向下扎根的成果，更是全球每位公民必讀的現代人權手冊。它強調：「民主的核心不在於多數決，而在於少數人權的保障。」閱讀本書，是對「我如何成為一個更好的人」的具體回應。當我們對世界有更多理解，也就多了一分責任去改變它。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>向下扎根！德國教育的公民思辨課1─「一個人值多少錢，誰是現代奴隸？」：捍衛權利的基本知識</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《ScrumMaster、敏捷教練及專案經理轉型的最佳指南》| 閱讀心得學習筆記</title>
     <url>/2024/06/06/reading-notes-scrum-master-team/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-scrum-master-team-1.jpg"></p>
@@ -3940,9 +3940,9 @@
         <tag>產品</tag>
         <tag>Career</tag>
         <tag>Career Development</tag>
-        <tag>產品專案管理專案全書</tag>
         <tag>Project Manager</tag>
         <tag>專案經理</tag>
+        <tag>產品專案管理專案全書</tag>
         <tag>PjM</tag>
         <tag>project</tag>
         <tag>專案</tag>
@@ -4207,6 +4207,48 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>論語與算盤：改變近代日本運命的商業聖經</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《納瓦爾寶典：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧》| 閱讀心得學習筆記</title>
+    <url>/2024/01/04/reading-notes-the-almanack-of-naval-ravikant-a-guide-to-wealth-and-happiness/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-almanack-of-naval-ravikant-a-guide-to-wealth-and-happiness-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《納瓦爾寶典：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧》</span><br><span class="line">作者： 艾瑞克．喬根森</span><br><span class="line">原文作者： Eric Jorgenson</span><br><span class="line">譯者： 謝佩妏</span><br><span class="line">繪者： 傑克．布徹(Jack Butcher)</span><br><span class="line">出版社：天下雜誌</span><br><span class="line">出版日期：2024/01/04</span><br></pre></td></tr></table></figure>
+
+<p>「你是否在日夜追逐裡憂慮，什麼時候才會成功幸福又快樂？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「致富不是靠運氣，幸福也不是從天而降。累積財富和幸福生活，是你可以學習的技能。找到人生支點和能力槓桿，可以撼動你的整個未來！」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《納瓦爾寶典：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧》是一部集結矽谷傳奇創投家納瓦爾人生智慧的作品，將致富與快樂拆解為可學習、可實踐的技能。不同於傳統理財書著重技巧，這本書更著眼於思維與選擇，提醒人們在追求財富之前，更應先找到人生的支點與槓桿。</p>
+<p><img src="/img/posts/reading-notes-the-almanack-of-naval-ravikant-a-guide-to-wealth-and-happiness-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>財富、健康、快樂三者缺一不可，但快樂的重要性最高。</li>
+<li>所有回報都來自複利，時間是最寶貴的資產。</li>
+<li>致富的關鍵是找到能被放大與規模化的專業知識與技能。</li>
+<li>退出競爭的方式是活出真實的自己，找到獨特定位。</li>
+<li>人生的選擇應聚焦於長期正和賽局，而非短期爭奪。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每日反思：我的選擇是否帶來長期正向複利？</li>
+<li>培養獨特專業，避免依賴純粹時間換取收入。</li>
+<li>練習降低欲望，把精力放在「少但更好」。</li>
+<li>在工作與生活中尋找可規模化的價值輸出方式。</li>
+<li>維護健康與人際關係，將快樂置於財富之前。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你目前的工作是靠時間堆疊，還是靠槓桿放大？</li>
+<li>若把快樂放在第一順位，你的人生選擇會不同嗎？</li>
+<li>你有意識地培養能被市場放大的「獨特知識」嗎？</li>
+<li>在做重大決定時，你會選擇短期舒適還是長期收益？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅探討致富的技巧，更是人生哲學的指南。納瓦爾提醒我們，財富只是工具，快樂才是終極目標。透過思維轉換與實踐，我們能撬動屬於自己的快樂富有人生。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>納瓦爾寶典：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧</tag>
       </tags>
   </entry>
   <entry>
@@ -4690,41 +4732,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》| 閱讀心得學習筆記</title>
-    <url>/2024/06/05/reading-notes-the-middle-passage/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-middle-passage-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》</span><br><span class="line">作者： 詹姆斯．霍利斯</span><br><span class="line">原文作者： James Hollis</span><br><span class="line">譯者： 鐘穎（愛智者）</span><br><span class="line">出版社：楓樹林出版社</span><br><span class="line">出版日期：2024/06/05</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「除了我的過往，以及我所扮演的角色之外，我到底是誰？從現在開始，你要練習不再討好任何人，只需清醒地活出更大的自己。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《中年之路》由詹姆斯・霍利斯撰寫，是一本以榮格心理學為基礎，深入探討中年階段心理轉折與個體化歷程的重要著作。中年不再只是人生的下坡期，而是一場重新覺醒與蛻變的契機。作者指出，當人們在中年感受到內外衝突與空虛，便揭開了通往「第二個成年期」的序幕。</p>
-<p><img src="/img/posts/reading-notes-the-middle-passage-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>暫時性人格</strong>：我們在第一成年期形成的身分，常為討好、角色或責任所驅動，並不是真我。</li>
-<li><strong>中年之路的預兆</strong>：內部壓力、失望、投射破裂、神經症等症狀，暗示我們與內在真我失聯。</li>
-<li><strong>轉向內在的旅程</strong>：個體化過程要求我們直視陰影、自我矛盾與童年創傷，重新界定生命意義。</li>
-<li><strong>從孤單到孤獨</strong>：學會與自己相處，接受失落與分離，將恐懼轉化為精神成長的資源。</li>
-<li><strong>重新定位人我關係</strong>：個體化並非自我中心，而是與他人真誠連結、承擔責任的成熟表現。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否曾經用外在成就掩蓋內在空虛？</li>
-<li>面對中年危機，我們是逃避還是選擇面對與成長？</li>
-<li>如何判斷現在的「我」，是真正的我，還是扮演出來的角色？</li>
-<li>當人生的「上半場」劇本無法繼續套用，我們是否願意重寫新的劇本？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《中年之路》不只是一本心理學書籍，更是一面鏡子，照見我們潛藏已久的焦慮、夢想與渴望。霍利斯以榮格的視角邀請我們，不再被過往角色所束縛，勇敢穿越中年的黑暗森林，找回與生命本質的連結。這是一場屬於每個人的深層心靈旅程。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>顯化效應</tag>
-        <tag>中年之路：穿越幽暗，迎向完整的內在鍊金之旅</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《被財神爺喜歡到怕的方法：淨化金毒、史上最簡單的開運增財術》| 閱讀心得學習筆記</title>
     <url>/2025/06/01/reading-notes-the-method-to-be-liked-by-the-god-of-wealth/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-method-to-be-liked-by-the-god-of-wealth-1.jpg"></p>
@@ -4765,6 +4772,41 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>被財神爺喜歡到怕的方法：淨化金毒、史上最簡單的開運增財術</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》| 閱讀心得學習筆記</title>
+    <url>/2024/06/05/reading-notes-the-middle-passage/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-middle-passage-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》</span><br><span class="line">作者： 詹姆斯．霍利斯</span><br><span class="line">原文作者： James Hollis</span><br><span class="line">譯者： 鐘穎（愛智者）</span><br><span class="line">出版社：楓樹林出版社</span><br><span class="line">出版日期：2024/06/05</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「除了我的過往，以及我所扮演的角色之外，我到底是誰？從現在開始，你要練習不再討好任何人，只需清醒地活出更大的自己。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《中年之路》由詹姆斯・霍利斯撰寫，是一本以榮格心理學為基礎，深入探討中年階段心理轉折與個體化歷程的重要著作。中年不再只是人生的下坡期，而是一場重新覺醒與蛻變的契機。作者指出，當人們在中年感受到內外衝突與空虛，便揭開了通往「第二個成年期」的序幕。</p>
+<p><img src="/img/posts/reading-notes-the-middle-passage-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>暫時性人格</strong>：我們在第一成年期形成的身分，常為討好、角色或責任所驅動，並不是真我。</li>
+<li><strong>中年之路的預兆</strong>：內部壓力、失望、投射破裂、神經症等症狀，暗示我們與內在真我失聯。</li>
+<li><strong>轉向內在的旅程</strong>：個體化過程要求我們直視陰影、自我矛盾與童年創傷，重新界定生命意義。</li>
+<li><strong>從孤單到孤獨</strong>：學會與自己相處，接受失落與分離，將恐懼轉化為精神成長的資源。</li>
+<li><strong>重新定位人我關係</strong>：個體化並非自我中心，而是與他人真誠連結、承擔責任的成熟表現。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否曾經用外在成就掩蓋內在空虛？</li>
+<li>面對中年危機，我們是逃避還是選擇面對與成長？</li>
+<li>如何判斷現在的「我」，是真正的我，還是扮演出來的角色？</li>
+<li>當人生的「上半場」劇本無法繼續套用，我們是否願意重寫新的劇本？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《中年之路》不只是一本心理學書籍，更是一面鏡子，照見我們潛藏已久的焦慮、夢想與渴望。霍利斯以榮格的視角邀請我們，不再被過往角色所束縛，勇敢穿越中年的黑暗森林，找回與生命本質的連結。這是一場屬於每個人的深層心靈旅程。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>顯化效應</tag>
+        <tag>中年之路：穿越幽暗，迎向完整的內在鍊金之旅</tag>
       </tags>
   </entry>
   <entry>
@@ -5241,53 +5283,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》| 閱讀心得學習筆記</title>
-    <url>/2025/01/09/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》</span><br><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
-
-
-<blockquote>
-<p>「無論情況多麼絕望，人永遠不會沒有選擇。人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。」  </p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。本書由精神科醫師戈登．李文斯頓博士以自身經歷與診療室故事，萃取出30則人生智慧，幫助讀者正視恐懼、調適情緒、經營關係，並掌握人生主導權。這不只是一本療癒書，更是一場勇敢面對人生挑戰的啟發之旅。</p>
-<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-做自己：勇敢迎接未知"><a href="#1-做自己：勇敢迎接未知" class="headerlink" title="1. 做自己：勇敢迎接未知"></a><strong>1. 做自己：勇敢迎接未知</strong></h4><ul>
-<li><code>人生是一場賭局</code>，我們無法選擇手中的牌，<code>但能決定如何打好這副牌</code>。</li>
-<li><code>冒險</code>是成長的必要條件，害怕改變往往是最大的枷鎖。</li>
-</ul>
-<h4 id="2-勇氣篇：打破內心的牢籠"><a href="#2-勇氣篇：打破內心的牢籠" class="headerlink" title="2. 勇氣篇：打破內心的牢籠"></a><strong>2. 勇氣篇：打破內心的牢籠</strong></h4><ul>
-<li>最堅固的牢房是我們親手打造的，<code>恐懼與焦慮</code>常阻礙我們追尋快樂。</li>
-<li>勇敢不是沒有害怕，而是<code>即使害怕仍然前進</code>。</li>
-</ul>
-<h4 id="3-情緒篇：選擇希望而非絕望"><a href="#3-情緒篇：選擇希望而非絕望" class="headerlink" title="3. 情緒篇：選擇希望而非絕望"></a><strong>3. 情緒篇：選擇希望而非絕望</strong></h4><ul>
-<li><code>人生即使困難，仍有選擇的空間</code>，只要我們願意尋找新的可能。</li>
-<li><code>轉念</code>是關鍵，問題的核心往往不在事件本身，而在我們<code>如何看待它</code>。</li>
-</ul>
-<h4 id="4-關係篇：給孩子最好的禮物"><a href="#4-關係篇：給孩子最好的禮物" class="headerlink" title="4. 關係篇：給孩子最好的禮物"></a><strong>4. 關係篇：給孩子最好的禮物</strong></h4><ul>
-<li>教養的本質是讓孩子相信，<code>在這個世界上仍然能夠快樂生活</code>。</li>
-<li><code>陪伴與支持</code>，<code>比任何說教更能帶來安全感</code>。</li>
-</ul>
-<h4 id="5-愛情篇：如何愛與被愛"><a href="#5-愛情篇：如何愛與被愛" class="headerlink" title="5. 愛情篇：如何愛與被愛"></a><strong>5. 愛情篇：如何愛與被愛</strong></h4><ul>
-<li>婚姻需要<code>雙方共同經營</code>，但<code>只要一方選擇退出，就足以結束一段關係</code>。</li>
-<li>真正的愛不是<code>掌控</code>與<code>依賴</code>，而是<code>尊重</code>與<code>包容</code>。</li>
-</ul>
-<h4 id="6-老去篇：死亡無法抹去愛"><a href="#6-老去篇：死亡無法抹去愛" class="headerlink" title="6. 老去篇：死亡無法抹去愛"></a><strong>6. 老去篇：死亡無法抹去愛</strong></h4><ul>
-<li>失去所愛之人，並不意味著愛的消失，而是提醒我們<code>珍惜擁有的當下</code>。</li>
-<li>生命的意義，不在於逃避死亡，而在於<code>勇敢地活著</code>。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>戈登．李文斯頓博士以親身經歷和臨床觀察，為我們提供了一面人生的鏡子，提醒我們選擇勇敢、擁抱改變、珍惜愛與當下。這本書不只是關於療癒，更是關於活出更有力量的自己。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>這一生，你要體會的30件事</tag>
-        <tag>精神科醫師最犀利的人生告白</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《把生活過成賞心悅目的好日子：身心整理×極簡日常×居家風格，打造閃閃發光的自在質感生活》| 閱讀心得學習筆記</title>
     <url>/2025/02/05/reading-notes-to-live-to-exist/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-to-live-to-exist-1.jpg"></p>
@@ -5343,6 +5338,53 @@
         <tag>把生活過成賞心悅目的好日子</tag>
         <tag>身心整理×極簡日常×居家風格</tag>
         <tag>打造閃閃發光的自在質感生活</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》| 閱讀心得學習筆記</title>
+    <url>/2025/01/09/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《這一生，你要體會的30件事【暢銷紀念版】：精神科醫師最犀利的人生告白》</span><br><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+
+<blockquote>
+<p>「無論情況多麼絕望，人永遠不會沒有選擇。人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。」  </p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>人生充滿遺憾與失落，如何面對與轉化這些經歷，決定了我們的成長與幸福。本書由精神科醫師戈登．李文斯頓博士以自身經歷與診療室故事，萃取出30則人生智慧，幫助讀者正視恐懼、調適情緒、經營關係，並掌握人生主導權。這不只是一本療癒書，更是一場勇敢面對人生挑戰的啟發之旅。</p>
+<p><img src="/img/posts/reading-notes-too-soon-old-too-late-smart-thirty-true-things-you-need-to-know-now-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-做自己：勇敢迎接未知"><a href="#1-做自己：勇敢迎接未知" class="headerlink" title="1. 做自己：勇敢迎接未知"></a><strong>1. 做自己：勇敢迎接未知</strong></h4><ul>
+<li><code>人生是一場賭局</code>，我們無法選擇手中的牌，<code>但能決定如何打好這副牌</code>。</li>
+<li><code>冒險</code>是成長的必要條件，害怕改變往往是最大的枷鎖。</li>
+</ul>
+<h4 id="2-勇氣篇：打破內心的牢籠"><a href="#2-勇氣篇：打破內心的牢籠" class="headerlink" title="2. 勇氣篇：打破內心的牢籠"></a><strong>2. 勇氣篇：打破內心的牢籠</strong></h4><ul>
+<li>最堅固的牢房是我們親手打造的，<code>恐懼與焦慮</code>常阻礙我們追尋快樂。</li>
+<li>勇敢不是沒有害怕，而是<code>即使害怕仍然前進</code>。</li>
+</ul>
+<h4 id="3-情緒篇：選擇希望而非絕望"><a href="#3-情緒篇：選擇希望而非絕望" class="headerlink" title="3. 情緒篇：選擇希望而非絕望"></a><strong>3. 情緒篇：選擇希望而非絕望</strong></h4><ul>
+<li><code>人生即使困難，仍有選擇的空間</code>，只要我們願意尋找新的可能。</li>
+<li><code>轉念</code>是關鍵，問題的核心往往不在事件本身，而在我們<code>如何看待它</code>。</li>
+</ul>
+<h4 id="4-關係篇：給孩子最好的禮物"><a href="#4-關係篇：給孩子最好的禮物" class="headerlink" title="4. 關係篇：給孩子最好的禮物"></a><strong>4. 關係篇：給孩子最好的禮物</strong></h4><ul>
+<li>教養的本質是讓孩子相信，<code>在這個世界上仍然能夠快樂生活</code>。</li>
+<li><code>陪伴與支持</code>，<code>比任何說教更能帶來安全感</code>。</li>
+</ul>
+<h4 id="5-愛情篇：如何愛與被愛"><a href="#5-愛情篇：如何愛與被愛" class="headerlink" title="5. 愛情篇：如何愛與被愛"></a><strong>5. 愛情篇：如何愛與被愛</strong></h4><ul>
+<li>婚姻需要<code>雙方共同經營</code>，但<code>只要一方選擇退出，就足以結束一段關係</code>。</li>
+<li>真正的愛不是<code>掌控</code>與<code>依賴</code>，而是<code>尊重</code>與<code>包容</code>。</li>
+</ul>
+<h4 id="6-老去篇：死亡無法抹去愛"><a href="#6-老去篇：死亡無法抹去愛" class="headerlink" title="6. 老去篇：死亡無法抹去愛"></a><strong>6. 老去篇：死亡無法抹去愛</strong></h4><ul>
+<li>失去所愛之人，並不意味著愛的消失，而是提醒我們<code>珍惜擁有的當下</code>。</li>
+<li>生命的意義，不在於逃避死亡，而在於<code>勇敢地活著</code>。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>戈登．李文斯頓博士以親身經歷和臨床觀察，為我們提供了一面人生的鏡子，提醒我們選擇勇敢、擁抱改變、珍惜愛與當下。這本書不只是關於療癒，更是關於活出更有力量的自己。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>這一生，你要體會的30件事</tag>
+        <tag>精神科醫師最犀利的人生告白</tag>
       </tags>
   </entry>
   <entry>
@@ -5549,6 +5591,40 @@
       </tags>
   </entry>
   <entry>
+    <title>《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》 | 閱讀心得學習筆記</title>
+    <url>/2023/04/28/reading-notes-walking-on-wall-street/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-on-wall-street-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》</span><br><span class="line">作者： 墨基爾  </span><br><span class="line">原文作者： Burton G. Malkiel</span><br><span class="line">譯者： 楊美齡, 林麗冠, 蘇鵬元, 陳儀, 林俊宏</span><br><span class="line">出版社：天下文化  </span><br><span class="line">出版日期：2023/04/28</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「愈簡單的策略，愈容易成功。話題愈熱烈愈有可能是投機泡沫。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《漫步華爾街》是一本跨越半世紀仍屹立不搖的經典投資指南。作者墨基爾身兼經濟學者與實務投資人，以平易近人的筆觸傳遞長期投資、分散風險的重要理念，提醒讀者別被市場流行術語與短期熱潮所迷惑。此50週年增訂版則進一步納入ESG、加密貨幣等新興議題，讓本書在新時代仍具實用價值。</p>
+<p><img src="/img/posts/reading-notes-walking-on-wall-street-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>指數型基金為王道：長期投資、廣泛分散，是最穩健的致富之路。</li>
+<li>市場難以預測：技術分析與基本面分析皆有盲點，普通人難以持續打敗市場。</li>
+<li>風險與報酬並存：報酬來自承擔風險，但非所有風險皆值得承擔。</li>
+<li>行為財務學警示：人性常導致投資錯誤，須設計簡單且能堅持的策略。</li>
+<li>新興投資需謹慎：NFT、加密貨幣與ESG投資背後潛藏高風險與資訊不對稱。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你是否曾因熱門話題而進場投資，卻忽略了風險與長期性？</li>
+<li>當市場震盪時，你能否堅守紀律、不輕易調整資產配置？</li>
+<li>面對投資新趨勢，如何保持開放但不盲從的態度？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《漫步華爾街》提醒我們：與其追逐短期獲利，不如選擇一條可持之以恆的簡單道路。對每一位想改善財務狀況的投資人而言，這是一本值得反覆閱讀的實用經典。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>漫步華爾街</tag>
+        <tag>超越股市漲跌的成功投資策略</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《深夜加油站遇見蘇格拉底》| 閱讀心得學習筆記</title>
     <url>/2022/04/08/reading-notes-way-of-the-peaceful-warrior-a-book-that-changes-lives/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-way-of-the-peaceful-warrior-a-book-that-changes-lives-1.jpg"></p>
@@ -5603,40 +5679,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>深夜加油站遇見蘇格拉底</tag>
         <tag>蘇格拉底</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》 | 閱讀心得學習筆記</title>
-    <url>/2023/04/28/reading-notes-walking-on-wall-street/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-walking-on-wall-street-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》</span><br><span class="line">作者： 墨基爾  </span><br><span class="line">原文作者： Burton G. Malkiel</span><br><span class="line">譯者： 楊美齡, 林麗冠, 蘇鵬元, 陳儀, 林俊宏</span><br><span class="line">出版社：天下文化  </span><br><span class="line">出版日期：2023/04/28</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「愈簡單的策略，愈容易成功。話題愈熱烈愈有可能是投機泡沫。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《漫步華爾街》是一本跨越半世紀仍屹立不搖的經典投資指南。作者墨基爾身兼經濟學者與實務投資人，以平易近人的筆觸傳遞長期投資、分散風險的重要理念，提醒讀者別被市場流行術語與短期熱潮所迷惑。此50週年增訂版則進一步納入ESG、加密貨幣等新興議題，讓本書在新時代仍具實用價值。</p>
-<p><img src="/img/posts/reading-notes-walking-on-wall-street-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>指數型基金為王道：長期投資、廣泛分散，是最穩健的致富之路。</li>
-<li>市場難以預測：技術分析與基本面分析皆有盲點，普通人難以持續打敗市場。</li>
-<li>風險與報酬並存：報酬來自承擔風險，但非所有風險皆值得承擔。</li>
-<li>行為財務學警示：人性常導致投資錯誤，須設計簡單且能堅持的策略。</li>
-<li>新興投資需謹慎：NFT、加密貨幣與ESG投資背後潛藏高風險與資訊不對稱。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你是否曾因熱門話題而進場投資，卻忽略了風險與長期性？</li>
-<li>當市場震盪時，你能否堅守紀律、不輕易調整資產配置？</li>
-<li>面對投資新趨勢，如何保持開放但不盲從的態度？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《漫步華爾街》提醒我們：與其追逐短期獲利，不如選擇一條可持之以恆的簡單道路。對每一位想改善財務狀況的投資人而言，這是一本值得反覆閱讀的實用經典。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>漫步華爾街</tag>
-        <tag>超越股市漲跌的成功投資策略</tag>
       </tags>
   </entry>
   <entry>
