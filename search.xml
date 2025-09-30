@@ -28,6 +28,36 @@
       </tags>
   </entry>
   <entry>
+    <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-tech-10-keywords/</url>
+    <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
+<ol>
+<li><strong>自然語言處理（NLP）</strong>（Natural Language Processing, NLP）</li>
+<li><strong>機器學習</strong>（Machine Learning）</li>
+<li><strong>深度學習</strong>（Deep Learning）</li>
+<li><strong>文本生成</strong>（Text Generation）</li>
+<li><strong>上下文理解</strong>（Contextual Understanding）</li>
+<li><strong>語義分析</strong>（Semantic Analysis）</li>
+<li><strong>模型訓練</strong>（Model Training）</li>
+<li><strong>語言建模</strong>（Language Modeling）</li>
+<li><strong>人工智慧</strong>（Artificial Intelligence, AI）</li>
+<li><strong>轉移學習</strong>（Transfer Learning）</li>
+</ol>
+<p>這些關鍵字涵蓋了大型語言模型的核心概念、技術和應用領域，有助於幫助我們深入理解 LLMs 的工作原理和用途。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>財報分析入門筆記</title>
     <url>/2017/06/30/financial-statements-analysis-introduction/</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>財務報表是一家公司的體質檢查表，透過財務報表可以了解這家公司的財務狀況和營運狀況，也就是說可以透過財務報表去一窺公司的身體健康是否硬朗或是漸漸亮起紅燈。許多人以為財務報表晦澀難懂，只有經營者、會計師或是財務分析師才需要了解。事實上，財務報表的觀念並不難懂，不管是投資大眾甚至是公司員工應該都要對自己投資和工作的公司要有所掌握，一般投資人若能了解財報就有機會從中挖掘被低估的優質股票進而獲取相對報酬（賺錢），而一般員工若能掌握財報資訊，更能全面性了解公司營運狀況和未來發展方向，為自己的職涯加分。</p>
@@ -168,36 +198,6 @@
         <tag>專案管理</tag>
         <tag>Axure RP 10</tag>
         <tag>axure</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-tech-10-keywords/</url>
-    <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
-<ol>
-<li><strong>自然語言處理（NLP）</strong>（Natural Language Processing, NLP）</li>
-<li><strong>機器學習</strong>（Machine Learning）</li>
-<li><strong>深度學習</strong>（Deep Learning）</li>
-<li><strong>文本生成</strong>（Text Generation）</li>
-<li><strong>上下文理解</strong>（Contextual Understanding）</li>
-<li><strong>語義分析</strong>（Semantic Analysis）</li>
-<li><strong>模型訓練</strong>（Model Training）</li>
-<li><strong>語言建模</strong>（Language Modeling）</li>
-<li><strong>人工智慧</strong>（Artificial Intelligence, AI）</li>
-<li><strong>轉移學習</strong>（Transfer Learning）</li>
-</ol>
-<p>這些關鍵字涵蓋了大型語言模型的核心概念、技術和應用領域，有助於幫助我們深入理解 LLMs 的工作原理和用途。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
       </tags>
   </entry>
   <entry>
@@ -982,61 +982,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《原子習慣：細微改變帶來巨大成就的實證法則》| 閱讀心得學習筆記</title>
-    <url>/2019/06/01/reading-notes-atomic-habits/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-atomic-habits-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子習慣：細微改變帶來巨大成就的實證法則》</span><br><span class="line">作者： 詹姆斯‧克利爾  </span><br><span class="line">原文作者： James Clear</span><br><span class="line">譯者： 蔡世偉</span><br><span class="line">出版社：方智</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「真正的改變來自於微小但持續的習慣累積，就像複利效應一般，日積月累後帶來巨大成果。」  </p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們總以為改變人生需要驚天動地的決定，實則不然。本書《原子習慣》告訴我們，真正的改變來自於<code>微小但持續的習慣累積</code>，就像<code>複利效應</code>一般，<code>日積月累後帶來巨大成果</code>。作者詹姆斯·克利爾透過科學研究與實證案例，提供了一套實用的方法論，讓我們能夠掌握習慣的力量，擺脫壞習慣，培養能帶來成功的好習慣。  </p>
-<p><img src="/img/posts/reading-notes-atomic-habits-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>習慣的影響力</strong></p>
-<ul>
-<li><code>習慣不是一次性的選擇</code>，<code>而是日常行為的累積</code>，影響最終結果。  </li>
-<li><code>人生的成果是無數習慣的總和</code>，而非單一決策的結果。</li>
-</ul>
-</li>
-<li><p><strong>四大習慣法則</strong>  </p>
-<ul>
-<li><strong>提示</strong>：讓好習慣變得<code>顯而易見</code>，例如：將運動服擺在床邊提醒自己運動。  </li>
-<li><strong>渴望</strong>：讓好習慣變得<code>有吸引力</code>，例如：將習慣與喜愛的活動結合。  </li>
-<li><strong>回應</strong>：讓好習慣變得<code>簡單易行</code>，例如：減少執行步驟，讓運動變得更輕鬆開始。  </li>
-<li><strong>獎賞</strong>：讓好習慣變得<code>令人滿足</code>，例如：記錄進步並給予小獎勵。</li>
-</ul>
-</li>
-<li><p><strong>微小改變的複利效應</strong></p>
-<ul>
-<li><code>1% 的日常進步</code>，<code>長期累積</code>後帶來<code>巨大變化</code>。  </li>
-<li>即使短期內看不到成果，習慣的影響會隨時間擴大。</li>
-</ul>
-</li>
-<li><p><strong>環境對習慣的影響</strong></p>
-<ul>
-<li><code>環境</code>塑造習慣，比意志力更重要。  </li>
-<li>透過<code>改變環境來強化好習慣</code>，例如：將健康零食擺在顯眼處，減少垃圾食物的誘惑。</li>
-</ul>
-</li>
-<li><p><strong>如何擺脫壞習慣</strong></p>
-<ul>
-<li>讓壞習慣變得<code>不明顯</code>、<code>不吸引人</code>、<code>難以執行</code>、<code>不具獎勵效果</code>，例如：移除讓人分心的手機應用程式。</li>
-</ul>
-</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《原子習慣》提供了一個簡單但有效的<code>習慣養成方法</code>，不依賴意志力，而是透過<code>環境設計</code>與<code>行為調整</code>，讓改變變得自然而然。如果我們能夠掌握這些原則，每天進步 1%，長期下來，人生將會迎來翻天覆地的變化。改變，不是來自一時的決心，而是來自每天不經意的小行動。</p>
-]]></content>
-      <tags>
-        <tag>原子習慣</tag>
-        <tag>細微改變帶來巨大成就的實證法則</tag>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《大人學破局思考:從關鍵小事看出職場大局【大人的Small Talk 1】》| 閱讀心得學習筆記</title>
     <url>/2023/06/30/reading-notes-adultology-breakthrough-thinking/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-adultology-breakthrough-thinking-1.jpg"></p>
@@ -1090,6 +1035,61 @@
         <tag>自卑感</tag>
         <tag>自卑與超越</tag>
         <tag>阿德勒心理學</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《原子習慣：細微改變帶來巨大成就的實證法則》| 閱讀心得學習筆記</title>
+    <url>/2019/06/01/reading-notes-atomic-habits/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-atomic-habits-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《原子習慣：細微改變帶來巨大成就的實證法則》</span><br><span class="line">作者： 詹姆斯‧克利爾  </span><br><span class="line">原文作者： James Clear</span><br><span class="line">譯者： 蔡世偉</span><br><span class="line">出版社：方智</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「真正的改變來自於微小但持續的習慣累積，就像複利效應一般，日積月累後帶來巨大成果。」  </p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>我們總以為改變人生需要驚天動地的決定，實則不然。本書《原子習慣》告訴我們，真正的改變來自於<code>微小但持續的習慣累積</code>，就像<code>複利效應</code>一般，<code>日積月累後帶來巨大成果</code>。作者詹姆斯·克利爾透過科學研究與實證案例，提供了一套實用的方法論，讓我們能夠掌握習慣的力量，擺脫壞習慣，培養能帶來成功的好習慣。  </p>
+<p><img src="/img/posts/reading-notes-atomic-habits-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>習慣的影響力</strong></p>
+<ul>
+<li><code>習慣不是一次性的選擇</code>，<code>而是日常行為的累積</code>，影響最終結果。  </li>
+<li><code>人生的成果是無數習慣的總和</code>，而非單一決策的結果。</li>
+</ul>
+</li>
+<li><p><strong>四大習慣法則</strong>  </p>
+<ul>
+<li><strong>提示</strong>：讓好習慣變得<code>顯而易見</code>，例如：將運動服擺在床邊提醒自己運動。  </li>
+<li><strong>渴望</strong>：讓好習慣變得<code>有吸引力</code>，例如：將習慣與喜愛的活動結合。  </li>
+<li><strong>回應</strong>：讓好習慣變得<code>簡單易行</code>，例如：減少執行步驟，讓運動變得更輕鬆開始。  </li>
+<li><strong>獎賞</strong>：讓好習慣變得<code>令人滿足</code>，例如：記錄進步並給予小獎勵。</li>
+</ul>
+</li>
+<li><p><strong>微小改變的複利效應</strong></p>
+<ul>
+<li><code>1% 的日常進步</code>，<code>長期累積</code>後帶來<code>巨大變化</code>。  </li>
+<li>即使短期內看不到成果，習慣的影響會隨時間擴大。</li>
+</ul>
+</li>
+<li><p><strong>環境對習慣的影響</strong></p>
+<ul>
+<li><code>環境</code>塑造習慣，比意志力更重要。  </li>
+<li>透過<code>改變環境來強化好習慣</code>，例如：將健康零食擺在顯眼處，減少垃圾食物的誘惑。</li>
+</ul>
+</li>
+<li><p><strong>如何擺脫壞習慣</strong></p>
+<ul>
+<li>讓壞習慣變得<code>不明顯</code>、<code>不吸引人</code>、<code>難以執行</code>、<code>不具獎勵效果</code>，例如：移除讓人分心的手機應用程式。</li>
+</ul>
+</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《原子習慣》提供了一個簡單但有效的<code>習慣養成方法</code>，不依賴意志力，而是透過<code>環境設計</code>與<code>行為調整</code>，讓改變變得自然而然。如果我們能夠掌握這些原則，每天進步 1%，長期下來，人生將會迎來翻天覆地的變化。改變，不是來自一時的決心，而是來自每天不經意的小行動。</p>
+]]></content>
+      <tags>
+        <tag>原子習慣</tag>
+        <tag>細微改變帶來巨大成就的實證法則</tag>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
       </tags>
   </entry>
   <entry>
@@ -1280,6 +1280,51 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>打造將才基因</tag>
         <tag>善用入職場黃金 5 年，掌握 4 大認知，躋身前 30% 的優勢養成法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《每天把心掃乾淨：35 個讓人生好轉的禪式整理術》| 閱讀心得學習筆記</title>
+    <url>/2025/07/28/reading-notes-clean-your-heart-every-day/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-clean-your-heart-every-day-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《每天把心掃乾淨：35 個讓人生好轉的禪式整理術》</span><br><span class="line">作者： 枡野俊明</span><br><span class="line">譯者： 許紋寧</span><br><span class="line">出版社：平安文化</span><br><span class="line">出版日期：2025/07/28</span><br></pre></td></tr></table></figure>
+
+<p>「你整理房間時，其實是在整理誰呢？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「污穢的空間容易產生負面的能量，想要讓自己煥然一新，並在人生舞台上發光發熱，整理就是最有效的方法。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書由禪僧枡野俊明撰寫，透過「掃除」這一行動，帶領讀者理解整理不只是清潔，更是修心。環境映照心境，當我們用心整理外在，也在調整內在的情緒與能量。本書以禪的角度提出 35 個整理方法，讓我們從空間到心靈都能煥然一新。</p>
+<p><img src="/img/posts/reading-notes-clean-your-heart-every-day-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>整理是「諸行無常」，沒有永恆的完美狀態。</li>
+<li>打掃應是日常習慣，而非等髒了才動手。</li>
+<li>環境雜亂等同心境紛亂，整理能清理內心。</li>
+<li>擁有掃除力的人能明辨取捨，減少內心雜念。</li>
+<li>物品有其生命，延長使用即是尊重。</li>
+<li>簡單乾淨的環境能提升效率與專注力。</li>
+<li>「欲望」是內心的污垢，整理能助人放下。</li>
+<li>打掃能成為心靈依靠，培養不動心的力量。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每天早晨花十分鐘整理桌面，開啟清晰的一天。</li>
+<li>設定丟棄標準，定期檢視衣物與物品。</li>
+<li>維持玄關與客廳整潔，營造積極的迎接氛圍。</li>
+<li>廚房、廁所、浴室保持乾淨，維護生活能量。</li>
+<li>練習「少即是多」，購買前先問自己是否必要。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>為何環境會深刻影響心境？</li>
+<li>整理是否可能成為一種修行？</li>
+<li>在現代資訊過載的情境下，如何進行「心的斷捨離」？</li>
+<li>我們是否能從物品的使用習慣，看出自我的內心狀態？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>整理不僅僅是清潔，更是自我調整與修行。當我們放下不必要的物品，也在學習放下內心的執念。掃除力帶來的不只是整潔的環境，更是澄澈的心境與安定的人生。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>每天把心掃乾淨：35個讓人生好轉的禪式整理術</tag>
       </tags>
   </entry>
   <entry>
@@ -1679,47 +1724,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《人生 4 千個禮拜：時間不是用來掌控的，直面「生命的有限」，打造游刃有餘的時間運用觀》| 閱讀心得學習筆記</title>
-    <url>/2022/01/22/reading-notes-four-thousand-weeks-time-management-for-mortals/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-four-thousand-weeks-time-management-for-mortals-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《人生 4 千個禮拜：時間不是用來掌控的，直面「生命的有限」，打造游刃有餘的時間運用觀》</span><br><span class="line">作者： 奧利佛‧柏克曼</span><br><span class="line">原文作者： Oliver Burkeman</span><br><span class="line">譯者： 許恬寧</span><br><span class="line">出版社：大塊文化</span><br><span class="line">出版日期：2022/01/22</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「我們假設生命最有意義的部分就在未來的某一刻，卻永遠不是現在這個當下。然而，最終的時間管理，就是承認並擁抱自己的有限。所謂終級的時間管理就是生命的管理。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《人生 4 千個禮拜》是一部對現代時間焦慮深度反思的哲學性著作。作者奧利佛・柏克曼不試圖再教你如何變得更有效率，而是帶領讀者重新理解時間的本質，並學會在有限中找回選擇的自由。這不是一本教你如何完成更多事情的時間管理書，而是一本教你如何活得更有意義的生命指南。</p>
-<p><img src="/img/posts/reading-notes-four-thousand-weeks-time-management-for-mortals-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>一生僅有約四千個禮拜，時間的稀缺才是真正的問題核心。</li>
-<li>傳統時間管理技巧常製造更多焦慮與分心，無法真正解決問題。</li>
-<li>人類的自由來自於擁抱限制，而非追求無限可能。</li>
-<li>建立屬於自己的「深層時間」，遠離生產力的崇拜。</li>
-<li>擁抱當下，而非一直等待「未來的某一刻」才開始真正生活。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>使用「定額生產力」策略，設定每日可完成的上限，避免過勞。</li>
-<li>使用「單功能科技」取代分心多功裝置，提升注意力品質。</li>
-<li>使用「關注已完成事項」取代無止盡的待辦清單，建立正向循環。</li>
-<li>使用「策略性不及格」取代完美主義，集中能量於真正重要的事。</li>
-<li>使用「儀式建立深層時間」取代隨機時間切割，創造專注與沉浸感。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>使用「面對現實的限制」取代「逃避有限生命的焦慮」，是否能帶來更深的自由？</li>
-<li>使用「當下即目的」取代「未來才是目標」的邏輯，生活是否會變得更有意義？</li>
-<li>使用「生活節奏」取代「效率壓力」，是否會被視為懶惰或低成就？</li>
-<li>使用「深層時間儀式」取代「碎片式進度追蹤」，如何評估其產出與價值？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《人生 4 千個禮拜》是一部結合哲學、心理學與生活實踐的反直覺時間指南，挑戰我們對「效率」與「生產力」的迷思。它不教你如何做更多，而是幫助你思考什麼才值得去做。在短暫的人生中，我們不可能掌握所有時間，但可以重新定義何為「值得」花時間的事。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>人生 4 千個禮拜</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《我可能錯了：森林智者的最後一堂人生課》 | 閱讀心得學習筆記</title>
     <url>/2024/08/06/reading-notes-forest-wisdom/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-forest-wisdom-1.jpg"></p>
@@ -1765,6 +1769,47 @@
         <tag>我可能錯了</tag>
         <tag>森林智者</tag>
         <tag>森林智者的最後一堂人生課</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《人生 4 千個禮拜：時間不是用來掌控的，直面「生命的有限」，打造游刃有餘的時間運用觀》| 閱讀心得學習筆記</title>
+    <url>/2022/01/22/reading-notes-four-thousand-weeks-time-management-for-mortals/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-four-thousand-weeks-time-management-for-mortals-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《人生 4 千個禮拜：時間不是用來掌控的，直面「生命的有限」，打造游刃有餘的時間運用觀》</span><br><span class="line">作者： 奧利佛‧柏克曼</span><br><span class="line">原文作者： Oliver Burkeman</span><br><span class="line">譯者： 許恬寧</span><br><span class="line">出版社：大塊文化</span><br><span class="line">出版日期：2022/01/22</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「我們假設生命最有意義的部分就在未來的某一刻，卻永遠不是現在這個當下。然而，最終的時間管理，就是承認並擁抱自己的有限。所謂終級的時間管理就是生命的管理。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《人生 4 千個禮拜》是一部對現代時間焦慮深度反思的哲學性著作。作者奧利佛・柏克曼不試圖再教你如何變得更有效率，而是帶領讀者重新理解時間的本質，並學會在有限中找回選擇的自由。這不是一本教你如何完成更多事情的時間管理書，而是一本教你如何活得更有意義的生命指南。</p>
+<p><img src="/img/posts/reading-notes-four-thousand-weeks-time-management-for-mortals-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>一生僅有約四千個禮拜，時間的稀缺才是真正的問題核心。</li>
+<li>傳統時間管理技巧常製造更多焦慮與分心，無法真正解決問題。</li>
+<li>人類的自由來自於擁抱限制，而非追求無限可能。</li>
+<li>建立屬於自己的「深層時間」，遠離生產力的崇拜。</li>
+<li>擁抱當下，而非一直等待「未來的某一刻」才開始真正生活。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>使用「定額生產力」策略，設定每日可完成的上限，避免過勞。</li>
+<li>使用「單功能科技」取代分心多功裝置，提升注意力品質。</li>
+<li>使用「關注已完成事項」取代無止盡的待辦清單，建立正向循環。</li>
+<li>使用「策略性不及格」取代完美主義，集中能量於真正重要的事。</li>
+<li>使用「儀式建立深層時間」取代隨機時間切割，創造專注與沉浸感。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>使用「面對現實的限制」取代「逃避有限生命的焦慮」，是否能帶來更深的自由？</li>
+<li>使用「當下即目的」取代「未來才是目標」的邏輯，生活是否會變得更有意義？</li>
+<li>使用「生活節奏」取代「效率壓力」，是否會被視為懶惰或低成就？</li>
+<li>使用「深層時間儀式」取代「碎片式進度追蹤」，如何評估其產出與價值？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《人生 4 千個禮拜》是一部結合哲學、心理學與生活實踐的反直覺時間指南，挑戰我們對「效率」與「生產力」的迷思。它不教你如何做更多，而是幫助你思考什麼才值得去做。在短暫的人生中，我們不可能掌握所有時間，但可以重新定義何為「值得」花時間的事。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>人生 4 千個禮拜</tag>
       </tags>
   </entry>
   <entry>
@@ -1835,6 +1880,47 @@
       </tags>
   </entry>
   <entry>
+    <title>《掌握主動權的 Highlight 面試法：沒有矚目的背景，也能脫穎而出》| 閱讀心得學習筆記</title>
+    <url>/2024/05/03/reading-notes-grasp-the-initiative-highlight-interview-method/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-grasp-the-initiative-highlight-interview-method-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《掌握主動權的 Highlight 面試法：沒有矚目的背景，也能脫穎而出》</span><br><span class="line">作者： 丁晨琦</span><br><span class="line">出版社：寶鼎</span><br><span class="line">出版日期：2024/05/03</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「履歷是帶我們進入面試的敲門磚，而面試是帶我們拿到 Offer 的敲門磚。與其等待被發現，不如主動發光。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《掌握主動權的 Highlight 面試法：沒有矚目的背景，也能脫穎而出》是一部結合實戰經驗與系統思維的面試實用指南。作者丁晨琦以求職者與面試官雙重視角，解構當代面試邏輯，為轉職者、職場新鮮人及無相關背景的求職者提供突破僵局的策略與技巧。透過故事結構、行銷思維與個人品牌經營，幫助讀者在短時間內主動抓住面試官的注意力，翻轉面試結果。</p>
+<p><img src="/img/posts/reading-notes-grasp-the-initiative-highlight-interview-method-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>故事面試法：運用 7 步驟行銷式說故事法，呈現個人亮點與能力</li>
+<li>VIP 法則：從雇主視角出發，提升履歷、自介與求職信的相關性與誠意</li>
+<li>案例面試法：透過模擬案例證明自己能勝任新領域工作</li>
+<li>資源面試法：經營名片、社群與個人 IP，建立「被看見」的機會與影響力</li>
+<li>超過 300 則真實案例與思考題，協助讀者避開誤區、強化面試表現</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>整理 8 類代表性故事，準備常見問題回答稿</li>
+<li>使用 VIP 框架重新撰寫履歷與求職信，針對職缺調整內容</li>
+<li>為目標職位設計模擬專案或假設案例，練習自我介紹時闡述</li>
+<li>建立 LinkedIn 專業頁面，定期發表個人觀點與專案分享</li>
+<li>建立個性名片與作品集網站，塑造專屬的職場個人品牌</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>是否過於強調「主動行銷」會讓面試變成表演？</li>
+<li>沒有資源與背景的求職者，如何建立有效的社群影響力？</li>
+<li>故事法雖有結構，但是否適用於每一種文化與產業？</li>
+<li>面試官是否真有耐心聽完一段完整故事？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這是一本針對職場變化與面試策略重新定義的求職實戰書。透過 Highlight 面試法，讀者可以從被動答題者轉變為主動展示者，提升面試轉換率，打開通往理想工作的敲門磚。適合正面臨職涯轉換、初入職場，或希望提升面試能力的讀者反覆研讀與實踐。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>掌握主動權的 Highlight 面試法</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《慣習 Habitus：輕鬆做好準備，躍向人生顛峰》| 閱讀心得學習筆記</title>
     <url>/2023/11/01/reading-notes-habitus/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-habitus-1.jpg"></p>
@@ -1879,47 +1965,6 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>慣習 Habitus</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《掌握主動權的 Highlight 面試法：沒有矚目的背景，也能脫穎而出》| 閱讀心得學習筆記</title>
-    <url>/2024/05/03/reading-notes-grasp-the-initiative-highlight-interview-method/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-grasp-the-initiative-highlight-interview-method-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《掌握主動權的 Highlight 面試法：沒有矚目的背景，也能脫穎而出》</span><br><span class="line">作者： 丁晨琦</span><br><span class="line">出版社：寶鼎</span><br><span class="line">出版日期：2024/05/03</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「履歷是帶我們進入面試的敲門磚，而面試是帶我們拿到 Offer 的敲門磚。與其等待被發現，不如主動發光。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《掌握主動權的 Highlight 面試法：沒有矚目的背景，也能脫穎而出》是一部結合實戰經驗與系統思維的面試實用指南。作者丁晨琦以求職者與面試官雙重視角，解構當代面試邏輯，為轉職者、職場新鮮人及無相關背景的求職者提供突破僵局的策略與技巧。透過故事結構、行銷思維與個人品牌經營，幫助讀者在短時間內主動抓住面試官的注意力，翻轉面試結果。</p>
-<p><img src="/img/posts/reading-notes-grasp-the-initiative-highlight-interview-method-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>故事面試法：運用 7 步驟行銷式說故事法，呈現個人亮點與能力</li>
-<li>VIP 法則：從雇主視角出發，提升履歷、自介與求職信的相關性與誠意</li>
-<li>案例面試法：透過模擬案例證明自己能勝任新領域工作</li>
-<li>資源面試法：經營名片、社群與個人 IP，建立「被看見」的機會與影響力</li>
-<li>超過 300 則真實案例與思考題，協助讀者避開誤區、強化面試表現</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>整理 8 類代表性故事，準備常見問題回答稿</li>
-<li>使用 VIP 框架重新撰寫履歷與求職信，針對職缺調整內容</li>
-<li>為目標職位設計模擬專案或假設案例，練習自我介紹時闡述</li>
-<li>建立 LinkedIn 專業頁面，定期發表個人觀點與專案分享</li>
-<li>建立個性名片與作品集網站，塑造專屬的職場個人品牌</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>是否過於強調「主動行銷」會讓面試變成表演？</li>
-<li>沒有資源與背景的求職者，如何建立有效的社群影響力？</li>
-<li>故事法雖有結構，但是否適用於每一種文化與產業？</li>
-<li>面試官是否真有耐心聽完一段完整故事？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這是一本針對職場變化與面試策略重新定義的求職實戰書。透過 Highlight 面試法，讀者可以從被動答題者轉變為主動展示者，提升面試轉換率，打開通往理想工作的敲門磚。適合正面臨職涯轉換、初入職場，或希望提升面試能力的讀者反覆研讀與實踐。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>掌握主動權的 Highlight 面試法</tag>
       </tags>
   </entry>
   <entry>
@@ -2289,6 +2334,54 @@
       </tags>
   </entry>
   <entry>
+    <title>《我只想好好上班！：新鮮人求職、就職、升職、離職的應對解答之書》| 閱讀心得學習筆記</title>
+    <url>/2020/04/01/reading-notes-i-just-want-to-work-well-a-guidebook/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-i-just-want-to-work-well-a-guidebook-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我只想好好上班！：新鮮人求職、就職、升職、離職的應對解答之書》</span><br><span class="line">作者： 雅莉珊卓 ・賴維特</span><br><span class="line">原文作者： Alexandra Levit</span><br><span class="line">譯者： 陳琇玲</span><br><span class="line">出版社：天下雜誌</span><br><span class="line">出版日期：2020/04/01</span><br></pre></td></tr></table></figure>
+
+<p>「為什麼別人畢業就進大公司，我卻還在投履歷？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「在職場，沒有人有義務要了解你。想好好上班不該靠運氣。在第一次工作就犯規之前，先學好處理問題的本事，讓恐懼成為在職場存活的動力！」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《我只想好好上班！》是一本為即將進入或剛踏入職場的新鮮人量身打造的職場生存指南。作者雅莉珊卓・賴維特以 20 年的顧問經驗與真實案例，揭示職場潛規則與溝通眉角，讓讀者能夠在第一份工作中建立職涯自信，避免無謂碰撞與迷惘。</p>
+<p><img src="/img/posts/reading-notes-manifei-just-want-to-work-well-a-guidebooksting-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>職場生存仰賴的是策略與細節，而非僅靠努力。</li>
+<li>書寫與表達是最被低估卻關鍵的能力。</li>
+<li>新鮮人最易犯錯在於忽略企業文化與溝通方式。</li>
+<li>零經驗不等於無價值，需善用故事打造個人履歷。</li>
+<li>學會安排優先順序、拒絕不合理請求，建立工作界線。</li>
+<li>情緒管理與同理心，是升遷與團隊合作的核心。</li>
+<li>換工作前要評估風險與策略，避免留下不佳職場紀錄。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每週練習精簡書寫與主動式語句表達</li>
+<li>為每份文件進行二次以上校對，確保專業形象</li>
+<li>利用零散經驗建立履歷故事線，彰顯成長軌跡</li>
+<li>主動請益主管與導師，建立職場支持系統</li>
+<li>定期自我檢視目標與職涯方向，提早規劃轉職節點</li>
+<li>練習情緒覺察與壓力轉化技巧，維持穩定表現</li>
+<li>參與辦公室活動、貢獻想法，累積可見績效</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你有沒有在報到第一天就失分的經驗？</li>
+<li>為什麼好工作總是輪不到自己？是能力還是表達？</li>
+<li>難搞同事與主管的評論，該如何轉化為成長助力？</li>
+<li>如何讓自己即使沒有職權，也能帶動團隊協作？</li>
+<li>情緒低落時，你的「職場生存儀表板」是什麼？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《我只想好好上班！》不是教你如何當職場好人，而是教你如何在複雜的工作環境中，用正確方式活出專業價值。書中融合真實職場案例、具體行動指南與情緒管理技巧，適合所有職涯起點的工作者。它提醒我們：工作的價值不在職稱或薪資，而是你能否穩定成長並留下影響力。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>顯化效應</tag>
+        <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《冰山對話：從開門到關門、從理解到支持的深度溝通》| 閱讀心得學習筆記</title>
     <url>/2022/09/30/reading-notes-iceberg-dialogue/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-iceberg-dialogue-1.jpg"></p>
@@ -2352,54 +2445,6 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>冰山對話：從開門到關門、從理解到支持的深度溝通</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《我只想好好上班！：新鮮人求職、就職、升職、離職的應對解答之書》| 閱讀心得學習筆記</title>
-    <url>/2020/04/01/reading-notes-i-just-want-to-work-well-a-guidebook/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-i-just-want-to-work-well-a-guidebook-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《我只想好好上班！：新鮮人求職、就職、升職、離職的應對解答之書》</span><br><span class="line">作者： 雅莉珊卓 ・賴維特</span><br><span class="line">原文作者： Alexandra Levit</span><br><span class="line">譯者： 陳琇玲</span><br><span class="line">出版社：天下雜誌</span><br><span class="line">出版日期：2020/04/01</span><br></pre></td></tr></table></figure>
-
-<p>「為什麼別人畢業就進大公司，我卻還在投履歷？」</p>
-<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
-<p>「在職場，沒有人有義務要了解你。想好好上班不該靠運氣。在第一次工作就犯規之前，先學好處理問題的本事，讓恐懼成為在職場存活的動力！」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《我只想好好上班！》是一本為即將進入或剛踏入職場的新鮮人量身打造的職場生存指南。作者雅莉珊卓・賴維特以 20 年的顧問經驗與真實案例，揭示職場潛規則與溝通眉角，讓讀者能夠在第一份工作中建立職涯自信，避免無謂碰撞與迷惘。</p>
-<p><img src="/img/posts/reading-notes-manifei-just-want-to-work-well-a-guidebooksting-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>職場生存仰賴的是策略與細節，而非僅靠努力。</li>
-<li>書寫與表達是最被低估卻關鍵的能力。</li>
-<li>新鮮人最易犯錯在於忽略企業文化與溝通方式。</li>
-<li>零經驗不等於無價值，需善用故事打造個人履歷。</li>
-<li>學會安排優先順序、拒絕不合理請求，建立工作界線。</li>
-<li>情緒管理與同理心，是升遷與團隊合作的核心。</li>
-<li>換工作前要評估風險與策略，避免留下不佳職場紀錄。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>每週練習精簡書寫與主動式語句表達</li>
-<li>為每份文件進行二次以上校對，確保專業形象</li>
-<li>利用零散經驗建立履歷故事線，彰顯成長軌跡</li>
-<li>主動請益主管與導師，建立職場支持系統</li>
-<li>定期自我檢視目標與職涯方向，提早規劃轉職節點</li>
-<li>練習情緒覺察與壓力轉化技巧，維持穩定表現</li>
-<li>參與辦公室活動、貢獻想法，累積可見績效</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你有沒有在報到第一天就失分的經驗？</li>
-<li>為什麼好工作總是輪不到自己？是能力還是表達？</li>
-<li>難搞同事與主管的評論，該如何轉化為成長助力？</li>
-<li>如何讓自己即使沒有職權，也能帶動團隊協作？</li>
-<li>情緒低落時，你的「職場生存儀表板」是什麼？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《我只想好好上班！》不是教你如何當職場好人，而是教你如何在複雜的工作環境中，用正確方式活出專業價值。書中融合真實職場案例、具體行動指南與情緒管理技巧，適合所有職涯起點的工作者。它提醒我們：工作的價值不在職稱或薪資，而是你能否穩定成長並留下影響力。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>顯化效應</tag>
-        <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
       </tags>
   </entry>
   <entry>
@@ -2522,53 +2567,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《親密恐懼：為什麼我們無法好好愛人，好好被愛？》| 閱讀心得學習筆記</title>
-    <url>/2023/11/27/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《親密恐懼：為什麼我們無法好好愛人，好好被愛？》</span><br><span class="line">作者： 周慕姿  </span><br><span class="line">出版社：寶瓶文化  </span><br><span class="line">出版日期：2023/11/27</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「我們一起，試著理解，溫柔地討好自己。我們值得在關係裡幸福。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《情緒勒索》作者周慕姿在此書中深入探討了「親密恐懼」這一情感議題，揭示了許多人在親密關係中遭遇的深層恐懼與困惑。親密恐懼源自於童年時期未被足夠關愛或情感創傷，並在成人後的愛情與人際關係中形成不同的應對策略。本書試圖幫助讀者理解自身行為背後的心理根源，並提供實用的建議，讓人們能夠走出親密恐懼的陰影，重獲愛與歸屬。</p>
-<p><img src="/img/posts/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>親密恐懼的六種面貌：</strong></p>
-<ul>
-<li>被遺棄的恐懼：對親密關係中被拋棄的深切擔憂。</li>
-<li>不夠好的恐懼：對自我價值的懷疑，擔心無法配得上愛情。</li>
-<li>被背叛的恐懼：對他人信任的難度，擔心遭遇欺騙或背叛。</li>
-<li>不能拒絕的恐懼：總是順從他人的需求，害怕衝突與拒絕。</li>
-<li>失去自我恐懼：為了維繫關係而丟失自我。</li>
-<li>得不到愛的恐懼：無論如何努力，都感覺無法獲得他人的愛。</li>
-</ul>
-</li>
-<li><p><strong>生存策略的影響：</strong></p>
-<ul>
-<li>人們在親密關係中常採取「戰、逃、僵、討好」的生存策略來應對情感上的焦慮與不安全感，這些策略往往會讓情況惡化，進一步強化親密恐懼的循環。</li>
-</ul>
-</li>
-<li><p><strong>童年創傷與親密恐懼的關聯：</strong></p>
-<ul>
-<li>童年時期的情感忽視或虐待經歷，往往成為成人後親密恐懼的根源。這些創傷會讓個體在情感關係中過度防衛，並難以建立真正的親密感。</li>
-</ul>
-</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>周慕姿在《親密恐懼》中揭示了許多人在愛情中掙扎的內心世界，並呼籲讀者從根本上認識和解決自己的情感問題。書中不僅深入分析了情感恐懼的來源，還提供了重建健康關係的具體步驟。最終，真正的幸福來自於接納自己、理解自己的恐懼並勇敢地面對它。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>讓自己不再焦慮</tag>
-        <tag>幸運的人做情緒的主人</tag>
-        <tag>不幸的人做情緒的奴隸</tag>
-        <tag>理情行為治療</tag>
-        <tag>亞伯‧艾里斯</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《將將：架構組織，建立流程，影響行為，高績效主管的全方位養成法》| 閱讀心得學習筆記</title>
     <url>/2022/03/30/reading-notes-jiangjiang-management-manager-talent-section/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-jiangjiang-management-manager-talent-section-1.jpg"></p>
@@ -2615,6 +2613,53 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>將將：架構組織，建立流程，影響行為，高績效主管的全方位養成法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《親密恐懼：為什麼我們無法好好愛人，好好被愛？》| 閱讀心得學習筆記</title>
+    <url>/2023/11/27/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《親密恐懼：為什麼我們無法好好愛人，好好被愛？》</span><br><span class="line">作者： 周慕姿  </span><br><span class="line">出版社：寶瓶文化  </span><br><span class="line">出版日期：2023/11/27</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「我們一起，試著理解，溫柔地討好自己。我們值得在關係裡幸福。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《情緒勒索》作者周慕姿在此書中深入探討了「親密恐懼」這一情感議題，揭示了許多人在親密關係中遭遇的深層恐懼與困惑。親密恐懼源自於童年時期未被足夠關愛或情感創傷，並在成人後的愛情與人際關係中形成不同的應對策略。本書試圖幫助讀者理解自身行為背後的心理根源，並提供實用的建議，讓人們能夠走出親密恐懼的陰影，重獲愛與歸屬。</p>
+<p><img src="/img/posts/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>親密恐懼的六種面貌：</strong></p>
+<ul>
+<li>被遺棄的恐懼：對親密關係中被拋棄的深切擔憂。</li>
+<li>不夠好的恐懼：對自我價值的懷疑，擔心無法配得上愛情。</li>
+<li>被背叛的恐懼：對他人信任的難度，擔心遭遇欺騙或背叛。</li>
+<li>不能拒絕的恐懼：總是順從他人的需求，害怕衝突與拒絕。</li>
+<li>失去自我恐懼：為了維繫關係而丟失自我。</li>
+<li>得不到愛的恐懼：無論如何努力，都感覺無法獲得他人的愛。</li>
+</ul>
+</li>
+<li><p><strong>生存策略的影響：</strong></p>
+<ul>
+<li>人們在親密關係中常採取「戰、逃、僵、討好」的生存策略來應對情感上的焦慮與不安全感，這些策略往往會讓情況惡化，進一步強化親密恐懼的循環。</li>
+</ul>
+</li>
+<li><p><strong>童年創傷與親密恐懼的關聯：</strong></p>
+<ul>
+<li>童年時期的情感忽視或虐待經歷，往往成為成人後親密恐懼的根源。這些創傷會讓個體在情感關係中過度防衛，並難以建立真正的親密感。</li>
+</ul>
+</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>周慕姿在《親密恐懼》中揭示了許多人在愛情中掙扎的內心世界，並呼籲讀者從根本上認識和解決自己的情感問題。書中不僅深入分析了情感恐懼的來源，還提供了重建健康關係的具體步驟。最終，真正的幸福來自於接納自己、理解自己的恐懼並勇敢地面對它。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>讓自己不再焦慮</tag>
+        <tag>幸運的人做情緒的主人</tag>
+        <tag>不幸的人做情緒的奴隸</tag>
+        <tag>理情行為治療</tag>
+        <tag>亞伯‧艾里斯</tag>
       </tags>
   </entry>
   <entry>
@@ -2803,6 +2848,46 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>人生雖苦</tag>
         <tag>但還是值得活下去</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《人生一定要懂活法》| 閱讀心得學習筆記</title>
+    <url>/2019/12/27/reading-notes-life-must-understand-the-way-of-living/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-life-must-understand-the-way-of-living-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《人生一定要懂活法》</span><br><span class="line">作者： 堪布 松柏仁波切</span><br><span class="line">出版社：人類智庫</span><br><span class="line">出版日期：2019/12/27</span><br></pre></td></tr></table></figure>
+
+<p>「為什麼我們總是預支未來的煩惱？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「苦的背後，是真實的喜悅。內心生起的，才正是生命的智慧。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>這是一本充滿溫暖與啟發的書籍，作者堪布松柏仁波切以深入淺出的方式，將佛法智慧融入生活中的點滴。他用貼近人心的故事，闡述「無常」並非壞事，而是轉變與成長的契機。全書旨在引導讀者成為自己心靈的主人，學習在紛擾的世界中保持平靜，透過轉念將負面情緒化為正向力量，最終找到生命的真正價值與幸福。</p>
+<p><img src="/img/posts/reading-notes-life-must-understand-the-way-of-living-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>心的選擇決定一切：我們對事物的認定取決於心的選擇，同樣的事情，轉個念頭便能改變好壞。人生沒有好壞之分，只有心的選擇不同。</li>
+<li>無常心、平常心、感恩心：以「無常心」面對每一天的到來，用「平常心」對待每個當下，用「感恩心」看待周遭人事物，便能體驗生活的真正意義。</li>
+<li>改變是需要反覆練習：佛法智慧能幫助我們磨平內心的矛盾，改變需要耐心與持續的練習，而非期待速成，否則容易因挫折而退卻。</li>
+<li>苦是成長的養分：如同生長在嚴峻環境中的人，學會與「苦」相處，接受考驗。苦能茁壯心志，並在苦的背後發現真實的喜悅。</li>
+<li>好好活著與撐著不死的區別：人生就像茶葉，經歷沸水沖擊的茶葉才能釋放芬芳。經歷過逆境洗禮的人，才能理解生命的真正意義，從逆境中蛻變成長。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每天睡前花五分鐘回想當天發生的事，試著將第一個浮現的負面念頭，轉化成正向思考。</li>
+<li>遇到不如意的事情時，試著將其視為一種挑戰或學習的機會，而非單純的困難。</li>
+<li>練習正念與感恩，在生活中隨時提醒自己保持覺知，並感謝身邊的人事物。</li>
+<li>當感到情緒低落時，提醒自己這份痛苦是暫時的，並試著從中尋找成長的契機。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你是否曾經因為害怕改變，而選擇停滯不前？</li>
+<li>你認為生活中最常預支的煩惱是什麼？這份煩惱對你的人生造成了什麼影響？</li>
+<li>你如何看待「逆境」？它曾為你帶來哪些成長或改變？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書告訴我們，幸福與否，關鍵不在於外在環境，而在於我們內心的選擇與態度。透過佛法的智慧，我們可以學習與生命中的無常、痛苦和平共處，並將它們視為豐富人生的寶貴資產。當我們學會用「平常心」看待一切，用「感恩心」珍惜所有，我們就能真正地「好好活著」，並在每個當下體驗到生命中最真實、最深刻的幸福。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>人生一定要懂活法</tag>
       </tags>
   </entry>
   <entry>
@@ -3322,6 +3407,43 @@
       </tags>
   </entry>
   <entry>
+    <title>《非暴力溝通：愛的語言》| 閱讀心得學習筆記</title>
+    <url>/2019/08/01/reading-notes-nonviolent-communication-a-language-of-life/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-nonviolent-communication-a-language-of-life-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《非暴力溝通：愛的語言》</span><br><span class="line">作者： 馬歇爾．盧森堡</span><br><span class="line">譯者： 蕭寶森</span><br><span class="line">出版社：光啟文化</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「關注自身與他人的情感需求，而不是執著於誰對誰錯。當我們對自己殘忍時，就很難真正對他人懷抱善意。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《非暴力溝通》由馬歇爾‧盧森堡博士所著，這本書提供了一套深具啟發性的溝通技巧，旨在幫助人們建立真誠與他人的聯繫，並能有效地化解衝突。盧森堡博士將溝通視為一種藝術，提出「<code>觀察</code>、<code>表達感受</code>、<code>了解需要</code>、<code>做出請求</code>」四個步驟，讓讀者在互動中能夠更具<code>同理心</code>，避免<code>言語暴力</code>與<code>無意識的傷害</code>，達到<code>心靈的和諧</code>。</p>
+<p><img src="/img/posts/reading-notes-nonviolent-communication-a-language-of-life-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>非暴力溝通的核心</strong>：本書強調的溝通方法<code>不以批判</code>、<code>指責</code>為基礎，而是透過「<code>觀察</code>、<code>表達感受</code>、<code>滿足需求</code>、<code>具體請求</code>」來促進有效的交流。</li>
+<li><strong>暴力的溝通方式</strong>：我們生活中的許多溝通方式可能無意中帶有暴力性，如<code>批評</code>、<code>侮辱</code>、<code>歧視</code>等，這會造成<code>情感創傷</code>，<code>疏遠彼此的關係</code>。</li>
+<li><strong>同理心與心靈連結</strong>：非暴力溝通強調以<code>同理心</code>來<code>理解對方的需求</code>，建立<code>真誠</code>的連結，避免將注意力集中在<code>「對錯」的爭論上</code>。</li>
+<li><strong>非暴力溝通四步驟溝通法</strong>：<ul>
+<li><strong>觀察</strong>：<code>不帶評價客觀地描述</code>行為或情況。</li>
+<li><strong>感受</strong>：<code>表達自己內心的真實感受</code>。</li>
+<li><strong>需求</strong>：<code>清晰地指出未被滿足的需求</code>。</li>
+<li><strong>請求</strong>：<code>提出具體的行動請求</code>。</li>
+</ul>
+</li>
+<li><strong>衝突的化解</strong>：這種方法可有效化解<code>家庭</code>、<code>工作場所</code>等各種環境中的衝突，<code>促進理解與和解</code>。</li>
+<li><strong>實踐與應用</strong>：書中多個案例和實際應用的技巧，幫助讀者將非暴力溝通的原則融入日常生活。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《非暴力溝通》不僅是一種溝通技巧，它實際上是一種哲學，強調<code>尊重</code>和<code>同理心</code>的力量。對我而言，這本書最重要的啟發是學會如何<code>關注自身與他人的情感需求</code>，而不是執著於「<code>誰對誰錯</code>」。這種溝通方式讓人感到舒適且富有力量，尤其在面對衝突時，能夠避免傷害他人並促進彼此的理解。在職場和家庭中，這些技巧不僅能促進更有效的合作，還能讓人際關係變得更加和諧。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>心理學</tag>
+        <tag>非暴力溝通</tag>
+        <tag>愛的語言</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《致富的心魔：金錢、成功與自我懷疑的致富人生》| 閱讀心得學習筆記</title>
     <url>/2025/04/30/reading-notes-never-enough-from-barista-to-billionaire/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-never-enough-from-barista-to-billionaire-1.jpg"></p>
@@ -3363,43 +3485,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>致富的心魔</tag>
         <tag>金錢、成功與自我懷疑的致富人生</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《非暴力溝通：愛的語言》| 閱讀心得學習筆記</title>
-    <url>/2019/08/01/reading-notes-nonviolent-communication-a-language-of-life/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-nonviolent-communication-a-language-of-life-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《非暴力溝通：愛的語言》</span><br><span class="line">作者： 馬歇爾．盧森堡</span><br><span class="line">譯者： 蕭寶森</span><br><span class="line">出版社：光啟文化</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「關注自身與他人的情感需求，而不是執著於誰對誰錯。當我們對自己殘忍時，就很難真正對他人懷抱善意。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《非暴力溝通》由馬歇爾‧盧森堡博士所著，這本書提供了一套深具啟發性的溝通技巧，旨在幫助人們建立真誠與他人的聯繫，並能有效地化解衝突。盧森堡博士將溝通視為一種藝術，提出「<code>觀察</code>、<code>表達感受</code>、<code>了解需要</code>、<code>做出請求</code>」四個步驟，讓讀者在互動中能夠更具<code>同理心</code>，避免<code>言語暴力</code>與<code>無意識的傷害</code>，達到<code>心靈的和諧</code>。</p>
-<p><img src="/img/posts/reading-notes-nonviolent-communication-a-language-of-life-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>非暴力溝通的核心</strong>：本書強調的溝通方法<code>不以批判</code>、<code>指責</code>為基礎，而是透過「<code>觀察</code>、<code>表達感受</code>、<code>滿足需求</code>、<code>具體請求</code>」來促進有效的交流。</li>
-<li><strong>暴力的溝通方式</strong>：我們生活中的許多溝通方式可能無意中帶有暴力性，如<code>批評</code>、<code>侮辱</code>、<code>歧視</code>等，這會造成<code>情感創傷</code>，<code>疏遠彼此的關係</code>。</li>
-<li><strong>同理心與心靈連結</strong>：非暴力溝通強調以<code>同理心</code>來<code>理解對方的需求</code>，建立<code>真誠</code>的連結，避免將注意力集中在<code>「對錯」的爭論上</code>。</li>
-<li><strong>非暴力溝通四步驟溝通法</strong>：<ul>
-<li><strong>觀察</strong>：<code>不帶評價客觀地描述</code>行為或情況。</li>
-<li><strong>感受</strong>：<code>表達自己內心的真實感受</code>。</li>
-<li><strong>需求</strong>：<code>清晰地指出未被滿足的需求</code>。</li>
-<li><strong>請求</strong>：<code>提出具體的行動請求</code>。</li>
-</ul>
-</li>
-<li><strong>衝突的化解</strong>：這種方法可有效化解<code>家庭</code>、<code>工作場所</code>等各種環境中的衝突，<code>促進理解與和解</code>。</li>
-<li><strong>實踐與應用</strong>：書中多個案例和實際應用的技巧，幫助讀者將非暴力溝通的原則融入日常生活。</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《非暴力溝通》不僅是一種溝通技巧，它實際上是一種哲學，強調<code>尊重</code>和<code>同理心</code>的力量。對我而言，這本書最重要的啟發是學會如何<code>關注自身與他人的情感需求</code>，而不是執著於「<code>誰對誰錯</code>」。這種溝通方式讓人感到舒適且富有力量，尤其在面對衝突時，能夠避免傷害他人並促進彼此的理解。在職場和家庭中，這些技巧不僅能促進更有效的合作，還能讓人際關係變得更加和諧。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>心理學</tag>
-        <tag>非暴力溝通</tag>
-        <tag>愛的語言</tag>
       </tags>
   </entry>
   <entry>
@@ -3799,6 +3884,51 @@
       </tags>
   </entry>
   <entry>
+    <title>《向下扎根！德國教育的公民思辨課1─「一個人值多少錢，誰是現代奴隸？」：捍衛權利的基本知識》| 閱讀心得學習筆記</title>
+    <url>/2017/04/29/reading-notes-rooting-down-germanys-civic-thinking-class-1/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-rooting-down-germanys-civic-thinking-class-1-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《向下扎根！德國教育的公民思辨課1─「一個人值多少錢，誰是現代奴隸？」：捍衛權利的基本知識》</span><br><span class="line">作者： 克莉絲汀．舒茲—萊斯</span><br><span class="line">原文作者： Christine Schulz-Reiss</span><br><span class="line">譯者： 陳中芷</span><br><span class="line">繪者： 薇瑞娜・巴浩斯</span><br><span class="line">出版社：麥田</span><br><span class="line">出版日期：2017/04/29</span><br></pre></td></tr></table></figure>
+
+<p>「我們真的了解人權與民主嗎？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「人權並非理所當然，而是歷史長期抗爭的結果。人性中的殘忍與貪婪，正在你我的身邊上演。學習有原則的使用你的權利，同時捍衛他人的權利。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《向下扎根！德國教育的公民思辨課 1》是一本專為青少年設計的思辨讀本，卻也極適合所有成年人重新認識人權與民主的根本價值。作者克莉絲汀．舒茲－萊斯以淺顯卻犀利的語言，帶領讀者探問：什麼是人的尊嚴？什麼是公民勇氣？我們又如何在現實中實踐人權？透過真實案例與歷史脈絡，喚醒對當代社會議題的覺察。</p>
+<p><img src="/img/posts/reading-notes-rooting-down-germanys-civic-thinking-class-1-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>人權並非理所當然，而是歷史長期抗爭的結果。</li>
+<li>民主制度若缺乏反省與監督，也會演變成壓迫的工具。</li>
+<li>仇外與歧視源自恐懼與無知，須從教育與對話根除。</li>
+<li>每項權利皆依附於他人權利，無法孤立存在。</li>
+<li>我們對貧窮、剝削、難民等全球議題無法置身事外。</li>
+<li>市民勇氣與日常選擇（如消費行為）即是實踐人權的起點。</li>
+<li>沒有人可倖免於結構性不正義，沉默即是共犯。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每週與孩子進行一場關於「尊嚴與人權」的對話</li>
+<li>選擇公平貿易商品，關注其生產與勞動背景</li>
+<li>當目睹歧視與不公時，學習溫和堅定地出聲反對</li>
+<li>自我檢視消費與網路言論是否間接助長剝削與偏見</li>
+<li>閱讀並推廣《世界人權宣言》，將其內化為行動準則</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>「尊嚴」是否真的平等地存在於每個社會階層？</li>
+<li>為何在民主制度下，仍有這麼多壓迫現象發生？</li>
+<li>我們是否對自身權利太過熟悉，卻忽略他人的處境？</li>
+<li>如果我們對制度的不公習以為常，是否就等同於默許？</li>
+<li>我們能否在維護自身權益時，也尊重他人的權利？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅是德國教育中向下扎根的成果，更是全球每位公民必讀的現代人權手冊。它強調：「民主的核心不在於多數決，而在於少數人權的保障。」閱讀本書，是對「我如何成為一個更好的人」的具體回應。當我們對世界有更多理解，也就多了一分責任去改變它。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>向下扎根！德國教育的公民思辨課1─「一個人值多少錢，誰是現代奴隸？」：捍衛權利的基本知識</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《蓋洛威教授的人生經濟學：掌握機會成本與市場法則，明智選擇職涯與發展關係，人生不焦慮、不匱乏》| 閱讀心得學習筆記</title>
     <url>/2025/06/04/reading-notes-reading-notes-the-algebra-of-happiness/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-algebra-of-happiness-1.jpg"></p>
@@ -3847,51 +3977,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>蓋洛威教授的人生經濟學</tag>
         <tag>掌握機會成本與市場法則，明智選擇職涯與發展關係，人生不焦慮、不匱乏</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《向下扎根！德國教育的公民思辨課1─「一個人值多少錢，誰是現代奴隸？」：捍衛權利的基本知識》| 閱讀心得學習筆記</title>
-    <url>/2017/04/29/reading-notes-rooting-down-germanys-civic-thinking-class-1/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-rooting-down-germanys-civic-thinking-class-1-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《向下扎根！德國教育的公民思辨課1─「一個人值多少錢，誰是現代奴隸？」：捍衛權利的基本知識》</span><br><span class="line">作者： 克莉絲汀．舒茲—萊斯</span><br><span class="line">原文作者： Christine Schulz-Reiss</span><br><span class="line">譯者： 陳中芷</span><br><span class="line">繪者： 薇瑞娜・巴浩斯</span><br><span class="line">出版社：麥田</span><br><span class="line">出版日期：2017/04/29</span><br></pre></td></tr></table></figure>
-
-<p>「我們真的了解人權與民主嗎？」</p>
-<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
-<p>「人權並非理所當然，而是歷史長期抗爭的結果。人性中的殘忍與貪婪，正在你我的身邊上演。學習有原則的使用你的權利，同時捍衛他人的權利。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《向下扎根！德國教育的公民思辨課 1》是一本專為青少年設計的思辨讀本，卻也極適合所有成年人重新認識人權與民主的根本價值。作者克莉絲汀．舒茲－萊斯以淺顯卻犀利的語言，帶領讀者探問：什麼是人的尊嚴？什麼是公民勇氣？我們又如何在現實中實踐人權？透過真實案例與歷史脈絡，喚醒對當代社會議題的覺察。</p>
-<p><img src="/img/posts/reading-notes-rooting-down-germanys-civic-thinking-class-1-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>人權並非理所當然，而是歷史長期抗爭的結果。</li>
-<li>民主制度若缺乏反省與監督，也會演變成壓迫的工具。</li>
-<li>仇外與歧視源自恐懼與無知，須從教育與對話根除。</li>
-<li>每項權利皆依附於他人權利，無法孤立存在。</li>
-<li>我們對貧窮、剝削、難民等全球議題無法置身事外。</li>
-<li>市民勇氣與日常選擇（如消費行為）即是實踐人權的起點。</li>
-<li>沒有人可倖免於結構性不正義，沉默即是共犯。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>每週與孩子進行一場關於「尊嚴與人權」的對話</li>
-<li>選擇公平貿易商品，關注其生產與勞動背景</li>
-<li>當目睹歧視與不公時，學習溫和堅定地出聲反對</li>
-<li>自我檢視消費與網路言論是否間接助長剝削與偏見</li>
-<li>閱讀並推廣《世界人權宣言》，將其內化為行動準則</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>「尊嚴」是否真的平等地存在於每個社會階層？</li>
-<li>為何在民主制度下，仍有這麼多壓迫現象發生？</li>
-<li>我們是否對自身權利太過熟悉，卻忽略他人的處境？</li>
-<li>如果我們對制度的不公習以為常，是否就等同於默許？</li>
-<li>我們能否在維護自身權益時，也尊重他人的權利？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅是德國教育中向下扎根的成果，更是全球每位公民必讀的現代人權手冊。它強調：「民主的核心不在於多數決，而在於少數人權的保障。」閱讀本書，是對「我如何成為一個更好的人」的具體回應。當我們對世界有更多理解，也就多了一分責任去改變它。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>向下扎根！德國教育的公民思辨課1─「一個人值多少錢，誰是現代奴隸？」：捍衛權利的基本知識</tag>
       </tags>
   </entry>
   <entry>
@@ -4040,6 +4125,39 @@
       </tags>
   </entry>
   <entry>
+    <title>《打造強韌內在的少林精神：歐洲掌門人給你的 13 個日常練習》| 閱讀心得學習筆記</title>
+    <url>/2025/05/01/reading-notes-shaolin-spirit-meistere-dein-leben/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-shaolin-spirit-meistere-dein-leben-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《打造強韌內在的少林精神：歐洲掌門人給你的13個日常練習》</span><br><span class="line">作者： 釋恆義</span><br><span class="line">原文作者： Shi Heng Yi</span><br><span class="line">譯者： 洪清怡（Ching-Yi Hung-Breunig）</span><br><span class="line">出版社：方智</span><br><span class="line">出版日期：2025/05/01</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「人生充滿健康與疾病、獲得與失去等高峰與低谷，能夠學會在其中保持和諧與平衡，你將穩若泰山、堅不可摧。而這個沉靜心靈、壯大自己的最佳捷徑，就是擁有「少林精神」！」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《你的人生需要少林精神》這本書，是少林寺第 35 代武僧、歐洲少林寺掌門人釋恆義的首度著作。他將千年少林智慧轉化為現代人可實踐的 13 個身心修練方法，引導讀者從身體訓練走向心靈修煉，重拾內在主宰權與生命的平衡。在這個步調紊亂、資訊氾濫的時代，釋恆義以自身傳奇人生為底蘊，融合武學、佛學與心理學，傳遞一種內外兼修的生活哲學：少林精神不是神秘的武功，而是一種活出真正自己的方法。</p>
+<p><img src="/img/posts/reading-notes-shaolin-spirit-meistere-dein-leben-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>少林精神核心是「自我掌控」，包括心念、呼吸、行為與情緒。</li>
+<li>書中提出 13 道身心練習，如正念呼吸、動中禪、靜坐觀心等，有助於穩定情緒、強化專注。</li>
+<li>武術練習並非為了格鬥，而是鍛鍊心智、調合身心的工具。</li>
+<li>作者以親身經歷說明：遠離本心、追求外在成功，終將導致迷失；唯有內觀，方能重拾方向。</li>
+<li>書中強調「正見」的重要，鼓勵讀者超越對人事物的成見與二元對立。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否也像作者年輕時一樣，誤以為「力量」來自外在的控制與防衛？</li>
+<li>當人生遭遇動盪時，我們能否靜下心來，觀察自己的內在反應？</li>
+<li>現代人失去平靜與專注，是因為從未學習如何駕馭自己的心嗎？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這不只是一本修行書，更是一部關於人如何從混亂、失控中，找回內在平靜與力量的生命指南。釋恆義以平實卻深刻的語言，引導讀者一步步探索內在、整合自我。無論是否練武，這本書都能讓人找回與自己連結的能力，並在混沌世界中找到不動的心。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>打造強韌內在的少林精神：歐洲掌門人給你的13個日常練習</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《軟技能：soft skills，讓你不過時、不貶值、不消失，工作與人生的升級說明書》| 閱讀心得學習筆記</title>
     <url>/2025/01/03/reading-notes-soft-skills-let-you-stay-relevant-retain-value/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-soft-skills-let-you-stay-relevant-retain-value-1.jpg"></p>
@@ -4082,36 +4200,92 @@
       </tags>
   </entry>
   <entry>
-    <title>《打造強韌內在的少林精神：歐洲掌門人給你的 13 個日常練習》| 閱讀心得學習筆記</title>
-    <url>/2025/05/01/reading-notes-shaolin-spirit-meistere-dein-leben/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-shaolin-spirit-meistere-dein-leben-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《打造強韌內在的少林精神：歐洲掌門人給你的13個日常練習》</span><br><span class="line">作者： 釋恆義</span><br><span class="line">原文作者： Shi Heng Yi</span><br><span class="line">譯者： 洪清怡（Ching-Yi Hung-Breunig）</span><br><span class="line">出版社：方智</span><br><span class="line">出版日期：2025/05/01</span><br></pre></td></tr></table></figure>
+    <title>《生如夏花：泰戈爾新月集&amp;漂鳥集》| 閱讀心得學習筆記</title>
+    <url>/2018/10/03/reading-notes-stray-birds-the-crescent-moon/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-stray-birds-the-crescent-moon-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《生如夏花：泰戈爾新月集&amp;漂鳥集》</span><br><span class="line">作者： 泰戈爾, Rabindranath Tagore</span><br><span class="line">譯者： 鄭振鐸</span><br><span class="line">出版社：野人</span><br><span class="line">出版日期：2018/10/03</span><br></pre></td></tr></table></figure>
 
-<blockquote>
-<p>「人生充滿健康與疾病、獲得與失去等高峰與低谷，能夠學會在其中保持和諧與平衡，你將穩若泰山、堅不可摧。而這個沉靜心靈、壯大自己的最佳捷徑，就是擁有「少林精神」！」</p>
+<p>「你是否曾想過，每一朵花、每一次呼吸都蘊含生命的啟示？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「每天讀一首詩，愛一個人，看一朵花，懂一個道理，解救一顆乾涸的心。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《你的人生需要少林精神》這本書，是少林寺第 35 代武僧、歐洲少林寺掌門人釋恆義的首度著作。他將千年少林智慧轉化為現代人可實踐的 13 個身心修練方法，引導讀者從身體訓練走向心靈修煉，重拾內在主宰權與生命的平衡。在這個步調紊亂、資訊氾濫的時代，釋恆義以自身傳奇人生為底蘊，融合武學、佛學與心理學，傳遞一種內外兼修的生活哲學：少林精神不是神秘的武功，而是一種活出真正自己的方法。</p>
-<p><img src="/img/posts/reading-notes-shaolin-spirit-meistere-dein-leben-2.jpg"></p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>泰戈爾的《漂鳥集》與《新月集》以細膩的筆觸描繪日常生活中的美好與哲思，結合對自然、愛情、生命與孤寂的感悟，成為 365 天的心靈綠洲。透過每天一首詩，讀者得以在平凡日常中找到情感共鳴與內在安慰，並學會以詩意的眼光觀察世界。</p>
+<p><img src="/img/posts/reading-notes-stray-birds-the-crescent-moon-2.jpg"></p>
 <h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>少林精神核心是「自我掌控」，包括心念、呼吸、行為與情緒。</li>
-<li>書中提出 13 道身心練習，如正念呼吸、動中禪、靜坐觀心等，有助於穩定情緒、強化專注。</li>
-<li>武術練習並非為了格鬥，而是鍛鍊心智、調合身心的工具。</li>
-<li>作者以親身經歷說明：遠離本心、追求外在成功，終將導致迷失；唯有內觀，方能重拾方向。</li>
-<li>書中強調「正見」的重要，鼓勵讀者超越對人事物的成見與二元對立。</li>
+<li>自然生死：生如夏花般絢爛，死如秋葉般靜美，生命的每個階段皆有其意義。</li>
+<li>愛戀纏綿：愛情縮小為一首歌、一枚永恆的吻，展現純粹而細膩的情感。</li>
+<li>哲思天命：人常錯看世界，需反思自身認知與命運的關聯。</li>
+<li>世間孤寂：即使身處人群，內心的呼喊仍需被理解與傾聽。</li>
+<li>燦爛人生：熱愛世界即活在世界中，生命的價值源於感受與奉獻。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每天閱讀一首詩，記錄心得與感受，培養內在覺察力</li>
+<li>觀察日常事物如花草、天空，學習用心感受生活</li>
+<li>寫下每日小小感恩或喜悅，提升情緒正向能量</li>
+<li>與他人分享詩句或感悟，建立情感連結與共鳴</li>
+<li>將哲理與日常行為結合，實踐更有意義的生活方式</li>
 </ol>
 <h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否也像作者年輕時一樣，誤以為「力量」來自外在的控制與防衛？</li>
-<li>當人生遭遇動盪時，我們能否靜下心來，觀察自己的內在反應？</li>
-<li>現代人失去平靜與專注，是因為從未學習如何駕馭自己的心嗎？</li>
+<li>如何將泰戈爾的哲思融入現代快速生活節奏？</li>
+<li>愛與孤寂在不同人生階段的體驗有何差異？</li>
+<li>生命中的平凡事物如何轉化為心靈力量？</li>
+<li>詩意觀察對個人情緒管理有何實質幫助？</li>
+<li>如何在日常生活中實踐對世界的熱愛與奉獻？</li>
 </ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這不只是一本修行書，更是一部關於人如何從混亂、失控中，找回內在平靜與力量的生命指南。釋恆義以平實卻深刻的語言，引導讀者一步步探索內在、整合自我。無論是否練武，這本書都能讓人找回與自己連結的能力，並在混沌世界中找到不動的心。</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>泰戈爾的詩提醒我們，生活中的每個細微瞬間皆可蘊含深意。透過閱讀、觀察與實踐，我們能在日常中找到心靈的慰藉，並學會以柔和而深刻的方式理解生命與世界。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
-        <tag>打造強韌內在的少林精神：歐洲掌門人給你的13個日常練習</tag>
+        <tag>泰戈爾</tag>
+        <tag>生如夏花˙泰戈爾新月集&amp;漂鳥集【中英對照｜絕美精裝版】：復刻印度名家彩色插畫｜譯者導讀泰戈爾生平與作品</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《像學霸一樣讀書：【用對方法，學習事半功倍！】》| 閱讀心得學習筆記</title>
+    <url>/2025/05/07/reading-notes-study-like-a-champ/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-study-like-a-champ-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《像學霸一樣讀書：【用對方法，學習事半功倍！】》</span><br><span class="line">作者： 瑞根・古倫, 約翰・鄧洛斯基</span><br><span class="line">原文作者： Regan A. R. Gurung, John Dunlosky</span><br><span class="line">譯者： 洪慧芳</span><br><span class="line">出版社：大牌出版</span><br><span class="line">出版日期：2025/05/07</span><br></pre></td></tr></table></figure>
+
+<p>「你花了時間、花了錢，為什麼學習成果還是卡在原地？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「比你聰明的人不可怕，可怕的是，他們比你還有技巧地努力！用對力，才能點燃學習動力，減輕讀書焦慮。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>你是否曾投入大量時間與金錢，學習效果卻不如預期？這本由美國心理學會權威背書的 10 大高效學習全攻略，集結兩位重量級心理學家的研究精華，旨在揭開「學霸會玩又會讀書」的認知科學奧祕。本書強調問題不在於你不夠努力，而是尚未掌握科學化的學習要訣。透過書中實證有效的策略，你將能破解學習迷思、啟動後設認知，並學會從輸入到輸出事半功倍的方法。這不僅是一本讓你衝刺高分的指南，更是培養你終身受用學習習慣的訓練手冊，幫助你打造真正能改變人生的學習力。</p>
+<p><img src="/img/posts/reading-notes-study-like-a-champ-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>破解學習迷思與啟動後設認知： 學習成績有 50% 藏在讀書習慣裡。書中強調後設認知（對自身學習過程的認知與調節）是學霸的超能力，是真正學懂、學透、學深的關鍵。</li>
+<li>規劃先行： 掌握「了解自己」和自我調節能力，是像高手一樣學習的基礎。透過盤點時間，拿回學習與生活的掌控權。</li>
+<li>高效筆記法： 運用如 R3（記錄、重整、反思）筆記法等技巧，整理思緒，讓筆記成為備考的強力利器，告別無效抄寫。</li>
+<li>間隔練習（Spaced Practice）： 學習時段要隔開，而不是集中在一起，這是百年研究證實能記更牢、考更好的高效方法。</li>
+<li>提取練習（Retrieval Practice）： 告別死記硬背，透過主動回想所學內容來檢視與強化記憶，是高分背後的科學證據。</li>
+<li>三大解題策略： 學習交錯練習不同類型題目、提出問題並自我解釋答案，以及活用解題範例，打造解題硬實力。</li>
+<li>學習輔助策略的運用： 區分有效（如圖像輔助）和低效（如單純重讀、畫重點）的學習輔助策略，並學習如何組合策略發揮 1+1 &gt; 2 的效果。</li>
+<li>顧好身心： 學習不僅在課堂，睡眠、運動、飲食對學習同樣重要。強調 3 招正念練習，獲得專注力，實現「會玩又會讀書」。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>學習規劃： 每週開始前，利用書中提供的步驟盤點時間，並將讀書時間段有意識地間隔開來安排。</li>
+<li>筆記實踐： 在閱讀或聽課時，嘗試使用 R3 筆記法（或類似的高效整理法）來組織和內化資訊，而不是單純抄寫。</li>
+<li>檢測強化： 讀完一個章節後，不看書主動回想（提取練習）重點，或用自製考題測試自己，以強化長期記憶。</li>
+<li>解題練習： 在練習題庫時，交錯練習不同單元或類型的題目，並在解題後向自己解釋答案和解題思路。</li>
+<li>身心平衡： 確保規律的睡眠與運動時間，並嘗試書中的正念練習來減輕學習焦慮，提升專注力。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ol>
+<li>你認為自己目前最欠缺的是「基本心法」（如後設認知、規劃）還是「必備策略」（如間隔、提取練習）？</li>
+<li>如何實際操作「提取練習」，來取代你過去最常使用的無效複習方法？請舉一個具體例子。</li>
+<li>你對「交錯練習」的有效性有何看法？如何將這策略應用到不同學科或技能的學習上？</li>
+<li>本書強調睡眠、運動對學習的重要性，但現代人常忽略。你計畫如何調整生活習慣來確保「顧好身心」？</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本《像學霸一樣讀書：【用對方法，學習事半功倍！】》不僅是一份詳盡的學習指南，更是一份以認知科學為基礎的「學習高手訓練手冊」。它清楚地告訴讀者「該做什麼」以及「為什麼這麼做」，將複雜的心理學研究轉化為簡單、實用、容易執行的行動步驟。告別過去的無效努力和死記硬背，掌握 後設認知、間隔練習、提取練習 等核心技巧，你將能夠突破學習瓶頸，真正提升學習效率，讓學習成果持續更久，成為無論在學業或職場上都更吃香的「會學習」的人。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>像學霸一樣讀書</tag>
       </tags>
   </entry>
   <entry>
@@ -4155,6 +4329,54 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>見證過無數生死的安寧照護醫生告訴你如何過一個不留遺憾的人生</tag>
         <tag>人生最後一堂理財課</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《與成功有約：高效能人士的七個習慣》| 閱讀心得學習筆記</title>
+    <url>/2020/10/30/reading-notes-the-7-habits-of-highly-effective-people/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-7-habits-of-highly-effective-people-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《與成功有約：高效能人士的七個習慣》</span><br><span class="line">作者： 史蒂芬‧柯維, 西恩‧柯維</span><br><span class="line">原文作者： Stephen R. Covey, Sean Covey</span><br><span class="line">譯者： 顧淑馨</span><br><span class="line">出版社：天下文化</span><br><span class="line">出版日期：2020/10/30</span><br></pre></td></tr></table></figure>
+
+<p>「你正過著被動的人生，還是主動選擇的人生？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「在這令人迷茫不安的動盪時代，七個習慣幫助你找回生活，重新得到選擇的權力，探索並發現自己最深刻的人生目的，獲得創造未來的工具。七個習慣是所有人一輩子的功課。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《與成功有約：高效能人士的七個習慣》是成功學經典之作，橫跨三十年持續暢銷。史蒂芬．柯維藉由普世價值與自然法則，提出七個具體可行的習慣，幫助個人實現內在成長、提升人際效能與長遠成功。這些習慣不是快速致富術，而是一套內外合一、由內而外的實踐路徑。</p>
+<p><img src="/img/posts/reading-notes-the-7-habits-of-highly-effective-people-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>主動積極：改變自己能控制的事情，聚焦影響圈。</li>
+<li>以終為始：設立人生使命，從目標反推行動。</li>
+<li>要事第一：掌握重要不緊急的事，時間管理升級為「生命管理」。</li>
+<li>雙贏思維：捨棄競爭思維，創造彼此成長的空間。</li>
+<li>知彼解己：先理解他人，再表達自己，建立信任。</li>
+<li>統合綜效：尊重差異，尋求創新與合作的「第三選擇」。</li>
+<li>不斷更新：在身心靈各方面持續精進，維持高效能。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每週撰寫一篇反思筆記，檢視自己是否主動積極應對生活。</li>
+<li>撰寫個人使命宣言，釐清長期方向與價值。</li>
+<li>每天設定三件最重要的「要事」優先完成。</li>
+<li>與夥伴討論任務時，練習提出雙贏方案。</li>
+<li>每週進行一次深度傾聽練習，強化「知彼解己」。</li>
+<li>嘗試與不同立場者共同解決問題，練習統合綜效。</li>
+<li>固定每月安排一天身心靈「磨鋸子」日，進行靜心、閱讀與反思。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>為什麼現代人明知這些原則卻難以落實？</li>
+<li>面對工作與家庭的雙重壓力，要事如何判斷？</li>
+<li>「雙贏思維」是否適用於高度競爭的職場環境？</li>
+<li>如何平衡個人使命與社會期待？</li>
+<li>在資訊爆炸時代，如何找到心靈更新的時間與空間？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>七個習慣是一輩子的功課，不是短期速成法，而是通往「真正成功」的原則之路。柯維以堅實的人本哲學為根基，強調由內而外的改變，讓人在人際關係、工作成就與心靈成長中持續進化。越是動盪的時代，越需回歸恆久不變的價值。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>高效能人士的七個習慣</tag>
+        <tag>與成功有約</tag>
       </tags>
   </entry>
   <entry>
@@ -4243,54 +4465,6 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>納瓦爾寶典：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《與成功有約：高效能人士的七個習慣》| 閱讀心得學習筆記</title>
-    <url>/2020/10/30/reading-notes-the-7-habits-of-highly-effective-people/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-7-habits-of-highly-effective-people-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《與成功有約：高效能人士的七個習慣》</span><br><span class="line">作者： 史蒂芬‧柯維, 西恩‧柯維</span><br><span class="line">原文作者： Stephen R. Covey, Sean Covey</span><br><span class="line">譯者： 顧淑馨</span><br><span class="line">出版社：天下文化</span><br><span class="line">出版日期：2020/10/30</span><br></pre></td></tr></table></figure>
-
-<p>「你正過著被動的人生，還是主動選擇的人生？」</p>
-<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
-<p>「在這令人迷茫不安的動盪時代，七個習慣幫助你找回生活，重新得到選擇的權力，探索並發現自己最深刻的人生目的，獲得創造未來的工具。七個習慣是所有人一輩子的功課。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《與成功有約：高效能人士的七個習慣》是成功學經典之作，橫跨三十年持續暢銷。史蒂芬．柯維藉由普世價值與自然法則，提出七個具體可行的習慣，幫助個人實現內在成長、提升人際效能與長遠成功。這些習慣不是快速致富術，而是一套內外合一、由內而外的實踐路徑。</p>
-<p><img src="/img/posts/reading-notes-the-7-habits-of-highly-effective-people-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>主動積極：改變自己能控制的事情，聚焦影響圈。</li>
-<li>以終為始：設立人生使命，從目標反推行動。</li>
-<li>要事第一：掌握重要不緊急的事，時間管理升級為「生命管理」。</li>
-<li>雙贏思維：捨棄競爭思維，創造彼此成長的空間。</li>
-<li>知彼解己：先理解他人，再表達自己，建立信任。</li>
-<li>統合綜效：尊重差異，尋求創新與合作的「第三選擇」。</li>
-<li>不斷更新：在身心靈各方面持續精進，維持高效能。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>每週撰寫一篇反思筆記，檢視自己是否主動積極應對生活。</li>
-<li>撰寫個人使命宣言，釐清長期方向與價值。</li>
-<li>每天設定三件最重要的「要事」優先完成。</li>
-<li>與夥伴討論任務時，練習提出雙贏方案。</li>
-<li>每週進行一次深度傾聽練習，強化「知彼解己」。</li>
-<li>嘗試與不同立場者共同解決問題，練習統合綜效。</li>
-<li>固定每月安排一天身心靈「磨鋸子」日，進行靜心、閱讀與反思。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>為什麼現代人明知這些原則卻難以落實？</li>
-<li>面對工作與家庭的雙重壓力，要事如何判斷？</li>
-<li>「雙贏思維」是否適用於高度競爭的職場環境？</li>
-<li>如何平衡個人使命與社會期待？</li>
-<li>在資訊爆炸時代，如何找到心靈更新的時間與空間？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>七個習慣是一輩子的功課，不是短期速成法，而是通往「真正成功」的原則之路。柯維以堅實的人本哲學為根基，強調由內而外的改變，讓人在人際關係、工作成就與心靈成長中持續進化。越是動盪的時代，越需回歸恆久不變的價值。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>高效能人士的七個習慣</tag>
-        <tag>與成功有約</tag>
       </tags>
   </entry>
   <entry>
@@ -5776,45 +5950,6 @@
       </tags>
   </entry>
   <entry>
-    <title>人生推書店：《哈佛醫學院的SMART壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案》| 人生處方箋</title>
-    <url>/2020/12/09/reading-notes-when-stress-knocks-on-your-door-stress-management-and-resiliency-traning-program/</url>
-    <content><![CDATA[<h1 id="人生推書店：給粉絲的人生處方箋"><a href="#人生推書店：給粉絲的人生處方箋" class="headerlink" title="人生推書店：給粉絲的人生處方箋"></a>人生推書店：給粉絲的人生處方箋</h1><blockquote>
-<p>粉絲來信：上班族該如何在日常生活處理情緒管理、工作與生活平衡、管理等議題呢？</p>
-</blockquote>
-<p><img src="/img/posts/reading-notes-when-stress-knocks-on-your-door-stress-management-and-resiliency-traning-program-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《哈佛醫學院的SMART壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案》</span><br><span class="line">作者： 王芳</span><br><span class="line">出版社：方言文化</span><br><span class="line">出版日期：2020/12/09</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「呼吸是你應對壓力最有力的武器，尤其當你發現無法掌控外部環境時。撰寫壓力應對日記、感恩日記。你會發現自己並非一人，你擁有整個社會支援網路。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代生活中，壓力幾乎是無處不在的存在，而本書《哈佛醫學院的 SMART 壓力管理訓練》則以嚴謹的醫學實證與易於實行的方法，提供讀者一條有效的減壓之路。由哈佛醫學院身心權威團隊與作者王芳共同編撰，結合 40 年的臨床研究與心理治療經驗，書中提出一套科學、實用且具可行性的壓力管理訓練方案，幫助讀者不僅認識壓力，更學會與之共處。</p>
-<p><img src="/img/posts/reading-notes-when-stress-knocks-on-your-door-stress-management-and-resiliency-traning-program-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>壓力的本質</strong>：源於生理與心理面臨威脅，並認為自己無法應對的信念。</li>
-<li><strong>壓力的影響</strong>：導致大腦退化、情緒失控、焦慮憂鬱、身體病變等多重負面反應。</li>
-<li><strong>SMART 訓練核心</strong>：包含壓力覺察、放鬆反應訓練、認知調整、情緒釋放、當下專注與行為改變。</li>
-<li><strong>放鬆反應（RR）</strong>：透過每日練習呼吸、正念、冥想，有效抑制杏仁核過度活化。</li>
-<li><strong>六大模組</strong>：壓力覺察、認知提升、情緒釋放、熱情喚醒、當下關注、整合生活。</li>
-<li><strong>自我工具</strong>：壓力日記、感恩書寫、壓力測評、專注練習。</li>
-<li><strong>應用對象廣泛</strong>：從科技巨頭員工、醫護人員到頂尖運動員，皆受益於此訓練。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我是否真正理解自己的壓力來源與反應？</li>
-<li>我有沒有每天為自己預留片刻呼吸與覺察的空間？</li>
-<li>當壓力襲來，我是慣性逃避，還是主動轉化？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅提供理論與知識，更強調行動與實踐。讀者可藉由書中提供的放鬆技巧與生活策略，逐步重建對壓力的理解與應對方式。壓力無法消失，但透過 SMART 訓練，我們可以更有彈性地生活，活出健康與自在。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>顯化效應</tag>
-        <tag>哈佛醫學院的SMART壓力管理訓練</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《那些學校忘了教你的事： 艾倫‧狄波頓21堂人生哲學課，陪你梳理生活、情緒、感情、工作，找回內心自由和安全感》| 閱讀心得學習筆記</title>
     <url>/2022/06/15/reading-notes-what-they-forgot-to-teach-you-at-school/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-what-they-forgot-to-teach-you-at-school-1.jpg"></p>
@@ -5857,6 +5992,85 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>那些學校忘了教你的事</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《當富豪遇上僧侶》| 閱讀心得學習筆記</title>
+    <url>/2024/04/26/reading-notes-when-a-millionaire-meets-a-monk/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-when-a-millionaire-meets-a-monk-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《當富豪遇上僧侶》</span><br><span class="line">作者： 朱利安．赫姆森</span><br><span class="line">譯者： 林吉莉</span><br><span class="line">出版社：遠流</span><br><span class="line">出版日期：2024/04/26</span><br></pre></td></tr></table></figure>
+
+<p>「你的快樂，是由自己決定還是交由外在事物決定？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「快樂、滿足、痛苦，都是一種選擇，由你決定！無止盡的渴望，就會有無止盡的苦難。那只會讓人想要得到越來越多，但是當你得到的同時，又會感覺結果不如預期那般的美好。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>這本《當富豪遇上僧侶》取材自一個超級富豪的真實經歷，記錄了他從一個為財富和空虛所困的工作狂，到泰國寺廟尋求放鬆，最終被僧侶的智慧徹底翻轉人生的過程。作者朱利安．赫姆森以心理學家的背景，透過富豪與僧侶的精采對話，深入探討了幸福、財富、成功與生命的意義。這本書不講大道理，卻充滿了生命體悟，提醒讀者真正的快樂與滿足，始終掌握在自己手中。</p>
+<p><img src="/img/posts/reading-notes-when-a-millionaire-meets-a-monk-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>快樂與滿足是內在的決定：真正的快樂和滿足是一種自我選擇的態度，不應依附於外在的財富、他人或環境。</li>
+<li>無止盡的渴望帶來苦難：持續追求更多的財富只會導致無止盡的苦難，因為得到的結果往往不如預期。</li>
+<li>成功與失敗一體兩面：每一次的失敗都是另一種勝利，反之亦然。成功本身也代表了一種失敗，因為每件事都有兩個面向，取決於觀點。</li>
+<li>接受情緒而非壓抑：悲傷是身體對壓力的正常反應，應理解、接受它，而非抗拒，這樣它自然會消散。</li>
+<li>人生無法被計畫：世事難料，人生不可能被完全計畫好，重要的是活在當下，並相信每個情況都會有所幫助。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每天練習覺察自己的情緒和想法，並問自己：「我對此感到不滿，是外在事物造成的，還是我的心態選擇？」</li>
+<li>將遇到的「失敗」或「挫折」重新定義為一次學習和成長的機會，嘗試從中找出積極的面向。</li>
+<li>當情緒波動時（如憤怒、沮喪），試著去描述它、理解它、接受它，而不是試圖立即擺脫或壓抑它。</li>
+<li>專注於當下發生的事情，提醒自己不要「預支」未來的煩惱，減少對未知結果的擔憂和恐懼。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你認為自己是「為錢而活」還是「為生命意義而活」？兩者之間如何取得平衡？</li>
+<li>在你的生命經驗中，是否有一次失敗最終轉變成勝利的經歷？</li>
+<li>如何在不確定性高的現代生活中，實踐「人生不可能計畫好」的智慧？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《當富豪遇上僧侶》是一個關於價值觀徹底翻轉的故事。它有力地證明，物質財富並非幸福的終點，而是一種內在心態的選擇。透過富豪和僧侶的對話，讀者被引導去質疑現代社會對成功和快樂的定義，學會接受無常、理解情緒，並以平常心看待生活中的雙重性。本書鼓勵我們放下對外在的掌控與依賴，轉而專注於內心，做自己快樂的決定者，好好活出生命的價值。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>當富豪遇上僧侶</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人生推書店：《哈佛醫學院的SMART壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案》| 人生處方箋</title>
+    <url>/2020/12/09/reading-notes-when-stress-knocks-on-your-door-stress-management-and-resiliency-traning-program/</url>
+    <content><![CDATA[<h1 id="人生推書店：給粉絲的人生處方箋"><a href="#人生推書店：給粉絲的人生處方箋" class="headerlink" title="人生推書店：給粉絲的人生處方箋"></a>人生推書店：給粉絲的人生處方箋</h1><blockquote>
+<p>粉絲來信：上班族該如何在日常生活處理情緒管理、工作與生活平衡、管理等議題呢？</p>
+</blockquote>
+<p><img src="/img/posts/reading-notes-when-stress-knocks-on-your-door-stress-management-and-resiliency-traning-program-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《哈佛醫學院的SMART壓力管理訓練：改善焦慮、輕鬱症；不失控、不暴走、不做錯決定 最具科學原理的減壓生活提案》</span><br><span class="line">作者： 王芳</span><br><span class="line">出版社：方言文化</span><br><span class="line">出版日期：2020/12/09</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「呼吸是你應對壓力最有力的武器，尤其當你發現無法掌控外部環境時。撰寫壓力應對日記、感恩日記。你會發現自己並非一人，你擁有整個社會支援網路。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在現代生活中，壓力幾乎是無處不在的存在，而本書《哈佛醫學院的 SMART 壓力管理訓練》則以嚴謹的醫學實證與易於實行的方法，提供讀者一條有效的減壓之路。由哈佛醫學院身心權威團隊與作者王芳共同編撰，結合 40 年的臨床研究與心理治療經驗，書中提出一套科學、實用且具可行性的壓力管理訓練方案，幫助讀者不僅認識壓力，更學會與之共處。</p>
+<p><img src="/img/posts/reading-notes-when-stress-knocks-on-your-door-stress-management-and-resiliency-traning-program-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>壓力的本質</strong>：源於生理與心理面臨威脅，並認為自己無法應對的信念。</li>
+<li><strong>壓力的影響</strong>：導致大腦退化、情緒失控、焦慮憂鬱、身體病變等多重負面反應。</li>
+<li><strong>SMART 訓練核心</strong>：包含壓力覺察、放鬆反應訓練、認知調整、情緒釋放、當下專注與行為改變。</li>
+<li><strong>放鬆反應（RR）</strong>：透過每日練習呼吸、正念、冥想，有效抑制杏仁核過度活化。</li>
+<li><strong>六大模組</strong>：壓力覺察、認知提升、情緒釋放、熱情喚醒、當下關注、整合生活。</li>
+<li><strong>自我工具</strong>：壓力日記、感恩書寫、壓力測評、專注練習。</li>
+<li><strong>應用對象廣泛</strong>：從科技巨頭員工、醫護人員到頂尖運動員，皆受益於此訓練。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我是否真正理解自己的壓力來源與反應？</li>
+<li>我有沒有每天為自己預留片刻呼吸與覺察的空間？</li>
+<li>當壓力襲來，我是慣性逃避，還是主動轉化？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書不僅提供理論與知識，更強調行動與實踐。讀者可藉由書中提供的放鬆技巧與生活策略，逐步重建對壓力的理解與應對方式。壓力無法消失，但透過 SMART 訓練，我們可以更有彈性地生活，活出健康與自在。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>顯化效應</tag>
+        <tag>哈佛醫學院的SMART壓力管理訓練</tag>
       </tags>
   </entry>
   <entry>
@@ -5975,6 +6189,57 @@
       </tags>
   </entry>
   <entry>
+    <title>《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》| 閱讀心得學習筆記</title>
+    <url>/2021/08/05/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》</span><br><span class="line">作者： 彭建文  </span><br><span class="line">出版社：商業周刊  </span><br><span class="line">出版日期：2021/08/05</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「一流人才，不靠天賦，而靠一流的解題思維。強化四種思考力（產品思維力、市場思維力、財務思維力、競爭者思維力），養成經營者般的商業思維，決策精準、果斷。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在快速變動與高壓的職場環境中，單靠努力與技能已難以脫穎而出。《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》作者彭建文，憑藉在台積電的深厚歷練，提出一套邏輯嚴謹、方法實用的解題思維與經營觀點，幫助讀者在職場中培養經營者般的全局視野與問題解決力。本書不只是一本職場技巧書，更是一本教你如何用經營思維進化自己的職涯解題書。</p>
+<p><img src="/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><p><strong>四大商業思維力：</strong></p>
+<ul>
+<li><em>產品思維力</em>：從市場角度理解產品價值，不當只懂執行的工作者。</li>
+<li><em>市場思維力</em>：觀察趨勢、理解顧客與需求演變，掌握工作未來性。</li>
+<li><em>財務思維力</em>：理解成本與營收的背後邏輯，建立數字敏感度。</li>
+<li><em>競爭者思維力</em>：從外部競爭中學習，刺激創新與優化。</li>
+</ul>
+</li>
+<li><p><strong>高效解題工作法：</strong></p>
+<ul>
+<li>採用 <em>8D、3x5 Why、5W2H</em> 等問題分析工具，聚焦核心、排定優先。</li>
+<li>強化會議與回應技巧，提升提問力與臨場應變。</li>
+<li>「滾動式修正」取代一次到位，培養動態調整的能力。</li>
+</ul>
+</li>
+<li><p><strong>職涯進階策略：</strong></p>
+<ul>
+<li>建立問責與改善文化，發展持續進步的思維。</li>
+<li>掌握升遷五力：績效、表達、思維、協作、潛力。</li>
+<li>學會用考績制度設計激勵，影響團隊士氣與績效。</li>
+</ul>
+</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我是否總是忙於執行，卻忽略了從「經營層級」看問題？</li>
+<li>面對反覆發生的問題，我是否掌握了有效的分析工具？</li>
+<li>我的升遷卡關，是因為缺乏什麼樣的商業或邏輯思維？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>作者以其在台積電的實戰經驗，將世界級企業的經營與解題邏輯濃縮成一套人人可學的實用方法。本書幫助職場工作者從執行者思維，轉化為具有經營視角的問題解決者。不論你是基層員工、管理主管，甚至是創業者，都能從中獲得升級自己職涯的關鍵答案。讓解題能力與經營思維，成為你職場中的最佳靠山。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>思維的良率</tag>
+        <tag>台積電教我的高效工作法，像經營者一樣思考、解題</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《你不是懶，而是能量低：人生開外掛的精力管理術》| 閱讀心得學習筆記</title>
     <url>/2024/10/22/reading-notes-you-are-not-lazy-but-low-energy/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-you-are-not-lazy-but-low-energy-1.jpg"></p>
@@ -6074,57 +6339,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》| 閱讀心得學習筆記</title>
-    <url>/2021/08/05/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》</span><br><span class="line">作者： 彭建文  </span><br><span class="line">出版社：商業周刊  </span><br><span class="line">出版日期：2021/08/05</span><br><span class="line">語言：繁體中文</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「一流人才，不靠天賦，而靠一流的解題思維。強化四種思考力（產品思維力、市場思維力、財務思維力、競爭者思維力），養成經營者般的商業思維，決策精準、果斷。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在快速變動與高壓的職場環境中，單靠努力與技能已難以脫穎而出。《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》作者彭建文，憑藉在台積電的深厚歷練，提出一套邏輯嚴謹、方法實用的解題思維與經營觀點，幫助讀者在職場中培養經營者般的全局視野與問題解決力。本書不只是一本職場技巧書，更是一本教你如何用經營思維進化自己的職涯解題書。</p>
-<p><img src="/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><p><strong>四大商業思維力：</strong></p>
-<ul>
-<li><em>產品思維力</em>：從市場角度理解產品價值，不當只懂執行的工作者。</li>
-<li><em>市場思維力</em>：觀察趨勢、理解顧客與需求演變，掌握工作未來性。</li>
-<li><em>財務思維力</em>：理解成本與營收的背後邏輯，建立數字敏感度。</li>
-<li><em>競爭者思維力</em>：從外部競爭中學習，刺激創新與優化。</li>
-</ul>
-</li>
-<li><p><strong>高效解題工作法：</strong></p>
-<ul>
-<li>採用 <em>8D、3x5 Why、5W2H</em> 等問題分析工具，聚焦核心、排定優先。</li>
-<li>強化會議與回應技巧，提升提問力與臨場應變。</li>
-<li>「滾動式修正」取代一次到位，培養動態調整的能力。</li>
-</ul>
-</li>
-<li><p><strong>職涯進階策略：</strong></p>
-<ul>
-<li>建立問責與改善文化，發展持續進步的思維。</li>
-<li>掌握升遷五力：績效、表達、思維、協作、潛力。</li>
-<li>學會用考績制度設計激勵，影響團隊士氣與績效。</li>
-</ul>
-</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我是否總是忙於執行，卻忽略了從「經營層級」看問題？</li>
-<li>面對反覆發生的問題，我是否掌握了有效的分析工具？</li>
-<li>我的升遷卡關，是因為缺乏什麼樣的商業或邏輯思維？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>作者以其在台積電的實戰經驗，將世界級企業的經營與解題邏輯濃縮成一套人人可學的實用方法。本書幫助職場工作者從執行者思維，轉化為具有經營視角的問題解決者。不論你是基層員工、管理主管，甚至是創業者，都能從中獲得升級自己職涯的關鍵答案。讓解題能力與經營思維，成為你職場中的最佳靠山。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>思維的良率</tag>
-        <tag>台積電教我的高效工作法，像經營者一樣思考、解題</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《你也可以延緩衰老的速度：不變老、不發胖、不生病、不焦慮， 4 個健康習慣，重設你的身體》| 閱讀心得學習筆記</title>
     <url>/2025/07/03/reading-notes-you-can-also-slow-down-the-speed-of-aging/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-you-can-also-slow-down-the-speed-of-aging-1.jpg"></p>
@@ -6169,50 +6383,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>你也可以延緩衰老的速度</tag>
         <tag>不變老、不發胖、不生病、不焦慮， 4 個健康習慣，重設你的身體</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《你的愛情需要人間清醒： 寫給每個在愛裡迷路的大人，50則停止內耗的戀愛心法》| 閱讀心得學習筆記</title>
-    <url>/2022/03/30/reading-notes-your-love-needs-a-reality-check/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-your-love-needs-a-reality-check-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你的愛情需要人間清醒： 寫給每個在愛裡迷路的大人，50則停止內耗的戀愛心法》</span><br><span class="line">作者： 金月</span><br><span class="line">原文作者： 김달</span><br><span class="line">譯者： 張召儀</span><br><span class="line">出版社：大好書屋</span><br><span class="line">出版日期：2025/07/03</span><br></pre></td></tr></table></figure>
-
-<p>「你會不會也曾在關係一開始，就愛得太用力？」</p>
-<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
-<p>「在愛情之外，我們還有許多值得追求的事物；保持多元的生活，才能讓愛情成為滋養人生的養分，而非吞噬一切的漩渦。過度討好對方反而會降低自身的魅力，懂得保留自我，才能在愛情中保持平衡。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在戀愛的初期，我們常常因為太過渴望被愛，而忽略了自己的姿態與節奏。《你的愛情需要人間清醒》透過作者的親身經歷，提醒讀者：戀愛不是單方面的付出，而是雙向的互動與成長。理解「高嫁」本能，才能在感情中更清楚自己的位置與價值。</p>
-<p><img src="/img/posts/reading-notes-your-love-needs-a-reality-check-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>戀愛初期若過度示好，易讓自己陷入被動與失衡的狀態。</li>
-<li>愛得太滿常讓人失去吸引力，反而讓對方感到壓力。</li>
-<li>真正穩定的關係，是從一開始就能保持自我界線與步調的互動。</li>
-<li>「高嫁」是人類本能，尋求比自己更優秀的伴侶是常態。</li>
-<li>對異性有吸引力的人，通常具備經濟力、獨特性與良好相處氛圍。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>在戀愛初期，主動調整節奏，不急於討好對方。</li>
-<li>檢視自己是否具備「三大條件」，找出強項與需補足之處。</li>
-<li>練習與異性互動時保持自然自在，而非迎合與討好。</li>
-<li>建立自信與自我價值，不把感情作為自我認同的唯一來源。</li>
-<li>遇到分手時，觀察對方行為，評估是否真心投入，而非全盤自責。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你是否曾在戀愛一開始就過度投入？結果如何？</li>
-<li>自己是否因害怕失去，而總是成為付出較多的一方？</li>
-<li>在你眼中，「優秀」的伴侶條件有哪些？你目前擁有幾項？</li>
-<li>當你感受到對方退縮時，你的第一反應是努力挽回，還是停下腳步觀察？</li>
-<li>你是否曾因為過度示好而被對方視為「理所當然」？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>戀愛從來不是一場單方努力的比賽。唯有懂得調整步調，保持自我，才不會在關係中失衡。《你的愛情需要人間清醒》提醒我們，在愛的路上，先學會「收」，才有空間讓彼此「靠近」。真正長久的關係，始於彼此尊重、理解與節奏一致。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>顯化效應</tag>
-        <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
       </tags>
   </entry>
   <entry>
@@ -6269,6 +6439,50 @@
         <tag>佛洛依德</tag>
         <tag>榮格</tag>
         <tag>你不必成為任何人</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《你的愛情需要人間清醒： 寫給每個在愛裡迷路的大人，50則停止內耗的戀愛心法》| 閱讀心得學習筆記</title>
+    <url>/2022/03/30/reading-notes-your-love-needs-a-reality-check/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-your-love-needs-a-reality-check-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《你的愛情需要人間清醒： 寫給每個在愛裡迷路的大人，50則停止內耗的戀愛心法》</span><br><span class="line">作者： 金月</span><br><span class="line">原文作者： 김달</span><br><span class="line">譯者： 張召儀</span><br><span class="line">出版社：大好書屋</span><br><span class="line">出版日期：2025/07/03</span><br></pre></td></tr></table></figure>
+
+<p>「你會不會也曾在關係一開始，就愛得太用力？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「在愛情之外，我們還有許多值得追求的事物；保持多元的生活，才能讓愛情成為滋養人生的養分，而非吞噬一切的漩渦。過度討好對方反而會降低自身的魅力，懂得保留自我，才能在愛情中保持平衡。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在戀愛的初期，我們常常因為太過渴望被愛，而忽略了自己的姿態與節奏。《你的愛情需要人間清醒》透過作者的親身經歷，提醒讀者：戀愛不是單方面的付出，而是雙向的互動與成長。理解「高嫁」本能，才能在感情中更清楚自己的位置與價值。</p>
+<p><img src="/img/posts/reading-notes-your-love-needs-a-reality-check-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>戀愛初期若過度示好，易讓自己陷入被動與失衡的狀態。</li>
+<li>愛得太滿常讓人失去吸引力，反而讓對方感到壓力。</li>
+<li>真正穩定的關係，是從一開始就能保持自我界線與步調的互動。</li>
+<li>「高嫁」是人類本能，尋求比自己更優秀的伴侶是常態。</li>
+<li>對異性有吸引力的人，通常具備經濟力、獨特性與良好相處氛圍。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>在戀愛初期，主動調整節奏，不急於討好對方。</li>
+<li>檢視自己是否具備「三大條件」，找出強項與需補足之處。</li>
+<li>練習與異性互動時保持自然自在，而非迎合與討好。</li>
+<li>建立自信與自我價值，不把感情作為自我認同的唯一來源。</li>
+<li>遇到分手時，觀察對方行為，評估是否真心投入，而非全盤自責。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你是否曾在戀愛一開始就過度投入？結果如何？</li>
+<li>自己是否因害怕失去，而總是成為付出較多的一方？</li>
+<li>在你眼中，「優秀」的伴侶條件有哪些？你目前擁有幾項？</li>
+<li>當你感受到對方退縮時，你的第一反應是努力挽回，還是停下腳步觀察？</li>
+<li>你是否曾因為過度示好而被對方視為「理所當然」？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>戀愛從來不是一場單方努力的比賽。唯有懂得調整步調，保持自我，才不會在關係中失衡。《你的愛情需要人間清醒》提醒我們，在愛的路上，先學會「收」，才有空間讓彼此「靠近」。真正長久的關係，始於彼此尊重、理解與節奏一致。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>顯化效應</tag>
+        <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
       </tags>
   </entry>
   <entry>
