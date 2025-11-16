@@ -28,80 +28,6 @@
       </tags>
   </entry>
   <entry>
-    <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
-    <url>/2024/05/22/about-llm-tech-10-keywords/</url>
-    <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
-<ol>
-<li><strong>自然語言處理（NLP）</strong>（Natural Language Processing, NLP）</li>
-<li><strong>機器學習</strong>（Machine Learning）</li>
-<li><strong>深度學習</strong>（Deep Learning）</li>
-<li><strong>文本生成</strong>（Text Generation）</li>
-<li><strong>上下文理解</strong>（Contextual Understanding）</li>
-<li><strong>語義分析</strong>（Semantic Analysis）</li>
-<li><strong>模型訓練</strong>（Model Training）</li>
-<li><strong>語言建模</strong>（Language Modeling）</li>
-<li><strong>人工智慧</strong>（Artificial Intelligence, AI）</li>
-<li><strong>轉移學習</strong>（Transfer Learning）</li>
-</ol>
-<p>這些關鍵字涵蓋了大型語言模型的核心概念、技術和應用領域，有助於幫助我們深入理解 LLMs 的工作原理和用途。</p>
-<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
-<li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
-</ol>
-]]></content>
-      <tags>
-        <tag>生成式 AI</tag>
-        <tag>GenAI</tag>
-        <tag>Large Language Model</tag>
-        <tag>LLMs</tag>
-        <tag>大型語言模型</tag>
-        <tag>LLM</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
-    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
-    <content><![CDATA[<blockquote>
-<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
-<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
-<p>Axure RP 主要有幾個常用的功能區塊：</p>
-<ol>
-<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
-<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
-<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
-<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
-<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
-</ol>
-<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
-<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
-<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
-<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
-<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
-<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
-<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
-<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
-<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
-<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
-<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
-<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
-<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
-<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
-<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
-      <tags>
-        <tag>product</tag>
-        <tag>Product Manager</tag>
-        <tag>產品經理</tag>
-        <tag>產品</tag>
-        <tag>產品專案管理</tag>
-        <tag>產品管理</tag>
-        <tag>專案管理</tag>
-        <tag>Axure RP 10</tag>
-        <tag>axure</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>財報分析入門筆記</title>
     <url>/2017/06/30/financial-statements-analysis-introduction/</url>
     <content><![CDATA[<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>財務報表是一家公司的體質檢查表，透過財務報表可以了解這家公司的財務狀況和營運狀況，也就是說可以透過財務報表去一窺公司的身體健康是否硬朗或是漸漸亮起紅燈。許多人以為財務報表晦澀難懂，只有經營者、會計師或是財務分析師才需要了解。事實上，財務報表的觀念並不難懂，不管是投資大眾甚至是公司員工應該都要對自己投資和工作的公司要有所掌握，一般投資人若能了解財報就有機會從中挖掘被低估的優質股票進而獲取相對報酬（賺錢），而一般員工若能掌握財報資訊，更能全面性了解公司營運狀況和未來發展方向，為自己的職涯加分。</p>
@@ -198,6 +124,80 @@
         <tag>Cash flow statement</tag>
         <tag>finance</tag>
         <tag>財務</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>關於 LLMs 大型語言模型技術的 10 個關鍵字</title>
+    <url>/2024/05/22/about-llm-tech-10-keywords/</url>
+    <content><![CDATA[<p>整理了常見關於大型語言模型（LLMs）的 10 個關鍵字：</p>
+<ol>
+<li><strong>自然語言處理（NLP）</strong>（Natural Language Processing, NLP）</li>
+<li><strong>機器學習</strong>（Machine Learning）</li>
+<li><strong>深度學習</strong>（Deep Learning）</li>
+<li><strong>文本生成</strong>（Text Generation）</li>
+<li><strong>上下文理解</strong>（Contextual Understanding）</li>
+<li><strong>語義分析</strong>（Semantic Analysis）</li>
+<li><strong>模型訓練</strong>（Model Training）</li>
+<li><strong>語言建模</strong>（Language Modeling）</li>
+<li><strong>人工智慧</strong>（Artificial Intelligence, AI）</li>
+<li><strong>轉移學習</strong>（Transfer Learning）</li>
+</ol>
+<p>這些關鍵字涵蓋了大型語言模型的核心概念、技術和應用領域，有助於幫助我們深入理解 LLMs 的工作原理和用途。</p>
+<h1 id="Doc"><a href="#Doc" class="headerlink" title="Doc"></a>Doc</h1><ol>
+<li><a href="https://blog.csdn.net/deephub/article/details/129682591">NLP &#x2F; LLMs中的Temperature 是什么?</a></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>生成式 AI</tag>
+        <tag>GenAI</tag>
+        <tag>Large Language Model</tag>
+        <tag>LLMs</tag>
+        <tag>大型語言模型</tag>
+        <tag>LLM</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Axure RP 10 基礎操作教學 | 學習筆記</title>
+    <url>/2024/06/06/learning-notes-axure-rp-basic/</url>
+    <content><![CDATA[<blockquote>
+<p>Axure RP：全球最受歡迎的介面原型設計工具：專為數位產品相關從業人員量身打造，適合 UX 設計師、產品經理、網站企劃人員及系統分析師使用。以更快速、更直觀的方式，輕鬆製作各種線框圖（Wireframe）、流程圖、互動原型（Prototype），以及預先格式化的 Word 文件，完全免除撰寫程式碼的繁瑣步驟。</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本文透過學習悠識學院 Axure RP 10 基礎操作教學課程，建立 Axure 學習筆記，幫助讀者學習這個介面原型設計工具，快速進入 Axure 世界。近一步打造自己的線框圖（Wireframe）、流程圖和互動原型（Prototype）。</p>
+<h1 id="重點筆記"><a href="#重點筆記" class="headerlink" title="重點筆記"></a>重點筆記</h1><p>第一章 簡介<br>1-1 Axure RP 10 簡介<br><img src="/../img/posts/axure-rp-01.png"></p>
+<p>Axure RP 主要有幾個常用的功能區塊：</p>
+<ol>
+<li>物件庫<br>可以選擇欲新增的物件，例如：圖片、圖案、icon、文字和線條等，亦可以從外部引入物件。</li>
+<li>專案區<br>可以編輯和設定專案的資料夾和層級。</li>
+<li>功能列<br>透過功能列設定，可以設定選擇工具、文字方塊。</li>
+<li>物件區<br>當無指定物件時主要是編輯文件屬性，當指定物件時編輯物件屬性。</li>
+<li>繪圖區<br>主要繪圖和操作地方，任何物件的繪製皆是在繪圖區。</li>
+</ol>
+<p>第二章 物件（Widget）<br>物件是我們繪製線框圖最小單位：文字、圖案、下拉選單等。</p>
+<p>2-1 物件介紹<br>物件的基本設定<br>我們可以在編輯區點選任何一個物件，物件區會顯示該物件在樣式上的相關屬性內容，可以直接進行修改和編輯。</p>
+<p>物件樣式管理<br>物件樣式管理讓我們可以預先統一規範物件中預設的樣式。</p>
+<p>物件的操作<br>透過操作功能，可以輕鬆整理和管理物件。</p>
+<p>暸解如何擴充物件庫<br>物件庫中除了原有既有 Axure 所提供的物件外，我們還可以從網路上下載擴充物件庫：<br>上網下載檔案並載入<br>Browse Libraries… &gt; Add Local Library</p>
+<p>第三章 基礎互動設計<br>3-1 基礎互動：簡介<br>3-2 基礎互動：點選後開啟連結<br>3-3 基礎互動：點選後改變能見度<br>3-4 基礎互動：滑鼠移至樣式改變</p>
+<p>第四章 頁面設定與網站地圖<br>4-1 頁面設定與網站地圖</p>
+<p>第五章 流程圖（Flow）<br>5-1 流程圖（Flow）</p>
+<p>第六章 共用區塊（Components）<br>6-1 共用區塊（Components）</p>
+<p>第七章 基礎動態面板（Dynamic Panel）<br>7-1 基礎動態面板（Dynamic Panel）</p>
+<p>第八章 進階動態面板（Dynamic Panel）<br>8-1 進階動態版面：旋轉木馬（Carousel）<br>8-2 進階動態面板：Mega Menu</p>
+<p>第九章 預覽（Preview）、發佈（Publish）<br>9-1 預覽與發佈</p>
+<p>第十章 規格文件（Specification）<br>10-1 規格文件（Specification）</p>
+<h1 id="實務範例"><a href="#實務範例" class="headerlink" title="實務範例"></a>實務範例</h1><p>範例(1): 設計網站地圖<br>你是一個二手書電商網站 PM 請使用 Xmind 設計一個網站地圖<br>• 首頁<br>• 書籍分類列表<br>• 關鍵字查詢清單列表<br>• 百大好書排行榜<br>• 產品內容資訊詳細頁</p>
+<p>範例(2): 製作網站原型 Mockup 視覺稿<br>請用 Axure 製作二手書電商網站設計 Mockup 視覺稿<br>• Logo (網站名稱)：於導覽列左側的地方放置網站 Logo<br>• 搜尋框：讓使用者可以輸入關鍵字搜尋相關商品<br>• 主打輪播圖：用 3 張張大圖呈現網站重點的銷售商品<br>• 推薦商品：用各 8 張小圖，排列 2 個不同主題商品<br>• 客戶評價：呈現 6 則已購客戶的好評推薦,增強信任感<br>• 購物車：請在網頁的右下角，連結可快速前往結帳</p>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1>]]></content>
+      <tags>
+        <tag>product</tag>
+        <tag>Product Manager</tag>
+        <tag>產品經理</tag>
+        <tag>產品</tag>
+        <tag>產品專案管理</tag>
+        <tag>產品管理</tag>
+        <tag>專案管理</tag>
+        <tag>Axure RP 10</tag>
+        <tag>axure</tag>
       </tags>
   </entry>
   <entry>
@@ -1243,43 +1243,49 @@
       </tags>
   </entry>
   <entry>
-    <title>《打造將才基因：善用入職場黃金 5 年，掌握 4 大認知，躋身前 30% 的優勢養成法》| 閱讀心得學習筆記</title>
-    <url>/2022/08/04/reading-notes-building-leadership-gene/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-building-leadership-gene-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《打造將才基因：善用入職場黃金 5 年，掌握 4 大認知，躋身前 30% 的優勢養成法》</span><br><span class="line">作者： 杜書伍</span><br><span class="line">出版社：天下雜誌</span><br><span class="line">出版日期：2022/08/04</span><br></pre></td></tr></table></figure>
+    <title>《打造第二大腦：多一個數位大腦，資訊超載時代的高效能知識管理術》| 閱讀心得學習筆記</title>
+    <url>/2023/02/09/reading-notes-building-a-second-brain/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-building-a-second-brain-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《打造第二大腦：多一個數位大腦，資訊超載時代的高效能知識管理術》</span><br><span class="line">作者： 提亞戈．佛特</span><br><span class="line">原文作者： Tiago Forte</span><br><span class="line">譯者： 陳文和</span><br><span class="line">出版社：商業周刊</span><br><span class="line">出版日期：2023/02/09</span><br></pre></td></tr></table></figure>
 
-<p>「為什麼努力卻總是被忽視？」</p>
+<p>「你是否也有筆記爆炸、資訊囤積卻毫無輸出的困擾？」</p>
 <h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
-<p>「進入職場，優秀，是自我選擇與自主培養的成果。用對方法培養全面能力，內化為習慣，早一步成為關鍵人才。」</p>
+<p>「資訊超載時代，每天訊息收不完，大腦不夠用？別擔心，建立你備用的第二大腦，困難就迎刃而解！請記得，大腦是用來創作內容而非儲存資訊。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在職場中，能力與努力並非唯一的成功關鍵，正確認知、態度與方法才是累積實力的核心。本書以杜書伍總裁多年實務與領導經驗為基礎，提供初入社會與想要突破職涯困境的人一套具體指南，幫助讀者減少試誤成本，加速邁向關鍵人才之路。</p>
-<p><img src="/img/posts/reading-notes-building-leadership-gene-2.jpg"></p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在資訊爆炸的時代，我們每天面臨海量訊息的衝擊，從電子郵件、網路文章到影音內容，使得我們的大腦常處於超載、焦慮、注意力不集中的狀態，成為「資訊囤積者」。《打造第二大腦》一書，由數位知識管理專家提亞戈．佛特根據他自身克服腦力退化的經驗，提出一套簡明且高效的數位知識管理系統：「第二大腦」。這套方法旨在將最珍貴的記憶、想法與知識儲存在自建的數位知識庫中，讓我們能隨需取用、高效輸出，將生理大腦釋放出來，專注於思考與創造。</p>
+<p><img src="/img/posts/reading-notes-building-a-second-brain-2.jpg"></p>
 <h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>職場態度決定成長速度，認清資產與負債，建立正確信念。</li>
-<li>能力養成需有層次，不僅是專業，更包括學習與應用的整合。</li>
-<li>制度不是束縛，而是快速專業化的工具，須轉化認知。</li>
-<li>成為將才必須具備主管格局、數字意識與溝通力。</li>
+<li>「第二大腦」是一個數位知識庫，用於儲存、組織和管理個人知識與訊息，以應對資訊超載。</li>
+<li>作者提亞戈．佛特因大病腦傷後，將病歷數位化並加以管理，從中發展出「第二大腦」系統。</li>
+<li>「第二大腦」系統的核心方法是 CODE 法，它包括四個步驟：<ol>
+<li>獲取（Capture）：只儲存未來會有所啟發、用得上、有關連性的資訊。</li>
+<li>組織（Organize）：使用 PARA 四個資料夾系統進行分類，即專案（Projects）、領域（Areas）、資源（Resources）、檔案庫（Archives）。</li>
+<li>萃取（Distill）：在做筆記時摘要重點、去蕪存菁，建議採用「累進式摘要法」優化筆記。</li>
+<li>表達（Express）：將先前儲存的內容重新組合成新的作品或輸出成果，利用「中間產物封包」概念加速創作。</li>
+</ol>
+</li>
+<li>「第二大腦」的目標是讓大腦專注於思考和策劃，而非記憶，從而提高個人的生產力、創造力和專注力。</li>
 </ol>
 <h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>每週檢視自己的職場信念，辨別是否成為阻力。</li>
-<li>建立閱讀與輸出習慣，提升整合知識的能力。</li>
-<li>面對制度先求理解，再從中尋找效率。</li>
-<li>主動鍛鍊數字敏感度與溝通能力，強化管理格局。</li>
+<li>選擇一個數位筆記工具（如 Notion、Evernote 等），作為建立第二大腦的起點。</li>
+<li>立即開始實施 CODE 法的第一步「獲取」，練習只捕捉「引發共鳴」或「未來有行動價值」的資訊。</li>
+<li>根據 PARA 原則，為你的數位筆記工具建立四個頂層資料夾來組織現有和新增的資訊。</li>
+<li>在閱讀或學習新知時，運用「萃取」技巧，練習使用累進式摘要法（如底線、螢光筆、注釋等）提煉內容精髓。</li>
 </ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你是否曾因為過度專注某項優勢，而忽略其他能力的培養？</li>
-<li>在面對公司制度時，你是選擇抱怨還是學習其中的 know-how？</li>
-<li>你是否清楚自己在職場中的「資產」與「負債」是什麼？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《打造將才基因》提醒我們，職場成功不是偶然，而是正確認知與持續累積的結果。唯有建立態度、培養能力、理解制度並拓展格局，才能真正成為長久不敗的職場關鍵人才。</p>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ol>
+<li>在嘗試「獲取」資訊時，如何有效判斷哪些資訊屬於「未來會對我有所啟發、用得上、有關連性」？</li>
+<li>如何克服將所有現有散亂資訊整理進 PARA 系統的心理障礙與時間成本？</li>
+<li>「表達」階段中的「中間產物封包」概念，具體如何應用於日常工作中，例如撰寫報告或準備會議？</li>
+<li>對於已經習慣傳統紙筆記錄的人來說，應如何逐步轉移並適應數位化的「第二大腦」系統？</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《打造第二大腦》為我們在資訊超載時代提供了一個實用且經過驗證的解決方案。它不僅是一套數位工具的使用指南，更是一種思維模式的轉變。透過 CODE 法的系統性操作和 PARA 系統的邏輯化組織，我們得以將個人知識數位化、外部化，讓珍貴的記憶和洞見隨時可被搜尋、重組與利用。這本書提醒我們，大腦的真正價值在於創造，而非儲存。立即動手建立你的「第二大腦」，你就能成為這個複雜時代中，更具效率和創造力的「資訊善用者」。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
-        <tag>打造將才基因</tag>
-        <tag>善用入職場黃金 5 年，掌握 4 大認知，躋身前 30% 的優勢養成法</tag>
+        <tag>打造第二大腦</tag>
       </tags>
   </entry>
   <entry>
@@ -1325,6 +1331,78 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>每天把心掃乾淨：35個讓人生好轉的禪式整理術</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《打造將才基因：善用入職場黃金 5 年，掌握 4 大認知，躋身前 30% 的優勢養成法》| 閱讀心得學習筆記</title>
+    <url>/2022/08/04/reading-notes-building-leadership-gene/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-building-leadership-gene-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《打造將才基因：善用入職場黃金 5 年，掌握 4 大認知，躋身前 30% 的優勢養成法》</span><br><span class="line">作者： 杜書伍</span><br><span class="line">出版社：天下雜誌</span><br><span class="line">出版日期：2022/08/04</span><br></pre></td></tr></table></figure>
+
+<p>「為什麼努力卻總是被忽視？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「進入職場，優秀，是自我選擇與自主培養的成果。用對方法培養全面能力，內化為習慣，早一步成為關鍵人才。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在職場中，能力與努力並非唯一的成功關鍵，正確認知、態度與方法才是累積實力的核心。本書以杜書伍總裁多年實務與領導經驗為基礎，提供初入社會與想要突破職涯困境的人一套具體指南，幫助讀者減少試誤成本，加速邁向關鍵人才之路。</p>
+<p><img src="/img/posts/reading-notes-building-leadership-gene-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>職場態度決定成長速度，認清資產與負債，建立正確信念。</li>
+<li>能力養成需有層次，不僅是專業，更包括學習與應用的整合。</li>
+<li>制度不是束縛，而是快速專業化的工具，須轉化認知。</li>
+<li>成為將才必須具備主管格局、數字意識與溝通力。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每週檢視自己的職場信念，辨別是否成為阻力。</li>
+<li>建立閱讀與輸出習慣，提升整合知識的能力。</li>
+<li>面對制度先求理解，再從中尋找效率。</li>
+<li>主動鍛鍊數字敏感度與溝通能力，強化管理格局。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你是否曾因為過度專注某項優勢，而忽略其他能力的培養？</li>
+<li>在面對公司制度時，你是選擇抱怨還是學習其中的 know-how？</li>
+<li>你是否清楚自己在職場中的「資產」與「負債」是什麼？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《打造將才基因》提醒我們，職場成功不是偶然，而是正確認知與持續累積的結果。唯有建立態度、培養能力、理解制度並拓展格局，才能真正成為長久不敗的職場關鍵人才。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>打造將才基因</tag>
+        <tag>善用入職場黃金 5 年，掌握 4 大認知，躋身前 30% 的優勢養成法</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《每一天練習照顧自己:當我們為自己負起責任, 就能真正放手, 做自己》| 閱讀心得學習筆記</title>
+    <url>/2014/07/01/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《每一天練習照顧自己: 當我們為自己負起責任, 就能真正放手, 做自己》</span><br><span class="line">作者：梅樂蒂．碧緹</span><br><span class="line">譯者：林卓君</span><br><span class="line">出版社：遠流出版事業股份有限公司</span><br><span class="line">出版日期：2014/07/01</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「我們的幸福與快樂並非源自於他人，而是出自於自己。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《每一天練習照顧自己》是梅樂蒂·碧緹的代表作，這本書深入探討了如何放下過去，勇敢面對自己，並在繁忙的生活中找到內心的自由與平靜。作者結合自身經歷，提供了實用的建議與練習，幫助讀者放下執著、建立自我關愛，並最終實現與自己和解、活出自我。本書的價值在於提醒每一位讀者，真正的幸福來自於自己，而非依賴他人來給予。</p>
+<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>放下執著</strong>：放手不再執著於過去的痛苦與他人對自己的看法，學會接納並關照自己，活出自由與獨立。</li>
+<li><strong>照顧自己</strong>：不再讓自己成為他人情感的附庸，先學會愛自己，才能夠為他人提供真誠的愛。</li>
+<li><strong>走出受害者心態</strong>：不再將自己定位為<code>受害者</code>，<code>勇敢負責</code>，<code>學會從困境中找到成長的契機</code>。</li>
+<li><strong>情緒管理</strong>：<code>學會處理憤怒</code>與<code>負面情緒</code>，尋找積極的方式<code>釋放情感</code>，並讓自己<code>保持內心的平衡</code>。</li>
+<li><strong>設定個人目標</strong>：清楚地為自己<code>設定人生目標</code>，並以此作為動力去實現自我價值。</li>
+<li><strong>自我愛戀</strong>：與自己建立良好的關係，<code>從內心開始愛自己</code>，讓自己過得<code>快樂</code>、<code>自在</code>。</li>
+<li><strong>練習放手</strong>：書中提供了具體的練習活動，幫助讀者每天都在<code>放下執著中找到力量</code>，<code>逐漸釋放不必要的壓力</code>。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《每一天練習照顧自己》不僅是一部心理勵志書籍，它是一份深入人心的生命指南，讓人重新理解如何擁抱自己，放下過去的包袱，活出真正的自我。作者梅樂蒂·碧緹透過自身的生命經歷，告訴我們，真正的自由來自於自我關愛與放手。當我們<code>學會照顧自己</code>，<code>接受不完美的自己</code>，並勇敢地走出過去的陰霾時，生活自然會變得更加豐富與美好。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>運氣好的人</tag>
+        <tag>運氣</tag>
+        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
       </tags>
   </entry>
   <entry>
@@ -1381,35 +1459,44 @@
       </tags>
   </entry>
   <entry>
-    <title>《每一天練習照顧自己:當我們為自己負起責任, 就能真正放手, 做自己》| 閱讀心得學習筆記</title>
-    <url>/2014/07/01/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《每一天練習照顧自己: 當我們為自己負起責任, 就能真正放手, 做自己》</span><br><span class="line">作者：梅樂蒂．碧緹</span><br><span class="line">譯者：林卓君</span><br><span class="line">出版社：遠流出版事業股份有限公司</span><br><span class="line">出版日期：2014/07/01</span><br></pre></td></tr></table></figure>
+    <title>《丹麥式幸福工作法：為什麼丹麥人下午 4 點就下班？能高效工作、兼顧家庭又身心平衡的 78 個思考》| 閱讀心得學習筆記</title>
+    <url>/2024/08/15/reading-notes-danish-style-happy-work-method/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-danish-style-happy-work-method-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《丹麥式幸福工作法：為什麼丹麥人下午4點就下班？能高效工作、兼顧家庭又身心平衡的78個思考》</span><br><span class="line">作者： 針貝有佳</span><br><span class="line">譯者： 劉亭言</span><br><span class="line">出版社：商業周刊</span><br><span class="line">出版日期：2024/08/15</span><br></pre></td></tr></table></figure>
 
-<blockquote>
-<p>「我們的幸福與快樂並非源自於他人，而是出自於自己。」</p>
+<p>「為什麼丹麥人下班這麼早，卻穩居世界競爭力與幸福感前茅？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「工作的目的不是犧牲生活，而是讓生活更充實。能有效率的工作，是因為你已經決定了工作結束的時間。」</p>
 </blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《每一天練習照顧自己》是梅樂蒂·碧緹的代表作，這本書深入探討了如何放下過去，勇敢面對自己，並在繁忙的生活中找到內心的自由與平靜。作者結合自身經歷，提供了實用的建議與練習，幫助讀者放下執著、建立自我關愛，並最終實現與自己和解、活出自我。本書的價值在於提醒每一位讀者，真正的幸福來自於自己，而非依賴他人來給予。</p>
-<p><img src="/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-2.jpg"></p>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書深入揭密丹麥人頂級幸福感與頂尖競爭力的關鍵，旨在激發讀者對東亞文化中窮忙、爆肝工作模式的反思。透過社會學家長達十五年的田野觀察與訪談，本書歸納出丹麥獨特的工作與生活哲學。丹麥之所以能以每週工時三十七小時、享有五至六週有薪假，卻仍保持壓倒性的工作產出，其祕密在於一套以「人生的優先順序」為核心的價值體系，重新定義了工作、時間與人生的意義，為讀者提供了兼顧效率與幸福的藍圖。</p>
+<p><img src="/img/posts/reading-notes-danish-style-happy-work-method-2.jpg"></p>
 <h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>放下執著</strong>：放手不再執著於過去的痛苦與他人對自己的看法，學會接納並關照自己，活出自由與獨立。</li>
-<li><strong>照顧自己</strong>：不再讓自己成為他人情感的附庸，先學會愛自己，才能夠為他人提供真誠的愛。</li>
-<li><strong>走出受害者心態</strong>：不再將自己定位為<code>受害者</code>，<code>勇敢負責</code>，<code>學會從困境中找到成長的契機</code>。</li>
-<li><strong>情緒管理</strong>：<code>學會處理憤怒</code>與<code>負面情緒</code>，尋找積極的方式<code>釋放情感</code>，並讓自己<code>保持內心的平衡</code>。</li>
-<li><strong>設定個人目標</strong>：清楚地為自己<code>設定人生目標</code>，並以此作為動力去實現自我價值。</li>
-<li><strong>自我愛戀</strong>：與自己建立良好的關係，<code>從內心開始愛自己</code>，讓自己過得<code>快樂</code>、<code>自在</code>。</li>
-<li><strong>練習放手</strong>：書中提供了具體的練習活動，幫助讀者每天都在<code>放下執著中找到力量</code>，<code>逐漸釋放不必要的壓力</code>。</li>
+<li>決定工作方式的關鍵是「人生的優先順序」，丹麥人勇於取捨以享受與親友共處的美好時刻，追求工作與生活平衡。</li>
+<li>尊重彼此的「時間價值」，主管對失敗保持寬容，並採宏觀管理，不 double check，藉此激發員工的責任與熱情。</li>
+<li>丹麥式人際關係以解決問題為目標，強調坦白溝通，質疑與表達意見時做到對事不對人。</li>
+<li>工作不僅是賺錢的手段，更是實現「身分認同」與「自我成長」的途徑，社會正向鼓勵轉職，追求成為想要的自己。</li>
+<li>無論工作或家事育兒，皆視為「夫妻共同參與的專案」，雙方互相支持，共同貢獻社會。</li>
 </ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《每一天練習照顧自己》不僅是一部心理勵志書籍，它是一份深入人心的生命指南，讓人重新理解如何擁抱自己，放下過去的包袱，活出真正的自我。作者梅樂蒂·碧緹透過自身的生命經歷，告訴我們，真正的自由來自於自我關愛與放手。當我們<code>學會照顧自己</code>，<code>接受不完美的自己</code>，並勇敢地走出過去的陰霾時，生活自然會變得更加豐富與美好。</p>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每天開始工作前，明確決定工作結束的時間，以此作為提升專注度與工作效率的動力。</li>
+<li>積極運用彈性工時及居家上班制度，將省下的時間用於享受私人生活或陪伴家人。</li>
+<li>參考丹麥經驗，會議須設定精準的結束時間並制定議程，確保討論聚焦於核心目標。</li>
+<li>檢視工作中的形式、手續或規則，大膽捨棄不必要的官僚流程，創造更多時間價值。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ol>
+<li>面對東亞文化中「努力、忍耐」的工作觀，你認為可以如何融入「不勉強自己」的丹麥主張？</li>
+<li>在你的職場中，如何具體落實「尊重彼此時間價值」的原則，例如減少不必要的郵件副本或雙重核對？</li>
+<li>如果工作是為了「自我成長」，你目前的工作是否能幫助你成為「想要的自己」，若否，應做出何種調整？</li>
+<li>你認為台灣的企業文化或社會制度，最需要向丹麥學習的「架構」或「價值」是什麼？</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書的價值不僅在於提供一套高效率的工作「方法」，更重要的是引導我們反思「工作對自己的意義究竟為何」。透過對比東西方的工作觀，本書鼓勵讀者即使無法全面複製丹麥的福利制度，仍能吸取其核心思維，例如珍視彼此的「時間價值」與對人生的「優先順序」做出取捨。這套聰明自律的幸福工作法則，幫助我們在短工時內創造高產值，最終實踐屬於自己的工作與生活平衡，達成頂級的幸福感與競爭力。</p>
 ]]></content>
       <tags>
         <tag>閱讀心得</tag>
         <tag>閱讀學習</tag>
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
-        <tag>運氣好的人</tag>
-        <tag>運氣</tag>
-        <tag>運氣好的人，原來這樣思考，這樣行動</tag>
+        <tag>丹麥式幸福工作法：為什麼丹麥人下午4點就下班？能高效工作、兼顧家庭又身心平衡的78個思考</tag>
       </tags>
   </entry>
   <entry>
@@ -1851,39 +1938,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》| 閱讀心得學習筆記</title>
-    <url>/2023/05/31/reading-notes-from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》</span><br><span class="line">作者： 亞瑟．布魯克斯  </span><br><span class="line">原文作者： Arthur C. Brooks</span><br><span class="line">譯者： 許恬寧</span><br><span class="line">出版社：天下雜誌  </span><br><span class="line">出版日期：2023/05/31</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「最有意義的人生經驗，往往很痛苦；你以為的絕境，其實藏著豐收的祕密。人生不會因為無條件的相信和努力就變得幸福，有時候你必須捨棄，才會發現生活中真正重要的事情。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》由哈佛大學教授亞瑟·布魯克斯所著，探討了人生在追求成功過程中的挑戰與轉機。布魯克斯透過科學、哲學、神學等多角度的分析，提供了一條不同於傳統成功路徑的道路，並幫助讀者認識如何在高峰過後，勇敢地面對生活中的轉折，從而找到新的生命價值。</p>
-<p><img src="/img/posts/reading-notes-from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>重新思考成功</strong>：不應該將自我價值與外在成功掛鈎，而是應該更關注內在的力量與自我實現。</li>
-<li><strong>成功的反向邏輯</strong>：人生不必一味追求高峰，面對下降期，應學會放下並接納衰退的過程，從中發現新的機會。</li>
-<li><strong>脆弱變力量</strong>：脆弱不應被視為缺點，而是能夠帶來成長與愛的契機，這種力量能幫助我們更好地面對挑戰。</li>
-<li><strong>活好而非活得長久</strong>：重視生活質量而非單純延長壽命，學會如何在現有的條件下活得更加充實與快樂。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ol>
-<li><strong>如何處理職場中的衰退期？</strong><br>當事業或生活出現瓶頸時，如何保持積極心態，並轉化這些困境為成長的動力？</li>
-<li><strong>為什麼現代人常陷入成功的迷思？</strong><br>在社會文化的影響下，人們常將成功等同於物質成就與名聲，這樣的價值觀如何影響我們的內心世界？</li>
-<li><strong>放下與接納的重要性</strong><br>為什麼放下過去的成就與未來的焦慮，能夠讓我們更加輕盈地走向新的生活階段？</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》提供了一種全新的視角，幫助讀者擺脫無休止的奮鬥與競爭，學會如何在生活的起伏中找到內在的平衡。布魯克斯不僅強調成功的相對性，更教會我們如何在面對變化與困境時，依然能夠優雅地活出自己。這本書是對那些對未來感到迷茫或疲憊的讀者的鼓勵，幫助他們走出過去的框架，找到屬於自己的新生命意義。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>重啟人生</tag>
-        <tag>一個哈佛教授的生命領悟，給你把餘生過好的簡單建議</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《人生 4 千個禮拜：時間不是用來掌控的，直面「生命的有限」，打造游刃有餘的時間運用觀》| 閱讀心得學習筆記</title>
     <url>/2022/01/22/reading-notes-four-thousand-weeks-time-management-for-mortals/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-four-thousand-weeks-time-management-for-mortals-1.jpg"></p>
@@ -1956,6 +2010,39 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>從邊緣到核心</tag>
         <tag>台灣半導體如何成為世界的心臟</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》| 閱讀心得學習筆記</title>
+    <url>/2023/05/31/reading-notes-from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》</span><br><span class="line">作者： 亞瑟．布魯克斯  </span><br><span class="line">原文作者： Arthur C. Brooks</span><br><span class="line">譯者： 許恬寧</span><br><span class="line">出版社：天下雜誌  </span><br><span class="line">出版日期：2023/05/31</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「最有意義的人生經驗，往往很痛苦；你以為的絕境，其實藏著豐收的祕密。人生不會因為無條件的相信和努力就變得幸福，有時候你必須捨棄，才會發現生活中真正重要的事情。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》由哈佛大學教授亞瑟·布魯克斯所著，探討了人生在追求成功過程中的挑戰與轉機。布魯克斯透過科學、哲學、神學等多角度的分析，提供了一條不同於傳統成功路徑的道路，並幫助讀者認識如何在高峰過後，勇敢地面對生活中的轉折，從而找到新的生命價值。</p>
+<p><img src="/img/posts/reading-notes-from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>重新思考成功</strong>：不應該將自我價值與外在成功掛鈎，而是應該更關注內在的力量與自我實現。</li>
+<li><strong>成功的反向邏輯</strong>：人生不必一味追求高峰，面對下降期，應學會放下並接納衰退的過程，從中發現新的機會。</li>
+<li><strong>脆弱變力量</strong>：脆弱不應被視為缺點，而是能夠帶來成長與愛的契機，這種力量能幫助我們更好地面對挑戰。</li>
+<li><strong>活好而非活得長久</strong>：重視生活質量而非單純延長壽命，學會如何在現有的條件下活得更加充實與快樂。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ol>
+<li><strong>如何處理職場中的衰退期？</strong><br>當事業或生活出現瓶頸時，如何保持積極心態，並轉化這些困境為成長的動力？</li>
+<li><strong>為什麼現代人常陷入成功的迷思？</strong><br>在社會文化的影響下，人們常將成功等同於物質成就與名聲，這樣的價值觀如何影響我們的內心世界？</li>
+<li><strong>放下與接納的重要性</strong><br>為什麼放下過去的成就與未來的焦慮，能夠讓我們更加輕盈地走向新的生活階段？</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》提供了一種全新的視角，幫助讀者擺脫無休止的奮鬥與競爭，學會如何在生活的起伏中找到內在的平衡。布魯克斯不僅強調成功的相對性，更教會我們如何在面對變化與困境時，依然能夠優雅地活出自己。這本書是對那些對未來感到迷茫或疲憊的讀者的鼓勵，幫助他們走出過去的框架，找到屬於自己的新生命意義。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>重啟人生</tag>
+        <tag>一個哈佛教授的生命領悟，給你把餘生過好的簡單建議</tag>
       </tags>
   </entry>
   <entry>
@@ -2319,6 +2406,47 @@
       </tags>
   </entry>
   <entry>
+    <title>《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》| 閱讀心得學習筆記</title>
+    <url>/2020/04/08/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》</span><br><span class="line">作者： 亞伯‧艾里斯  </span><br><span class="line">原文作者： Albert Ellis</span><br><span class="line">譯者： 蘇子堯</span><br><span class="line">出版社：大牌出版</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「如果你能接受不完美，你就能獲得內心的平和。只有真正的接納了你自己，你才能發自內心去愛、去快樂。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>與焦慮和解，克服不安、完美主義、負面思考、情緒陰影。《世界三大心理治療師亞伯‧艾里斯，歷久彌新的溫暖力》是亞伯·艾里斯博士的經典著作，介紹了他的<code>理情行為治療法（REBT</code>），幫助人們克服焦慮、憂鬱及情緒困擾。艾里斯認為，情緒問題大多來自非理性信念，藉由改變這些信念，人們能擺脫負面情緒，過上更加幸福的生活。本書提供了簡單而有效的自助方法，教導如何掌握思維、情感與行為的關聯，並學會如何改變不合理的信念來減少生活中的煩憂。</p>
+<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><p><strong>REBT理論：</strong> <code>理情行為治療（REBT）</code>是一種以<code>情緒</code>、<code>想法</code>、<code>行為</code>三個層面進行干預的心理治療方法，旨在幫助人們識別和改變負面的非理性信念。</p>
+</li>
+<li><p><strong>A-B-C-D-E模式：</strong> 本書介紹了REBT的A-B-C-D-E模式，通過識別引發情緒的事件（A），認知過程（B），情緒反應（C），挑戰信念（D），以及結果（E），幫助個體改善情緒。</p>
+</li>
+<li><p><strong>非理性信念的挑戰：</strong> 書中強調改變那些讓人陷入困境的非理性信念，如「我必須完美」或「事情必須按我的預期發展」。</p>
+</li>
+<li><p><strong>自我接納：</strong> 提倡無條件接納自我和他人，並學會放下過高的自我要求，學習如何應對生活中的不確定性。</p>
+</li>
+<li><p><strong>行為改變的力量：</strong> 強調通過積極的行動來挑戰和克服情緒困擾，並幫助讀者建立更健康的自我信念。</p>
+</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>為何我們常陷入「應該」與「必須」的信念？</li>
+<li>我們是否願意承認：困擾來自內在的解讀，而非外在事實？</li>
+<li>你是否曾嘗試挑戰內心的負面對話？還是一直默默承受它的傷害？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提出的 REBT 方法不僅對心理治療領域產生了深遠的影響，也提供了每個人自助的寶貴智慧。透過改變不理性的思維模式，我們能夠有效地減少焦慮、憤怒及不安，過上更快樂、無憂的生活。艾里斯的智慧鼓勵我們接納自己與他人，並學會在面對困難時以理性與勇氣應對。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>理情行為治療</tag>
+        <tag>亞伯‧艾里斯</tag>
+        <tag>讓自己快樂</tag>
+        <tag>沒有放不下的情緒，只有不肯放下的你</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《如何閱讀一本書》| 閱讀心得學習筆記</title>
     <url>/2022/03/30/reading-notes-how-to-read-book/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-how-to-read-book-1.jpg"></p>
@@ -2403,47 +2531,6 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>如何停止憂慮，開創人生</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》| 閱讀心得學習筆記</title>
-    <url>/2020/04/08/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《讓自己快樂：【沒有放不下的情緒，只有不肯放下的你】理情行為治療之父亞伯‧艾里斯經典著作，影響力超越佛洛伊德的心理學家》</span><br><span class="line">作者： 亞伯‧艾里斯  </span><br><span class="line">原文作者： Albert Ellis</span><br><span class="line">譯者： 蘇子堯</span><br><span class="line">出版社：大牌出版</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「如果你能接受不完美，你就能獲得內心的平和。只有真正的接納了你自己，你才能發自內心去愛、去快樂。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>與焦慮和解，克服不安、完美主義、負面思考、情緒陰影。《世界三大心理治療師亞伯‧艾里斯，歷久彌新的溫暖力》是亞伯·艾里斯博士的經典著作，介紹了他的<code>理情行為治療法（REBT</code>），幫助人們克服焦慮、憂鬱及情緒困擾。艾里斯認為，情緒問題大多來自非理性信念，藉由改變這些信念，人們能擺脫負面情緒，過上更加幸福的生活。本書提供了簡單而有效的自助方法，教導如何掌握思維、情感與行為的關聯，並學會如何改變不合理的信念來減少生活中的煩憂。</p>
-<p><img src="/img/posts/reading-notes-how-to-make-yourself-happy-and-remarkably-less-disturbable-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><p><strong>REBT理論：</strong> <code>理情行為治療（REBT）</code>是一種以<code>情緒</code>、<code>想法</code>、<code>行為</code>三個層面進行干預的心理治療方法，旨在幫助人們識別和改變負面的非理性信念。</p>
-</li>
-<li><p><strong>A-B-C-D-E模式：</strong> 本書介紹了REBT的A-B-C-D-E模式，通過識別引發情緒的事件（A），認知過程（B），情緒反應（C），挑戰信念（D），以及結果（E），幫助個體改善情緒。</p>
-</li>
-<li><p><strong>非理性信念的挑戰：</strong> 書中強調改變那些讓人陷入困境的非理性信念，如「我必須完美」或「事情必須按我的預期發展」。</p>
-</li>
-<li><p><strong>自我接納：</strong> 提倡無條件接納自我和他人，並學會放下過高的自我要求，學習如何應對生活中的不確定性。</p>
-</li>
-<li><p><strong>行為改變的力量：</strong> 強調通過積極的行動來挑戰和克服情緒困擾，並幫助讀者建立更健康的自我信念。</p>
-</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>為何我們常陷入「應該」與「必須」的信念？</li>
-<li>我們是否願意承認：困擾來自內在的解讀，而非外在事實？</li>
-<li>你是否曾嘗試挑戰內心的負面對話？還是一直默默承受它的傷害？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書提出的 REBT 方法不僅對心理治療領域產生了深遠的影響，也提供了每個人自助的寶貴智慧。透過改變不理性的思維模式，我們能夠有效地減少焦慮、憤怒及不安，過上更快樂、無憂的生活。艾里斯的智慧鼓勵我們接納自己與他人，並學會在面對困難時以理性與勇氣應對。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>理情行為治療</tag>
-        <tag>亞伯‧艾里斯</tag>
-        <tag>讓自己快樂</tag>
-        <tag>沒有放不下的情緒，只有不肯放下的你</tag>
       </tags>
   </entry>
   <entry>
@@ -2823,6 +2910,37 @@
       </tags>
   </entry>
   <entry>
+    <title>《持續買進：資料科學家的投資終極解答，存錢及致富的實證方法》 | 閱讀心得學習筆記</title>
+    <url>/2023/05/30/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《持續買進：資料科學家的投資終極解答，存錢及致富的實證方法》</span><br><span class="line">Just Keep Buying: Proven Ways to Save Money And Build Your Wealth</span><br><span class="line">作者： 尼克．馬朱利  </span><br><span class="line">原文作者： Nick Maggiulli</span><br><span class="line">譯者： 李芳齡</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「持續買進，才能持續致富。持續買進的力量，就像原子習慣一樣強大。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書持續買進，由資料科學家尼克·馬朱利撰寫，以數據分析顛覆傳統投資觀念，指出「逢低買進」並非致富捷徑，反而「持續買進」才是長期累積財富的不敗法則。作者以數據證據破解常見投資迷思，提供務實可行的理財建議，適合新手及有經驗的投資者閱讀。</p>
+<p><img src="/img/posts/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>持續買進（DCA）</strong>：不論牛市或熊市，穩定投入資金參與市場，讓複利發揮最大效益。  </li>
+<li><strong>抄底風險</strong>：等待低點可能錯失市場上漲良機，長期績效落後於持續投資。  </li>
+<li><strong>大盤 ETF 勝於個股</strong>：歷史數據顯示，僅 4% 個股長期表現優於國債，分散風險才是王道。</li>
+<li><strong>大跌是機會</strong>：市場大幅修正後，長期報酬率反而更佳，不須恐慌。</li>
+<li><strong>買房不一定是好投資</strong>：長期投入股市指數基金，報酬率遠勝房地產。</li>
+<li><strong>財務自由不等於幸福</strong>：FIRE 雖可實現，但退休後仍需找到生活意義。</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>持續買進強調數據為本，以簡單可行的「持續投資」策略，幫助普通人穩健累積財富，戰勝市場不確定性，是理財路上的實用指南。</p>
+]]></content>
+      <tags>
+        <tag>finance</tag>
+        <tag>持續買進</tag>
+        <tag>資料科學家的投資終極解答</tag>
+        <tag>存錢及致富的實證方法</tag>
+        <tag>投資理財</tag>
+        <tag>investment</tag>
+        <tag>money</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《從低谷突破：40年精神科權威史塔茲的療癒之道》| 閱讀心得學習筆記</title>
     <url>/2025/03/28/reading-notes-lessons-for-living-what-only-adversity-can-teach-you/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-lessons-for-living-what-only-adversity-can-teach-you-1.jpg"></p>
@@ -2901,37 +3019,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>先放手，再放心：我從心經學到的人生智慧</tag>
         <tag>心經</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《持續買進：資料科學家的投資終極解答，存錢及致富的實證方法》 | 閱讀心得學習筆記</title>
-    <url>/2023/05/30/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《持續買進：資料科學家的投資終極解答，存錢及致富的實證方法》</span><br><span class="line">Just Keep Buying: Proven Ways to Save Money And Build Your Wealth</span><br><span class="line">作者： 尼克．馬朱利  </span><br><span class="line">原文作者： Nick Maggiulli</span><br><span class="line">譯者： 李芳齡</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「持續買進，才能持續致富。持續買進的力量，就像原子習慣一樣強大。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>本書持續買進，由資料科學家尼克·馬朱利撰寫，以數據分析顛覆傳統投資觀念，指出「逢低買進」並非致富捷徑，反而「持續買進」才是長期累積財富的不敗法則。作者以數據證據破解常見投資迷思，提供務實可行的理財建議，適合新手及有經驗的投資者閱讀。</p>
-<p><img src="/img/posts/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>持續買進（DCA）</strong>：不論牛市或熊市，穩定投入資金參與市場，讓複利發揮最大效益。  </li>
-<li><strong>抄底風險</strong>：等待低點可能錯失市場上漲良機，長期績效落後於持續投資。  </li>
-<li><strong>大盤 ETF 勝於個股</strong>：歷史數據顯示，僅 4% 個股長期表現優於國債，分散風險才是王道。</li>
-<li><strong>大跌是機會</strong>：市場大幅修正後，長期報酬率反而更佳，不須恐慌。</li>
-<li><strong>買房不一定是好投資</strong>：長期投入股市指數基金，報酬率遠勝房地產。</li>
-<li><strong>財務自由不等於幸福</strong>：FIRE 雖可實現，但退休後仍需找到生活意義。</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>持續買進強調數據為本，以簡單可行的「持續投資」策略，幫助普通人穩健累積財富，戰勝市場不確定性，是理財路上的實用指南。</p>
-]]></content>
-      <tags>
-        <tag>finance</tag>
-        <tag>持續買進</tag>
-        <tag>資料科學家的投資終極解答</tag>
-        <tag>存錢及致富的實證方法</tag>
-        <tag>投資理財</tag>
-        <tag>investment</tag>
-        <tag>money</tag>
       </tags>
   </entry>
   <entry>
@@ -3092,42 +3179,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《活學：終生受用的人生高效能解密》| 閱讀心得學習筆記</title>
-    <url>/2020/06/08/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《活學：終生受用的人生高效能解密》</span><br><span class="line">作者： 金惟純</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「管好你的念頭，就是管好你的人生。面對真實的自己，接受自己的處境。對世界、他人、自己少一些批判，才能換來內在的平靜與快樂。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活學：終生受用的人生高效能解密》由商業周刊創辦人金惟純撰寫，彙集他從人生巔峰退隱後的深刻體悟。從事業成功者到生命探尋者，他捨棄過去的成就與習慣，重新學習如何活得更自在、圓滿。本書以「活學」為核心，強調透過自省、修心與行動，逐步提升生命的品質，並幫助讀者找到真正的快樂與價值。</p>
-<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-人生最重要的事"><a href="#1-人生最重要的事" class="headerlink" title="1. 人生最重要的事"></a><strong>1. 人生最重要的事</strong></h4><ul>
-<li><strong>念頭決定人生</strong>：人一生最常重複的不是呼吸，而是<code>念頭</code>，管理好念頭才能真正改變人生。</li>
-<li><strong>面對真實的自己</strong>：「看不見」自己是人生困境的根源，<code>接受全部的自己</code>，才能真正活得輕鬆。</li>
-<li><strong>「不得不」的半吊子人生</strong>：如果無法<code>接受自己的處境</code>，又無法處理或放下，人生就會充滿掙扎與痛苦。</li>
-</ul>
-<h4 id="2-最高效能的人生"><a href="#2-最高效能的人生" class="headerlink" title="2. 最高效能的人生"></a><strong>2. 最高效能的人生</strong></h4><ul>
-<li><strong>學習「願意」</strong>：提升自我效能的關鍵，是從「不願意」轉變為「<code>願意</code>」，並從小事開始改變。</li>
-<li><strong>順境與逆境皆是修煉</strong>：人生的每個處境都是「<code>事上練心</code>」，重要的是如何面對而非逃避。</li>
-<li><strong>「放下評判心」</strong>：對世界、他人、自己<code>少一些批判</code>，才能換來內在的平靜與快樂。</li>
-</ul>
-<h4 id="3-與人相處的智慧"><a href="#3-與人相處的智慧" class="headerlink" title="3. 與人相處的智慧"></a><strong>3. 與人相處的智慧</strong></h4><ul>
-<li><strong>領導的真諦</strong>：真正的領導者要懂得「<code>事上練心</code>」，不斷在實踐中成長，而非僅靠權力驅動他人。</li>
-<li><strong>組織與人生的共通法則</strong>：「<code>創新</code>」是結果而非起點，唯有紮實的文化與價值觀，才能真正影響世界。</li>
-<li><strong>學習「不計較」</strong>：在人際關係中，計較只會製造摩擦，<code>學會放下</code>，反而能得到更多。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>活學：終生受用的人生高效能解密</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《小狗錢錢 1：德國版富爸爸，窮爸爸》| 閱讀心得學習筆記</title>
     <url>/2023/03/29/reading-notes-little-dog-money-money/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-little-dog-money-money-1.jpg"></p>
@@ -3169,6 +3220,42 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>小狗錢錢 1</tag>
         <tag>德國版富爸爸，窮爸爸</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《活學：終生受用的人生高效能解密》| 閱讀心得學習筆記</title>
+    <url>/2020/06/08/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《活學：終生受用的人生高效能解密》</span><br><span class="line">作者： 金惟純</span><br><span class="line">出版社：商業周刊 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「管好你的念頭，就是管好你的人生。面對真實的自己，接受自己的處境。對世界、他人、自己少一些批判，才能換來內在的平靜與快樂。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《活學：終生受用的人生高效能解密》由商業周刊創辦人金惟純撰寫，彙集他從人生巔峰退隱後的深刻體悟。從事業成功者到生命探尋者，他捨棄過去的成就與習慣，重新學習如何活得更自在、圓滿。本書以「活學」為核心，強調透過自省、修心與行動，逐步提升生命的品質，並幫助讀者找到真正的快樂與價值。</p>
+<p><img src="/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-人生最重要的事"><a href="#1-人生最重要的事" class="headerlink" title="1. 人生最重要的事"></a><strong>1. 人生最重要的事</strong></h4><ul>
+<li><strong>念頭決定人生</strong>：人一生最常重複的不是呼吸，而是<code>念頭</code>，管理好念頭才能真正改變人生。</li>
+<li><strong>面對真實的自己</strong>：「看不見」自己是人生困境的根源，<code>接受全部的自己</code>，才能真正活得輕鬆。</li>
+<li><strong>「不得不」的半吊子人生</strong>：如果無法<code>接受自己的處境</code>，又無法處理或放下，人生就會充滿掙扎與痛苦。</li>
+</ul>
+<h4 id="2-最高效能的人生"><a href="#2-最高效能的人生" class="headerlink" title="2. 最高效能的人生"></a><strong>2. 最高效能的人生</strong></h4><ul>
+<li><strong>學習「願意」</strong>：提升自我效能的關鍵，是從「不願意」轉變為「<code>願意</code>」，並從小事開始改變。</li>
+<li><strong>順境與逆境皆是修煉</strong>：人生的每個處境都是「<code>事上練心</code>」，重要的是如何面對而非逃避。</li>
+<li><strong>「放下評判心」</strong>：對世界、他人、自己<code>少一些批判</code>，才能換來內在的平靜與快樂。</li>
+</ul>
+<h4 id="3-與人相處的智慧"><a href="#3-與人相處的智慧" class="headerlink" title="3. 與人相處的智慧"></a><strong>3. 與人相處的智慧</strong></h4><ul>
+<li><strong>領導的真諦</strong>：真正的領導者要懂得「<code>事上練心</code>」，不斷在實踐中成長，而非僅靠權力驅動他人。</li>
+<li><strong>組織與人生的共通法則</strong>：「<code>創新</code>」是結果而非起點，唯有紮實的文化與價值觀，才能真正影響世界。</li>
+<li><strong>學習「不計較」</strong>：在人際關係中，計較只會製造摩擦，<code>學會放下</code>，反而能得到更多。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《活學：終生受用的人生高效能解密》不僅是一本人生哲學書，更是一本行動指南，幫助我們從「知道」到「做到」。金惟純以自身經歷，證明了透過修煉心性、改變習慣與實踐正確思維，可以擁有更自在且充滿意義的人生。這不僅是一本「學習如何活」的書，更是一場自我探索與成長的旅程。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>活學：終生受用的人生高效能解密</tag>
       </tags>
   </entry>
   <entry>
@@ -3568,50 +3655,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《致富的心魔：金錢、成功與自我懷疑的致富人生》| 閱讀心得學習筆記</title>
-    <url>/2025/04/30/reading-notes-never-enough-from-barista-to-billionaire/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-never-enough-from-barista-to-billionaire-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《致富的心魔：金錢、成功與自我懷疑的致富人生》</span><br><span class="line">作者： 安德魯・威金森</span><br><span class="line">原文作者： Andrew Wilkinson</span><br><span class="line">譯者： 周群英</span><br><span class="line">出版社：感電出版</span><br><span class="line">出版日期：2025/04/30</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「賺錢永遠不嫌多，重點是怎麼活在這條路上。當你只願活在數字裡，人生就變成一場輸不起的無限賽局。金錢無法直接帶來安全感，唯有心態與認知的成長，才能真正駕馭財富。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《致富的心魔》透過作者威金森的親身經歷，剖析了億萬富翁背後鮮為人知的心理掙扎與焦慮。這本書不僅是成功創業的故事，更是對金錢、心態與自由關係的深刻反思。財富的增加並非終點，而是另一段挑戰的開始。作者提醒我們，真正的致富，不僅在於賺取更多，而在於是否能承受財富帶來的壓力，並且調整內心的認知，達到身心的自由。</p>
-<p><img src="/img/posts/reading-notes-never-enough-from-barista-to-billionaire-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>成功帶來的財富不一定帶來安全感，反而可能增加焦慮和恐懼。</li>
-<li>財富增長的同時，花費與壓力也會同步提升，許多人用消費來紓壓卻陷入空虛。</li>
-<li>追求財富的動力常是「永遠不夠」，這使人陷入無限競賽，失去生活的平衡。</li>
-<li>財富的真正挑戰是心態的調整與認知的提升，資產規模永遠受限於心智水準。</li>
-<li>傳承財富不等於傳承財富心態，缺乏認知支持的後代容易成為資產消耗者。</li>
-<li>停止盲目追逐財富，需要了解自己的能力圈與負擔能力，才能獲得真正的自由。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>定期檢視自己對金錢的心態，避免陷入無止盡的競賽與比較。</li>
-<li>釐清「足夠」的定義，設定財務目標與生活目標的平衡。</li>
-<li>建立財富管理與心態成長的學習計畫，提升對財務風險與壓力的承受力。</li>
-<li>與家人分享財富觀念，培養下一代的財富認知與責任感。</li>
-<li>適度節制消費行為，避免用花錢來填補心理空洞。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>當財富越多，焦慮反而越大，這是怎樣的心理機制在作祟？</li>
-<li>你認為什麼是「能負擔得起」的財富？如何衡量？</li>
-<li>如何建立與維持正確的財富心態，避免成為金錢的奴隸？</li>
-<li>家族財富應如何有效傳承，避免富不過三代的命運？</li>
-<li>你在追求財富時，是否曾陷入無止境的比較與攀比？如何自我調整？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《致富的心魔》不僅是關於財富的書，更是一面映照心靈的鏡子。它提醒我們，金錢只是生活的一部分，心態和認知的成長才是真正讓人從奔跑中解脫，獲得自由的關鍵。懂得駕馭財富的人，才能在追逐成功的同時保持內心的平靜與滿足。這本書對於每一位渴望成功卻又不想迷失自我的讀者，都有深刻且實用的啟示。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>致富的心魔</tag>
-        <tag>金錢、成功與自我懷疑的致富人生</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《人脈帳本：每一次的前進，都有一股無形的推力》| 閱讀心得學習筆記</title>
     <url>/2021/04/21/reading-notes-network-ledger/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-network-ledger-1.jpg"></p>
@@ -3653,6 +3696,50 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>人脈帳本</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《致富的心魔：金錢、成功與自我懷疑的致富人生》| 閱讀心得學習筆記</title>
+    <url>/2025/04/30/reading-notes-never-enough-from-barista-to-billionaire/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-never-enough-from-barista-to-billionaire-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《致富的心魔：金錢、成功與自我懷疑的致富人生》</span><br><span class="line">作者： 安德魯・威金森</span><br><span class="line">原文作者： Andrew Wilkinson</span><br><span class="line">譯者： 周群英</span><br><span class="line">出版社：感電出版</span><br><span class="line">出版日期：2025/04/30</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「賺錢永遠不嫌多，重點是怎麼活在這條路上。當你只願活在數字裡，人生就變成一場輸不起的無限賽局。金錢無法直接帶來安全感，唯有心態與認知的成長，才能真正駕馭財富。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《致富的心魔》透過作者威金森的親身經歷，剖析了億萬富翁背後鮮為人知的心理掙扎與焦慮。這本書不僅是成功創業的故事，更是對金錢、心態與自由關係的深刻反思。財富的增加並非終點，而是另一段挑戰的開始。作者提醒我們，真正的致富，不僅在於賺取更多，而在於是否能承受財富帶來的壓力，並且調整內心的認知，達到身心的自由。</p>
+<p><img src="/img/posts/reading-notes-never-enough-from-barista-to-billionaire-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>成功帶來的財富不一定帶來安全感，反而可能增加焦慮和恐懼。</li>
+<li>財富增長的同時，花費與壓力也會同步提升，許多人用消費來紓壓卻陷入空虛。</li>
+<li>追求財富的動力常是「永遠不夠」，這使人陷入無限競賽，失去生活的平衡。</li>
+<li>財富的真正挑戰是心態的調整與認知的提升，資產規模永遠受限於心智水準。</li>
+<li>傳承財富不等於傳承財富心態，缺乏認知支持的後代容易成為資產消耗者。</li>
+<li>停止盲目追逐財富，需要了解自己的能力圈與負擔能力，才能獲得真正的自由。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>定期檢視自己對金錢的心態，避免陷入無止盡的競賽與比較。</li>
+<li>釐清「足夠」的定義，設定財務目標與生活目標的平衡。</li>
+<li>建立財富管理與心態成長的學習計畫，提升對財務風險與壓力的承受力。</li>
+<li>與家人分享財富觀念，培養下一代的財富認知與責任感。</li>
+<li>適度節制消費行為，避免用花錢來填補心理空洞。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>當財富越多，焦慮反而越大，這是怎樣的心理機制在作祟？</li>
+<li>你認為什麼是「能負擔得起」的財富？如何衡量？</li>
+<li>如何建立與維持正確的財富心態，避免成為金錢的奴隸？</li>
+<li>家族財富應如何有效傳承，避免富不過三代的命運？</li>
+<li>你在追求財富時，是否曾陷入無止境的比較與攀比？如何自我調整？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《致富的心魔》不僅是關於財富的書，更是一面映照心靈的鏡子。它提醒我們，金錢只是生活的一部分，心態和認知的成長才是真正讓人從奔跑中解脫，獲得自由的關鍵。懂得駕馭財富的人，才能在追逐成功的同時保持內心的平靜與滿足。這本書對於每一位渴望成功卻又不想迷失自我的讀者，都有深刻且實用的啟示。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>致富的心魔</tag>
+        <tag>金錢、成功與自我懷疑的致富人生</tag>
       </tags>
   </entry>
   <entry>
@@ -3982,49 +4069,6 @@
       </tags>
   </entry>
   <entry>
-    <title>人生推書店：《逆襲人生21個底層邏輯：快速做出改變的高效率成長指南》| 人生處方箋</title>
-    <url>/2023/06/07/reading-notes-reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《逆襲人生 21 個底層邏輯：快速做出改變的高效率成長指南》</span><br><span class="line">作者： 呂白</span><br><span class="line">出版社：幸福文化</span><br><span class="line">出版日期：2023/06/07</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>粉絲來信：想投入專案管理、商業管理領域，卻始終不得要領，即便自學相關知識，仍苦於如何落地，職涯高不成、低不就，被迫在不擅長的領域不斷碰撞，缺乏自信、自我懷疑，如今已年過三十，職涯仍未能穩定向前。</p>
-</blockquote>
-<blockquote>
-<p>人生處方箋：職涯轉換需要時間，在高壓和快速變動的環境下上班族變得越來越不容易，每個人都有自己的時區，不需要跟他人比較，多給自己一點寬容和時間。這邊推薦您一本關於職涯規劃管理、工作和學習效率提升的書籍，希望對您會有幫助：）</p>
-</blockquote>
-<blockquote>
-<p>「不管多小的努力，不停地做、使勁做、堅持做，成效會很大！設置一個每天要做的最低量，跑贏人生的馬拉松。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《21 天實現逆風翻盤》是一本寫給在生活與職場中困頓、卻渴望改變的年輕人的行動指南。作者呂白，從一位小鎮青年躍升為職場實力派，以自身經驗提煉出 21 個可立即實踐的底層邏輯，鼓勵讀者在 21 天內培養習慣、翻轉人生。這不是雞湯式的夢想激勵，而是一場結構明確、具體可行的自我提升實驗。</p>
-<p><img src="/img/posts/reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li><strong>黃金 1 小時法則</strong>：起床後的第一小時決定一天效率。四段 15 分鐘，分別用於列清單、定優先、想目標、理情緒。</li>
-<li><strong>時間管理三法則</strong>：記錄時間、先完成再完美、提升利用率。</li>
-<li><strong>賺錢思維</strong>：建立認知優勢，學會投資與人脈經營。</li>
-<li><strong>吸引力法則</strong>：目標明確＋心懷感恩＝吸引資源與機會。</li>
-<li><strong>向上社交</strong>：不再「等被看到」，主動出擊創造高價值人脈。</li>
-<li><strong>殺死拖延症</strong>：以「5 分鐘行動法」啟動行動，搭配番茄鐘強化執行力。</li>
-<li><strong>精進表達力</strong>：從鏡子練習到素材輸入，打造清晰表達能力。</li>
-<li><strong>最低量堅持法</strong>：設定每日可執行的小任務，累積習慣。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你是否經常陷入「想做但不開始」的循環？</li>
-<li>是否把「完美」當作拖延的藉口，而錯失改變的時機？</li>
-<li>是否願意給自己 21 天，不追求極致，只求「比昨天好一點點」？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書的核心訊息很簡單卻深具力量：不要等待完美時機，而要從當下的小行動開始。透過 21 個實戰邏輯與每日執行清單，幫助你培養效率、自信與成長思維。若你正處於迷惘、拖延或自我懷疑的階段，這是一本能幫你實際「動起來」的好書，從一點一滴的累積中，走出自己的逆襲之路。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>逆襲人生21個底層邏輯</tag>
-        <tag>快速做出改變的高效率成長指南</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《幽默：面對人生與工作，你最需要的軟實力》| 閱讀心得學習筆記</title>
     <url>/2023/11/01/reading-notes-reading-notes-humor-seriously-why-humor-is-a-secret-weapon-in-business-and-life/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-humor-seriously-why-humor-is-a-secret-weapon-in-business-and-life-1.jpg"></p>
@@ -4074,6 +4118,49 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>幽默：面對人生與工作，你最需要的軟實力</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人生推書店：《逆襲人生21個底層邏輯：快速做出改變的高效率成長指南》| 人生處方箋</title>
+    <url>/2023/06/07/reading-notes-reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《逆襲人生 21 個底層邏輯：快速做出改變的高效率成長指南》</span><br><span class="line">作者： 呂白</span><br><span class="line">出版社：幸福文化</span><br><span class="line">出版日期：2023/06/07</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>粉絲來信：想投入專案管理、商業管理領域，卻始終不得要領，即便自學相關知識，仍苦於如何落地，職涯高不成、低不就，被迫在不擅長的領域不斷碰撞，缺乏自信、自我懷疑，如今已年過三十，職涯仍未能穩定向前。</p>
+</blockquote>
+<blockquote>
+<p>人生處方箋：職涯轉換需要時間，在高壓和快速變動的環境下上班族變得越來越不容易，每個人都有自己的時區，不需要跟他人比較，多給自己一點寬容和時間。這邊推薦您一本關於職涯規劃管理、工作和學習效率提升的書籍，希望對您會有幫助：）</p>
+</blockquote>
+<blockquote>
+<p>「不管多小的努力，不停地做、使勁做、堅持做，成效會很大！設置一個每天要做的最低量，跑贏人生的馬拉松。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《21 天實現逆風翻盤》是一本寫給在生活與職場中困頓、卻渴望改變的年輕人的行動指南。作者呂白，從一位小鎮青年躍升為職場實力派，以自身經驗提煉出 21 個可立即實踐的底層邏輯，鼓勵讀者在 21 天內培養習慣、翻轉人生。這不是雞湯式的夢想激勵，而是一場結構明確、具體可行的自我提升實驗。</p>
+<p><img src="/img/posts/reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li><strong>黃金 1 小時法則</strong>：起床後的第一小時決定一天效率。四段 15 分鐘，分別用於列清單、定優先、想目標、理情緒。</li>
+<li><strong>時間管理三法則</strong>：記錄時間、先完成再完美、提升利用率。</li>
+<li><strong>賺錢思維</strong>：建立認知優勢，學會投資與人脈經營。</li>
+<li><strong>吸引力法則</strong>：目標明確＋心懷感恩＝吸引資源與機會。</li>
+<li><strong>向上社交</strong>：不再「等被看到」，主動出擊創造高價值人脈。</li>
+<li><strong>殺死拖延症</strong>：以「5 分鐘行動法」啟動行動，搭配番茄鐘強化執行力。</li>
+<li><strong>精進表達力</strong>：從鏡子練習到素材輸入，打造清晰表達能力。</li>
+<li><strong>最低量堅持法</strong>：設定每日可執行的小任務，累積習慣。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你是否經常陷入「想做但不開始」的循環？</li>
+<li>是否把「完美」當作拖延的藉口，而錯失改變的時機？</li>
+<li>是否願意給自己 21 天，不追求極致，只求「比昨天好一點點」？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>這本書的核心訊息很簡單卻深具力量：不要等待完美時機，而要從當下的小行動開始。透過 21 個實戰邏輯與每日執行清單，幫助你培養效率、自信與成長思維。若你正處於迷惘、拖延或自我懷疑的階段，這是一本能幫你實際「動起來」的好書，從一點一滴的累積中，走出自己的逆襲之路。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>逆襲人生21個底層邏輯</tag>
+        <tag>快速做出改變的高效率成長指南</tag>
       </tags>
   </entry>
   <entry>
@@ -4770,6 +4857,43 @@
       </tags>
   </entry>
   <entry>
+    <title>《失控的焦慮世代：手機餵養的世代，如何面對心理疾病的瘟疫》| 閱讀心得學習筆記</title>
+    <url>/2024/11/29/reading-notes-the-anxious-generation/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-anxious-generation-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《失控的焦慮世代：手機餵養的世代，如何面對心理疾病的瘟疫》</span><br><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「科技塑造童年，焦慮隨之而來。以手機為主的童年，需要增加在現實世界的體驗，提高五感經驗。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在智慧型手機與社群媒體普及的時代，青少年的心理健康問題日益嚴重。《失控的焦慮世代》由社會心理學家海德特撰寫，探討Z世代如何因為手機與社群媒體的影響，經歷焦慮、憂鬱與社交障礙。本書不僅揭露問題根源，更提供政府、學校、企業與父母的可行對策，期望為下一代創造更健康的成長環境。  </p>
+<p><img src="/img/posts/reading-notes-the-anxious-generation-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-童年的變遷與失落"><a href="#1-童年的變遷與失落" class="headerlink" title="1. 童年的變遷與失落"></a><strong>1. 童年的變遷與失落</strong></h4><ul>
+<li>過去以「玩耍」為核心的童年被「手機主導」的生活取代。  </li>
+<li>缺乏自由探索與實體互動，使青少年社交發展受阻。</li>
+</ul>
+<h4 id="2-智慧型手機與社群媒體的影響"><a href="#2-智慧型手機與社群媒體的影響" class="headerlink" title="2. 智慧型手機與社群媒體的影響"></a><strong>2. 智慧型手機與社群媒體的影響</strong></h4><ul>
+<li><strong>心理健康衰退</strong>：憂鬱、自殘、自殺率上升，尤其影響女孩更深。  </li>
+<li><strong>注意力破碎化</strong>：短影音與社群推播讓專注力下降，學習與社交受影響。  </li>
+<li><strong>上癮機制</strong>：社群媒體透過演算法強化即時獎勵，讓青少年難以脫離。</li>
+</ul>
+<h4 id="3-如何改善現況"><a href="#3-如何改善現況" class="headerlink" title="3. 如何改善現況"></a><strong>3. 如何改善現況</strong></h4><ul>
+<li><strong>政府與科技企業</strong>：立法限制兒童接觸社群媒體，要求更健康的設計。  </li>
+<li><strong>學校與教育機構</strong>：減少校內螢幕使用，推動戶外活動與人際互動。  </li>
+<li><strong>家長與社會</strong>：延後手機使用年齡，建立更健康的數位習慣。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《失控的焦慮世代》是一本警鐘長鳴的書，揭示了科技對青少年的深遠影響。我們不能忽視Z世代的困境，唯有採取行動，才能讓孩子擁有更健康的成長環境，重新找回失落的童年。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>失控的焦慮世代</tag>
+        <tag>手機餵養的世代</tag>
+        <tag>如何面對心理疾病的瘟疫</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《論語與算盤：改變近代日本運命的商業聖經》| 閱讀心得學習筆記</title>
     <url>/2022/03/30/reading-notes-the-analects-and-the-abacus/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-analects-and-the-abacus-1.jpg"></p>
@@ -4811,43 +4935,6 @@
         <tag>閱讀筆記</tag>
         <tag>閱讀心得學習筆記</tag>
         <tag>論語與算盤：改變近代日本運命的商業聖經</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《失控的焦慮世代：手機餵養的世代，如何面對心理疾病的瘟疫》| 閱讀心得學習筆記</title>
-    <url>/2024/11/29/reading-notes-the-anxious-generation/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-anxious-generation-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《失控的焦慮世代：手機餵養的世代，如何面對心理疾病的瘟疫》</span><br><span class="line">作者： 戈登．李文斯頓  </span><br><span class="line">原文作者： Gordon Livingston</span><br><span class="line">譯者： 吳宜蓁</span><br><span class="line">出版社：商業周刊</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「科技塑造童年，焦慮隨之而來。以手機為主的童年，需要增加在現實世界的體驗，提高五感經驗。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在智慧型手機與社群媒體普及的時代，青少年的心理健康問題日益嚴重。《失控的焦慮世代》由社會心理學家海德特撰寫，探討Z世代如何因為手機與社群媒體的影響，經歷焦慮、憂鬱與社交障礙。本書不僅揭露問題根源，更提供政府、學校、企業與父母的可行對策，期望為下一代創造更健康的成長環境。  </p>
-<p><img src="/img/posts/reading-notes-the-anxious-generation-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h4 id="1-童年的變遷與失落"><a href="#1-童年的變遷與失落" class="headerlink" title="1. 童年的變遷與失落"></a><strong>1. 童年的變遷與失落</strong></h4><ul>
-<li>過去以「玩耍」為核心的童年被「手機主導」的生活取代。  </li>
-<li>缺乏自由探索與實體互動，使青少年社交發展受阻。</li>
-</ul>
-<h4 id="2-智慧型手機與社群媒體的影響"><a href="#2-智慧型手機與社群媒體的影響" class="headerlink" title="2. 智慧型手機與社群媒體的影響"></a><strong>2. 智慧型手機與社群媒體的影響</strong></h4><ul>
-<li><strong>心理健康衰退</strong>：憂鬱、自殘、自殺率上升，尤其影響女孩更深。  </li>
-<li><strong>注意力破碎化</strong>：短影音與社群推播讓專注力下降，學習與社交受影響。  </li>
-<li><strong>上癮機制</strong>：社群媒體透過演算法強化即時獎勵，讓青少年難以脫離。</li>
-</ul>
-<h4 id="3-如何改善現況"><a href="#3-如何改善現況" class="headerlink" title="3. 如何改善現況"></a><strong>3. 如何改善現況</strong></h4><ul>
-<li><strong>政府與科技企業</strong>：立法限制兒童接觸社群媒體，要求更健康的設計。  </li>
-<li><strong>學校與教育機構</strong>：減少校內螢幕使用，推動戶外活動與人際互動。  </li>
-<li><strong>家長與社會</strong>：延後手機使用年齡，建立更健康的數位習慣。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《失控的焦慮世代》是一本警鐘長鳴的書，揭示了科技對青少年的深遠影響。我們不能忽視Z世代的困境，唯有採取行動，才能讓孩子擁有更健康的成長環境，重新找回失落的童年。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>失控的焦慮世代</tag>
-        <tag>手機餵養的世代</tag>
-        <tag>如何面對心理疾病的瘟疫</tag>
       </tags>
   </entry>
   <entry>
@@ -5032,46 +5119,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《自我升級第一原理》| 閱讀心得學習筆記</title>
-    <url>/2025/07/08/reading-notes-the-first-rule-of-mastery-stop-worrying-about-what-people-think-of-you/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-first-rule-of-mastery-stop-worrying-about-what-people-think-of-you-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《自我升級第一原理》</span><br><span class="line">作者： 麥可．傑維斯, 凱文．雷克</span><br><span class="line">原文作者： Michael Gervais, Kevin Lake</span><br><span class="line">譯者： 廖建容</span><br><span class="line">出版社：天下雜誌</span><br><span class="line">出版日期：2025/07/08</span><br><span class="line"></span><br></pre></td></tr></table></figure>
-
-<p>「你知道你有多在意別人的眼光，決定了你的自由度嗎？」</p>
-<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
-<p>「最讓人恐懼的，不是失敗，是別人對我們選擇與表現的評論。如果我們無所畏懼，專注表現，潛力將不封頂，帶我們登上巔峰！」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《自我升級第一原理》一書點出現代人被「他人意見恐懼」（fear of people’s opinions，FOPO）所束縛，導致潛力無法發揮的困境。作者麥可・傑維斯以多年高績效心理學經驗，透過運動員、企業領袖的實戰案例，提醒我們要擺脫外在評價，將注意力聚焦於自身可控之事，方能激發無限可能。</p>
-<p><img src="/img/posts/reading-notes-the-first-rule-of-mastery-stop-worrying-about-what-people-think-of-you-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>FOPO 是人類天性中的自我保護機制，過度依賴外在評價會消耗自信與行動力。</li>
-<li>高績效人士的關鍵特質在於專注於可控因素，而非外界評價。</li>
-<li>持續「自我覺察」與「聚焦目標」是克服 FOPO 的核心。</li>
-<li>確立內在價值觀，避免以他人標準定義自身成敗。</li>
-<li>將挑戰視為成長契機，透過心智訓練提升心理韌性。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>每日反思：今天的決策中，有多少是基於自我價值，而非他人看法？</li>
-<li>制定「可控清單」：明確界定哪些事可掌控，哪些無需耗費心力。</li>
-<li>訓練「聚焦力」：面對壓力時，刻意練習呼吸與正念，回歸當下專注。</li>
-<li>建立反饋圈：挑選可信賴的少數人給予建設性意見。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>你有多久沒有為「自己」而不是「他人期待」做決定？</li>
-<li>如果不在乎外界評論，你會選擇怎樣的人生方向？</li>
-<li>在職場或家庭中，哪些評論最容易影響你的自我價值感？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>FOPO 是無形的心理枷鎖，但只要學會回到內在專注、擁抱可控範圍，就能活得更加自由與高效。本書是一本幫助突破心理侷限、啟動高績效心智的實用指南。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>自我升級第一原理</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《生命如此富有：活出天賦潛能的心靈密碼》| 閱讀心得學習筆記</title>
     <url>/2012/08/07/reading-notes-the-four-purposes-of-life/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-four-purposes-of-life-1.jpg"></p>
@@ -5109,6 +5156,46 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>生命如此富有</tag>
         <tag>活出天賦潛能的心靈密碼</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《自我升級第一原理》| 閱讀心得學習筆記</title>
+    <url>/2025/07/08/reading-notes-the-first-rule-of-mastery-stop-worrying-about-what-people-think-of-you/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-first-rule-of-mastery-stop-worrying-about-what-people-think-of-you-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《自我升級第一原理》</span><br><span class="line">作者： 麥可．傑維斯, 凱文．雷克</span><br><span class="line">原文作者： Michael Gervais, Kevin Lake</span><br><span class="line">譯者： 廖建容</span><br><span class="line">出版社：天下雜誌</span><br><span class="line">出版日期：2025/07/08</span><br><span class="line"></span><br></pre></td></tr></table></figure>
+
+<p>「你知道你有多在意別人的眼光，決定了你的自由度嗎？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「最讓人恐懼的，不是失敗，是別人對我們選擇與表現的評論。如果我們無所畏懼，專注表現，潛力將不封頂，帶我們登上巔峰！」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《自我升級第一原理》一書點出現代人被「他人意見恐懼」（fear of people’s opinions，FOPO）所束縛，導致潛力無法發揮的困境。作者麥可・傑維斯以多年高績效心理學經驗，透過運動員、企業領袖的實戰案例，提醒我們要擺脫外在評價，將注意力聚焦於自身可控之事，方能激發無限可能。</p>
+<p><img src="/img/posts/reading-notes-the-first-rule-of-mastery-stop-worrying-about-what-people-think-of-you-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>FOPO 是人類天性中的自我保護機制，過度依賴外在評價會消耗自信與行動力。</li>
+<li>高績效人士的關鍵特質在於專注於可控因素，而非外界評價。</li>
+<li>持續「自我覺察」與「聚焦目標」是克服 FOPO 的核心。</li>
+<li>確立內在價值觀，避免以他人標準定義自身成敗。</li>
+<li>將挑戰視為成長契機，透過心智訓練提升心理韌性。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每日反思：今天的決策中，有多少是基於自我價值，而非他人看法？</li>
+<li>制定「可控清單」：明確界定哪些事可掌控，哪些無需耗費心力。</li>
+<li>訓練「聚焦力」：面對壓力時，刻意練習呼吸與正念，回歸當下專注。</li>
+<li>建立反饋圈：挑選可信賴的少數人給予建設性意見。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>你有多久沒有為「自己」而不是「他人期待」做決定？</li>
+<li>如果不在乎外界評論，你會選擇怎樣的人生方向？</li>
+<li>在職場或家庭中，哪些評論最容易影響你的自我價值感？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>FOPO 是無形的心理枷鎖，但只要學會回到內在專注、擁抱可控範圍，就能活得更加自由與高效。本書是一本幫助突破心理侷限、啟動高績效心智的實用指南。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>自我升級第一原理</tag>
       </tags>
   </entry>
   <entry>
@@ -5470,6 +5557,48 @@
       </tags>
   </entry>
   <entry>
+    <title>《致富心態：關於財富、貪婪與幸福的20堂理財課》| 閱讀心得學習筆記</title>
+    <url>/2023/01/13/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《致富心態：關於財富、貪婪與幸福的20堂理財課》</span><br><span class="line">作者： 摩根‧豪瑟  </span><br><span class="line">原文作者： Morgan Housel</span><br><span class="line">譯者： 周玉文</span><br><span class="line">出版社：天下文化 </span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「財富的真正價值，不在於數字，而在於選擇與自由。財務管理更多取決於行為模式、心理因素和習慣。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸的時代，許多人認為投資成功的關鍵是專業知識和市場資訊。然而，《致富心態》一書顛覆了這種傳統觀念，強調財務管理更多取決於行為模式、心理因素和習慣。摩根‧豪瑟透過真實故事與案例，揭示了致富與守財的核心原則，幫助讀者培養正確的金錢觀，邁向財務自由。</p>
+<p><img src="/img/posts/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="1-致富與守財的關鍵區別"><a href="#1-致富與守財的關鍵區別" class="headerlink" title="1. 致富與守財的關鍵區別"></a><strong>1. 致富與守財的關鍵區別</strong></h3><ul>
+<li><strong>致富：</strong> 依靠機會、運氣、風險承擔與長期堅持。  </li>
+<li><strong>守財：</strong> 需要謹慎、節制、良好的財務習慣來維持財富。</li>
+</ul>
+<h3 id="2-心態比知識更重要"><a href="#2-心態比知識更重要" class="headerlink" title="2. 心態比知識更重要"></a><strong>2. 心態比知識更重要</strong></h3><ul>
+<li>投資成功不只是計算數字，而是管理情緒、耐心與風險承受能力。  </li>
+<li>即使擁有相同的投資知識，不同的行為模式將導致截然不同的財務結果。</li>
+</ul>
+<h3 id="3-理財不是追求最高報酬，而是合理性"><a href="#3-理財不是追求最高報酬，而是合理性" class="headerlink" title="3. 理財不是追求最高報酬，而是合理性"></a><strong>3. 理財不是追求最高報酬，而是合理性</strong></h3><ul>
+<li>理性投資者會計算所有可能情境，而<strong>合理投資者則更注重可持續性</strong>。  </li>
+<li>預留「安全邊際」以應對市場變動，不被短期波動影響決策。</li>
+</ul>
+<h3 id="4-時間與複利的力量"><a href="#4-時間與複利的力量" class="headerlink" title="4. 時間與複利的力量"></a><strong>4. 時間與複利的力量</strong></h3><ul>
+<li>巴菲特成功的關鍵不只是選股能力，而是「<strong>早期開始且長期堅持</strong>」。  </li>
+<li>理財的最大優勢是時間，長期穩健投資比短期投機更具威力。</li>
+</ul>
+<h3 id="5-金錢的真正價值：選擇與自由"><a href="#5-金錢的真正價值：選擇與自由" class="headerlink" title="5. 金錢的真正價值：選擇與自由"></a><strong>5. 金錢的真正價值：選擇與自由</strong></h3><ul>
+<li><strong>財務自由的關鍵不是賺最多，而是擁有選擇權。</strong>  </li>
+<li>控制時間是金錢帶來的最大紅利，讓人有能力選擇生活方式。</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《致富心態》不只是一本投資指南，而是一本探討金錢哲學與行為心理的書籍。它提醒我們，投資與理財不僅關乎數字，更關乎決策與習慣。真正的財富來自於明智的選擇，而非短暫的市場勝利。透過理解風險、長期思維與行為管理，每個人都能建立穩健的財務基礎，邁向真正的財務自由。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>致富心態</tag>
+        <tag>關於財富、貪婪與幸福的20堂理財課</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《別對每件事都有反應2：不執著的練習！》| 閱讀心得學習筆記</title>
     <url>/2025/01/20/reading-notes-the-practice-of-non-attachment/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-the-practice-of-non-attachment-1.jpg"></p>
@@ -5512,48 +5641,6 @@
         <tag>別對每件事都有反應</tag>
         <tag>別對每件事都有反應2</tag>
         <tag>不執著的練習</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《致富心態：關於財富、貪婪與幸福的20堂理財課》| 閱讀心得學習筆記</title>
-    <url>/2023/01/13/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《致富心態：關於財富、貪婪與幸福的20堂理財課》</span><br><span class="line">作者： 摩根‧豪瑟  </span><br><span class="line">原文作者： Morgan Housel</span><br><span class="line">譯者： 周玉文</span><br><span class="line">出版社：天下文化 </span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「財富的真正價值，不在於數字，而在於選擇與自由。財務管理更多取決於行為模式、心理因素和習慣。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這個資訊爆炸的時代，許多人認為投資成功的關鍵是專業知識和市場資訊。然而，《致富心態》一書顛覆了這種傳統觀念，強調財務管理更多取決於行為模式、心理因素和習慣。摩根‧豪瑟透過真實故事與案例，揭示了致富與守財的核心原則，幫助讀者培養正確的金錢觀，邁向財務自由。</p>
-<p><img src="/img/posts/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><h3 id="1-致富與守財的關鍵區別"><a href="#1-致富與守財的關鍵區別" class="headerlink" title="1. 致富與守財的關鍵區別"></a><strong>1. 致富與守財的關鍵區別</strong></h3><ul>
-<li><strong>致富：</strong> 依靠機會、運氣、風險承擔與長期堅持。  </li>
-<li><strong>守財：</strong> 需要謹慎、節制、良好的財務習慣來維持財富。</li>
-</ul>
-<h3 id="2-心態比知識更重要"><a href="#2-心態比知識更重要" class="headerlink" title="2. 心態比知識更重要"></a><strong>2. 心態比知識更重要</strong></h3><ul>
-<li>投資成功不只是計算數字，而是管理情緒、耐心與風險承受能力。  </li>
-<li>即使擁有相同的投資知識，不同的行為模式將導致截然不同的財務結果。</li>
-</ul>
-<h3 id="3-理財不是追求最高報酬，而是合理性"><a href="#3-理財不是追求最高報酬，而是合理性" class="headerlink" title="3. 理財不是追求最高報酬，而是合理性"></a><strong>3. 理財不是追求最高報酬，而是合理性</strong></h3><ul>
-<li>理性投資者會計算所有可能情境，而<strong>合理投資者則更注重可持續性</strong>。  </li>
-<li>預留「安全邊際」以應對市場變動，不被短期波動影響決策。</li>
-</ul>
-<h3 id="4-時間與複利的力量"><a href="#4-時間與複利的力量" class="headerlink" title="4. 時間與複利的力量"></a><strong>4. 時間與複利的力量</strong></h3><ul>
-<li>巴菲特成功的關鍵不只是選股能力，而是「<strong>早期開始且長期堅持</strong>」。  </li>
-<li>理財的最大優勢是時間，長期穩健投資比短期投機更具威力。</li>
-</ul>
-<h3 id="5-金錢的真正價值：選擇與自由"><a href="#5-金錢的真正價值：選擇與自由" class="headerlink" title="5. 金錢的真正價值：選擇與自由"></a><strong>5. 金錢的真正價值：選擇與自由</strong></h3><ul>
-<li><strong>財務自由的關鍵不是賺最多，而是擁有選擇權。</strong>  </li>
-<li>控制時間是金錢帶來的最大紅利，讓人有能力選擇生活方式。</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>《致富心態》不只是一本投資指南，而是一本探討金錢哲學與行為心理的書籍。它提醒我們，投資與理財不僅關乎數字，更關乎決策與習慣。真正的財富來自於明智的選擇，而非短暫的市場勝利。透過理解風險、長期思維與行為管理，每個人都能建立穩健的財務基礎，邁向真正的財務自由。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>致富心態</tag>
-        <tag>關於財富、貪婪與幸福的20堂理財課</tag>
       </tags>
   </entry>
   <entry>
@@ -5764,46 +5851,6 @@
       </tags>
   </entry>
   <entry>
-    <title>《僧人心態：從道場到職場，訓練你的心，過著平靜而有目標的每一天》| 閱讀心得學習筆記</title>
-    <url>/2020/10/01/reading-notes-think-like-a-monk/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-think-like-a-monk-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《僧人心態：從道場到職場，訓練你的心，過著平靜而有目標的每一天》</span><br><span class="line">作者： 傑‧謝帝</span><br><span class="line">原文作者： Jay Shetty</span><br><span class="line">譯者： 周家麒</span><br><span class="line">出版社：方智</span><br><span class="line">出版日期：2020/10/01</span><br></pre></td></tr></table></figure>
-
-<p>「你準備好放下焦慮、迎向內在平靜了嗎？」</p>
-<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
-<p>「僧人心態是訓練心智，找到祥和、平靜和人生目標的永恆智慧。透過放下、成長、付出三階段，過著不焦慮、有意義的人生！」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這數位時代，焦慮與迷惘似乎成為常態，而傑‧謝帝，這位曾是商學院高材生卻選擇出家，而後還俗成為「數位世代心靈導師」的新生代思想領袖，透過他的第一本著作，為我們帶來了一份珍貴的指引。本書精煉了他三年僧人生活所學的古老智慧，結合現代生活的實用步驟，帶領讀者體驗「放下 → 成長 → 付出」的三階段旅程，旨在幫助我們擁抱「僧人心態」，處理痛苦與焦慮，提升專注力、人際關係與幸福感，最終過著有意義、不焦慮的人生。</p>
-<p><img src="/img/posts/reading-notes-think-like-a-monk-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
-<li>僧人心態的起點在於重新定義「成功」，選擇追尋內在的喜悅、自信與祥和，而非世俗所熱衷追逐的一切。</li>
-<li>僧人心態是訓練心智、活在當下的方法，透過「放下 → 成長 → 付出」三階段實踐。</li>
-<li>放下階段包含：認識身分認同（你不等於你的想法）、克服負面情緒、善用恐懼的力量及釐清意圖。</li>
-<li>成長階段包含：找到天命與人生目的（蠍子的本性）、建立有能量的例行活動、駕馭心智與放下我執。</li>
-<li>付出階段包含：實踐感恩（世上最有力的解藥）、擁有圓滿人際關係（觀察人群百態）及透過服務（前人種樹，後人乘涼）貢獻世界。</li>
-<li>僧人心態提供實用建議應對人生得失，例如失戀時要相信自身價值，失落時為感受客觀評分，失業時將時間視為另一種財富，失眠時寫感恩日記。</li>
-</ol>
-<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
-<li>每天睡前寫下感恩日記，減少雜念，以滋養更好的睡眠品質，作為實踐「感恩」的第一步。</li>
-<li>嘗試為感受客觀評分，面對失落時能將痛苦與錢財或親人逝去等情境比較，使痛苦變得可以承受。</li>
-<li>利用靜心練習中的「呼吸」，每天撥出幾分鐘專注呼吸，學習清除腦中雜音，停止胡思亂想。</li>
-</ol>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ol>
-<li>應如何平衡僧人心態所強調的「無我犧牲」與現代社會追求「個人成就」的價值觀？</li>
-<li>在極度喧囂和資訊爆炸的數位世代，如何有效地實踐書中提出的靜心練習，並維持專注？</li>
-<li>「為什麼無法透過追求幸福來找到幸福」？具體來說，僧人心態指引的真正幸福道路是什麼？</li>
-</ol>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>傑‧謝帝的這本著作不僅是一個故事，更是一份實用的現代心靈指南。它將古老智慧精煉成可操作的步驟，鼓勵讀者擺脫社會制約，重新設計人生，找到真正的目的與平靜。透過放下執著、不斷成長並服務他人，我們都能培養出「僧人心態」，在混亂的世界中找到內在的力量，過上不焦慮且有意義的人生。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>僧人心態：從道場到職場，訓練你的心，過著平靜而有目標的每一天</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>《那些旅行教我的事：用一趟旅行重啟生活的初心，我們終將在路上，和理想的自己相遇》| 閱讀心得學習筆記</title>
     <url>/2023/06/01/reading-notes-those-travels-taught-me-use-a-trip-to-restart-the-original-intention-of-life/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-those-travels-taught-me-use-a-trip-to-restart-the-original-intention-of-life-1.jpg"></p>
@@ -5897,6 +5944,84 @@
       </tags>
   </entry>
   <entry>
+    <title>《僧人心態：從道場到職場，訓練你的心，過著平靜而有目標的每一天》| 閱讀心得學習筆記</title>
+    <url>/2020/10/01/reading-notes-think-like-a-monk/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-think-like-a-monk-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《僧人心態：從道場到職場，訓練你的心，過著平靜而有目標的每一天》</span><br><span class="line">作者： 傑‧謝帝</span><br><span class="line">原文作者： Jay Shetty</span><br><span class="line">譯者： 周家麒</span><br><span class="line">出版社：方智</span><br><span class="line">出版日期：2020/10/01</span><br></pre></td></tr></table></figure>
+
+<p>「你準備好放下焦慮、迎向內在平靜了嗎？」</p>
+<h1 id="本書金句"><a href="#本書金句" class="headerlink" title="本書金句"></a>本書金句</h1><blockquote>
+<p>「僧人心態是訓練心智，找到祥和、平靜和人生目標的永恆智慧。透過放下、成長、付出三階段，過著不焦慮、有意義的人生！」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>在這數位時代，焦慮與迷惘似乎成為常態，而傑‧謝帝，這位曾是商學院高材生卻選擇出家，而後還俗成為「數位世代心靈導師」的新生代思想領袖，透過他的第一本著作，為我們帶來了一份珍貴的指引。本書精煉了他三年僧人生活所學的古老智慧，結合現代生活的實用步驟，帶領讀者體驗「放下 → 成長 → 付出」的三階段旅程，旨在幫助我們擁抱「僧人心態」，處理痛苦與焦慮，提升專注力、人際關係與幸福感，最終過著有意義、不焦慮的人生。</p>
+<p><img src="/img/posts/reading-notes-think-like-a-monk-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ol>
+<li>僧人心態的起點在於重新定義「成功」，選擇追尋內在的喜悅、自信與祥和，而非世俗所熱衷追逐的一切。</li>
+<li>僧人心態是訓練心智、活在當下的方法，透過「放下 → 成長 → 付出」三階段實踐。</li>
+<li>放下階段包含：認識身分認同（你不等於你的想法）、克服負面情緒、善用恐懼的力量及釐清意圖。</li>
+<li>成長階段包含：找到天命與人生目的（蠍子的本性）、建立有能量的例行活動、駕馭心智與放下我執。</li>
+<li>付出階段包含：實踐感恩（世上最有力的解藥）、擁有圓滿人際關係（觀察人群百態）及透過服務（前人種樹，後人乘涼）貢獻世界。</li>
+<li>僧人心態提供實用建議應對人生得失，例如失戀時要相信自身價值，失落時為感受客觀評分，失業時將時間視為另一種財富，失眠時寫感恩日記。</li>
+</ol>
+<h1 id="應用行動方案"><a href="#應用行動方案" class="headerlink" title="應用行動方案"></a>應用行動方案</h1><ol>
+<li>每天睡前寫下感恩日記，減少雜念，以滋養更好的睡眠品質，作為實踐「感恩」的第一步。</li>
+<li>嘗試為感受客觀評分，面對失落時能將痛苦與錢財或親人逝去等情境比較，使痛苦變得可以承受。</li>
+<li>利用靜心練習中的「呼吸」，每天撥出幾分鐘專注呼吸，學習清除腦中雜音，停止胡思亂想。</li>
+</ol>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ol>
+<li>應如何平衡僧人心態所強調的「無我犧牲」與現代社會追求「個人成就」的價值觀？</li>
+<li>在極度喧囂和資訊爆炸的數位世代，如何有效地實踐書中提出的靜心練習，並維持專注？</li>
+<li>「為什麼無法透過追求幸福來找到幸福」？具體來說，僧人心態指引的真正幸福道路是什麼？</li>
+</ol>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>傑‧謝帝的這本著作不僅是一個故事，更是一份實用的現代心靈指南。它將古老智慧精煉成可操作的步驟，鼓勵讀者擺脫社會制約，重新設計人生，找到真正的目的與平靜。透過放下執著、不斷成長並服務他人，我們都能培養出「僧人心態」，在混亂的世界中找到內在的力量，過上不焦慮且有意義的人生。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>僧人心態：從道場到職場，訓練你的心，過著平靜而有目標的每一天</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>《去書店買個好人生：日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫》| 閱讀心得學習筆記</title>
+    <url>/2022/11/24/reading-notes-to-buy-a-good-life-at-a-bookstore/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-to-buy-a-good-life-at-a-bookstore-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《去書店買個好人生：日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫》</span><br><span class="line">作者： 千田琢哉  </span><br><span class="line">譯者： 林詠純</span><br><span class="line">繪者： Bianco Tsai</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2022/11/24</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「世上沒有匱乏的閱讀者。越困頓的時刻，越需要透過閱讀，投資智慧。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>這不是一本教你怎麼快速翻書的工具書，而是一本用來「翻轉人生思維」的實戰手冊。作者千田琢哉從一名問題學生轉變為年銷破百萬冊的作家，他用自身經歷證明：閱讀可以是最低成本、最高報酬的自我投資。這本書，不只是給職場人一盞明燈，更是為人生卡關者而寫的行動指南。</p>
+<p><img src="/img/posts/reading-notes-to-buy-a-good-life-at-a-bookstore-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>閱讀是生存智慧的基礎</strong>：時代再怎麼變，有知識就能活下去。閱讀能創造「時間的寬裕」與「選擇的自由」。  </li>
+<li><strong>閱讀激發行動力</strong>：透過選書與實踐的循環，養成立即行動的習慣，減少拖延與猶豫。  </li>
+<li><strong>書本是最好的職涯顧問</strong>：從溝通、換位思考到變現，每項職場技能都能在書中找到解法與靈感。  </li>
+<li><strong>選書即選擇自己未來的樣子</strong>：命定之書無法被推薦，只能透過大量閱讀主動遇見。  </li>
+<li><strong>閱讀力等於轉化力</strong>：真正厲害的讀者，不只吸收，更能「轉述、轉化並實踐」。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們為何總是用「沒時間」為藉口，忽略最能改變自己的閱讀？  </li>
+<li>你還記得最後一次主動買書，是為了什麼？  </li>
+<li>書架上的書，是裝飾還是行動的提醒？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><ul>
+<li>閱讀是一種內在鍛鍊，更是面對未來最有力的準備。</li>
+<li>本書透過千田琢哉真實的成長故事與具體的閱讀策略，為每位迷惘的現代人指引一條通往「自我升級」的捷徑。  </li>
+<li>不需要立刻成為專家，但你可以先從走進書店開始，選一本今天的你需要的書——未來的你會感謝現在的自己。</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>去書店買個好人生</tag>
+        <tag>日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《把生活過成賞心悅目的好日子：身心整理×極簡日常×居家風格，打造閃閃發光的自在質感生活》| 閱讀心得學習筆記</title>
     <url>/2025/02/05/reading-notes-to-live-to-exist/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-to-live-to-exist-1.jpg"></p>
@@ -5952,44 +6077,6 @@
         <tag>把生活過成賞心悅目的好日子</tag>
         <tag>身心整理×極簡日常×居家風格</tag>
         <tag>打造閃閃發光的自在質感生活</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《去書店買個好人生：日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫》| 閱讀心得學習筆記</title>
-    <url>/2022/11/24/reading-notes-to-buy-a-good-life-at-a-bookstore/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-to-buy-a-good-life-at-a-bookstore-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《去書店買個好人生：日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫》</span><br><span class="line">作者： 千田琢哉  </span><br><span class="line">譯者： 林詠純</span><br><span class="line">繪者： Bianco Tsai</span><br><span class="line">出版社：今周刊  </span><br><span class="line">出版日期：2022/11/24</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「世上沒有匱乏的閱讀者。越困頓的時刻，越需要透過閱讀，投資智慧。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>這不是一本教你怎麼快速翻書的工具書，而是一本用來「翻轉人生思維」的實戰手冊。作者千田琢哉從一名問題學生轉變為年銷破百萬冊的作家，他用自身經歷證明：閱讀可以是最低成本、最高報酬的自我投資。這本書，不只是給職場人一盞明燈，更是為人生卡關者而寫的行動指南。</p>
-<p><img src="/img/posts/reading-notes-to-buy-a-good-life-at-a-bookstore-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>閱讀是生存智慧的基礎</strong>：時代再怎麼變，有知識就能活下去。閱讀能創造「時間的寬裕」與「選擇的自由」。  </li>
-<li><strong>閱讀激發行動力</strong>：透過選書與實踐的循環，養成立即行動的習慣，減少拖延與猶豫。  </li>
-<li><strong>書本是最好的職涯顧問</strong>：從溝通、換位思考到變現，每項職場技能都能在書中找到解法與靈感。  </li>
-<li><strong>選書即選擇自己未來的樣子</strong>：命定之書無法被推薦，只能透過大量閱讀主動遇見。  </li>
-<li><strong>閱讀力等於轉化力</strong>：真正厲害的讀者，不只吸收，更能「轉述、轉化並實踐」。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們為何總是用「沒時間」為藉口，忽略最能改變自己的閱讀？  </li>
-<li>你還記得最後一次主動買書，是為了什麼？  </li>
-<li>書架上的書，是裝飾還是行動的提醒？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><ul>
-<li>閱讀是一種內在鍛鍊，更是面對未來最有力的準備。</li>
-<li>本書透過千田琢哉真實的成長故事與具體的閱讀策略，為每位迷惘的現代人指引一條通往「自我升級」的捷徑。  </li>
-<li>不需要立刻成為專家，但你可以先從走進書店開始，選一本今天的你需要的書——未來的你會感謝現在的自己。</li>
-</ul>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>去書店買個好人生</tag>
-        <tag>日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫</tag>
       </tags>
   </entry>
   <entry>
@@ -6834,6 +6921,43 @@
       </tags>
   </entry>
   <entry>
+    <title>《禪者的初心：賈伯斯的禪學入門聖經，用正念找回內在平靜，踏上靈魂尋覓之旅(二版)》 | 閱讀心得學習筆記</title>
+    <url>/2024/05/02/reading-notes-zen-mind-beginners-mind/</url>
+    <content><![CDATA[<p><img src="/img/posts/reading-notes-zen-mind-beginners-mind-1.jpg"></p>
+<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《禪者的初心：賈伯斯的禪學入門聖經，用正念找回內在平靜，踏上靈魂尋覓之旅(二版)》</span><br><span class="line">作者： 鈴木俊隆  </span><br><span class="line">譯者： 駱香潔</span><br><span class="line">出版社：自由之丘  </span><br><span class="line">出版日期：2024/05/02</span><br></pre></td></tr></table></figure>
+
+<blockquote>
+<p>「真正的禪修祕訣：永遠當個初學者。初學者的心沒有偏見與習氣，最能接近真理。不分好壞、不執對錯，保持包容與接納。」</p>
+</blockquote>
+<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《禪者的初心：賈伯斯的禪學入門聖經，用正念找回內在平靜，踏上靈魂尋覓之旅》是一本深入卻親切的禪學入門書，由鈴木俊隆禪師親筆所著，既是蘋果創辦人賈伯斯的禪修啟蒙書，也是一把通往內在寧靜與真實自我的萬能鑰匙。本書強調「初心者之心」的重要性，提醒我們唯有放下執念、保持純真與開放，才能真正走上覺察與慈悲的修行之路。</p>
+<p><img src="/img/posts/reading-notes-zen-mind-beginners-mind-2.jpg"></p>
+<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
+<li><strong>初心之心即是禪修之心</strong>：<code>初學者的心沒有偏見與習氣</code>，最能<code>接近真理</code>。  </li>
+<li><strong>坐禪是回歸本心的唯一方式</strong>：不是為了成就，而是為了展現<code>當下的自己</code>。  </li>
+<li><strong>身心姿勢影響精神狀態</strong>：透過<code>坐正</code>、<code>呼吸</code>、<code>放鬆</code>，可以回歸<code>內在穩定</code>。  </li>
+<li><strong>禪的核心在於「放下二元」</strong>：<code>不分好壞</code>、<code>不執對錯</code>，<code>保持包容與接納</code>。  </li>
+<li><strong>正確態度勝於技巧</strong>：<code>重複練習</code>、<code>自然體會</code>，才能真正內化禪修精神。  </li>
+<li><strong>不追求開悟、不貪求成果</strong>：真正的修行是一種<code>生活態度</code>，不是目標導向。</li>
+</ul>
+<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
+<li>我們是否太常陷入對「成果」的執著，而忘了修行本身就是目的？  </li>
+<li>當我們學會放空與接受，是否就能更容易與自己與他人和解？  </li>
+<li>如果「初心」是心靈的根本，我們要如何在現代忙碌生活中持續保持？</li>
+</ul>
+<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書最大的價值不在於理論，而是讓人在日常中自然實踐禪心。鈴木俊隆用最平實的語言，解開禪宗的複雜包裝，將「初心」化為生活中的一種清明狀態。對於想要開始探索自我、培養內在平靜與覺察的人而言，這本書是踏出第一步的最佳指南。</p>
+]]></content>
+      <tags>
+        <tag>閱讀心得</tag>
+        <tag>閱讀學習</tag>
+        <tag>閱讀筆記</tag>
+        <tag>閱讀心得學習筆記</tag>
+        <tag>禪者的初心</tag>
+        <tag>賈伯斯的禪學入門聖經</tag>
+        <tag>用正念找回內在平靜</tag>
+        <tag>踏上靈魂尋覓之旅</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>《你的愛情需要人間清醒： 寫給每個在愛裡迷路的大人，50則停止內耗的戀愛心法》| 閱讀心得學習筆記</title>
     <url>/2022/03/30/reading-notes-your-love-needs-a-reality-check/</url>
     <content><![CDATA[<p><img src="/img/posts/reading-notes-your-love-needs-a-reality-check-1.jpg"></p>
@@ -6875,43 +6999,6 @@
         <tag>閱讀心得學習筆記</tag>
         <tag>顯化效應</tag>
         <tag>每天都能做的「注意力鍊金術」，讓你心想事成</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>《禪者的初心：賈伯斯的禪學入門聖經，用正念找回內在平靜，踏上靈魂尋覓之旅(二版)》 | 閱讀心得學習筆記</title>
-    <url>/2024/05/02/reading-notes-zen-mind-beginners-mind/</url>
-    <content><![CDATA[<p><img src="/img/posts/reading-notes-zen-mind-beginners-mind-1.jpg"></p>
-<figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">《禪者的初心：賈伯斯的禪學入門聖經，用正念找回內在平靜，踏上靈魂尋覓之旅(二版)》</span><br><span class="line">作者： 鈴木俊隆  </span><br><span class="line">譯者： 駱香潔</span><br><span class="line">出版社：自由之丘  </span><br><span class="line">出版日期：2024/05/02</span><br></pre></td></tr></table></figure>
-
-<blockquote>
-<p>「真正的禪修祕訣：永遠當個初學者。初學者的心沒有偏見與習氣，最能接近真理。不分好壞、不執對錯，保持包容與接納。」</p>
-</blockquote>
-<h1 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h1><p>《禪者的初心：賈伯斯的禪學入門聖經，用正念找回內在平靜，踏上靈魂尋覓之旅》是一本深入卻親切的禪學入門書，由鈴木俊隆禪師親筆所著，既是蘋果創辦人賈伯斯的禪修啟蒙書，也是一把通往內在寧靜與真實自我的萬能鑰匙。本書強調「初心者之心」的重要性，提醒我們唯有放下執念、保持純真與開放，才能真正走上覺察與慈悲的修行之路。</p>
-<p><img src="/img/posts/reading-notes-zen-mind-beginners-mind-2.jpg"></p>
-<h1 id="重點摘要"><a href="#重點摘要" class="headerlink" title="重點摘要"></a>重點摘要</h1><ul>
-<li><strong>初心之心即是禪修之心</strong>：<code>初學者的心沒有偏見與習氣</code>，最能<code>接近真理</code>。  </li>
-<li><strong>坐禪是回歸本心的唯一方式</strong>：不是為了成就，而是為了展現<code>當下的自己</code>。  </li>
-<li><strong>身心姿勢影響精神狀態</strong>：透過<code>坐正</code>、<code>呼吸</code>、<code>放鬆</code>，可以回歸<code>內在穩定</code>。  </li>
-<li><strong>禪的核心在於「放下二元」</strong>：<code>不分好壞</code>、<code>不執對錯</code>，<code>保持包容與接納</code>。  </li>
-<li><strong>正確態度勝於技巧</strong>：<code>重複練習</code>、<code>自然體會</code>，才能真正內化禪修精神。  </li>
-<li><strong>不追求開悟、不貪求成果</strong>：真正的修行是一種<code>生活態度</code>，不是目標導向。</li>
-</ul>
-<h1 id="問題討論"><a href="#問題討論" class="headerlink" title="問題討論"></a>問題討論</h1><ul>
-<li>我們是否太常陷入對「成果」的執著，而忘了修行本身就是目的？  </li>
-<li>當我們學會放空與接受，是否就能更容易與自己與他人和解？  </li>
-<li>如果「初心」是心靈的根本，我們要如何在現代忙碌生活中持續保持？</li>
-</ul>
-<h1 id="總結"><a href="#總結" class="headerlink" title="總結"></a>總結</h1><p>本書最大的價值不在於理論，而是讓人在日常中自然實踐禪心。鈴木俊隆用最平實的語言，解開禪宗的複雜包裝，將「初心」化為生活中的一種清明狀態。對於想要開始探索自我、培養內在平靜與覺察的人而言，這本書是踏出第一步的最佳指南。</p>
-]]></content>
-      <tags>
-        <tag>閱讀心得</tag>
-        <tag>閱讀學習</tag>
-        <tag>閱讀筆記</tag>
-        <tag>閱讀心得學習筆記</tag>
-        <tag>禪者的初心</tag>
-        <tag>賈伯斯的禪學入門聖經</tag>
-        <tag>用正念找回內在平靜</tag>
-        <tag>踏上靈魂尋覓之旅</tag>
       </tags>
   </entry>
   <entry>
