@@ -70,8 +70,8 @@ friends: [
     title: "聽出職場軟實力 Podcast 🎧",
     href: "https://open.firstory.me/user/soft-skills-hacker",
   },
+  { title: "CareerTags", href: "https://www.careertags.com/" },
   { title: "CoderBridge", href: "https://tw.coderbridge.com/" },
-  { title: "Yohowto", href: "https://tw.yohowto.com/" },
   {
     title: "TechBridge Weekly 技術週刊",
     href: "http://weekly.techbridge.cc/",
