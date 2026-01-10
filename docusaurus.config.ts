@@ -90,17 +90,38 @@ const config: Config = {
   ],
   plugins: [
     [
-      "@easyops-cn/docusaurus-search-local",
+      // "@easyops-cn/docusaurus-search-local",
+      // {
+      //   // index hash
+      //   hashed: true,
+      //   // language
+      //   language: ["en", "zh"],
+      //   // highlight term
+      //   highlightSearchTermsOnTargetPage: false,
+      //   // docs route base path
+      //   docsRouteBasePath: "/resources",
+      //   blogRouteBasePath: "/blog",
+      // },
+      "@cmfcmf/docusaurus-search-local",
       {
-        // index hash
-        hashed: true,
-        // language
+        indexBlog: true,
+        indexDocs: true,
+        indexPages: false,
         language: ["en", "zh"],
-        // highlight term
-        highlightSearchTermsOnTargetPage: false,
-        // docs route base path
+        style: undefined,
+        maxSearchResults: 8,
+
         docsRouteBasePath: "/resources",
         blogRouteBasePath: "/blog",
+
+        lunr: {
+          tokenizerSeparator: /[\s\-]+/,
+          b: 0.75,
+          k1: 1.2,
+          titleBoost: 5,
+          contentBoost: 1,
+          parentCategoriesBoost: 2,
+        },
       },
     ],
   ],
