@@ -97,7 +97,7 @@ const config: Config = {
         // language
         language: ["en", "zh"],
         // highlight term
-        highlightSearchTermsOnTargetPage: true,
+        highlightSearchTermsOnTargetPage: false,
         // docs route base path
         docsRouteBasePath: "/resources",
         blogRouteBasePath: "/blog",
