@@ -129,16 +129,15 @@ const config: Config = {
       //   src: "img/logo.png",
       // },
       items: [
+        { to: "blog", label: "最新文章", position: "left" },
+        { to: "/bookstore", label: "人生推書店", position: "left" },
         {
           type: "docSidebar",
           sidebarId: "resourceSidebar",
           position: "left",
           label: "學習資源",
         },
-        { to: "blog", label: "最新文章", position: "left" },
-        { to: "/bookstore", label: "人生推書店", position: "left" },
         { to: "/about", label: "關於本站", position: "left" },
-
         // {`
         //   type: "docSidebar",
         //   sidebarId: "tutorialSidebar",

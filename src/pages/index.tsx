@@ -21,6 +21,12 @@ function HomepageHeader() {
           <Link className="button button--secondary button--lg" to="/blog">
             瀏覽最新文章
           </Link>
+          <Link
+            className="margin-left--sm button button--success button--lg"
+            to="/bookstore"
+          >
+            拜訪人生推書店
+          </Link>
         </div>
       </div>
     </header>
