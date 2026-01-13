@@ -38,6 +38,19 @@ export default function Home(): ReactNode {
       <main>
         <HomepageFeatures />
       </main>
+      <iframe
+        src="https://kdchangnet.substack.com/embed"
+        width="100%"
+        height="320"
+        style={{
+          border: "1px solid #EEE",
+          maxWidth: "100%",
+          margin: "0 auto",
+          display: "block",
+        }}
+        frameBorder="0"
+        scrolling="no"
+      ></iframe>
     </Layout>
   );
 }
