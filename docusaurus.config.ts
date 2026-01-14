@@ -194,7 +194,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} KD Tech Blog, Inc. Built with ❤️ in Taiwan.`,
+      copyright: `Copyright © ${new Date().getFullYear()} KD 閱讀職場人生 🔖. Built with ❤️ in Taiwan.`,
     },
     prism: {
       theme: prismThemes.github,
