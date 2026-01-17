@@ -1,7 +1,7 @@
 ---
 title: 《一本書讀懂匯率： 44個匯率關鍵概念，看懂全球經濟脈動，做對投資理財決策》| 閱讀心得學習筆記
 date: 2025-04-24 11:33:41
-author: kdchang
+authors: kdchang
 description: 《一本書讀懂匯率》深入剖析了匯率的基本原理及其對全球經濟的影響，尤其是在美中貿易戰等重大國際事件中，匯率作為一種經濟武器的重要性愈加顯著。無論是個人投資、國際貿易，還是國家的經濟政策，匯率都扮演著關鍵角色。本書以淺顯易懂的方式，幫助讀者理解匯率背後的複雜關係。
 cover: https://www.kdchang.net/img/posts/reading-notes-understand-exchange-rates-with-a-book-1.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 《一日一國家，世界地圖全解讀：每天1分鐘，掌握全球212國！地理位置×歷史脈絡×國際情勢，培養國際觀最佳入門書》| 閱讀心得學習筆記
 date: 2024-08-08 11:33:41
-author: kdchang
+authors: kdchang
 description: 《一日一國家，世界地圖全解讀》不僅是一本國際知識的百科全書，更是開啟全球視野的最佳入門書。透過每日學習，我們能更全面地理解世界，並在變動的時代中做出更明智的選擇。
 cover: https://www.kdchang.net/img/posts/reading-notes-one-day-one-country-world-map-1.jpg
 tags: 

@@ -1,7 +1,7 @@
 ---
 title: 關於 LLMs 大型語言模型技術應用的 10 個關鍵字
 date: 2024-05-22 11:33:41
-author: kdchang
+authors: kdchang
 tags: 
     - 生成式 AI
     - GenAI

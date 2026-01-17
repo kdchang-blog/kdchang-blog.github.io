@@ -2,7 +2,7 @@
 title: 財報分析入門筆記
 date: 2017-06-30 22:00:00
 header-img: "cover.jpg"
-author: kdchang
+authors: kdchang
 cover: https://www.kdchang.net/img/posts/income.png
 tags:
     - financial

@@ -3,7 +3,7 @@ title: 《你願意，人生就會值得：蔡康永的情商課3》 | 閱讀心
 date: 2024-08-01 11:33:41
 description: 你願意人生就會值得：蔡康永透過本書，引導我們以情商為工具，在追求更好生活的過程中，減少自我消耗，學會善待自己。書中以「陽光、微風、水滴」比喻成長歷程，提醒我們人生無須一步登天，只要輕輕揉捏，調整步伐，就能走得更遠、更自在。
 cover: https://www.kdchang.net/img/posts/reading-notes-you-are-willing-life-will-be-worth-it-1.jpg
-author: kdchang
+authors: kdchang
 tags: 
     - 人生就會值得
     - 你願意

@@ -1,7 +1,7 @@
 ---
 title: 《擁抱 B 選項》| 閱讀心得學習筆記
 date: 2017-10-02 11:33:41
-author: kdchang
+authors: kdchang
 description: 《擁抱 B 選項》是一本直面人生失落與創傷的真誠之作，由 Facebook 營運長雪柔·桑德伯格與心理學家亞當·格蘭特合著。透過個人喪偶的痛徹經歷與心理學的實證研究，作者帶領讀者學會如何在失去中重建、在悲傷裡前行，找回生命的意義與幸福的可能。
 cover: https://www.kdchang.net/img/posts/reading-notes-option-b-facing-adversity-building-resilience-and-finding-joy-1.jpg
 tags: 

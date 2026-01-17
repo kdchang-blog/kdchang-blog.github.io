@@ -1,7 +1,7 @@
 ---
 title: 關於 LLMs 大型語言模型技術商業應用的 10 個關鍵字
 date: 2024-05-22 11:33:41
-author: kdchang
+authors: kdchang
 cover: https://www.kdchang.net/img/posts/i-am-scrum-master.png
 tags: 
     - 生成式 AI

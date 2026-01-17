@@ -1,7 +1,7 @@
 ---
 title: 《每一天練習照顧自己:當我們為自己負起責任, 就能真正放手, 做自己》| 閱讀心得學習筆記
 date: 2014-07-01 11:33:41
-author: kdchang
+authors: kdchang
 description: 《每一天練習照顧自己》是梅樂蒂·碧緹的代表作，這本書深入探討了如何放下過去，勇敢面對自己，並在繁忙的生活中找到內心的自由與平靜。作者結合自身經歷，提供了實用的建議與練習，幫助讀者放下執著、建立自我關愛，並最終實現與自己和解、活出自我。本書的價值在於提醒每一位讀者，真正的幸福來自於自己，而非依賴他人來給予。
 cover: https://www.kdchang.net/img/posts/reading-notes-codependent-no-more-how-to-stop-controlling-others-and-start-caring-for-yourself-1.jpg
 tags: 

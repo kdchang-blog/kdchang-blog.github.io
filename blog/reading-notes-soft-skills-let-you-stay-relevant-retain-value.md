@@ -1,7 +1,7 @@
 ---
 title: 《軟技能：soft skills，讓你不過時、不貶值、不消失，工作與人生的升級說明書》| 閱讀心得學習筆記
 date: 2025-01-03 11:33:41
-author: kdchang
+authors: kdchang
 description: 當我們以為只要技能夠硬，職場就能一路順遂，現實卻給了另一種答案：三十五歲後，能不能留在場上、走得更遠，關鍵往往是你是否具備影響他人的「軟實力」。《軟技能升級之路》由羅振宇、脫不花策劃，邀請 30 位橫跨科技、教育、經濟、心理等領域的大師，寫給職場人的30封信，帶你拆解什麼是軟技能、如何修練，以及如何讓這些能力成為你長期發光的內在引擎。
 cover: https://www.kdchang.net/img/posts/reading-notes-soft-skills-let-you-stay-relevant-retain-value-1.jpg
 tags:

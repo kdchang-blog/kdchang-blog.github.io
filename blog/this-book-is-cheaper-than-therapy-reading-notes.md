@@ -1,7 +1,7 @@
 ---
 title: 《這本書比治療還便宜！讓自己活得更好的心理照顧指南：跟著心理師提升情緒韌性，設立界線×停止內耗，生活過得更輕鬆》| 閱讀心得學習筆記
 date: 2025-09-04 11:33:41
-author: kdchang
+authors: kdchang
 description: 這本心理照顧指南由資深心理師莉茲凱莉撰寫，旨在打破心理諮商的高門檻。作者以幽默、真誠且毫不說教的筆調，將診間內的專業引導轉化為日常可行的微小行動。本書核心價值在於強調自我照護並非奢侈品，而是每個人在現代社會中必須掌握的生存技能，幫助讀者在無法負擔正式治療時，仍能透過科學且有效的方法提升情緒韌性。
 cover: https://www.kdchang.net/img/posts/this-book-is-cheaper-than-therapy-reading-notes-1.jpg
 tags:

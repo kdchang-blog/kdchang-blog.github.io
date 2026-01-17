@@ -1,7 +1,7 @@
 ---
 title: 《在關係變成傷害之前：為什麼愈相愛愈受傷？停止悔恨、執迷與焦慮的關係修復心理學，療癒內在失控感，重建愛人與被愛的力量》| 閱讀心得學習筆記
 date: 2025-02-05 11:33:41
-author: kdchang
+authors: kdchang
 description: 《在關係變成傷害之前》深入探討了親密關係中的情感失控與自我覺察的重要性。書中以心理師的視角，透過一個又一個真實的諮詢案例，探討了愛情中自我盲區的存在，以及如何透過情緒覺察，避免關係中的傷害。這本書的核心目的是幫助讀者理解情緒失控背後的心理機制，並提供具體方法提升情緒自控與關係和諧，從而實現更健康的親密關係。
 cover: https://www.kdchang.net/img/posts/reading-notes-before-relationships-become-harmful-1.jpg
 tags: 

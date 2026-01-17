@@ -1,7 +1,7 @@
 ---
 title: 《把生活過成賞心悅目的好日子：身心整理×極簡日常×居家風格，打造閃閃發光的自在質感生活》| 閱讀心得學習筆記
 date: 2025-02-05 11:33:41
-author: kdchang
+authors: kdchang
 description: 在這本結合料理、生活美學與人生哲學的著作中，日本料理研究家有元葉子娓娓道來她如何以簡約有序的日常實踐，讓人生更加豐盛。從身體照護、穿著打理、居家整理到料理哲學，她分享自己多年累積的生活智慧，讓我們學習如何在看似平凡的每一天，活出自在與美感。
 cover: https://www.kdchang.net/img/posts/reading-notes-to-live-to-exist-1.jpg
 tags: 

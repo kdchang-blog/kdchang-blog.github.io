@@ -1,7 +1,7 @@
 ---
 title: 《川普2.0時代：全球貿易戰、霸權競爭、地緣衝突，如何在經濟動盪的亂局中找到機會？》| 閱讀心得學習筆記
 date: 2025-03-28 11:33:41
-author: kdchang
+authors: kdchang
 description: 當全球尚未從疫情與地緣衝突的陰霾中完全復原，2024 年川普的強勢回歸，再次將世界推入不確定的深水區。《川普2.0：全球大變局的開端》由韓國經濟專家朴鐘勳撰寫，剖析川普二度執政下對全球經濟、政治與社會帶來的連鎖效應。這不只是一本預測未來的書，更是一份全球公民與決策者不可忽視的現實提醒。
 cover: https://www.kdchang.net/img/posts/reading-notes-trump-2-0-era-global-trade-war-hegemony-competition-1.jpg
 tags: 

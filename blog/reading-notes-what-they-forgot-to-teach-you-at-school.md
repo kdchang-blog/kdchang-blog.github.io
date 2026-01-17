@@ -1,7 +1,7 @@
 ---
 title: 《那些學校忘了教你的事： 艾倫‧狄波頓21堂人生哲學課，陪你梳理生活、情緒、感情、工作，找回內心自由和安全感》| 閱讀心得學習筆記
 date: 2022-06-15 11:33:41
-author: kdchang
+authors: kdchang
 description: 為何在接受二十年教育後，我們仍在情緒困境中掙扎？《人生學校》一書源於英國作家艾倫．狄波頓所創的同名課程，試圖彌補我們在成長過程中從未學會的情緒與人際智慧。透過 21 堂核心課題，書中引導我們重新面對自己內心的脆弱，學習修復、放下與自我慈悲，為混亂的情緒與關係提供具體對策。這不僅是一本哲學書，也是一本實用的情緒急救手冊。
 cover: https://www.kdchang.net/img/posts/reading-notes-what-they-forgot-to-teach-you-at-school-1.jpg
 tags:

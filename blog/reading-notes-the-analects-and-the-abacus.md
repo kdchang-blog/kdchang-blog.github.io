@@ -1,7 +1,7 @@
 ---
 title: 《論語與算盤：改變近代日本運命的商業聖經》| 閱讀心得學習筆記
 date: 2022-03-30 11:33:41
-author: kdchang
+authors: kdchang
 description: 《論語與算盤》是近代日本實業之父澀澤榮一融合儒家思想與資本主義精神的經典之作。他一生創辦超過五百家企業，卻始終主張「道德與經濟合一」，認為真正的經營之道不應犧牲誠信，而是兼顧利益與仁義。這本書不僅提供經營策略，也是一部深刻的人生指南，對現代人面對道德與利益衝突時，提供了實用的思考角度。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-analects-and-the-abacus-1.jpg
 tags:

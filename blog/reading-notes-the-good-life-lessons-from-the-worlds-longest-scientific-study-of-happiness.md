@@ -1,7 +1,7 @@
 ---
 title: 《美好人生：史上最長期的哈佛跨世代幸福研究，解答影響一生最重要的關鍵》| 閱讀心得學習筆記
 date: 2023-06-28 11:33:41
-author: kdchang
+authors: kdchang
 description: 我們總以為成功與快樂來自學歷、財富、地位，但哈佛歷時近百年的研究告訴我們，美好人生的關鍵不在於外在條件，而是人際關係的品質。本書《美好人生：史上最長期的哈佛跨世代幸福研究，解答影響一生最重要的關鍵》，以超過八十年的實證研究，揭示了影響一生幸福的真正因素：關係，才是我們該投注最多心力經營的人生課題。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-good-life-lessons-from-the-worlds-longest-scientific-study-of-happiness-1.jpg
 tags:

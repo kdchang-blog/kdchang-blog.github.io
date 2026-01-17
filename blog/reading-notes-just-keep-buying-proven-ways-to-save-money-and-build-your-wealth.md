@@ -3,7 +3,7 @@ title: 《持續買進：資料科學家的投資終極解答，存錢及致富�
 date: 2023-05-30 11:33:41
 description: 本書持續買進，由資料科學家尼克·馬朱利撰寫，以數據分析顛覆傳統投資觀念，指出「逢低買進」並非致富捷徑，反而「持續買進」才是長期累積財富的不敗法則。作者以數據證據破解常見投資迷思，提供務實可行的理財建議，適合新手及有經驗的投資者閱讀。
 cover: https://www.kdchang.net/img/posts/reading-notes-just-keep-buying-proven-ways-to-save-money-and-build-your-wealth-1.jpg
-author: kdchang
+authors: kdchang
 tags: 
     - 持續買進
     - 資料科學家的投資終極解答

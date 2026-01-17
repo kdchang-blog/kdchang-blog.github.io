@@ -1,7 +1,7 @@
 ---
 title: 《不要只顧著努力，也要過得幸福：給認真生活卻不安的你58個幸福清單》| 閱讀心得學習筆記
 date: 2023-03-31 11:33:41
-author: kdchang
+authors: kdchang
 description: 當努力成為習慣，疲憊也悄悄變成常態。跳舞蝸牛以插畫與療癒短文，為在焦慮與倦怠中掙扎的你我，開出58帖關於「幸福」的溫柔處方。本書不談艱深道理，而是從日常切入，引導我們重新感受當下、照顧內在。
 cover: https://www.kdchang.net/img/posts/reading-notes-do-not-just-focus-on-working-hard-also-make-sure-to-live-happily-1.jpg
 tags: 

@@ -1,7 +1,7 @@
 ---
 title: 《活學：終生受用的人生高效能解密》| 閱讀心得學習筆記
 date: 2020-06-08 11:33:41
-author: kdchang
+authors: kdchang
 description: 《活學：終生受用的人生高效能解密》由金惟純撰寫，彙集他從人生巔峰退隱後的深刻體悟。從事業成功者到生命探尋者，他捨棄過去的成就與習慣，重新學習如何活得更自在、圓滿。本書以「活學」為核心，強調透過自省、修心與行動，逐步提升生命的品質，並幫助讀者找到真正的快樂與價值。
 cover: https://www.kdchang.net/img/posts/reading-notes-living-learning-a-lifetime-guide-to-unlocking-high-efficiency-living-1.jpg
 tags: 

@@ -1,7 +1,7 @@
 ---
 title: 《高敏感是種天賦：肯定自己的獨特，感受更多、想像更多、創造更多》| 閱讀心得學習筆記
 date: 2024-08-02 11:33:41
-author: kdchang
+authors: kdchang
 description: 在這個節奏快速、強調競爭與外向的社會裡，「高敏感」往往被視為一種「不夠堅強」的象徵。丹麥心理治療師伊麗絲‧桑德以自身高敏感族的背景，寫下這本深入淺出的心理療癒書，重新定義了「敏感」的價值。她不僅點出高敏感的優勢，也給予具體的方法，引導讀者認識自我、溫柔前行。
 cover: https://www.kdchang.net/img/posts/reading-notes-highly-sensitive-people-in-an-insensitive-world-how-to-create-a-happy-life-1.jpg
 tags: 

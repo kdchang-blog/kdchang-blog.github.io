@@ -1,7 +1,7 @@
 ---
 title: 《面對家人的情緒勒索：修煉你的心，掌握能量流動，其實你也能做得很好》| 閱讀心得學習筆記
 date: 2018-01-31 11:33:41
-author: kdchang
+authors: kdchang
 description: 本書以作者安一心自身經歷為基底，深刻剖析情緒勒索在原生家庭中的影響，並提出具體的心靈練習方法，幫助讀者覺察並突破情緒枷鎖。書中強調，情緒勒索多來自親密關係，尤其是家庭，但受害者絕非弱者，而是可以透過有意識的練習，重建自我界限與力量。透過故事與實踐，本書教導我們不再為愛受苦，而是學會在關係中選擇健康、平衡的互動。
 cover: https://www.kdchang.net/img/posts/reading-notes-face-family-emotional-blackmail-1.jpg
 tags:

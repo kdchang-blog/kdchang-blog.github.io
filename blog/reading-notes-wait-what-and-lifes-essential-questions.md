@@ -1,7 +1,7 @@
 ---
 title: 《你的人生，真正重要的是什麼？：感動百萬人的5個人生提問，那些比正確答案更關鍵的事》| 閱讀心得學習筆記
 date: 2024-02-29 11:33:41
-author: kdchang
+authors: kdchang
 description: 本書《#人生思考題》由維吉尼亞大學校長詹姆斯．萊恩所著，深入探討了人生中最重要的五個問題，並提供了對應的思維方式來幫助讀者突破生涯中的障礙。這些問題並非尋常的答案，而是能引發深刻思考、促進自我成長並改善人際關係的提問。透過幽默的小故事和實際的生活例子，萊恩向我們展示了思考的力量，並告訴我們如何用問題來開創一個充滿智慧的未來。
 cover: https://www.kdchang.net/img/posts/reading-notes-wait-what-and-lifes-essential-questions-1.jpg
 tags: 

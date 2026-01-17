@@ -1,7 +1,7 @@
 ---
 title: 《被討厭的勇氣：自我啟發之父「阿德勒」的教導》| 閱讀心得學習筆記
 date: 2014-10-30 11:33:41
-author: kdchang
+authors: kdchang
 description: 《被討厭的勇氣》以對話體裁，展開一場年輕人與哲學家的深夜辯論，探討自由、自卑、幸福等人生核心課題。本書將阿德勒心理學的精髓轉化為易於理解的故事，指出真正的自由來自於不害怕被他人討厭，並強調「現在的自己」可以選擇新的生活方向，而非被過去束縛。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-courage-to-be-disliked-1-1.jpg
 tags: 

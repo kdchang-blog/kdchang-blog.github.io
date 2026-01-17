@@ -1,7 +1,7 @@
 ---
 title: 《感恩計畫：一次一封感謝函，養成你的幸福感》| 閱讀心得學習筆記
 date: 2024-12-23 11:33:41
-author: kdchang
+authors: kdchang
 description: 《感恩計畫：一次一封感謝函，養成你的幸福感》是一本溫柔卻力量十足的書。作者南西．戴維斯．郭用真實故事示範，感恩不僅是情感的表達，更是一種持續建構幸福的日常行動。書中透過她一年的「每週一封感謝信」計畫，啟發我們重新審視與他人之間的連結與影響。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-thank-you-project-cultivating-happiness-one-letter-of-gratitude-at-a-time-1.jpg
 tags: 

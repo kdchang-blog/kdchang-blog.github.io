@@ -1,7 +1,7 @@
 ---
 title: 《幽默：面對人生與工作，你最需要的軟實力》| 閱讀心得學習筆記
 date: 2023-11-01 11:33:41
-author: kdchang
+authors: kdchang
 description: 《幽默：面對人生與工作，你最需要的軟實力》不僅顛覆了職場必須嚴肅以對的刻板印象，也教我們如何在現實挑戰中，以幽默為槓桿創造更強大的影響力。這門來自史丹佛商學院的熱門課程，將看似輕鬆的「幽默感」，轉化為領導、溝通、創意、抗壓與建立信任的核心能力。透過心理學、行為科學與世界級領導者的實例，作者示範了幽默如何成為我們面對現實的祕密武器。
 cover: https://www.kdchang.net/img/posts/reading-notes-humor-seriously-why-humor-is-a-secret-weapon-in-business-and-life-1.jpg
 tags:

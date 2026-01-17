@@ -1,7 +1,7 @@
 ---
 title: 《薩提爾的 52 個冥想練習：覺察內在的冰山，跟自己和解，與他人共好》| 閱讀心得學習筆記
 date: 2023-01-04 11:33:41
-author: kdchang
+authors: kdchang
 description: 《薩提爾的52個冥想練習》是薩提爾嫡傳弟子約翰．貝曼博士，以一生所學所悟，所整理出的溫柔實用之作。書中結合薩提爾模式的核心精神與冥想技巧，引導讀者從靜心中，重新發現與自我和諧共處的可能。它不僅是一部技巧手冊，更是一份與自己深入對話的邀請。
 cover: https://www.kdchang.net/img/posts/reading-notes-52-satir-meditation-practices-1.jpg
 tags:

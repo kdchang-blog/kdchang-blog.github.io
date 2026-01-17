@@ -1,7 +1,7 @@
 ---
 title: 《掌握人心的MBTI職場溝通術：讓你開口說對話、提案一次過、贏得好人緣的16型人職場指南》| 閱讀心得學習筆記
 date: 2024-02-01 11:33:41
-author: kdchang
+authors: kdchang
 description: 你是否曾懷疑過，為何你努力實踐吸引力法則卻仍原地踏步？《顯化效應》一書由能量教練克麗絲・費拉洛所著，透過「七大祕密法則」與「九個顯化練習」，提供一套可落實於生活的「顯化指南」。本書不僅教你夢想成真，更重點在於轉化內在信念與能量狀態，真正活出由內而外的豐盛人生。
 cover: https://www.kdchang.net/img/posts/reading-notes-mbti-communication-techniques-to-win-hearts-at-work-1.jpg
 tags: 

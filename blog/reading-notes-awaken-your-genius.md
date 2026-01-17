@@ -1,7 +1,7 @@
 ---
 title: 《終於成為自己：覺察內在原力的完整練習，告別從眾，找到你的第一原理，成就潛藏的真心渴望》 | 閱讀心得學習筆記
 date: 2025-03-05 11:33:41
-author: kdchang
+authors: kdchang
 description: 我們都曾在某個時刻疑問：「這真的是我想要的人生嗎？」《成為你自己》（原書名暫譯）是一本關於覺醒與重生的書。作者歐贊‧瓦羅以自己從火箭科學家轉型為法學教授與暢銷作家的經歷，鼓勵讀者勇敢跳脫外在框架，找回與自己天賦與渴望的連結。這不是一本教你成功的書，而是一本教你「回家」的書——回到內在最真實的自己。
 cover: https://www.kdchang.net/img/posts/reading-notes-awaken-your-genius-1.jpg
 tags: 

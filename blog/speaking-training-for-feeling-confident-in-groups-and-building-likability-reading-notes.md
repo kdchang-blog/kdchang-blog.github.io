@@ -1,7 +1,7 @@
 ---
 title: 《面對多人不怯場、聊出好感度的說話訓練：從職場到聚會都適用，在對的時機說對話的 54 個開口攻略》| 閱讀心得學習筆記
 date: 2025-12-04 11:33:41
-author: kdchang
+authors: kdchang
 description: 許多人在面對四人以上的聚會或會議時，常會感到插不上話或腦袋空白。這並非因為性格內向或缺乏自信，而是大腦在應對多人訊息時，會因負荷過重而降低語言腦的運作效率。本書作者岩本武範透過大數據分析，揭開多人溝通的科學邏輯，提供實用的技巧幫助讀者重啟大腦的說話開關，從沉默的旁觀者轉變為讓人感到自在的參與者。
 cover: https://www.kdchang.net/img/posts/speaking-training-for-speaking-confidently-in-groups-and-building-likability-reading-notes-1.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 《男性內在療癒：24 個自我整合練習，卸下盔甲，成為真正自信又情緒成熟的人》| 閱讀心得學習筆記
 date: 2024-04-15 11:33:41
-author: kdchang
+authors: kdchang
 description: 這本書聚焦於男性的內在療癒，試圖打破社會長久以來對「男子氣概」的僵化想像，並提供具體的方式協助男性面對強烈情緒。作者並非單純批判「有害的男子氣概」，而是提出具體的療癒路徑，讓男性能重新整合痛苦與情緒，活出更完整的自我。
 cover: https://www.kdchang.net/img/posts/reading-notes-mens-work-a-practical-guide-1.jpg
 tags:

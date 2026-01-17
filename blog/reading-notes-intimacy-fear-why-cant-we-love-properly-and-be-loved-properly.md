@@ -1,7 +1,7 @@
 ---
 title: 《親密恐懼：為什麼我們無法好好愛人，好好被愛？》| 閱讀心得學習筆記
 date: 2023-11-27 11:33:41
-author: kdchang
+authors: kdchang
 description: 《情緒勒索》作者周慕姿在此書中深入探討了「親密恐懼」這一情感議題，揭示了許多人在親密關係中遭遇的深層恐懼與困惑。親密恐懼源自於童年時期未被足夠關愛或情感創傷，並在成人後的愛情與人際關係中形成不同的應對策略。本書試圖幫助讀者理解自身行為背後的心理根源，並提供實用的建議，讓人們能夠走出親密恐懼的陰影，重獲愛與歸屬。
 cover: https://www.kdchang.net/img/posts/reading-notes-intimacy-fear-why-cant-we-love-properly-and-be-loved-properly-1.jpg
 tags: 

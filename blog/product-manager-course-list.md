@@ -1,7 +1,7 @@
 ---
 title: 產品經理（Product Manager, PM）課程學習參考清單
 date: 2024-06-03 11:33:41
-author: kdchang
+authors: kdchang
 tags: 
     - 產品專案管理專案全書
     - 產案管理

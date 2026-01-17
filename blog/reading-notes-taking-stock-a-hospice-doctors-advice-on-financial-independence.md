@@ -1,7 +1,7 @@
 ---
 title: 《人生最後一堂理財課：見證過無數生死的安寧照護醫生告訴你如何過一個不留遺憾的人生。關於金錢、工作和幸福人生的實用建議》| 閱讀心得學習筆記
 date: 2025-05-16 11:33:41
-author: kdchang
+authors: kdchang
 description: 《人生最後一堂理財課》是一本融合財務自由與人生智慧的非典型理財書。作者喬丹・格魯米特身為安寧照護醫師，親身見證無數病人臨終前的遺憾與醒悟。他從死亡的角度切入金錢與生活的關係，提醒我們：人生不是為了「賺夠錢才開始活」，而是每一天都該是我們選擇活出的答案。這本書不談致富秘訣，談的是如何不留遺憾地生活。
 cover: https://www.kdchang.net/img/posts/reading-notes-taking-stock-a-hospice-doctors-advice-on-financial-independence-1.jpg
 tags:

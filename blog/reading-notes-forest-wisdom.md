@@ -1,7 +1,7 @@
 ---
 title: 《我可能錯了：森林智者的最後一堂人生課》 | 閱讀心得學習筆記
 date: 2024-08-06 11:33:41
-author: kdchang
+authors: kdchang
 description: 比約恩．納提科．林德布勞的《我可能錯了》是一場深刻的心靈對話，他以坦誠、幽默而智慧的筆觸，分享自己從金融界菁英轉身成為森林僧人，再回歸俗世與漸凍症共存的生命歷程。本書沒有說教，而是透過自身經驗，帶領讀者學會放下執著，接受無常，以更自由的心態面對人生的種種挑戰。對於陷入焦慮、迷惘或生命低潮的人來說，這是一本能帶來安慰與啟發的書。
 cover: https://www.kdchang.net/img/posts/reading-notes-forest-wisdom-1.jpg
 tags:

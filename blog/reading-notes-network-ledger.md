@@ -1,7 +1,7 @@
 ---
 title: 《人脈帳本：每一次的前進，都有一股無形的推力》| 閱讀心得學習筆記
 date: 2021-04-21 11:33:41
-author: kdchang
+authors: kdchang
 description: 《人脈帳本：每一次的前進，都有一股無形的推力》強調在人生與職場中，人脈的重要性遠超過專業知識。作者以歷史與商業案例揭示人際網絡能帶來的機會與助力，同時提醒人脈需經營、維護，避免過度消耗。本書不僅是一本談人際的技巧書，更是一種對「關係資本」的深度剖析。
 cover: https://www.kdchang.net/img/posts/reading-notes-network-ledger-1.jpg
 tags:

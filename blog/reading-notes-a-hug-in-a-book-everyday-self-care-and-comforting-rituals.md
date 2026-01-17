@@ -1,7 +1,7 @@
 ---
 title: 《讓這本書抱抱你：每一天練習自我照顧，學會愛自己》| 閱讀心得學習筆記
 date: 2023-11-29 11:33:41
-author: kdchang
+authors: kdchang
 description: 在這個快節奏、壓力四伏的社會中，我們經常為他人付出，卻忘了把關懷留給自己。《給你最溫暖的擁抱》是一本充滿療癒能量的自我照顧指南，藉由可愛插畫與簡單實用的練習，引導讀者重拾與自己的連結，在繁忙中找回內在的寧靜與幸福。
 cover: https://www.kdchang.net/img/posts/reading-notes-a-hug-in-a-book-everyday-self-care-and-comforting-rituals-1.jpg
 tags:

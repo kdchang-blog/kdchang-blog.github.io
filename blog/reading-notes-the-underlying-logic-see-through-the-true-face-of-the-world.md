@@ -1,7 +1,7 @@
 ---
 title: 《底層邏輯：看清這個世界的底牌》| 閱讀心得學習筆記
 date: 2022-03-30 11:33:41
-author: kdchang
+authors: kdchang
 description: 《底層邏輯》是一本挑戰我們思維慣性的書，劉潤以多年的商業顧問經驗，指出我們對「事實」的理解往往被經驗、立場與信仰所左右。本書不只是職場指南，更是教我們用理性拆解複雜問題、看清世界底牌的思維工具。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-underlying-logic-see-through-the-true-face-of-the-world-1.jpg
 tags: 

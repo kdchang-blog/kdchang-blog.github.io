@@ -1,7 +1,7 @@
 ---
 title: 《愛的 8 法則【《僧人心態》作者愛的力作】：如何找到愛、維繫愛、放下愛》| 閱讀心得學習筆記
 date: 2024-01-01 11:33:41
-author: kdchang
+authors: kdchang
 description: 我們總以為愛是一種感覺，但傑・謝帝透過僧人的視角提醒我們：愛，其實是一種可以學習與實踐的能力。這本書結合古老的吠陀智慧與現代心理學，為我們打開了一條有方法、有步驟的愛之修行之路。
 cover: https://www.kdchang.net/img/posts/reading-notes-8-rules-of-love-how-to-find-it-keep-it-and-let-it-go-1.jpg
 tags:

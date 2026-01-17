@@ -1,7 +1,7 @@
 ---
 title: 《他的地板是你的天花板：特權階級怎樣自我複製並阻礙社會流動機會？我們如何打破社會不平等？》| 閱讀心得學習筆記
 date: 2022-06-04 11:33:41
-author: kdchang
+authors: kdchang
 description: 我們總以為，只要夠努力、夠有才華，就能出人頭地。然而，《他的地板是你的天花板》這本書以大量訪談與數據揭示，現代社會中「唯才是用」其實是一場迷思。階級不平等不但未曾消失，反而在菁英職場中變本加厲。作者山姆．弗里曼與丹尼爾．勞瑞森以英國為例，指出富裕出身者如何憑藉家世與人脈壟斷機會，而勞工階級者即使再有能力，也常被擋在通往成功的大門之外。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-class-ceiling-why-it-pays-to-be-privileged-1.jpg
 tags:

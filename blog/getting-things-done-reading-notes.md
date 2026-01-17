@@ -1,7 +1,7 @@
 ---
 title: 《搞定！：工作效率大師教你:事情再多照樣做好的搞定 5 步驟》| 閱讀心得學習筆記
 date: 2016-10-06 11:33:41
-author: kdchang
+authors: kdchang
 description: 大衛‧艾倫所著的《搞定！》是風靡全球的時間管理經典，公開了其獨創的「搞定五步驟」（Getting Things Done, GTD）工作法。本書的核心理念在於，透過建立一套可靠的外部管理系統，將所有待辦事項從大腦中「清空」，從而達到「心境如水」（mind like water）的無壓力高效能狀態。這種由內而外的平衡，是實現工作卓越與個人志趣的基石。
 cover: https://www.kdchang.net/img/posts/getting-things-done-reading-notes-1.jpg
 tags:

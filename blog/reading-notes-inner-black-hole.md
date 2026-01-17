@@ -1,7 +1,7 @@
 ---
 title: 《內在黑洞：薩提爾帶你走過人生的困頓，與自我和解》| 閱讀心得學習筆記
 date: 2023-10-27 11:33:41
-author: kdchang
+authors: kdchang
 description: 《內在黑洞》透過李崇義與朱芳儀的書信對話，揭開人際關係中最難面對的傷口。當我們努力維繫親密關係卻屢屢受傷，內心的孤單與質疑會被無限放大。作者以薩提爾模式結合生命故事，溫柔示範如何覺察、傾聽與接納，帶領讀者走出困頓，重新與自己和解。
 cover: https://www.kdchang.net/img/posts/reading-notes-inner-black-hole-1.jpg
 tags:

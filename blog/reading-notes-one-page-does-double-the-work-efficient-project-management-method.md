@@ -1,7 +1,7 @@
 ---
 title: 《一頁紙做兩倍事，高效專案工作法》| 閱讀心得學習筆記
 date: 2025-08-05 11:33:41
-author: kdchang
+authors: kdchang
 description: 在當今瞬息萬變的商業環境中，專案管理已成為企業運作的核心模式。然而，許多專案經理深陷「窮忙」困境，無論是加班、無效會議還是頻繁客變，都讓專案變得難以推進。本書以系統思考與一頁式圖表為工具，提出具體方法，幫助專案經理擺脫低效，創造真正的管理價值。
 cover: https://www.kdchang.net/img/posts/reading-notes-one-page-does-double-the-work-efficient-project-management-method-1.jpg
 tags:

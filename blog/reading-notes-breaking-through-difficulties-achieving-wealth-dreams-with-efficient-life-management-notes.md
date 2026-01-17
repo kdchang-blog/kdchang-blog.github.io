@@ -1,7 +1,7 @@
 ---
 title: 《破除困境、財富夢想實現的高效率「人生管理筆記」：全方位6大筆記系統、28個神奇工具，做自己的造命師，不再受困境擺佈》| 閱讀心得學習筆記
 date: 2024-06-28 11:33:41
-author: kdchang
+authors: kdchang
 description: 在這個資訊爆炸、節奏飛快的時代，我們的學習與工作都倚賴筆記，但真正懂得運用筆記的人卻不多。本書以水晶的「樂寫人生」筆記法為核心，從記錄到提煉，帶領讀者跳脫「抄寫」的框架，進入以思考與實踐為本的筆記新境界。透過「TRAP四步法」，我們不僅能提升學習效率，更能打造個人知識體系。
 cover: https://www.kdchang.net/img/posts/reading-notes-breaking-through-difficulties-achieving-wealth-dreams-with-efficient-life-management-notes-1.jpg
 tags: 

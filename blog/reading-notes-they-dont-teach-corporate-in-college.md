@@ -1,7 +1,7 @@
 ---
 title: 《第一次工作就該懂（新編版）：人生是永遠的測試版，組合被需要的優勢，培養盟友，每次轉換都加分》| 閱讀心得學習筆記
 date: 2020-03-04 11:33:41
-author: kdchang
+authors: kdchang
 description: 在這個充滿不確定性的時代，單靠專業能力與努力工作早已無法保證職涯順遂。LinkedIn 創辦人雷德．霍夫曼與班．卡斯諾查以創業家的視角出發，提出「經營自己如同經營一間新創公司」的觀念，教導讀者如何以更靈活、多變的思維，掌握不被取代的職涯主導權。
 cover: https://www.kdchang.net/img/posts/reading-notes-they-dont-teach-corporate-in-college-1.jpg
 tags:

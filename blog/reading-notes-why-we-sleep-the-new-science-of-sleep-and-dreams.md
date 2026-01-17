@@ -1,7 +1,7 @@
 ---
 title: 《為什麼要睡覺？：睡出健康與學習力、夢出創意的新科學》 | 閱讀心得學習筆記
 date: 2023-05-26 11:33:41
-author: kdchang
+authors: kdchang
 description: 睡眠不只是生理需求，更是影響記憶、健康、創意與壽命的關鍵要素。然而，在快節奏的現代社會，缺乏睡眠已成為全球性流行病。《為什麼要睡覺？》由神經科學家馬修·沃克撰寫，透過科學實證揭示睡眠的必要性，提醒我們重視這項被忽略的生命基礎。
 cover: https://www.kdchang.net/img/posts/reading-notes-why-we-sleep-the-new-science-of-sleep-and-dreams-1.jpg
 tags: 

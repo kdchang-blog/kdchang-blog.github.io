@@ -1,7 +1,7 @@
 ---
 title: 《愛的藝術：心理學大師佛洛姆談愛的真諦，一本學習如何去愛的聖經》| 閱讀心得學習筆記
 date: 2021-09-29 11:33:41
-author: kdchang
+authors: kdchang
 description: 《愛的藝術》是心理學大師佛洛姆於 1956 年出版的經典之作，被譽為跨世代的精神指引。書中挑戰我們對愛的迷思，指出愛並非純粹感性衝動，而是一門需要學習、鍛鍊與實踐的藝術。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-art-of-loving-1.jpg
 tags:

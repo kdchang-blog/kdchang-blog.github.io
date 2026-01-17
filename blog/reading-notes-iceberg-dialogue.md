@@ -1,7 +1,7 @@
 ---
 title: 《冰山對話：從開門到關門、從理解到支持的深度溝通》| 閱讀心得學習筆記
 date: 2022-09-30 11:33:41
-author: kdchang
+authors: kdchang
 description: 《冰山對話》由資深講師李崇義撰寫，融合他在科技業高階主管的經驗與薩提爾模式，提出一套實用的對話路徑。書中指出，有效溝通的核心不在解決問題，而在於理解與靠近人的內在。唯有先連結自己，才能在對話中真正支持他人，創造關係中的轉化與和諧。
 cover: https://www.kdchang.net/img/posts/reading-notes-iceberg-dialogue-1.jpg
 tags:

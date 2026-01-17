@@ -1,7 +1,7 @@
 ---
 title: 《窮查理的普通常識（紀念典藏版）：巴菲特50年智慧合夥人查理．蒙格的人生哲學》| 閱讀心得學習筆記
 date: 2022-03-30 11:33:41
-author: kdchang
+authors: kdchang
 description: 《窮查理的普通常識》不只是投資聖經，更是一本關於如何思考、如何選擇與如何生活的哲學書。蒙格以幽默睿智的語言，透過跨領域知識與人生經驗，提供了通往「少犯錯的人生」的實用路徑。
 cover: https://www.kdchang.net/img/posts/reading-notes-poor-charlies-almanack-1.jpg
 tags:

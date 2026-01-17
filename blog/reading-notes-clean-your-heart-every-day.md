@@ -1,7 +1,7 @@
 ---
 title: 《每天把心掃乾淨：35 個讓人生好轉的禪式整理術》| 閱讀心得學習筆記
 date: 2025-07-28 11:33:41
-author: kdchang
+authors: kdchang
 description: 本書由禪僧枡野俊明撰寫，透過「掃除」這一行動，帶領讀者理解整理不只是清潔，更是修心。環境映照心境，當我們用心整理外在，也在調整內在的情緒與能量。本書以禪的角度提出 35 個整理方法，讓我們從空間到心靈都能煥然一新。
 cover: https://www.kdchang.net/img/posts/reading-notes-clean-your-heart-every-day-1.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 《非暴力溝通：愛的語言》| 閱讀心得學習筆記
 date: 2019-08-01 11:33:41
-author: kdchang
+authors: kdchang
 description: 《非暴力溝通》由馬歇爾‧盧森堡博士所著，這本書提供了一套深具啟發性的溝通技巧，旨在幫助人們建立真誠與他人的聯繫，並能有效地化解衝突。盧森堡博士將溝通視為一種藝術，提出「`觀察`、`表達感受`、`了解需要`、`做出請求`」四個步驟，讓讀者在互動中能夠更具`同理心`，避免`言語暴力`與`無意識的傷害`，達到`心靈的和諧`。
 cover: https://www.kdchang.net/img/posts/reading-notes-nonviolent-communication-a-language-of-life-1.jpg
 tags: 

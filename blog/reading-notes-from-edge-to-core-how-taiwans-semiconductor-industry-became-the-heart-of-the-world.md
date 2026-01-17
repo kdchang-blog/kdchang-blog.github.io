@@ -1,7 +1,7 @@
 ---
 title: 《從邊緣到核心：台灣半導體如何成為世界的心臟》| 閱讀心得學習筆記
 date: 2025-03-31 11:33:41
-author: kdchang
+authors: kdchang
 description: 《從邊緣到核心：台灣半導體如何成為世界的心臟》是一部橫跨歷史、科技與地緣政治的深度之作，由史欽泰、陳添枝與吳淑敏三位橫跨實務、政策與文史領域的專家共同執筆。本書以台灣半導體產業為主軸，描繪從無到有的發展軌跡，並剖析其如何在世界舞台上成為無可取代的戰略支點。
 cover: https://www.kdchang.net/img/posts/reading-notes-from-edge-to-core-how-taiwans-semiconductor-industry-became-the-heart-of-the-world-1.jpg
 tags: 

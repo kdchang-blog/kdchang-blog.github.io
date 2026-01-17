@@ -1,7 +1,7 @@
 ---
 title: 人生推書店：《逆襲人生21個底層邏輯：快速做出改變的高效率成長指南》| 人生處方箋
 date: 2023-06-07 11:33:41
-author: kdchang
+authors: kdchang
 description: 《21 天實現逆風翻盤》是一本寫給在生活與職場中困頓、卻渴望改變的年輕人的行動指南。作者呂白，從一位小鎮青年躍升為職場實力派，以自身經驗提煉出 21 個可立即實踐的底層邏輯，鼓勵讀者在 21 天內培養習慣、翻轉人生。這不是雞湯式的夢想激勵，而是一場結構明確、具體可行的自我提升實驗。
 cover: https://www.kdchang.net/img/posts/reading-notes-reversal-life-21-core-logics-a-high-efficiency-growth-guide-for-making-changes-fast-1.jpg
 tags:

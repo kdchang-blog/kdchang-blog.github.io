@@ -1,7 +1,7 @@
 ---
 title: 《六頂思考帽 （全新修訂版）：思考大師狄波諾改變全世界的創新思維工具》| 閱讀心得學習筆記
 date: 2022-03-30 11:33:41
-author: kdchang
+authors: kdchang
 description: 你是否曾在會議中陷入混亂，難以聚焦討論？是否在個人決策上因情緒與理性交錯而猶豫不決？《六頂思考帽》是由創意思考大師愛德華．狄波諾所提出的一套系統化思考框架，透過角色扮演與觀點切換，幫助我們有條理地釐清問題、激發創意、達成共識。這不只是一本思考工具書，更是一場改變思維習慣的實踐指南。
 cover: https://www.kdchang.net/img/posts/reading-notes-six-thinking-hats-1.jpg
 tags:

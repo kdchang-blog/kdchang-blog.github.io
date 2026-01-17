@@ -1,7 +1,7 @@
 ---
 title: 《從悲劇中開出幸福花朵的人生智慧：叔本華》| 閱讀心得學習筆記
 date: 2019-04-03 11:33:41
-author: kdchang
+authors: kdchang
 description: 《從悲劇中開出幸福花朵的人生智慧：叔本華》是哲學家叔本華的代表作，不只是哲學的入門經典，更是指引人生方向的智慧之書。在這本書中，叔本華以通俗而犀利的語言，剖析人性、探討幸福、挑戰慣性思維，讓讀者在混亂的世界中找回內在秩序。這不只是一本「教人快樂」的書，而是一盞照亮苦難的思想之燈。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-wisdom-of-life-that-blossoms-happiness-from-tragedy-schopenhauer-1.jpg
 tags:

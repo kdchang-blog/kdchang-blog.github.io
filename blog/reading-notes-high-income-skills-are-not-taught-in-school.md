@@ -1,7 +1,7 @@
 ---
 title: 《高收入的能力，學校沒教：畢業面對的第一個問題，就是賺錢，但沒有教授會教──現在知道，你少奮鬥10年、20年》| 閱讀心得學習筆記
 date: 2023-07-31 11:33:41
-author: kdchang
+authors: kdchang
 description: 《高收入的能力，學校沒教》是李尚龍繼《你只是看起來很努力》後，再次以犀利觀察與真實經歷，揭露「努力」與「收入」之間的本質落差。這不是一本心靈雞湯，而是一本寫給願意思考、願意行動者的現實手冊。書中每一頁都敲醒那些「看似努力卻無效」的習慣與認知迷思，適合正面臨學涯或職涯抉擇的人深讀。
 cover: https://www.kdchang.net/img/posts/reading-notes-high-income-skills-are-not-taught-in-school-1.jpg
 tags:

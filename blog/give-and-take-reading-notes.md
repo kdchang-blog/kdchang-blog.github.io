@@ -1,7 +1,7 @@
 ---
 title: 《給予：華頓商學院最具影響力教授，創造人際紅利的處世策略》| 閱讀心得學習筆記
 date: 2025-08-04 11:33:41
-author: kdchang
+authors: kdchang
 description: 亞當．格蘭特在本書中挑戰了傳統競爭觀點，指出在長期的人際互動中，利他主義者具備更強大的成功潛力。許多人擔心在職場表現出慷慨會被視為軟弱，但研究證實，聰明的給予者不僅能建立深厚的人脈，還能激發團隊潛能，創造出遠超個人所得的價值。這本書重新定義了成功的本質，讓我們看見奉獻與成就之間的正向循環。
 cover: https://www.kdchang.net/img/posts/give-and-take-reading-notes-1.jpg
 tags:

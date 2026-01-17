@@ -1,7 +1,7 @@
 ---
 title: 擷取擴增產生（Retrieval-Augmented Generation, RAG）入門教學
 date: 2024-05-23 11:33:41
-author: kdchang
+authors: kdchang
 cover: https://www.kdchang.net/img/posts/i-am-scrum-master.png
 tags: 
     - 生成式 AI

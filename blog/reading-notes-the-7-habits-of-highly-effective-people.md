@@ -1,7 +1,7 @@
 ---
 title: 《與成功有約：高效能人士的七個習慣》| 閱讀心得學習筆記
 date: 2020-10-30 11:33:41
-author: kdchang
+authors: kdchang
 description: 《與成功有約：高效能人士的七個習慣》是成功學經典之作，橫跨三十年持續暢銷。史蒂芬．柯維藉由普世價值與自然法則，提出七個具體可行的習慣，幫助個人實現內在成長、提升人際效能與長遠成功。這些習慣不是快速致富術，而是一套內外合一、由內而外的實踐路徑。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-7-habits-of-highly-effective-people-1.jpg
 tags:

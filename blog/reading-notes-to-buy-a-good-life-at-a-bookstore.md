@@ -1,7 +1,7 @@
 ---
 title: 《去書店買個好人生：日本百萬暢銷作家，教你從閱讀養成8大能力，解決職場煩惱、關係焦慮、未來迷茫》| 閱讀心得學習筆記
 date: 2022-11-24 11:33:41
-author: kdchang
+authors: kdchang
 description: 這不是一本教你怎麼快速翻書的工具書，而是一本用來「翻轉人生思維」的實戰手冊。作者千田琢哉從一名問題學生轉變為年銷破百萬冊的作家，他用自身經歷證明：閱讀可以是最低成本、最高報酬的自我投資。這本書，不只是給職場人一盞明燈，更是為人生卡關者而寫的行動指南。
 cover: https://www.kdchang.net/img/posts/reading-notes-to-buy-a-good-life-at-a-bookstore-1.jpg
 tags: 

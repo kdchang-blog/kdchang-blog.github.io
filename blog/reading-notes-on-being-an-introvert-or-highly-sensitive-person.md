@@ -1,7 +1,7 @@
 ---
 title: 《高敏感是種天賦實踐篇【暢銷經典版】：與眾不同的內在力量》| 閱讀心得學習筆記
 date: 2024-08-02 11:33:41
-author: kdchang
+authors: kdchang
 description: 在這個鼓勵外向、推崇社交的時代，高敏感與內向往往被誤解為軟弱或缺陷。然而，丹麥心理治療師伊麗絲．桑德透過《高敏感是種天賦實踐篇》，提供高敏感族群自我保護、劃界線與擁抱內在力量的實踐指南。這本書提醒我們，高敏感不是負擔，而是能量的來源，只要找到正確方式，就能轉化成生命中的優勢。
 cover: https://www.kdchang.net/img/posts/reading-notes-on-being-an-introvert-or-highly-sensitive-person-1.jpg
 tags:

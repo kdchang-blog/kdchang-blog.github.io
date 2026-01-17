@@ -1,7 +1,7 @@
 ---
 title: 《致富的心魔：金錢、成功與自我懷疑的致富人生》| 閱讀心得學習筆記
 date: 2025-04-30 11:33:41
-author: kdchang
+authors: kdchang
 description: 《致富的心魔》透過作者威金森的親身經歷，剖析了億萬富翁背後鮮為人知的心理掙扎與焦慮。這本書不僅是成功創業的故事，更是對金錢、心態與自由關係的深刻反思。財富的增加並非終點，而是另一段挑戰的開始。作者提醒我們，真正的致富，不僅在於賺取更多，而在於是否能承受財富帶來的壓力，並且調整內心的認知，達到身心的自由。
 cover: https://www.kdchang.net/img/posts/reading-notes-never-enough-from-barista-to-billionaire-1.jpg
 tags:

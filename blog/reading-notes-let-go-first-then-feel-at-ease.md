@@ -1,7 +1,7 @@
 ---
 title: 《先放手，再放心：我從心經學到的人生智慧》| 閱讀心得學習筆記
 date: 2021-08-02 11:33:41
-author: kdchang
+authors: kdchang
 description: 《先放手，再放心：我從心經學到的人生智慧》向來被視為佛學經典，但本書透過淺白文字，將其智慧轉化為日常可應用的心靈指南。作者吳若權以療癒、企管與創作背景，結合生命經驗，帶領讀者在動盪時代中學會安頓內心，將慈悲與智慧落實於生活細節。閱讀此書，不僅是經典的再認識，更是一場心靈的實修旅程。
 cover: https://www.kdchang.net/img/posts/reading-notes-let-go-first-then-feel-at-ease-1.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 《別把你的錢留到死：懂得花錢，是最好的投資——理想人生的9大財務思維》| 閱讀心得學習筆記
 date: 2024-08-06 11:33:41
-author: kdchang
+authors: kdchang
 description: 許多人幾十年如一日地賺錢，卻往往沒有機會好好享受生活。《Die with Zero》指出，如果我們一直把錢省起來，到頭來卻沒時間消費，這样真的算是聰明的金錢管理方式嗎？書中的「死前財產歸零」理念，提醒我們應該把金錢賺來享受，還要做好人生規劃，以找到時間、健康與錢貨之間的最佳平衡。
 cover: https://www.kdchang.net/img/posts/reading-notes-die-with-zero-getting-all-you-can-from-your-money-and-your-life-1.jpg
 tags: 

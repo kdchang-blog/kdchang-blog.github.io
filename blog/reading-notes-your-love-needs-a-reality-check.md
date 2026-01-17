@@ -1,7 +1,7 @@
 ---
 title: 《你的愛情需要人間清醒： 寫給每個在愛裡迷路的大人，50則停止內耗的戀愛心法》| 閱讀心得學習筆記
 date: 2022-03-30 11:33:41
-author: kdchang
+authors: kdchang
 description: 在戀愛的初期，我們常常因為太過渴望被愛，而忽略了自己的姿態與節奏。《收回》透過作者的親身經歷，提醒讀者：戀愛不是單方面的付出，而是雙向的互動與成長。理解「高嫁」本能，才能在感情中更清楚自己的位置與價值。
 cover: https://www.kdchang.net/img/posts/reading-notes-your-love-needs-a-reality-check-1.jpg
 tags:

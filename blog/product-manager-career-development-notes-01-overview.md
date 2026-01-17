@@ -1,7 +1,7 @@
 ---
 title: 產品經理（Product Manager, PM）職涯發展學習筆記 - [1] 總覽
 date: 2024-05-27 11:33:41
-author: kdchang
+authors: kdchang
 tags: 
     - product
     - Product Manager

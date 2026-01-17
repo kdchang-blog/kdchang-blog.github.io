@@ -3,7 +3,7 @@ title: 《為什麼魚不存在：關於失去、愛與生命的本質，踏上�
 date: 2024-03-07 11:33:41
 description: 《為什麼魚不存在》不僅是一本關於分類學家的傳記，也是一場探尋人生秩序與混亂的旅程。科學記者露露・米勒透過研究大衛・喬丹的生平，試圖理解人在失敗與變動中如何堅持信念，最終卻發現一個顛覆自身價值觀的真相。本書揉合科學、歷史與個人成長，帶領讀者重新思考世界的本質。
 cover: https://www.kdchang.net/img/posts/reading-notes-why-fish-dont-exist-a-story-of-loss-love-and-the-hidden-order-of-life-1.jpg
-author: kdchang
+authors: kdchang
 tags: 
     - 為什麼魚不存在
     - 踏上追尋人生意義的解答之旅

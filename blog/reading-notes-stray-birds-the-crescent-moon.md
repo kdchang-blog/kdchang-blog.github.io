@@ -1,7 +1,7 @@
 ---
 title: 《生如夏花：泰戈爾新月集&漂鳥集》| 閱讀心得學習筆記
 date: 2018-10-03 11:33:41
-author: kdchang
+authors: kdchang
 description: 泰戈爾的《漂鳥集》與《新月集》以細膩的筆觸描繪日常生活中的美好與哲思，結合對自然、愛情、生命與孤寂的感悟，成為 365 天的心靈綠洲。透過每天一首詩，讀者得以在平凡日常中找到情感共鳴與內在安慰，並學會以詩意的眼光觀察世界。
 cover: https://www.kdchang.net/img/posts/reading-notes-stray-birds-the-crescent-moon-1.jpg
 tags:

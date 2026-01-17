@@ -1,7 +1,7 @@
 ---
 title: 《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》| 閱讀心得學習筆記
 date: 2023-05-31 11:33:41
-author: kdchang
+authors: kdchang
 description: 本書《重啟人生：一個哈佛教授的生命領悟，給你把餘生過好的簡單建議》由哈佛大學教授亞瑟·布魯克斯所著，探討了人生在追求成功過程中的挑戰與轉機。布魯克斯透過科學、哲學、神學等多角度的分析，提供了一條不同於傳統成功路徑的道路，並幫助讀者認識如何在高峰過後，勇敢地面對生活中的轉折，從而找到新的生命價值。
 cover: https://www.kdchang.net/img/posts/reading-notes-from-strength-to-strength-finding-success-happiness-and-deep-purpose-in-the-second-half-of-life-1.jpg
 tags: 

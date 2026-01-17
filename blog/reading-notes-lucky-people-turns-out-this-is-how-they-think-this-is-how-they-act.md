@@ -1,7 +1,7 @@
 ---
 title: 《運氣好的人，原來這樣思考，這樣行動：科學實證，打造強運大腦的「幸者生存」心法》| 閱讀心得學習筆記
 date: 2024-08-19 11:33:41
-author: kdchang
+authors: kdchang
 description: 運氣是許多人認為無法控制的因素，但在中野信子的著作中，他揭示了運氣其實是可以透過思維與行為的模式來改變的。書中指出，幸運並非天賦，而是可以透過對大腦的訓練與調整，從而讓自己成為「運氣好的人」。本書從腦科學的角度出發，為讀者提供了實踐「幸運腦」的具體方法，讓每個人都能夠掌控自己的人生，並提升自己的運氣。
 cover: https://www.kdchang.net/img/posts/reading-notes-lucky-people-turns-out-this-is-how-they-think-this-is-how-they-act-1.jpg
 tags: 

@@ -1,7 +1,7 @@
 ---
 title: 《打造強韌內在的少林精神：歐洲掌門人給你的 13 個日常練習》| 閱讀心得學習筆記
 date: 2025-05-01 11:33:41
-author: kdchang
+authors: kdchang
 description: 《你的人生需要少林精神》這本書，是少林寺第 35 代武僧、歐洲少林寺掌門人釋恆義的首度著作。他將千年少林智慧轉化為現代人可實踐的 13 個身心修練方法，引導讀者從身體訓練走向心靈修煉，重拾內在主宰權與生命的平衡。在這個步調紊亂、資訊氾濫的時代，釋恆義以自身傳奇人生為底蘊，融合武學、佛學與心理學，傳遞一種內外兼修的生活哲學：少林精神不是神秘的武功，而是一種活出真正自己的方法。
 cover: https://www.kdchang.net/img/posts/reading-notes-shaolin-spirit-meistere-dein-leben-1.jpg
 tags:

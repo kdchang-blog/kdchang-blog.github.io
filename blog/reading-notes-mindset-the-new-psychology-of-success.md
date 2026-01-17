@@ -1,7 +1,7 @@
 ---
 title: 《心態致勝：全新成功心理學》| 閱讀心得學習筆記
 date: 2022-03-30 11:33:41
-author: kdchang
+authors: kdchang
 description: 我們總以為成功是天賦的展現，事實卻可能正好相反。《心態致勝》一書揭示，一個人的心態比才能更能決定人生的成就與幸福。史丹佛大學心理學教授卡蘿・杜維克博士用長期研究指出，我們從小被灌輸的許多觀念，其實正悄悄限制了我們的成長與潛能。這本書不只是心理學理論，更是一份行動指南，引導我們從「定型心態」邁向「成長心態」，改變思維，進而改變人生。不僅教你夢想成真，更重點在於轉化內在信念與能量狀態，真正活出由內而外的豐盛人生。
 cover: https://www.kdchang.net/img/posts/reading-notes-mindset-the-new-psychology-of-success-1.jpg
 tags:

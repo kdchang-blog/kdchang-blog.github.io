@@ -1,7 +1,7 @@
 ---
 title: 產品開發現場：當一個 Scrum Master 是一個怎樣的體驗？
 date: 2019-01-04 11:33:41
-author: kdchang
+authors: kdchang
 cover: https://www.kdchang.net/img/posts/i-am-scrum-master.png
 tags: 
     - scrum

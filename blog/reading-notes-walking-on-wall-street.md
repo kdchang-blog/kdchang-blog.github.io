@@ -1,7 +1,7 @@
 ---
 title: 《漫步華爾街（50週年增訂版）：超越股市漲跌的成功投資策略》 | 閱讀心得學習筆記
 date: 2023-04-28 11:33:41
-author: kdchang
+authors: kdchang
 description: 《漫步華爾街》是一本跨越半世紀仍屹立不搖的經典投資指南。作者墨基爾身兼經濟學者與實務投資人，以平易近人的筆觸傳遞長期投資、分散風險的重要理念，提醒讀者別被市場流行術語與短期熱潮所迷惑。此50週年增訂版則進一步納入ESG、加密貨幣等新興議題，讓本書在新時代仍具實用價值。
 cover: https://www.kdchang.net/img/posts/reading-notes-walking-on-wall-street-1.jpg
 tags: 

@@ -1,7 +1,7 @@
 ---
 title: 《讓全世界愛上我推：用自己的話，寫出人人追蹤的社群爆文術》| 閱讀心得學習筆記
 date: 2025-04-30 11:33:41
-author: kdchang
+authors: kdchang
 description: 在社群時代，我們比以往更容易表達熱愛，卻也更容易被詞窮、羞怯所困。《推坑高手養成術》不是一本單純教你怎麼寫「好文」的工具書，而是一本陪你重新找回熱情語言、釋放真實感受的實戰指南。它教我們如何將「我推最棒」具體拆解、轉化成一句句引人共鳴的文字，讓內容成為最有力的布教工具。
 cover: https://www.kdchang.net/img/posts/reading-notes-make-the-world-fall-in-love-with-my-post-1.jpg
 tags:

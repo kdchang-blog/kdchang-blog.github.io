@@ -1,7 +1,7 @@
 ---
 title: 《金剛經白話講座：放下的人生修行》| 閱讀心得學習筆記
 date: 2025-07-28 11:33:41
-author: kdchang
+authors: kdchang
 description: 《金剛經白話講座：放下的人生修行》不只是佛教徒的修行指南，它揭示了「如何正確運用心」的重要智慧。當我們意識到時間有限，開始思索生命的意義與價值，便已踏上修行之路。本書由王思迅以平易近人的文字，逐字逐句帶領讀者理解《金剛經》，不需佛學根底，也能從生活中實踐「放下」的智慧，活出清明而篤定的人生。
 cover: https://www.kdchang.net/img/posts/reading-notes-diamond-sutra-vernacular-lecture-1.jpg
 tags:

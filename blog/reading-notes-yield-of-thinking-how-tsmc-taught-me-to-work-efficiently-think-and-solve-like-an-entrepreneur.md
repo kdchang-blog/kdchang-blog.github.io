@@ -1,7 +1,7 @@
 ---
 title: 《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》| 閱讀心得學習筆記
 date: 2021-08-05 11:33:41
-author: kdchang
+authors: kdchang
 description: 在快速變動與高壓的職場環境中，單靠努力與技能已難以脫穎而出。《思維的良率：台積電教我的高效工作法，像經營者一樣思考、解題》作者彭建文，憑藉在台積電的深厚歷練，提出一套邏輯嚴謹、方法實用的解題思維與經營觀點，幫助讀者在職場中培養經營者般的全局視野與問題解決力。本書不只是一本職場技巧書，更是一本教你如何用經營思維進化自己的職涯解題書。
 cover: https://www.kdchang.net/img/posts/reading-notes-yield-of-thinking-how-tsmc-taught-me-to-work-efficiently-think-and-solve-like-an-entrepreneur-1.jpg
 tags: 

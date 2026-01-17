@@ -1,7 +1,7 @@
 ---
 title: 《生命如此富有：活出天賦潛能的心靈密碼》| 閱讀心得學習筆記
 date: 2012-08-07 11:33:41
-author: kdchang
+authors: kdchang
 description: 《生命如此富有》由丹·米爾曼以運動員的紀律與心靈導師的洞察，歸納出四大人生目的：學習生命課題、找到事業與志業、發現靈魂道路、專注於當下。作者強調，我們每個人都有無限潛能，關鍵在於釐清目標並全心投入，讓生活富足且有意義。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-four-purposes-of-life-1.jpg
 tags:

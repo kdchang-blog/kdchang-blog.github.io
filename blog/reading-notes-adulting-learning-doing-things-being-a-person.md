@@ -1,7 +1,7 @@
 ---
 title: 《大人學做事做人：做事，才是職場做人的根本【大人的Small Talk 2】》| 閱讀心得學習筆記
 date: 2024-11-29 11:33:41
-author: kdchang
+authors: kdchang
 description: 本書由「大人學」共同創辦人張國洋與姚詩豪撰寫，融合多年職場經驗與 Podcast 討論精華，試圖解答一個常見卻困擾無數上班族的問題——「做人重要，還是做事重要？」兩位作者指出，這不應是二選一的問題，而是雙軌並進的職場策略。 
 cover: https://www.kdchang.net/img/posts/reading-notes-adulting-learning-doing-things-being-a-person-1.jpg
 tags: 

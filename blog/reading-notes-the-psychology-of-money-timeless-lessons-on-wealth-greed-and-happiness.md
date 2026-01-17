@@ -1,7 +1,7 @@
 ---
 title: 《致富心態：關於財富、貪婪與幸福的20堂理財課》| 閱讀心得學習筆記
 date: 2023-01-13 11:33:41
-author: kdchang
+authors: kdchang
 description: 在這個資訊爆炸的時代，許多人認為投資成功的關鍵是專業知識和市場資訊。然而，《致富心態》一書顛覆了這種傳統觀念，強調財務管理更多取決於行為模式、心理因素和習慣。摩根‧豪瑟透過真實故事與案例，揭示了致富與守財的核心原則，幫助讀者培養正確的金錢觀，邁向財務自由。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-psychology-of-money-timeless-lessons-on-wealth-greed-and-happiness-1.jpg
 tags: 

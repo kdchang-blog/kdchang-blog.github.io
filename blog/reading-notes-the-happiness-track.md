@@ -1,7 +1,7 @@
 ---
 title: 《你快樂，所以你成功：史丹佛大學最重要的快樂心理課，讓幸福化為成功力》| 閱讀心得學習筆記
 date: 2025-05-20 11:33:41
-author: kdchang
+authors: kdchang
 description: 我們從小就被灌輸「成功後才能快樂」的觀念，但這其實本末倒置。《你快樂，所以你成功：史丹佛大學最重要的快樂心理課，讓幸福化為成功力》一書，以大量心理學與神經科學研究證明，快樂是驅動創意、生產力與成就的根本力量。作者艾瑪‧賽佩拉博士透過六大策略，教導我們如何透過內在轉變，打造幸福且持久的成功。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-happiness-track-1.jpg
 tags:

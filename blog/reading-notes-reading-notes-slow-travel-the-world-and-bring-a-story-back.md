@@ -1,7 +1,7 @@
 ---
 title: 《慢旅世界，再帶個故事回來：關於築夢、旅遊寫作和嚮往的生活》| 閱讀心得學習筆記
 date: 2025-11-05 11:33:41
-author: kdchang
+authors: kdchang
 description: 這本由《Lonely Planet》指南作者的真情告白，不只是一本關於旅遊的書，更是關於如何在現實的基礎上追逐夢想，活成自己嚮往的樣子的實踐指南。作者以自身從高學歷「人生勝利組」轉變為「邊旅遊邊賺錢」的旅遊作家經歷，誠實揭示了追夢路上的光鮮與挑戰。它提醒讀者，理想的生活並非浪漫的幻想，而是需要用現實支撐、專業變現，並持續自律才能換取的自由。本書獻給每一個在追夢路上掙扎、探索或已踏出腳步的人，讓他們得以從中看見更不一樣的人生風景。
 cover: https://www.kdchang.net/img/posts/reading-notes-slow-travel-the-world-and-bring-a-story-back-1.jpg
 tags:

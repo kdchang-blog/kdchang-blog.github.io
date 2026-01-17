@@ -1,7 +1,7 @@
 ---
 title: 《你不是懶，而是能量低：人生開外掛的精力管理術》| 閱讀心得學習筆記
 date: 2024-10-22 11:33:41
-author: kdchang
+authors: kdchang
 description: 在這個講求效率的時代，許多人追求時間管理，卻忽略了真正驅動行動的「精力」。林揚程的《你不是懶，而是能量低：人生開外掛的精力管理術》以自身經歷為例，提醒我們唯有從體能、情緒、思維與精神四大層面著手，才能打造持久且有品質的人生狀態。
 cover: https://www.kdchang.net/img/posts/reading-notes-you-are-not-lazy-but-low-energy-1.jpg
 tags: 

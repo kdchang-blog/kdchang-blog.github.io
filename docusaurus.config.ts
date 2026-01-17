@@ -8,7 +8,7 @@ const config: Config = {
   title: "KD 閱讀職場人生 🔖",
   tagline:
     "讓我們透過閱讀、旅行和電影，一起解答職場與人生中的各種難題，成為更好的自己📚✨",
-  favicon: "https://www.kdchang.net/img/favicon.ico",
+  favicon: "/img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {

@@ -1,7 +1,7 @@
 ---
 title: 《人生 4 千個禮拜：時間不是用來掌控的，直面「生命的有限」，打造游刃有餘的時間運用觀》| 閱讀心得學習筆記
 date: 2022-01-22 11:33:41
-author: kdchang
+authors: kdchang
 description: 《人生 4 千個禮拜》是一部對現代時間焦慮深度反思的哲學性著作。作者奧利佛・柏克曼不試圖再教你如何變得更有效率，而是帶領讀者重新理解時間的本質，並學會在有限中找回選擇的自由。這不是一本教你如何完成更多事情的時間管理書，而是一本教你如何活得更有意義的生命指南。
 cover: https://www.kdchang.net/img/posts/reading-notes-four-thousand-weeks-time-management-for-mortals-1.jpg
 tags:

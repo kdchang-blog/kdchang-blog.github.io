@@ -3,7 +3,7 @@ title: 《ScrumMaster、敏捷教練及專案經理轉型的最佳指南》| 閱
 date: 2024-06-06 11:33:41
 description: 在敏捷轉型的浪潮中，教練不再只是指導者，更是促進者與賦能者。本書由 Lyssa Adkins 撰寫，提供敏捷教練如何帶領團隊從協作走向卓越的實用指南。透過具體方法與案例，讀者能學習如何從控制風格轉變為引導者，打造自組織與高績效團隊。
 cover: https://www.kdchang.net/img/posts/reading-notes-scrum-master-team-1.jpg
-author: kdchang
+authors: kdchang
 tags: 
     - 產品專案管理專案全書
     - 產案管理

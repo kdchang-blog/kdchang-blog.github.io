@@ -1,7 +1,7 @@
 ---
 title: 《原子技巧：小練習帶來大改變，早知道會更好的10種職場組合技》| 閱讀心得學習筆記
 date: 2024-11-14 11:33:41
-author: kdchang
+authors: kdchang
 description: 在競爭激烈又變化迅速的現代職場，僅靠努力與熱情，已不足以支撐我們走得長遠。《原子技巧》一書由兩位來自醫界、歷經現實挑戰的女醫師所寫，提出一個關鍵觀念：「成就來自於無數細小技巧的積累與應用」。這本書像是一份實用的職場工具包，幫助我們在不被教導的領域中穩健前進。
 cover: https://www.kdchang.net/img/posts/reading-notes-micro-skills-small-actions-big-impact-notes-1.jpg
 tags: 

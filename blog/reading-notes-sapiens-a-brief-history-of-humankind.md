@@ -1,7 +1,7 @@
 ---
 title: 《人類大歷史（增訂版）：從野獸到扮演上帝》 | 閱讀心得學習筆記
 date: 2022-10-27 11:33:41
-author: kdchang
+authors: kdchang
 description: 《人類大歷史：從野獸到扮演上帝》是以色列歷史學者尤瓦爾・赫拉利（Yuval Noah Harari）所撰寫的一部跨學科鉅作，透過認知、農業、科學三大革命，回溯智人（Homo sapiens）如何從一種平凡的動物，成為統治地球的主宰。本書將歷史、生物學、經濟學、哲學交織，深入探討人類如何建立文明、塑造社會秩序，並預測未來可能的發展方向。
 cover: https://www.kdchang.net/img/posts/reading-notes-sapiens-a-brief-history-of-humankind-1.jpg
 tags: 

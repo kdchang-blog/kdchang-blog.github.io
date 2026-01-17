@@ -1,7 +1,7 @@
 ---
 title: 《當下，繁花盛開【30 週年全新增訂版】》| 閱讀心得學習筆記
 date: 2025-03-28 11:33:41
-author: kdchang
+authors: kdchang
 description: 在這個資訊爆炸、步調急促的時代，我們常在「忙碌」中迷失，失去了與自己內心對話的機會。《當下，繁花盛開》正是一本提醒我們回歸「覺知」的書。卡巴金博士以深厚的科學背景與禪修實踐，將正念從佛法延伸至現代生活，不只是療癒工具，更是一種活法。
 cover: https://www.kdchang.net/img/posts/reading-notes-wherever-you-go-there-you-are-mindfulness-meditation-in-everyday-life-1.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 《不需要做的人生清單：從超高壓社會中生存、輕鬆工作的 40 個技巧，「全世界最簡單」的人生規劃學》| 閱讀心得學習筆記
 date: 2023-12-29 11:33:41
-author: kdchang
+authors: kdchang
 description: 《不需要做的人生清單》是生活設計師四角大輔的真實轉變故事，從公司吊車尾員工到百萬銷售唱片製作人，他提出的不是更努力，而是更減法的工作與生活方式。本書旨在幫助讀者從高壓的社會節奏中抽身，重新定義什麼才是值得投入的「自己人生」。
 cover: https://www.kdchang.net/img/posts/reading-notes-things-you-dont-need-to-do-in-life-1.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 《禪者的初心：賈伯斯的禪學入門聖經，用正念找回內在平靜，踏上靈魂尋覓之旅(二版)》 | 閱讀心得學習筆記
 date: 2024-05-02 11:33:41
-author: kdchang
+authors: kdchang
 description: 《禪者的初心》是一本深入卻親切的禪學入門書，由鈴木俊隆禪師親筆所著，既是蘋果創辦人賈伯斯的禪修啟蒙書，也是一把通往內在寧靜與真實自我的萬能鑰匙。本書強調「初心者之心」的重要性，提醒我們唯有放下執念、保持純真與開放，才能真正走上覺察與慈悲的修行之路。
 cover: https://www.kdchang.net/img/posts/reading-notes-zen-mind-beginners-mind-1.jpg
 tags: 

@@ -1,7 +1,7 @@
 ---
 title: 《小狗錢錢 1：德國版富爸爸，窮爸爸》| 閱讀心得學習筆記
 date: 2023-03-29 11:33:41
-author: kdchang
+authors: kdchang
 description: 《小狗錢錢》以故事形式傳遞理財智慧，讓抽象的財務原則變得具體可感。透過女孩綺拉與會說話的小狗錢錢的互動，讀者能以輕鬆的方式學習致富法則，並逐步建立正確的金錢觀。本書不僅是入門財商的啟蒙讀物，也是幫助大人與孩子重新審視財務思維的橋樑。
 cover: https://www.kdchang.net/img/posts/reading-notes-little-dog-money-money-1.jpg
 tags:

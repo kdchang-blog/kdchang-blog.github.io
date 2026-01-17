@@ -1,7 +1,7 @@
 ---
 title: 《這樣開會，最聰明！：有效聆聽、溝通升級、超強讀心，史上最不心累的開會神通100招！》| 閱讀心得學習筆記
 date: 2017-09-26 11:33:41
-author: kdchang
+authors: kdchang
 description: 在現代職場中，開會幾乎是每日必經的儀式。面對冗長、空洞又充滿競爭氣味的會議，新人往往束手無策，而老鳥也未必能掌控全場。前 Yahoo! 與 Google 主管莎拉．古柏的《這樣開會，最聰明！》以幽默諷刺的手法，揭露那些表面「看起來很聰明」的行為，實則是職場生存的潛規則。本書不僅是一本工具書，更像是一本職場生存手冊，讓讀者在會議中看起來「比實際聰明三倍」。
 cover: https://www.kdchang.net/img/posts/reading-notes-100-tricks-to-appear-smart-in-meetings-how-to-get-by-without-even-trying-1.jpg
 tags: 

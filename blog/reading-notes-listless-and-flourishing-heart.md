@@ -1,7 +1,7 @@
 ---
 title: 《萎靡與心盛：增強心理韌性的心盛維生素，有效擺脫空虛消沉與疲憊的惡性迴圈，開啟正向能量新動力》| 閱讀心得學習筆記
 date: 2024-11-29 11:33:41
-author: kdchang
+authors: kdchang
 description: 你是否感覺生活像開啟了自動駕駛模式？每天完成任務卻感受不到意義與動力？本書《萎靡與心盛》從心理學視角揭露「萎靡（languishing）」的真貌──這不是憂鬱，但會讓人陷入迷失與疲憊。本書由全球萎靡研究權威科瑞・凱斯所著，深入剖析現代人無力、無感、無助的心理狀態，並提供實用解方，幫助我們從內耗中重拾心靈的穩定與朝氣。
 cover: https://www.kdchang.net/img/posts/reading-notes-listless-and-flourishing-heart-1.jpg
 tags: 

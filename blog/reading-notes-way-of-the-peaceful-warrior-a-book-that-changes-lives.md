@@ -1,7 +1,7 @@
 ---
 title: 《深夜加油站遇見蘇格拉底》| 閱讀心得學習筆記
 date: 2022-04-08 11:33:41
-author: kdchang
+authors: kdchang
 description: 《深夜加油站遇見蘇格拉底》是一本融合哲學、靈性與成長的小說，講述作者丹·米爾曼的自我探索旅程。這本書不僅是一本小說，更是一本指引年輕人追尋內在智慧的心靈之書。透過主角丹與神秘智者「蘇格拉底」的對話，讀者得以反思生命的意義、心智的限制與真正的自由。
 cover: https://www.kdchang.net/img/posts/reading-notes-way-of-the-peaceful-warrior-a-book-that-changes-lives-1.jpg
 tags:

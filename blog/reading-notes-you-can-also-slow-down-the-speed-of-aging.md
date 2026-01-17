@@ -1,7 +1,7 @@
 ---
 title: 《你也可以延緩衰老的速度：不變老、不發胖、不生病、不焦慮， 4 個健康習慣，重設你的身體》| 閱讀心得學習筆記
 date: 2025-07-03 11:33:41
-author: kdchang
+authors: kdchang
 description: 本書由韓國知名老年醫學專家鄭熙元所著，深入揭示現代生活習慣如何加速我們的老化過程，尤其提醒 30 至 49 歲的青壯世代正成為「加速老化的一代」。作者以醫學、社會學及心理學等多角度，說明「老化不只是基因決定，而是生活方式累積的結果」，並提出 4M 管理法幫助讀者重新掌控健康節奏。這本書不僅解答了當代人面對的健康焦慮，也提供具體可行的延緩老化方案，是現代人不可或缺的健康指南。
 cover: https://www.kdchang.net/img/posts/reading-notes-you-can-also-slow-down-the-speed-of-aging-1.jpg
 tags:

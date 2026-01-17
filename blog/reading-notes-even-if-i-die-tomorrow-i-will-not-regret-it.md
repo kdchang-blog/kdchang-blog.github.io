@@ -1,7 +1,7 @@
 ---
 title: 《即使明日死去也不後悔：38 個提問，讓心靈重生的實作筆記》| 閱讀心得學習筆記
 date: 2024-09-01 11:33:41
-author: kdchang
+authors: kdchang
 description: 本書透過日本名言療癒專家翡翠小太郎的 38 個「拳拳到肉、針針見骨」的問題，引導讀者直面死亡，進而深刻反思生命的價值與活著的意義。藉由回答這些犀利且發人深省的提問，我們得以規畫不後悔的生活方式，讓夢想生生不息，並使往後的生命充滿愛。核心理念是「如何死亡，就是如何生活」，提醒我們極其不幸並非失去財物，而是臨死前對人生感到後悔，並鼓勵讀者從今天起「重生」，展開一場與真心相遇的冒險之旅。
 cover: https://www.kdchang.net/img/posts/reading-notes-even-if-i-die-tomorrow-i-will-not-regret-it-1.jpg
 tags:

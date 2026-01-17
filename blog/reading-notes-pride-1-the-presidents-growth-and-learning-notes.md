@@ -1,7 +1,7 @@
 ---
 title: 《自慢 1：社長的成長學習筆記》| 閱讀心得學習筆記
 date: 2018-05-05 11:33:41
-author: kdchang
+authors: kdchang
 description: 《自慢 1：社長的成長學習筆記》是何飛鵬以三十餘年媒體與管理經驗，真誠告白的職場哲學書。書名取自日文「自慢」，意為最拿手、最有自信的事。作者透過真實故事與體悟，闡述如何在職場中找到自我價值，並以誠信、熱忱與挑戰為核心，建立一套可終身依循的工作與人生哲學。這本書不僅談專業，更談態度與格局，是一部關於自我實現與自信人生的修煉指南。
 cover: https://www.kdchang.net/img/posts/reading-notes-pride-1-the-presidents-growth-and-learning-notes-1.jpg
 tags:

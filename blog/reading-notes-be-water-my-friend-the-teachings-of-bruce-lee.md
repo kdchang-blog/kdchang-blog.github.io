@@ -1,7 +1,7 @@
 ---
 title: 《Be Water , My Friend 似水無形，李小龍的人生哲學：水很柔弱，卻能穿透最堅硬的物質，你感覺它平靜停滯，卻正流進任何可能的地方。》| 閱讀心得學習筆記
 date: 2021-03-31 11:33:41
-author: kdchang
+authors: kdchang
 description: 《Be Water , My Friend 似水無形，李小龍的人生哲學：水很柔弱，卻能穿透最堅硬的物質，你感覺它平靜停滯，卻正流進任何可能的地方。》由李小龍之女李香凝執筆，透過父親的人生哲學，傳遞「像水一樣」的智慧。本書不僅是武術指南，更是一種生活態度。面對壓力、挑戰與不確定性，我們能否如水般柔韌、靈活而不失力量？這是現代人值得深思的課題。
 cover: https://www.kdchang.net/img/posts/reading-notes-be-water-my-friend-the-teachings-of-bruce-lee-1.jpg
 tags:

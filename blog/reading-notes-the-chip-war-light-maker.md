@@ -1,7 +1,7 @@
 ---
 title: 《造光者：晶片戰爭中最神秘的關鍵企業，微影巨人 ASML 制霸未來科技賽局的崛起之路》| 閱讀心得學習筆記
 date: 2025-09-03 11:33:41
-author: kdchang
+authors: kdchang
 description: 你《造光者：晶片戰爭中最神秘的關鍵企業，微影巨人 ASML 制霸未來科技賽局的崛起之路》帶領讀者深入了解全球半導體供應鏈中最神祕卻舉足輕重的企業：荷蘭 ASML。它從飛利浦實驗室的小型新創，成長為掌控全球 90％晶片製造的極紫外光（EUV）微影設備霸主。疫情爆發後，晶片荒暴露了 ASML 的戰略重要性，彰顯科技、經濟與地緣政治交織的現實。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-chip-war-light-maker-1.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 《那些旅行教我的事：用一趟旅行重啟生活的初心，我們終將在路上，和理想的自己相遇》| 閱讀心得學習筆記
 date: 2023-06-01 11:33:41
-author: kdchang
+authors: kdchang
 description: 當人生走到一個階段，我們或許擁有了財富、成就、家庭，但心中仍有未竟之事，未曾解答的困惑。本書記錄了一對夫妻在人生下半場，決定透過65天的南歐旅行，探索人生的意義。他們的故事不僅是一場自助旅行的紀錄，更是一場身心靈的成長之旅，提醒我們：旅行不只是觀光，而是一場與自己對話的過程。 
 cover: https://www.kdchang.net/img/posts/reading-notes-those-travels-taught-me-use-a-trip-to-restart-the-original-intention-of-life-1.jpg
 tags: 

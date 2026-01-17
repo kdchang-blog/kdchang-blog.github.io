@@ -1,7 +1,7 @@
 ---
 title: 《大人學破局思考:從關鍵小事看出職場大局【大人的Small Talk 1】》| 閱讀心得學習筆記
 date: 2023-06-30 11:33:41
-author: kdchang
+authors: kdchang
 description: 在職場中，許多人努力工作，卻總覺得升遷遙不可及，甚至陷入被忽視的困境。本書由「大人學」創辦人 Bryan 與 Joe 共同撰寫，透過多年企業顧問經驗，揭示職場運行的「`隱形規則`」，幫助讀者從「`螞蟻視角`」提升至「`俯瞰全局`」，跳脫既有思維模式，取得真正的職涯主導權。
 cover: https://www.kdchang.net/img/posts/reading-notes-adultology-breakthrough-thinking-1.jpg
 tags: 

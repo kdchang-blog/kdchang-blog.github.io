@@ -1,7 +1,7 @@
 ---
 title: 《童話故事裡的心理學：從榮格心理學解析格林童話（《童話心理學》新修版）》| 閱讀心得學習筆記
 date: 2023-08-10 11:33:41
-author: kdchang
+authors: kdchang
 description: 河合隼雄這部以榮格心理學解讀格林童話的著作，不只是重新認識童話的契機，更是一次潛意識的深度探索旅程。透過耳熟能詳的故事與角色象徵，他讓我們看見潛藏在靈魂深處的黑暗、矛盾與渴望。
 cover: https://www.kdchang.net/img/posts/reading-notes-fairy-tale-psychology-1.jpg
 tags:

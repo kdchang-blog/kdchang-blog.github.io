@@ -1,7 +1,7 @@
 ---
 title: 《我只想好好上班！：新鮮人求職、就職、升職、離職的應對解答之書》| 閱讀心得學習筆記
 date: 2020-04-01 11:33:41
-author: kdchang
+authors: kdchang
 description: 《我只想好好上班！》是一本為即將進入或剛踏入職場的新鮮人量身打造的職場生存指南。作者雅莉珊卓・賴維特以 20 年的顧問經驗與真實案例，揭示職場潛規則與溝通眉角，讓讀者能夠在第一份工作中建立職涯自信，避免無謂碰撞與迷惘。
 cover: https://www.kdchang.net/img/posts/reading-notes-i-just-want-to-work-well-a-guidebook-1.jpg
 tags:

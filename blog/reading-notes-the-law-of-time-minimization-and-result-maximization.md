@@ -1,7 +1,7 @@
 ---
 title: 《時間最短化，成果最大化的法則：１天安裝１個成功人士的「思維演算法」45天（約1.5月）腦袋將徹底更新！》| 閱讀心得學習筆記
 date: 2023-12-05 11:33:41
-author: kdchang
+authors: kdchang
 description: 《時間最短化，成果最大化的法則》是一本針對現代職場困境而生的實用之書。作者木下勝壽指出，單靠努力與技能，無法產出倍數成長的成果，真正的關鍵在於「思維演算法」的安裝與更新。透過 45 條黃金法則，書中帶領讀者掌握在短時間內持續產出的心法與策略。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-law-of-time-minimization-and-result-maximization-1.jpg
 tags:

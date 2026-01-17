@@ -1,7 +1,7 @@
 ---
 title: 《蓋洛威教授的人生經濟學：掌握機會成本與市場法則，明智選擇職涯與發展關係，人生不焦慮、不匱乏》| 閱讀心得學習筆記
 date: 2025-06-04 11:33:41
-author: kdchang
+authors: kdchang
 description: 在這個選項爆炸的時代，做決策不再只是選好與壞，而是「選最值得投資的選擇」。史考特・蓋洛威教授以自身創業與教學經驗，將資源配置的概念落實到職涯、財富、關係等面向，給予讀者一套現實、實用且深具啟發性的人生導航指南。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-algebra-of-happiness-1.jpg
 tags:

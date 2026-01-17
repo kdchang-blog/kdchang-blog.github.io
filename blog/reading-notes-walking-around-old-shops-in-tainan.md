@@ -1,7 +1,7 @@
 ---
 title: 《台南老店散步：回味本町摩登老時光(新版)》 | 閱讀心得學習筆記
 date: 2024-12-06 11:33:41
-author: kdchang
+authors: kdchang
 description: 台南是台灣歷史最悠久的城市之一，而本町大街（今民權路與新美街）更是府城最繁華的老街。陳貴芳（鱷魚）透過細膩的手繪插畫與深入的故事挖掘，帶領讀者走進這些屹立百年的老店，體驗台南人的生活原味。
 cover: https://www.kdchang.net/img/posts/reading-notes-walking-around-old-shops-in-tainan-1.jpg
 tags: 

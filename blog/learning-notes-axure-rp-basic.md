@@ -1,7 +1,7 @@
 ---
 title: Axure RP 10 基礎操作教學 | 學習筆記
 date: 2024-06-06 11:33:41
-author: kdchang
+authors: kdchang
 tags: 
     - 產品專案管理
     - 產品管理

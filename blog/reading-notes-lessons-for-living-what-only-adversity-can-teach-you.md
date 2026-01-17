@@ -1,7 +1,7 @@
 ---
 title: 《從低谷突破：40年精神科權威史塔茲的療癒之道》| 閱讀心得學習筆記
 date: 2025-03-28 11:33:41
-author: kdchang
+authors: kdchang
 description: 我們或許都曾在某個時刻感到迷失，努力了卻得不到快樂，擁有了一切卻覺得空虛。Netflix 滿分紀錄片《史塔茲的療癒之道》主角、精神科醫師菲爾‧史塔茲，以自身罹患帕金森氏症的真實經歷，融合四十年臨床實務，提出一套獨特的靈性心理學。他的最新著作，是為那些在人生低谷中尋求意義的人而寫，也是一份關於「如何成為真正的自己」的療癒指引。
 cover: https://www.kdchang.net/img/posts/reading-notes-lessons-for-living-what-only-adversity-can-teach-you-1.jpg
 tags: 

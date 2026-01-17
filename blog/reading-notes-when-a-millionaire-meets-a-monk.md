@@ -1,7 +1,7 @@
 ---
 title: 《當富豪遇上僧侶》| 閱讀心得學習筆記
 date: 2024-04-26 11:33:41
-author: kdchang
+authors: kdchang
 description: 這本《當富豪遇上僧侶》取材自一個超級富豪的真實經歷，記錄了他從一個為財富和空虛所困的工作狂，到泰國寺廟尋求放鬆，最終被僧侶的智慧徹底翻轉人生的過程。作者朱利安．赫姆森以心理學家的背景，透過富豪與僧侶的精采對話，深入探討了幸福、財富、成功與生命的意義。這本書不講大道理，卻充滿了生命體悟，提醒讀者真正的快樂與滿足，始終掌握在自己手中。
 cover: https://www.kdchang.net/img/posts/reading-notes-when-a-millionaire-meets-a-monk-1.jpg
 tags:

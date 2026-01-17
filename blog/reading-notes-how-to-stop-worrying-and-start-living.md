@@ -1,7 +1,7 @@
 ---
 title: 《經典人際關係作家戴爾卡內基 II：如何停止憂慮，開創人生？》| 閱讀心得學習筆記
 date: 2024-03-27 11:33:41
-author: kdchang
+authors: kdchang
 description: 戴爾．卡內基的經典著作，為處於焦慮與壓力時代的人們提供了切實可行的解憂方法。本書並非單純的理論，而是來自無數真實案例、學員經驗與心理學原則的實踐智慧。它提醒我們，困擾人生的不是無知，而是無為，唯有行動才能轉化憂慮，重獲內心的自由。
 cover: https://www.kdchang.net/img/posts/reading-notes-how-to-stop-worrying-and-start-living-1.jpg
 tags:

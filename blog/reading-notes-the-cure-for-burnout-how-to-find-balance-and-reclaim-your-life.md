@@ -1,7 +1,7 @@
 ---
 title: 《我得了不想上班的病：倦怠的5大解藥，從有毒工作中奪回你的人生》| 閱讀心得學習筆記
 date: 2025-02-25 11:33:41
-author: kdchang
+authors: kdchang
 description: 在現代社會，我們時常被高壓工作與無止境的責任感推著走，逐漸遺忘了生活的真正意義。《我得了不想上班的病：倦怠的5大解藥，從有毒工作中奪回你的人生》這本書，正是針對這種普遍的職場倦怠現象，提供了清晰的分類與實用的方法，幫助讀者擺脫長期疲憊，重拾對生活的掌控權。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-cure-for-burnout-how-to-find-balance-and-reclaim-your-life-1.jpg
 tags: 

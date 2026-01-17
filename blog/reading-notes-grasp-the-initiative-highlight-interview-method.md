@@ -1,7 +1,7 @@
 ---
 title: 《掌握主動權的 Highlight 面試法：沒有矚目的背景，也能脫穎而出》| 閱讀心得學習筆記
 date: 2024-05-03 11:33:41
-author: kdchang
+authors: kdchang
 description: 《掌握主動權的 Highlight 面試法：沒有矚目的背景，也能脫穎而出》是一部結合實戰經驗與系統思維的面試實用指南。作者丁晨琦以求職者與面試官雙重視角，解構當代面試邏輯，為轉職者、職場新鮮人及無相關背景的求職者提供突破僵局的策略與技巧。透過故事結構、行銷思維與個人品牌經營，幫助讀者在短時間內主動抓住面試官的注意力，翻轉面試結果。
 cover: https://www.kdchang.net/img/posts/reading-notes-grasp-the-initiative-highlight-interview-method-1.jpg
 tags:

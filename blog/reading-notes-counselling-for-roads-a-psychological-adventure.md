@@ -1,7 +1,7 @@
 ---
 title: 《蛤蟆先生去看心理師》| 閱讀心得學習筆記
 date: 2022-01-26 11:33:41
-author: kdchang
+authors: kdchang
 description: 在現代社會，心理健康已逐漸被重視，但許多人仍對心理諮商存有疑慮。蛤蟆先生去看心理師透過`童話故事`的方式，`生動展現心理諮商的過程`，幫助讀者理解`心理治療`如何促進`個人成長`。本書不僅是一部`心理學入門書`，更是一場關於`自我覺察`與`情緒療癒`的旅程。
 cover: https://www.kdchang.net/img/posts/reading-notes-counselling-for-roads-a-psychological-adventure-1.jpg
 tags: 

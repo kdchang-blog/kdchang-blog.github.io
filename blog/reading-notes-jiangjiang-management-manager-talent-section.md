@@ -1,7 +1,7 @@
 ---
 title: 《將將：架構組織，建立流程，影響行為，高績效主管的全方位養成法》| 閱讀心得學習筆記
 date: 2022-03-30 11:33:41
-author: kdchang
+authors: kdchang
 description: 在企業中，多數人成為主管後才開始學習如何管理，但這往往伴隨著挫折與摸索。《將將》提供了一套可實踐的經理人養成方法，從主管意識、組織架構、到人才培養，均以實務經驗為核心，讓每位有志晉升的人都能提早自我修煉，成為高績效的經理人。
 cover: https://www.kdchang.net/img/posts/reading-notes-jiangjiang-management-manager-talent-section-1.jpg
 tags:

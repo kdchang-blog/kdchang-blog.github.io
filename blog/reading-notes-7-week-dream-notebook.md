@@ -1,7 +1,7 @@
 ---
 title: 《7 週圓夢筆記：每天一頁，寫著寫著夢想就成真了》| 閱讀心得學習筆記
 date: 2023-01-01 11:33:41
-author: kdchang
+authors: kdchang
 description: 這不是一本單純的書，而是一段由你主導的實驗旅程。橫川裕之以具體書寫為引子，引導讀者將模糊的願望化為具體的行動方案，進而徹底改變人生方向。透過每日約15分鐘的書寫練習，實現從「想要改變」到「真實改變」的飛躍。
 cover: https://www.kdchang.net/img/posts/reading-notes-7-week-dream-notebook-1.jpg
 tags:

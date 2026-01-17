@@ -1,7 +1,7 @@
 ---
 title: 《自我升級第一原理》| 閱讀心得學習筆記
 date: 2025-07-08 11:33:41
-author: kdchang
+authors: kdchang
 description: 《自我升級第一原理》一書點出現代人被「他人意見恐懼」（fear of people’s opinions，FOPO）所束縛，導致潛力無法發揮的困境。作者麥可・傑維斯以多年高績效心理學經驗，透過運動員、企業領袖的實戰案例，提醒我們要擺脫外在評價，將注意力聚焦於自身可控之事，方能激發無限可能。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-first-rule-of-mastery-stop-worrying-about-what-people-think-of-you-1.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 《人生一定要懂活法》| 閱讀心得學習筆記
 date: 2019-12-27 11:33:41
-author: kdchang
+authors: kdchang
 description: 這是一本充滿溫暖與啟發的書籍，作者堪布松柏仁波切以深入淺出的方式，將佛法智慧融入生活中的點滴。他用貼近人心的故事，闡述「無常」並非壞事，而是轉變與成長的契機。全書旨在引導讀者成為自己心靈的主人，學習在紛擾的世界中保持平靜，透過轉念將負面情緒化為正向力量，最終找到生命的真正價值與幸福。
 cover: https://www.kdchang.net/img/posts/reading-notes-life-must-understand-the-way-of-living-1.jpg
 tags:

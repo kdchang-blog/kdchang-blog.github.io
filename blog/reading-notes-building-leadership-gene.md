@@ -1,7 +1,7 @@
 ---
 title: 《打造將才基因：善用入職場黃金 5 年，掌握 4 大認知，躋身前 30% 的優勢養成法》| 閱讀心得學習筆記
 date: 2022-08-04 11:33:41
-author: kdchang
+authors: kdchang
 description: 在職場中，能力與努力並非唯一的成功關鍵，正確認知、態度與方法才是累積實力的核心。本書以杜書伍總裁多年實務與領導經驗為基礎，提供初入社會與想要突破職涯困境的人一套具體指南，幫助讀者減少試誤成本，加速邁向關鍵人才之路。
 cover: https://www.kdchang.net/img/posts/reading-notes-building-leadership-gene-1.jpg
 tags:

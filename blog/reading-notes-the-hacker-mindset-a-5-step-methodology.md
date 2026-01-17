@@ -1,7 +1,7 @@
 ---
 title: 《系統之鬼：頂尖駭客CEO戰勝系統的6大原則，帶你突破常規，收穫人生選擇自由》| 閱讀心得學習筆記
 date: 2025-05-29 11:33:41
-author: kdchang
+authors: kdchang
 description: 《系統之鬼》是一本結合駭客思維與人生策略的實用指南。作者加勒特．吉透過自身駭客與創業經歷，揭示如何以系統破解的方式，重塑職涯、財務與生活。從十五歲婉拒 Google，到短短五年創業達成財務自由，他不只是駭入網站，更駭入體制與現實，找出屬於自己的高效路徑。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-hacker-mindset-a-5-step-methodology-1.jpg
 tags:

@@ -1,7 +1,7 @@
 ---
 title: 《失控的焦慮世代：手機餵養的世代，如何面對心理疾病的瘟疫》| 閱讀心得學習筆記
 date: 2024-11-29 11:33:41
-author: kdchang
+authors: kdchang
 description: 在智慧型手機與社群媒體普及的時代，青少年的心理健康問題日益嚴重。《失控的焦慮世代》由社會心理學家海德特撰寫，探討Z世代如何因為手機與社群媒體的影響，經歷焦慮、憂鬱與社交障礙。本書不僅揭露問題根源，更提供政府、學校、企業與父母的可行對策，期望為下一代創造更健康的成長環境。  
 cover: https://www.kdchang.net/img/posts/reading-notes-the-anxious-generation-1.jpg
 tags: 

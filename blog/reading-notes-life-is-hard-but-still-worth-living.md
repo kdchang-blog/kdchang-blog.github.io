@@ -1,7 +1,7 @@
 ---
 title: 《人生雖苦，但還是值得活下去》| 閱讀心得學習筆記
 date: 2021-08-02 11:33:41
-author: kdchang
+authors: kdchang
 description: 《活著本來就很苦》是阿德勒心理學推廣者岸見一郎將其二十年人生哲思濃縮於一冊的沉靜告白。這本書不談華麗的成功學，也不灌輸正向思考的毒雞湯，而是以一種溫柔卻堅定的語調，陪伴讀者直視生命的苦與痛，然後找回對「活著」本身的認可與溫度。
 cover: https://www.kdchang.net/img/posts/reading-notes-life-is-hard-but-still-worth-living-1.jpg
 tags: 

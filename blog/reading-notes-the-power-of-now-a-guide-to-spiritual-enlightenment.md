@@ -1,7 +1,7 @@
 ---
 title: 《當下的力量：通往靈性開悟的指引》| 閱讀心得學習筆記
 date: 2023-03-01 11:33:41
-author: kdchang
+authors: kdchang
 description: 在現代社會，人們總是在追逐未來、擔憂過去，卻忽略了「當下」的珍貴。《當下的力量》由心靈導師艾克哈特．托勒撰寫，透過清晰易懂的語言，引導讀者跳脫小我與痛苦的束縛，體驗真正的平安與自在。本書不僅是一本靈性書籍，更是改變生命的實用指南，幫助我們學會如何活在當下，擺脫焦慮與恐懼，找到內在的寧靜與喜悅。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-power-of-now-a-guide-to-spiritual-enlightenment-1.jpg
 tags: 

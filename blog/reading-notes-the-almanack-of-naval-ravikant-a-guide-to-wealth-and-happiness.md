@@ -1,7 +1,7 @@
 ---
 title: 《納瓦爾寶典：從白手起家到財務自由，矽谷傳奇創投家的投資哲學與人生智慧》| 閱讀心得學習筆記
 date: 2024-01-04 11:33:41
-author: kdchang
+authors: kdchang
 description: 《納瓦爾寶典：從白手起家到財務自由， 矽谷傳奇創投家的投資哲學與人生智慧》是一部集結矽谷傳奇創投家納瓦爾人生智慧的作品，將致富與快樂拆解為可學習、可實踐的技能。不同於傳統理財書著重技巧，這本書更著眼於思維與選擇，提醒人們在追求財富之前，更應先找到人生的支點與槓桿。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-almanack-of-naval-ravikant-a-guide-to-wealth-and-happiness-1.jpg
 tags:

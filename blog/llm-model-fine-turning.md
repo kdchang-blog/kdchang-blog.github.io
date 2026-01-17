@@ -1,7 +1,7 @@
 ---
 title: 關於 LLMs 大型語言模型微調（Fine-tuning）入門教學
 date: 2024-05-26 11:33:41
-author: kdchang
+authors: kdchang
 tags: 
     - 生成式 AI
     - GenAI

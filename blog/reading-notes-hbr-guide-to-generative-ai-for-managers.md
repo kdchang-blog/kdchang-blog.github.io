@@ -1,7 +1,7 @@
 ---
 title: 《職場人的生成式 AI 工作法：哈佛商業評論提升生產力、團隊創意和決策品質的 35 堂課》| 閱讀心得學習筆記
 date: 2025-07-31 11:33:41
-author: kdchang
+authors: kdchang
 description: 生成式 AI 已成為職場的關鍵助力，能幫助個人提升效率、團隊激發創意、企業優化決策，甚至推動組織變革。然而，真正的差異不在於選擇哪個 AI 工具，而是如何與它建立有效的合作關係。本書以實際案例與操作技巧，說明如何將生成式 AI 從單純工具升級為協思夥伴，協助職場人迎接全新的工作模式。
 cover: https://www.kdchang.net/img/posts/reading-notes-hbr-guide-to-generative-ai-for-managers-1.jpg
 tags:

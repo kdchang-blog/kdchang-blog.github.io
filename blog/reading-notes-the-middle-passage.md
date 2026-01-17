@@ -1,7 +1,7 @@
 ---
 title: 《中年之路：穿越幽暗，迎向完整的內在鍊金之旅》| 閱讀心得學習筆記
 date: 2024-06-05 11:33:41
-author: kdchang
+authors: kdchang
 description: 《中年之路》由詹姆斯・霍利斯撰寫，是一本以榮格心理學為基礎，深入探討中年階段心理轉折與個體化歷程的重要著作。中年不再只是人生的下坡期，而是一場重新覺醒與蛻變的契機。作者指出，當人們在中年感受到內外衝突與空虛，便揭開了通往「第二個成年期」的序幕。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-middle-passage-1.jpg
 tags:

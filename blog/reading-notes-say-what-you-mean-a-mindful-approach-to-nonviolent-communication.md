@@ -1,7 +1,7 @@
 ---
 title: 《正念溝通：在衝突、委屈、情緒勒索場景下說出真心話》| 閱讀心得學習筆記
 date: 2022-03-30 11:33:41
-author: kdchang
+authors: kdchang
 description: 這本書從人類最基本卻最強大的力量——語言出發，提醒我們說話的方式如何影響生活與人際關係。作者奧朗．傑．舒佛結合正念、體感治療與非暴力溝通，提供一套改變對話、療癒關係、促進社會和諧的方法。
 cover: https://www.kdchang.net/img/posts/reading-notes-say-what-you-mean-a-mindful-approach-to-nonviolent-communication-1.jpg
 tags:

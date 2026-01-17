@@ -1,7 +1,7 @@
 ---
 title: 《如何閱讀一本書》| 閱讀心得學習筆記
 date: 2022-03-30 11:33:41
-author: kdchang
+authors: kdchang
 description: 在資訊爆炸的時代，閱讀變得既平凡又被低估。然而真正的閱讀，不是掃過文字，而是激發理解與思辨的能力。莫提默・艾德勒與查理・范多倫合著的《如何閱讀一本書》，不僅是閱讀技巧的經典指南，更是通往智慧與思維深度的橋樑。無論是初學者還是資深讀者，本書都能引領你走向更有意識的閱讀之路。
 cover: https://www.kdchang.net/img/posts/reading-notes-how-to-read-book-1.jpg
 tags:

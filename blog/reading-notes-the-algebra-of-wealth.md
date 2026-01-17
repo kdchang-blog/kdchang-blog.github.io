@@ -1,7 +1,7 @@
 ---
 title: 《蓋洛威教授的人生財富課：觀念x紀律x工作x配置》| 閱讀心得學習筆記
 date: 2025-06-04 11:33:41
-author: kdchang
+authors: kdchang
 description: 《蓋洛威教授的人生財富課》是紐約大學教授史考特・蓋洛威給每個在資本主義浪潮中奮戰的現代人，所提供的一套實用財務與人生決策指南。書中跳脫傳統理財技巧，從人格修煉、職涯選擇、時間運用到投資策略，協助讀者建立穩固的財務底座，進而活出更自主的人生。
 cover: https://www.kdchang.net/img/posts/reading-notes-the-algebra-of-wealth-1.jpg
 tags:

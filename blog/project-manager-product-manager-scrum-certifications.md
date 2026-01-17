@@ -1,7 +1,7 @@
 ---
 title: 常見專案經理（Project Manager）、產品經理（Product Manager, PM）和敏捷開發（Agile）相關證照
 date: 2024-07-26 11:33:41
-author: kdchang
+authors: kdchang
 tags: 
     - 產品專案管理專案全書
     - 產案管理
