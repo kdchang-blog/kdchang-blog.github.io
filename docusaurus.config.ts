@@ -1,8 +1,54 @@
 import { themes as prismThemes } from "prism-react-renderer";
 import type { Config } from "@docusaurus/types";
 import type * as Preset from "@docusaurus/preset-classic";
+import * as fs from "fs";
+import * as path from "path";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
+// Function to read blog post date from frontmatter
+function getBlogPostDate(slug: string): string | null {
+  try {
+    const blogPath = path.join(__dirname, "blog", `${slug}.md`);
+    if (!fs.existsSync(blogPath)) {
+      return null;
+    }
+
+    const content = fs.readFileSync(blogPath, "utf-8");
+    const frontmatterMatch = content.match(/^---\s*\n([\s\S]*?)\n---/);
+
+    if (frontmatterMatch) {
+      const frontmatter = frontmatterMatch[1];
+      const dateMatch = frontmatter.match(/date:\s*(.+)/);
+
+      if (dateMatch) {
+        return dateMatch[1].trim();
+      }
+    }
+
+    return null;
+  } catch (error) {
+    console.log(`Error reading blog post ${slug}:`, error);
+    return null;
+  }
+}
+
+// Function to format date for Jekyll-style URL
+function formatJekyllDate(dateString: string): string | null {
+  try {
+    const date = new Date(dateString);
+    if (isNaN(date.getTime())) {
+      return null;
+    }
+
+    const year = date.getFullYear();
+    const month = String(date.getMonth() + 1).padStart(2, "0");
+    const day = String(date.getDate()).padStart(2, "0");
+
+    return `/${year}/${month}/${day}`;
+  } catch (error) {
+    return null;
+  }
+}
 
 const config: Config = {
   title: "KD 閱讀職場人生 🔖",
@@ -97,6 +143,44 @@ const config: Config = {
         // docs route base path
         docsRouteBasePath: "/resources",
         blogRouteBasePath: "/blog",
+      },
+    ],
+    [
+      "@docusaurus/plugin-client-redirects",
+      {
+        createRedirects(existingPath) {
+          const redirects = [];
+
+          if (existingPath.includes("/blog/")) {
+            // Extract post slug from blog path
+            const blogPostMatch = existingPath.match(/\/blog\/(.+)/);
+            if (blogPostMatch) {
+              const postSlug = blogPostMatch[1];
+
+              // Read the actual blog post date and create Jekyll-style redirect
+              const dateString = getBlogPostDate(postSlug);
+              if (dateString) {
+                const jekyllDatePath = formatJekyllDate(dateString);
+                if (jekyllDatePath) {
+                  // Create Jekyll-style redirect: /YYYY/MM/DD/post-slug/
+                  redirects.push(`${jekyllDatePath}/${postSlug}/`);
+                }
+              }
+            }
+
+            // Handle direct slug redirects (without /blog prefix)
+            const pathWithoutBlog = existingPath.replace("/blog/", "/");
+            redirects.push(pathWithoutBlog);
+
+            return redirects;
+          }
+
+          if (existingPath.includes("/blog/tags/")) {
+            return [existingPath.replace("/blog/tags/", "/tag/")];
+          }
+
+          return undefined;
+        },
       },
     ],
   ],
