@@ -50,7 +50,7 @@ KD Chang 張凱迪，台灣大學，主修經濟學，臺大資管所畢業。�
 1. E-MAIL: kdchang.net[at]gmail.com
 2. Github: [https://github.com/kdchang](https://github.com/kdchang)
 3. Personal Site/Blog: [https://www.kdchang.net](https://www.kdchang.net)
-4. Tech Blog: [https://tech.kdchang.net](https://tech.kdchang.net)
+4. Tech Blog: [https://labs.kdchang.net](https://labs.kdchang.net)
 5. Slides: [http://slides.com/kd-chang](http://slides.com/kd-chang)
 6. Slideshare: [http://www.slideshare.net/KaiDiChang/](http://www.slideshare.net/KaiDiChang/)
 7. Twitter: [https://twitter.com/kaidichang](https://twitter.com/kaidichang)
