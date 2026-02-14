@@ -51,7 +51,7 @@ function formatJekyllDate(dateString: string): string | null {
 }
 
 const config: Config = {
-  title: "KD 閱讀職場人生 🔖",
+  title: "KD 閱讀職場人生 🔖 | KD Chang 張凱迪",
   tagline:
     "讓我們透過閱讀、旅行和電影，一起解答職場與人生中的各種難題，成為更好的自己📚✨",
   favicon: "/img/favicon.ico",
