@@ -23,7 +23,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className="margin-left--sm button button--success button--lg"
-            to="/bookstore"
+            to="https://www.lifepicksbookstore.com/"
           >
             拜訪人生推書店
           </Link>

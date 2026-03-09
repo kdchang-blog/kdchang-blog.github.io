@@ -210,7 +210,11 @@ const config: Config = {
       // },
       items: [
         { to: "blog", label: "最新文章", position: "left" },
-        { to: "/bookstore", label: "人生推書店", position: "left" },
+        {
+          to: "https://www.lifepicksbookstore.com/",
+          label: "人生推書店",
+          position: "left",
+        },
         {
           type: "docSidebar",
           sidebarId: "resourceSidebar",
