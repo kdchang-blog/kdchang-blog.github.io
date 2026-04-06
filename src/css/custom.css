@@ -1,3 +1,8 @@
+/* ============================================
+   Google Fonts — Inter (UI) + Noto Sans TC (CJK)
+   ============================================ */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&family=Noto+Sans+TC:wght@400;500;700&display=swap");
+
 /**
  * Any CSS included here will be global. The classic template
  * bundles Infima by default. Infima is a CSS framework designed to
@@ -468,4 +473,166 @@ article.card:hover {
   .featureImage {
     height: 150px;
   }
+}
+
+/* ============================================
+   Typography — Inter + Noto Sans TC
+   ============================================ */
+:root {
+  --ifm-font-family-base:
+    "Inter", "Noto Sans TC", system-ui, -apple-system, sans-serif;
+  --ifm-heading-font-family: "Inter", "Noto Sans TC", system-ui, sans-serif;
+  --ifm-font-weight-bold: 700;
+}
+
+body {
+  font-family: var(--ifm-font-family-base);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Better prose styles for blog articles */
+.markdown {
+  --ifm-leading: 1.85;
+  font-size: 1.05rem;
+}
+
+.markdown h1,
+.markdown h2,
+.markdown h3 {
+  font-family: var(--ifm-heading-font-family);
+  letter-spacing: -0.3px;
+}
+
+.markdown h2 {
+  margin-top: 2.5rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--ifm-color-emphasis-200);
+}
+
+.markdown blockquote {
+  border-left: 4px solid var(--ifm-color-primary);
+  background: rgba(0, 96, 100, 0.04);
+  border-radius: 0 8px 8px 0;
+  padding: 1rem 1.5rem;
+  font-style: italic;
+  color: var(--ifm-color-emphasis-700);
+}
+
+[data-theme="dark"] .markdown blockquote {
+  background: rgba(77, 208, 225, 0.06);
+}
+
+/* ============================================
+   Stats Strip (homepage)
+   ============================================ */
+.statsStrip {
+  background: linear-gradient(90deg, #004d52 0%, #006064 60%, #00797e 100%);
+  padding: 2rem 0;
+}
+
+.statsInner {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  gap: 1.5rem;
+}
+
+.statItem {
+  text-align: center;
+}
+
+.statNumber {
+  display: block;
+  font-size: 2.2rem;
+  font-weight: 800;
+  color: #4dd0e1;
+  line-height: 1.1;
+  letter-spacing: -1px;
+}
+
+.statLabel {
+  display: block;
+  font-size: 0.85rem;
+  color: rgba(255, 255, 255, 0.75);
+  margin-top: 0.3rem;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+}
+
+@media (max-width: 600px) {
+  .statsInner {
+    gap: 1.25rem;
+  }
+
+  .statNumber {
+    font-size: 1.8rem;
+  }
+}
+
+/* ============================================
+   Newsletter Section (homepage)
+   ============================================ */
+.newsletterSection {
+  padding: 5rem 1.5rem;
+  background: linear-gradient(180deg, #f8fafb 0%, #edf6f7 100%);
+  text-align: center;
+}
+
+[data-theme="dark"] .newsletterSection {
+  background: linear-gradient(
+    180deg,
+    var(--ifm-background-surface-color) 0%,
+    rgba(0, 96, 100, 0.08) 100%
+  );
+}
+
+.newsletterCard {
+  max-width: 620px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 20px;
+  padding: 3rem 2.5rem;
+  box-shadow:
+    0 4px 6px rgba(0, 0, 0, 0.04),
+    0 20px 40px rgba(0, 96, 100, 0.1);
+  border: 1px solid rgba(0, 96, 100, 0.1);
+}
+
+[data-theme="dark"] .newsletterCard {
+  background: var(--ifm-card-background-color);
+  box-shadow:
+    0 4px 6px rgba(0, 0, 0, 0.2),
+    0 20px 40px rgba(0, 0, 0, 0.3);
+  border-color: rgba(77, 208, 225, 0.15);
+}
+
+.newsletterIcon {
+  font-size: 2.5rem;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.newsletterTitle {
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: var(--ifm-heading-color);
+  margin: 0 0 0.75rem;
+  letter-spacing: -0.3px;
+}
+
+.newsletterDesc {
+  font-size: 1rem;
+  color: var(--ifm-color-emphasis-600);
+  line-height: 1.7;
+  margin: 0 0 2rem;
+}
+
+.newsletterEmbed {
+  border-radius: 12px;
+  overflow: hidden;
+  border: 1px solid var(--ifm-color-emphasis-200) !important;
 }

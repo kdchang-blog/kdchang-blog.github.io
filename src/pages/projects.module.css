@@ -1,0 +1,423 @@
+/* ============================================
+   Projects Page — 產品專案
+   ============================================ */
+
+/* ── Hero ── */
+.pageHero {
+  background: linear-gradient(135deg, #0a4f54 0%, #006064 60%, #007b82 100%);
+  padding: 4rem 1.5rem 3.5rem;
+  text-align: center;
+}
+
+.pageTitle {
+  font-size: 2.6rem;
+  font-weight: 800;
+  color: #ffffff;
+  margin: 0 0 0.75rem;
+  letter-spacing: -0.5px;
+  text-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.pageDesc {
+  font-size: 1.1rem;
+  color: rgba(255, 255, 255, 0.82);
+  max-width: 620px;
+  margin: 0 auto;
+  line-height: 1.7;
+}
+
+/* ── Sticky category tab bar ── */
+.tabBar {
+  background: white;
+  border-bottom: 1px solid var(--ifm-color-emphasis-200);
+  position: sticky;
+  top: var(--ifm-navbar-height);
+  z-index: 100;
+}
+
+[data-theme="dark"] .tabBar {
+  background: var(--ifm-navbar-background-color);
+}
+
+.tabInner {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 0 1.5rem;
+  display: flex;
+}
+
+.tabBtn {
+  padding: 0.9rem 1.6rem;
+  border: none;
+  background: none;
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--ifm-color-emphasis-600);
+  cursor: pointer;
+  border-bottom: 3px solid transparent;
+  margin-bottom: -1px;
+  transition:
+    color 0.2s ease,
+    border-color 0.2s ease;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  white-space: nowrap;
+  text-decoration: none;
+}
+
+.tabBtn:hover {
+  text-decoration: none;
+}
+
+.tabBtnProduct:hover {
+  color: #006064;
+  border-bottom-color: #006064;
+}
+
+.tabBtnTool:hover {
+  color: #1565c0;
+  border-bottom-color: #1565c0;
+}
+
+.tabBtnGame:hover {
+  color: #6a1b9a;
+  border-bottom-color: #6a1b9a;
+}
+
+/* ── Page body ── */
+.body {
+  max-width: 1040px;
+  margin: 0 auto;
+  padding: 3rem 1.5rem 5rem;
+}
+
+/* ── Section ── */
+.section {
+  margin-bottom: 4.5rem;
+  scroll-margin-top: calc(var(--ifm-navbar-height) + 58px);
+}
+
+.sectionHeader {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.35rem;
+}
+
+.sectionEmoji {
+  font-size: 1.7rem;
+  line-height: 1;
+}
+
+.sectionTitle {
+  font-size: 1.6rem;
+  font-weight: 800;
+  color: var(--ifm-heading-color);
+  margin: 0;
+  letter-spacing: -0.3px;
+}
+
+.sectionSubtitle {
+  font-size: 0.93rem;
+  color: var(--ifm-color-emphasis-600);
+  margin: 0 0 1.5rem;
+  padding-left: calc(1.7rem + 0.75rem);
+  line-height: 1.6;
+}
+
+.divider {
+  border: none;
+  border-top: 2px solid var(--ifm-color-emphasis-200);
+  margin: 0.5rem 0 1.75rem;
+}
+
+/* ── Card grid ── */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(290px, 1fr));
+  gap: 1.5rem;
+}
+
+/* ── Card ── */
+.card {
+  background: white;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 16px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  transition:
+    transform 0.28s cubic-bezier(0.4, 0, 0.2, 1),
+    box-shadow 0.28s ease,
+    border-color 0.28s ease;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 14px 36px rgba(0, 0, 0, 0.12);
+}
+
+[data-theme="dark"] .card {
+  background: var(--ifm-card-background-color);
+}
+
+/* Coloured top stripe per category */
+.card::before {
+  content: "";
+  display: block;
+  height: 4px;
+  flex-shrink: 0;
+}
+
+.cardProduct::before {
+  background: linear-gradient(90deg, #006064, #00bcd4);
+}
+
+.cardTool::before {
+  background: linear-gradient(90deg, #1565c0, #42a5f5);
+}
+
+.cardGame::before {
+  background: linear-gradient(90deg, #6a1b9a, #ab47bc);
+}
+
+.cardProduct:hover {
+  border-color: #00bcd4;
+}
+
+.cardTool:hover {
+  border-color: #42a5f5;
+}
+
+.cardGame:hover {
+  border-color: #ab47bc;
+}
+
+/* ── Card thumbnail ── */
+.cardThumb {
+  width: 100%;
+  height: 156px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3.5rem;
+  flex-shrink: 0;
+}
+
+.cardThumbImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+
+.thumbProduct {
+  background: linear-gradient(
+    135deg,
+    rgba(0, 96, 100, 0.07),
+    rgba(0, 188, 212, 0.12)
+  );
+}
+
+.thumbTool {
+  background: linear-gradient(
+    135deg,
+    rgba(21, 101, 192, 0.07),
+    rgba(66, 165, 245, 0.12)
+  );
+}
+
+.thumbGame {
+  background: linear-gradient(
+    135deg,
+    rgba(106, 27, 154, 0.07),
+    rgba(171, 71, 188, 0.12)
+  );
+}
+
+/* ── Card body ── */
+.cardBody {
+  padding: 1.2rem 1.4rem 1.5rem;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+/* Status badge */
+.statusBadge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 0.22rem 0.65rem;
+  border-radius: 50px;
+  width: fit-content;
+  margin-bottom: 0.65rem;
+}
+
+.statusLive {
+  background: rgba(0, 200, 150, 0.12);
+  color: #007a50;
+}
+
+.statusWip {
+  background: rgba(255, 182, 72, 0.15);
+  color: #b45309;
+}
+
+.statusArchived {
+  background: rgba(120, 120, 120, 0.1);
+  color: #666;
+}
+
+[data-theme="dark"] .statusLive {
+  background: rgba(0, 200, 150, 0.18);
+  color: #57d9a3;
+}
+
+[data-theme="dark"] .statusWip {
+  background: rgba(255, 182, 72, 0.2);
+  color: #fbbf24;
+}
+
+[data-theme="dark"] .statusArchived {
+  background: rgba(200, 200, 200, 0.1);
+  color: #aaa;
+}
+
+.cardTitle {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: var(--ifm-heading-color);
+  margin: 0 0 0.45rem;
+  line-height: 1.3;
+}
+
+.cardDesc {
+  font-size: 0.875rem;
+  color: var(--ifm-color-emphasis-600);
+  line-height: 1.65;
+  margin: 0 0 1.1rem;
+  flex: 1;
+}
+
+/* Tech tags */
+.cardTags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin-bottom: 1.1rem;
+}
+
+.tag {
+  padding: 0.18rem 0.6rem;
+  border-radius: 50px;
+  font-size: 0.72rem;
+  font-weight: 500;
+}
+
+.tagProduct {
+  background: rgba(0, 96, 100, 0.1);
+  color: #006064;
+}
+
+.tagTool {
+  background: rgba(21, 101, 192, 0.1);
+  color: #1565c0;
+}
+
+.tagGame {
+  background: rgba(106, 27, 154, 0.1);
+  color: #6a1b9a;
+}
+
+[data-theme="dark"] .tagProduct {
+  background: rgba(77, 208, 225, 0.15);
+  color: #4dd0e1;
+}
+
+[data-theme="dark"] .tagTool {
+  background: rgba(66, 165, 245, 0.15);
+  color: #64b5f6;
+}
+
+[data-theme="dark"] .tagGame {
+  background: rgba(171, 71, 188, 0.15);
+  color: #ce93d8;
+}
+
+/* Action buttons */
+.cardActions {
+  display: flex;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.btnPrimary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.45rem 1rem;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  background: var(--ifm-color-primary);
+  color: white;
+  text-decoration: none;
+  transition:
+    background 0.2s ease,
+    transform 0.2s ease;
+}
+
+.btnPrimary:hover {
+  background: var(--ifm-color-primary-dark);
+  color: white;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.btnSecondary {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.45rem 1rem;
+  border-radius: 8px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  border: 1.5px solid var(--ifm-color-emphasis-300);
+  color: var(--ifm-color-emphasis-700);
+  text-decoration: none;
+  transition:
+    border-color 0.2s ease,
+    color 0.2s ease,
+    transform 0.2s ease;
+}
+
+.btnSecondary:hover {
+  border-color: var(--ifm-color-primary);
+  color: var(--ifm-color-primary);
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  .pageTitle {
+    font-size: 1.9rem;
+  }
+
+  .tabBtn {
+    padding: 0.75rem 1rem;
+    font-size: 0.85rem;
+  }
+
+  .grid {
+    grid-template-columns: 1fr;
+  }
+
+  .body {
+    padding: 2rem 1rem 4rem;
+  }
+}

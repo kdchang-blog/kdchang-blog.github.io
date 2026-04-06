@@ -8,6 +8,13 @@ import Heading from "@theme/Heading";
 
 import styles from "./index.module.css";
 
+const stats = [
+  { number: "5+", label: "獨立開發的產品" },
+  { number: "4,000+", label: "GitHub Stars" },
+  { number: "100+", label: "文章分享" },
+  { number: "5,500+", label: "追蹤者" },
+];
+
 function HomepageHeader() {
   const { siteConfig } = useDocusaurusContext();
   return (
@@ -23,13 +30,51 @@ function HomepageHeader() {
           </Link>
           <Link
             className="margin-left--sm button button--success button--lg"
-            to="https://www.lifepicksbookstore.com/"
+            to="/projects"
           >
-            拜訪人生推書店
+            探索產品專案
           </Link>
         </div>
       </div>
     </header>
+  );
+}
+
+function StatsStrip() {
+  return (
+    <div className="statsStrip">
+      <div className="statsInner">
+        {stats.map((s) => (
+          <div key={s.label} className="statItem">
+            <span className="statNumber">{s.number}</span>
+            <span className="statLabel">{s.label}</span>
+          </div>
+        ))}
+      </div>
+    </div>
+  );
+}
+
+function NewsletterSection() {
+  return (
+    <section className="newsletterSection">
+      <div className="newsletterCard">
+        <span className="newsletterIcon">✉️</span>
+        <h2 className="newsletterTitle">訂閱 KD Labs 電子報</h2>
+        <p className="newsletterDesc">
+          每週精選產品開發、職涯洞見與科技趨勢，直接送到你的信箱。 加入超過
+          1,000 位讀者，一起成為更好的自己。
+        </p>
+        <iframe
+          src="https://kdchangnet.substack.com/embed"
+          width="100%"
+          height="150"
+          className="newsletterEmbed"
+          style={{ border: "none", display: "block" }}
+          title="訂閱 KD Labs 電子報"
+        />
+      </div>
+    </section>
   );
 }
 
@@ -41,22 +86,11 @@ export default function Home(): ReactNode {
       description="讓我們透過閱讀、旅行和電影，一起解答職場與人生中的各種難題，成為更好的自己📚✨"
     >
       <HomepageHeader />
+      <StatsStrip />
       <main>
         <HomepageFeatures />
       </main>
-      <iframe
-        src="https://kdchangnet.substack.com/embed"
-        width="100%"
-        height="320"
-        style={{
-          border: "1px solid #EEE",
-          maxWidth: "100%",
-          margin: "0 auto",
-          display: "block",
-        }}
-        frameBorder="0"
-        scrolling="no"
-      ></iframe>
+      <NewsletterSection />
     </Layout>
   );
 }

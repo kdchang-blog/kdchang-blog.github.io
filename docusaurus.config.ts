@@ -210,17 +210,7 @@ const config: Config = {
       // },
       items: [
         { to: "blog", label: "最新文章", position: "left" },
-        {
-          to: "https://www.lifepicksbookstore.com/",
-          label: "人生推書店",
-          position: "left",
-        },
-        {
-          type: "docSidebar",
-          sidebarId: "resourceSidebar",
-          position: "left",
-          label: "學習資源",
-        },
+        { to: "/projects", label: "產品專案", position: "left" },
         { to: "/about", label: "關於本站", position: "left" },
         // {`
         //   type: "docSidebar",
@@ -242,8 +232,8 @@ const config: Config = {
           title: "Docs",
           items: [
             {
-              label: "學習資源",
-              to: "/resources",
+              label: "產品專案",
+              to: "/projects",
             },
             {
               label: "熱門文章",
