@@ -85,9 +85,16 @@ const tools: Project[] = [
   },
   {
     emoji: "⚡",
-    title: "白噪音網站 - WhiteNoiseHub",
+    title: "WhiteNoiseHub 白噪音集合網",
     desc: "一個提供多種環境白噪音的網站，幫助使用者提升專注力、放鬆心情或改善睡眠品質。使用者可以選擇不同的白噪音類型，如雨聲、海浪聲、森林聲等，並且可以調整音量和混合多種聲音，打造專屬的聲音環境。",
     tags: ["Web", "Audio"],
+    status: "wip",
+  },
+  {
+    emoji: "⚡",
+    title: "HomePocket 口袋找房",
+    desc: "HomePocket 是一款專為找房族打造的 Chrome 擴充功能，幫助你在瀏覽各大房屋平台時，一鍵收藏、整理與分析房源資訊，讓買房與租屋決策更有效率、更有系統。",
+    tags: ["Web", "Real Estate"],
     status: "wip",
   },
 ];
