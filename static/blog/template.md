@@ -1,7 +1,7 @@
 👇 網頁好讀版：每天進步一點點，成為更好的自己 💪
 https://www.kdchang.net
 👋 追蹤、按讚、訂閱和分享，獲得更多職場人生閱讀反思和個人成長學習資訊！
-KD 閱讀職場人生 🔖 | 張凱迪
+KD Labs | 張凱迪
 FB：https://www.facebook.com/kdchang.net
 IG：https://www.instagram.com/kdchang_net/
 電子報：https://kdchangnet.substack.com/

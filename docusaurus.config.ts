@@ -51,9 +51,9 @@ function formatJekyllDate(dateString: string): string | null {
 }
 
 const config: Config = {
-  title: "KD 閱讀職場人生 🔖 | KD Chang 張凱迪",
+  title: "KD Labs | KD Chang 張凱迪",
   tagline:
-    "讓我們透過閱讀、旅行和電影，一起解答職場與人生中的各種難題，成為更好的自己📚✨",
+    "用 Builder 思維打造人們喜愛的產品、內容和社群。幫助更多人解決職場和人生難題，成為更好的自己",
   favicon: "/img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -203,9 +203,9 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: "KD 閱讀職場人生 🔖",
+      title: "KD Labs",
       // logo: {
-      //   alt: "KD 閱讀職場人生 🔖",
+      //   alt: "KD Labs",
       //   src: "img/logo.png",
       // },
       items: [
@@ -278,7 +278,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} KD 閱讀職場人生 🔖. Built with ❤️ in Taiwan.`,
+      copyright: `Copyright © ${new Date().getFullYear()} KD Labs | KD Chang 張凱迪. Built with ❤️ in Taiwan.`,
     },
     prism: {
       theme: prismThemes.github,

@@ -11,13 +11,12 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: "重點書摘/旅行遊記",
+    title: "重點書摘/人生反思",
     Png: require("@site/static/img/reading-icon.png").default,
     description: (
       <>
         精選職場、心理勵志、商業管理等好書重點摘要與深度解析。
-        結合旅行見聞，分享不同文化視角下的人生智慧與成長體悟，
-        讓每次閱讀都成為一場心靈之旅
+        讓每次閱讀都成為一場心靈之旅，幫助你發現生命的意義和重新思考如何活好人生
       </>
     ),
   },
@@ -33,12 +32,11 @@ const FeatureList: FeatureItem[] = [
     ),
   },
   {
-    title: "電影心得/人生反思",
+    title: "電影心得/旅行遊記",
     Png: require("@site/static/img/movie-icon.png").default,
     description: (
       <>
-        透過電影鏡頭觀察人性與社會，從故事情節中萃取人生哲理。
-        分享觀影感悟、價值思辨與生命體驗， 用影像藝術啟發更深層的自我對話與成長
+        透過電影鏡頭觀察人性與社會，從故事情節中萃取人生哲理，分享觀影感悟、價值思辨與生命體驗。結合旅行見聞，分享不同文化視角下的人生智慧與成長體悟
       </>
     ),
   },
