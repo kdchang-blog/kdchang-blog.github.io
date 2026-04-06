@@ -145,7 +145,7 @@ export default function About(): ReactNode {
           />
           <h1 className={styles.profileName}>KD Chang 張凱迪</h1>
           <p className={styles.profileQuote}>
-            踏上屬於自己的英雄旅程，在人生遊戲中不斷試錯和迭代，成為更好版本的自己
+            踏上人生的英雄旅程，不斷嘗試和進化，成為更好版本的自己
           </p>
           <div className={styles.roleBadges}>
             <span className={`${styles.badge} ${styles.badgeTeal}`}>

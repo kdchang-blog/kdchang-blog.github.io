@@ -96,7 +96,7 @@ const tools: Project[] = [
 const games: Project[] = [
   {
     emoji: "🎮",
-    title: "創業獨角獸計畫 - Startup Unicorn",
+    title: "創業獨角獸計畫 - Startup Unicorn Plan",
     desc: "一款模擬創業過程的瀏覽器小遊戲，玩家將扮演一位創業者，從零開始打造自己的新創公司，經歷產品開發、市場行銷、團隊管理等各種挑戰，最終目標是成為獨角獸企業！",
     tags: ["Browser Game", "JavaScript"],
     status: "wip",
