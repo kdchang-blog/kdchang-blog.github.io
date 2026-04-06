@@ -241,7 +241,7 @@ export default function Projects(): ReactNode {
   return (
     <Layout
       title="產品專案 | KD Chang 張凱迪"
-      description="由 KD Chang 張凱迪所打造的產品、工具與遊戲作品集，涵蓋開發者平台、選書電商、開源工具與瀏覽器小遊戲。"
+      description="由 KD Chang 張凱迪所打造的產品、工具與遊戲作品集，涵蓋網站、手機 App、瀏覽器外掛、開源工具與遊戲。"
     >
       {/* Hero */}
       <div className={styles.pageHero}>
