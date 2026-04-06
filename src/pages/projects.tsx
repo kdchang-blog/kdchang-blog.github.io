@@ -44,15 +44,6 @@ const products: Project[] = [
   },
   {
     emoji: "🧪",
-    image: "/img/projects/happyprompt.webp",
-    title: "HappyPrompt",
-    desc: "HappyPrompt 是一款瀏覽器擴充功能，提供 Prompt 提示詞管理工具與 AI 知識庫，讓你輕鬆儲存、整理和重複使用常用提示詞，大幅提升使用 AI 工具的效率。",
-    tags: ["Chrome Extension", "JavaScript", "GenAI", "Prompt Engineering"],
-    status: "live",
-    url: "https://chromewebstore.google.com/detail/happyprompt-prompt-%E6%8F%90%E7%A4%BA%E8%A9%9E%E7%AE%A1%E7%90%86%E5%B7%A5/egecphncaagaeolknghbdgelpjfihkdj?hl=zh-tw",
-  },
-  {
-    emoji: "🧪",
     image: "/img/projects/happycoder.webp",
     title: "HappyCoder 自學 AI 程式設計學院",
     desc: "最溫馨有趣的自學 AI 工具、實用 Prompt 提示詞和 Vibe Coding 自學程式設計交流學習社群。",
@@ -84,6 +75,15 @@ const products: Project[] = [
 /* ── Tools ─────────────────────────────────────────── */
 const tools: Project[] = [
   {
+    emoji: "🧪",
+    image: "/img/projects/happyprompt.webp",
+    title: "HappyPrompt",
+    desc: "HappyPrompt 是一款瀏覽器擴充功能，提供 Prompt 提示詞管理工具與 AI 知識庫，讓你輕鬆儲存、整理和重複使用常用提示詞，大幅提升使用 AI 工具的效率。",
+    tags: ["Chrome Extension", "JavaScript", "GenAI", "Prompt Engineering"],
+    status: "live",
+    url: "https://chromewebstore.google.com/detail/happyprompt-prompt-%E6%8F%90%E7%A4%BA%E8%A9%9E%E7%AE%A1%E7%90%86%E5%B7%A5/egecphncaagaeolknghbdgelpjfihkdj?hl=zh-tw",
+  },
+  {
     emoji: "⚡",
     title: "白噪音網站 - WhiteNoiseHub",
     desc: "一個提供多種環境白噪音的網站，幫助使用者提升專注力、放鬆心情或改善睡眠品質。使用者可以選擇不同的白噪音類型，如雨聲、海浪聲、森林聲等，並且可以調整音量和混合多種聲音，打造專屬的聲音環境。",
@@ -96,8 +96,8 @@ const tools: Project[] = [
 const games: Project[] = [
   {
     emoji: "🎮",
-    title: "創業獨角獸計畫 - Unicorn Startup Simulator",
-    desc: "一款模擬創業過程的瀏覽器小遊戲，玩家將扮演一位創業者，從零開始打造自己的公司，經歷產品開發、市場行銷、團隊管理等各種挑戰，最終目標是成為獨角獸企業！",
+    title: "創業獨角獸計畫 - Startup Unicorn",
+    desc: "一款模擬創業過程的瀏覽器小遊戲，玩家將扮演一位創業者，從零開始打造自己的新創公司，經歷產品開發、市場行銷、團隊管理等各種挑戰，最終目標是成為獨角獸企業！",
     tags: ["Browser Game", "JavaScript"],
     status: "wip",
   },
@@ -240,7 +240,7 @@ function ProjectSection({
 export default function Projects(): ReactNode {
   return (
     <Layout
-      title="產品專案 | KD Chang 張凱迪"
+      title="產品專案"
       description="由 KD Chang 張凱迪所打造的產品、工具與遊戲作品集，涵蓋網站、手機 App、瀏覽器外掛、開源工具與遊戲。"
     >
       {/* Hero */}
