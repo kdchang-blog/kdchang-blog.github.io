@@ -37,7 +37,7 @@ const products: Project[] = [
     emoji: "🧪",
     image: "/img/projects/exploretags.webp",
     title: "ExploreTags 漫旅書籤",
-    desc: "ExploreTags 是一款城市探索打卡 App，讓你透過任務式挑戰，主動走進城市的每個角落。打卡挑戰，解鎖成就 完成景點任務，收集專屬旅行章，每一次到訪都成為可以被珍藏的印記。",
+    desc: "ExploreTags 是一款城市探索打卡 App，讓你透過任務式打卡挑戰，主動走進城市的每個角落。",
     tags: ["Mobile App", "Travel"],
     status: "wip",
     url: "https://www.exploretags.com/",
