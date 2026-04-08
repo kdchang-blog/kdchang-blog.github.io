@@ -104,7 +104,11 @@ const contacts = [
     value: "github.com/kdchang",
     href: "https://github.com/kdchang",
   },
-  { label: "KD Labs", value: "kdchang.net", href: "https://www.kdchang.net" },
+  {
+    label: "Personal Website",
+    value: "kdchang.net",
+    href: "https://www.kdchang.net",
+  },
   {
     label: "Tech Blog",
     value: "tech.kdchang.net",

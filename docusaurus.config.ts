@@ -51,7 +51,7 @@ function formatJekyllDate(dateString: string): string | null {
 }
 
 const config: Config = {
-  title: "KD Labs | KD Chang 張凱迪",
+  title: "KD Chang 張凱迪",
   tagline:
     "用 Builder 思維打造人們喜愛的產品、內容和社群。幫助更多人解決職場和人生難題，成為更好的自己",
   favicon: "/img/favicon.ico",
@@ -203,9 +203,9 @@ const config: Config = {
       respectPrefersColorScheme: false,
     },
     navbar: {
-      title: "KD Labs",
+      title: "KD Chang",
       // logo: {
-      //   alt: "KD Labs",
+      //   alt: "KD Chang",
       //   src: "img/logo.png",
       // },
       items: [
@@ -268,7 +268,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} KD Labs | KD Chang 張凱迪. Built with ❤️ in Taiwan.`,
+      copyright: `Copyright © ${new Date().getFullYear()} KD Chang 張凱迪. Built with ❤️ in Taiwan.`,
     },
     prism: {
       theme: prismThemes.github,

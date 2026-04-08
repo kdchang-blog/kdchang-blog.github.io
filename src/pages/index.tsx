@@ -60,7 +60,7 @@ function NewsletterSection() {
     <section className="newsletterSection">
       <div className="newsletterCard">
         <span className="newsletterIcon">✉️</span>
-        <h2 className="newsletterTitle">訂閱 KD Labs 電子報</h2>
+        <h2 className="newsletterTitle">訂閱 KD Chang 的電子報</h2>
         <p className="newsletterDesc">
           每週精選產品開發、職涯洞見與科技趨勢，直接送到你的信箱。 加入超過
           1,000 位讀者，一起成為更好的自己。
@@ -71,7 +71,7 @@ function NewsletterSection() {
           height="150"
           className="newsletterEmbed"
           style={{ border: "none", display: "block" }}
-          title="訂閱 KD Labs 電子報"
+          title="訂閱 KD Chang 的電子報"
         />
       </div>
     </section>
