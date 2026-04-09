@@ -180,7 +180,7 @@ function FeaturedProductsSection() {
             </p>
           </div>
           <Link to="/projects" className={styles.sectionCtaLink}>
-            查看所有專案 →
+            查看所有產品專案 →
           </Link>
         </div>
         <div className={styles.productsGrid}>
