@@ -115,12 +115,12 @@ const newsletterReasons = [
     desc: "透過一本好書和好課的核心觀點，分享閱讀學習心得與知識",
   },
   {
-    title: "職涯與人生實戰洞見",
-    desc: "分享職場洞見、工程思維、管理心得與職涯發展建議",
+    title: "職涯與人生成長反思",
+    desc: "分享個人成長、工程思維、領導管理心得與職涯發展建議",
   },
   {
-    title: "AI 科技趨勢",
-    desc: "AI Agent、LLM、Vibe Coding 最新應用與實作分享",
+    title: "產品開發與科技洞察",
+    desc: "產品開發、AI Agent、Vibe Coding 最新應用與實作分享",
   },
 ];
 
