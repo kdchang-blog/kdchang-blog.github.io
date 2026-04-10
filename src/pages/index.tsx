@@ -111,7 +111,7 @@ const categories = [
 
 const newsletterReasons = [
   {
-    title: "精選閱讀學習心得",
+    title: "閱讀學習精選心得",
     desc: "透過一本好書和好課的核心觀點，分享閱讀學習心得與知識",
   },
   {
