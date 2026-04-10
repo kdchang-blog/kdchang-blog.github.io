@@ -300,7 +300,7 @@ function NewsletterSection() {
           ))}
         </div>
         <iframe
-          src="https://kdchangnet.substack.com/embed"
+          src="https://kdchang.substack.com/embed"
           width="100%"
           height="150"
           className="newsletterEmbed"
