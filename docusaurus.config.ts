@@ -254,7 +254,7 @@ const config: Config = {
             },
             {
               label: "Follow us on Instagram",
-              href: "https://www.instagram.com/kdchang_net",
+              href: "https://www.instagram.com/kdchang.studio",
             },
           ],
         },
