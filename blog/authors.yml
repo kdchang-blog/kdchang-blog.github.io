@@ -1,7 +1,7 @@
 kdchang:
   name: KD Chang
   title: Maker, Curator & Lifelong learner
-  url: https://www.kdchang.net
+  url: https://www.kdchang.com
   image_url: https://github.com/kdchang.png
   page: true
     # customize the url of the author page at /blog/authors/<permalink>
@@ -9,4 +9,4 @@ kdchang:
     x: kaidichang
     github: kdchang
     instagram: kdchang_net
-    website: https://www.kdchang.net
+    website: https://www.kdchang.com

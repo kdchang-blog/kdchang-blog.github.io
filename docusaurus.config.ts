@@ -62,7 +62,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: "https://www.kdchang.net",
+  url: "https://www.kdchang.com",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: "/",
@@ -186,7 +186,7 @@ const config: Config = {
   ],
   themeConfig: {
     // Replace with your project's social card
-    image: "https://www.kdchang.net/img/logo.png",
+    image: "https://www.kdchang.com/img/logo.png",
     // colorMode: {
     //   respectPrefersColorScheme: true,
     // },
@@ -219,7 +219,7 @@ const config: Config = {
         //   label: "職涯技能樹",
         // },
         // {
-        //   href: "https://facebook.com/groups/kdchang.net",
+        //   href: "https://facebook.com/groups/kdchang.studio",
         //   label: "技術個人成長社群",
         //   position: "left",
         // },
@@ -246,11 +246,11 @@ const config: Config = {
           items: [
             {
               label: "Facebook Group",
-              href: "https://facebook.com/groups/kdchang.net",
+              href: "https://facebook.com/groups/kdchang.studio",
             },
             {
               label: "Follow us on Facebook",
-              href: "https://www.facebook.com/kdchang.net",
+              href: "https://www.facebook.com/kdchang.studio",
             },
             {
               label: "Follow us on Instagram",
@@ -263,7 +263,7 @@ const config: Config = {
           items: [
             {
               label: "Contact Us",
-              to: "mailto:kdchang.net@gmail.com",
+              to: "mailto:kdchang.com@gmail.com",
             },
           ],
         },

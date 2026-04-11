@@ -3,7 +3,7 @@ title: 《旅行與讀書》| 閱讀心得學習筆記
 date: 2022-09-28 11:33:41
 authors: kdchang
 description: 詹宏志身為台灣文創與網路產業的先驅，他在旅行與讀書中展現的並非僅是知識的堆疊，而是一種對生命可能性的極致探索。這本書不提供美照與行程推薦，而是透過明朗且細膩的文字，記錄一個書呆子如何帶著書本踏入真實世界。在紙上的抽象經驗與現實的撞擊中，他讓我們看見旅行最深刻的本質：透過未知的冒險，擴張我們被時空注定的單一生命。
-cover: https://www.kdchang.net/img/posts/have-book-will-travel-reading-notes-1.jpg
+cover: https://www.kdchang.com/img/posts/have-book-will-travel-reading-notes-1.jpg
 tags:
   - 閱讀心得
   - 旅行與讀書

@@ -96,8 +96,8 @@ const skills = [
 const contacts = [
   {
     label: "E-Mail",
-    value: "kdchang.net@gmail.com",
-    href: "mailto:kdchang.net@gmail.com",
+    value: "kdchang.com@gmail.com",
+    href: "mailto:kdchang.com@gmail.com",
   },
   {
     label: "GitHub",
@@ -106,13 +106,13 @@ const contacts = [
   },
   {
     label: "Personal Website",
-    value: "kdchang.net",
-    href: "https://www.kdchang.net",
+    value: "kdchang.com",
+    href: "https://www.kdchang.com",
   },
   {
     label: "Tech Blog",
-    value: "tech.kdchang.net",
-    href: "https://tech.kdchang.net",
+    value: "tech.kdchang.com",
+    href: "https://tech.kdchang.com",
   },
   {
     label: "Slides",

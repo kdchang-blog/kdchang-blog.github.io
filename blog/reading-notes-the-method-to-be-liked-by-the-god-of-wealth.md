@@ -4,7 +4,7 @@ date: 2025-06-01 11:33:41
 authors: kdchang
 description: 你可能一直認為自己喜歡錢，卻不曾察覺潛藏在潛意識裡的「金毒」觀念正默默破壞你的財運。masa心理師以淺白又貼近生活的方式，引導讀者淨化負面金錢信念，打開與財富之神的通道，邁向財富自由的第一步。
 
-cover: https://www.kdchang.net/img/posts/reading-notes-the-method-to-be-liked-by-the-god-of-wealth-1.jpg
+cover: https://www.kdchang.com/img/posts/reading-notes-the-method-to-be-liked-by-the-god-of-wealth-1.jpg
 tags:
   - 閱讀心得
   - 被財神爺喜歡到怕的方法：淨化金毒、史上最簡單的開運增財術

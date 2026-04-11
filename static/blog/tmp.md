@@ -47,10 +47,10 @@
 挫折逆轉勝的核心在於思維框架的重構。這本書告訴我們，障礙不是路上的阻礙，障礙本身就是道路。當我們學會不再逃避困境，而是將其視為助長志向的燃料，人生的高度將從此改寫。每一場危機都是優秀者的洗禮，只要掌握認知、行動與意志的循環，我們便能從不幸中奪回幸運的主動權。
 
 👇 網頁好讀版：每天進步一點點，成為更好的自己 💪
-https://www.kdchang.net
+https://www.kdchang.com
 👋 追蹤、按讚、訂閱和分享，獲得更多職場人生閱讀反思和個人成長學習資訊！
 KD Chang 張凱迪
-FB：https://www.facebook.com/kdchang.net
+FB：https://www.facebook.com/kdchang.studio
 IG：https://www.instagram.com/kdchang_net/
 電子報：https://kdchangnet.substack.com/
 #閱讀 #閱讀筆記 #重點書摘 #閱讀書單 #推薦書單 #閱讀心得 #書摘 #reading #books #book #learning #學習 #書單 #筆記 #書 #booktok

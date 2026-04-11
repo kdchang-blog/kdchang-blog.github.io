@@ -2,7 +2,7 @@
 title: 給工程師的 Sketch Prototyping 簡易入門教學 
 date: 2016-06-04 12:26:00
 authors: kdchang
-cover: https://www.kdchang.net/img/posts/sketchapp.png
+cover: https://www.kdchang.com/img/posts/sketchapp.png
 tags:
     - SketchPrototyping
     - Wireframe

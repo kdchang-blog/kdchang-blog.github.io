@@ -3,7 +3,7 @@ title: 《斯多葛生活哲學 55 個練習：古希臘智慧，教你自信與
 date: 2020-03-24 11:33:41
 authors: kdchang
 description: 我們往往被教導一套公式：努力工作、獲得成功，最後才能擁有快樂。然而現實中，許多人即便登上了物質的高峰，內心依然感到空虛與焦慮。這是因為我們在學校學會了專業技能，卻沒人教我們如何應對恐懼、處理憤怒或面對失敗。斯多葛主義並非枯燥的學術理論，而是一套專為實戰設計的生活藝術。它將人生視為一塊大理石，而哲學就是我們手中的鑿子，透過不斷的練習，將原始的素材雕琢成卓越的靈魂。這本書不僅是智慧的總結，更是一份讓我們在混亂世界中找回掌控權的行動指南。
-cover: https://www.kdchang.net/img/posts/stoic-living-philosophy-55-exercises-reading-notes-1.jpg
+cover: https://www.kdchang.com/img/posts/stoic-living-philosophy-55-exercises-reading-notes-1.jpg
 tags:
   - 閱讀心得
   - 斯多葛生活哲學
