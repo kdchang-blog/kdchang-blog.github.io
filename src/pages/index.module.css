@@ -14,7 +14,7 @@
       rgba(10, 79, 84, 0.9) 0%,
       rgba(0, 188, 212, 0.85) 100%
     ),
-    url("/img/cover.jpg");
+    url("/img/cover.webp");
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
