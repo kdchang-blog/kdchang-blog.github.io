@@ -52,5 +52,5 @@ https://www.kdchang.com
 KD Chang 張凱迪
 FB：https://www.facebook.com/kdchang.studio
 IG：https://www.instagram.com/kdchang.studio/
-電子報：https://kdchangnet.substack.com/
+電子報：https://kdchang.substack.com/
 #閱讀 #閱讀筆記 #重點書摘 #閱讀書單 #推薦書單 #閱讀心得 #書摘 #reading #books #book #learning #學習 #書單 #筆記 #書 #booktok

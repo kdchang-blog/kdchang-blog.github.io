@@ -128,7 +128,7 @@ const socialLinks = [
     label: "SlideShare",
     href: "http://www.slideshare.net/KaiDiChang/",
   },
-  { label: "Substack", href: "https://kdchangnet.substack.com/" },
+  { label: "Substack", href: "https://kdchang.substack.com/" },
 ];
 
 export default function About(): ReactNode {
