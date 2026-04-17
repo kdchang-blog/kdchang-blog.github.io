@@ -4,7 +4,7 @@ import styles from "./about.module.css";
 
 const experiences = [
   {
-    role: "Engineering Team Lead — 車聯網架構組技術主管",
+    role: "Engineering Team Lead — 車聯網架構組工程主管",
     company: "FOXTRON 鴻華先進",
   },
   {

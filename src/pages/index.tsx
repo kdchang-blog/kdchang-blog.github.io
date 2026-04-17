@@ -120,7 +120,7 @@ const newsletterReasons = [
   },
   {
     title: "產品開發與科技洞察",
-    desc: "產品開發、AI Agent、Vibe Coding 最新應用與實作分享",
+    desc: "產品開發、AI Agent、AI Coding 最新應用與實作分享",
   },
 ];
 
@@ -287,7 +287,7 @@ function NewsletterSection() {
         <span className="newsletterIcon">✉️</span>
         <h2 className="newsletterTitle">訂閱 KD Chang 的電子報</h2>
         <p className="newsletterDesc">
-          加入超過 1,000 位讀者的學習社群，每週一封信讓你成為更好的自己
+          加入超過 1,000 位讀者的個人成長學習社群：每週一封信讓你成為更好的自己
         </p>
         <div className={styles.nlReasonsGrid}>
           {newsletterReasons.map((r) => (

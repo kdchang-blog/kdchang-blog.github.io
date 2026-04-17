@@ -83,13 +83,13 @@ const tools: Project[] = [
     status: "live",
     url: "https://chromewebstore.google.com/detail/happyprompt-prompt-%E6%8F%90%E7%A4%BA%E8%A9%9E%E7%AE%A1%E7%90%86%E5%B7%A5/egecphncaagaeolknghbdgelpjfihkdj?hl=zh-tw",
   },
-  {
-    emoji: "⚡",
-    title: "Noiszen 諾禪",
-    desc: "一個提供多種環境白噪音和靜心禪語與正念冥想工具的行動應用和網站，幫助使用者提升專注力、放鬆心情，找回內心的平靜並改善睡眠品質。",
-    tags: ["Web", "App", "Zen", "Meditation"],
-    status: "wip",
-  },
+  // {
+  //   emoji: "⚡",
+  //   title: "Noiszen 諾禪",
+  //   desc: "一個提供多種環境白噪音和靜心禪語與正念冥想工具的行動應用和網站，幫助使用者提升專注力、放鬆心情，找回內心的平靜並改善睡眠品質。",
+  //   tags: ["Web", "App", "Zen", "Meditation"],
+  //   status: "wip",
+  // },
   {
     emoji: "⚡",
     title: "HomePocket 口袋找房",
