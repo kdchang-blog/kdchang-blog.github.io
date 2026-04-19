@@ -219,7 +219,7 @@ const config: Config = {
         //   label: "職涯技能樹",
         // },
         // {
-        //   href: "https://facebook.com/groups/kdchang.studio",
+        //   href: "https://facebook.com/groups/kdchang.lab",
         //   label: "技術個人成長社群",
         //   position: "left",
         // },
@@ -246,15 +246,15 @@ const config: Config = {
           items: [
             {
               label: "Facebook Group",
-              href: "https://facebook.com/groups/kdchang.studio",
+              href: "https://facebook.com/groups/kdchang.lab",
             },
             {
               label: "Follow us on Facebook",
-              href: "https://www.facebook.com/kdchang.studio",
+              href: "https://www.facebook.com/kdchang.lab",
             },
             {
               label: "Follow us on Instagram",
-              href: "https://www.instagram.com/kdchang.studio",
+              href: "https://www.instagram.com/kdchang.lab",
             },
           ],
         },
