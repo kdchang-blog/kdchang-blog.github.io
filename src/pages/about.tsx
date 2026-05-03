@@ -135,7 +135,7 @@ export default function About(): ReactNode {
   return (
     <Layout
       title="關於本站 | KD Chang 張凱迪"
-      description="KD Chang 張凱迪，軟體工程師、PM 產品經理、教育工作者。CoderBridge 創辦人、TechBridge Weekly 創辦人、《從零開始學 ReactJS》作者。"
+      description="KD Chang 張凱迪，軟體工程師、PM 產品經理、工程主管。CoderBridge 創辦人、TechBridge Weekly 創辦人、《從零開始學 ReactJS》作者。"
     >
       {/* ── Hero / Profile Banner ── */}
       <div className={styles.aboutHero}>
@@ -195,7 +195,7 @@ export default function About(): ReactNode {
               KD Chang 張凱迪，台灣大學主修經濟學、臺大資管所碩士。是一個{" "}
               <span className={styles.highlight}>軟體工程師</span>，也是一位{" "}
               <span className={styles.highlight}>PM 產品專案經理</span> 和
-              <span className={styles.highlight}> 知識策展人</span>。
+              <span className={styles.highlight}> 工程主管</span>。
             </p>
             <p>
               曾服務過上市科技公司、上市網路軟體公司、台灣 AI
